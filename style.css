@@ -1,0 +1,17 @@
+path {
+    cursor: pointer;
+    transition: fill 0.3s;
+}
+
+path:hover {
+    fill: #ff9800;
+    /* Colore arancione al passaggio del mouse */
+}
+
+#pannello-info {
+    width: 40%;
+    padding: 20px;
+    background: #f4f4f9;
+    border-radius: 8px;
+    margin-left: 20px;
+}
