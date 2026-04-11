@@ -159,17 +159,24 @@ regioni.forEach(regione => {
         const provinceTrovate = provinceItalia[nomeRegione]; // Cerca il nome nel Database
 
         elencoProvince.innerHTML = ''; // Svuota la lista vecchia
+        if (elencoProvince.innerHTML == ''){
+            elencoProvince.style.border = 'none'
+        }
+        else {
+            elencoProvince.style.border = "1px solid black"
+        }
 
         if (provinceTrovate) {
             // Se trova i dati, cambia il titolo
             titoloRegione.textContent = "Province della " + nomeRegione + ":";
 
             // Crea i punti elenco per ogni provincia
-            provinceTrovate.forEach(provincia => {
-                const li = document.createElement('li');
-                li.textContent = `${provincia.nome} (${provincia.sigla}) - Abitanti: ${provincia.abitanti}`;
-                elencoProvince.appendChild(li);
-            });
+            let table = elencoProvince.innerHTML
+            table = `<tr><th class="el">Nome</th><th class="el">Sigla</th><th class="el">Popolazione</th></tr>`
+            for(let provincia of provinceTrovate){
+                table += `<tr><td class="el nome">${provincia.nome}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti}</td></tr>`;
+            }
+            elencoProvince.innerHTML = table
 
         } else {
             // Se clicchi una regione non ancora presente nel database
