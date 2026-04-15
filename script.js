@@ -1,150 +1,153 @@
 const provinceItalia = {
     "Valle d'Aosta": [
-        { nome: "Aosta", sigla: "AO", abitanti: 123000 }
+        { nome: "Aosta", sigla: "AO", abitanti: 122554, metropolitana: false }
     ],
     "Piemonte": [
-        { nome: "Torino", sigla: "TO", abitanti: 2200000 },
-        { nome: "Alessandria", sigla: "AL", abitanti: 407000 },
-        { nome: "Asti", sigla: "AT", abitanti: 208000 },
-        { nome: "Biella", sigla: "BI", abitanti: 169000 },
-        { nome: "Cuneo", sigla: "CN", abitanti: 580000 },
-        { nome: "Novara", sigla: "NO", abitanti: 360000 },
-        { nome: "Verbano-Cusio-Ossola", sigla: "VB", abitanti: 154000 },
-        { nome: "Vercelli", sigla: "VC", abitanti: 165000 }
+        { nome: "Torino", sigla: "TO", abitanti: 2204779, metropolitana: true },
+        { nome: "Alessandria", sigla: "AL", abitanti: 408063, metropolitana: false },
+        { nome: "Asti", sigla: "AT", abitanti: 207059, metropolitana: false },
+        { nome: "Biella", sigla: "BI", abitanti: 168223, metropolitana: false },
+        { nome: "Cuneo", sigla: "CN", abitanti: 582109, metropolitana: false },
+        { nome: "Novara", sigla: "NO", abitanti: 365930, metropolitana: false },
+        { nome: "Verbano-Cusio-Ossola", sigla: "VB", abitanti: 152677, metropolitana: false },
+        { nome: "Vercelli", sigla: "VC", abitanti: 166166, metropolitana: false }
     ],
     "Liguria": [
-        { nome: "Genova", sigla: "GE", abitanti: 814000 },
-        { nome: "Imperia", sigla: "IM", abitanti: 209000 },
-        { nome: "La Spezia", sigla: "SP", abitanti: 215000 },
-        { nome: "Savona", sigla: "SV", abitanti: 267000 }
+        { nome: "Genova", sigla: "GE", abitanti: 820691, metropolitana: true },
+        { nome: "Imperia", sigla: "IM", abitanti: 209848, metropolitana: false },
+        { nome: "La Spezia", sigla: "SP", abitanti: 214539, metropolitana: false },
+        { nome: "Savona", sigla: "SV", abitanti: 266910, metropolitana: false }
     ],
     "Lombardia": [
-        { nome: "Milano", sigla: "MI", abitanti: 3200000 },
-        { nome: "Bergamo", sigla: "BG", abitanti: 1100000 },
-        { nome: "Brescia", sigla: "BS", abitanti: 1250000 },
-        { nome: "Como", sigla: "CO", abitanti: 594000 },
-        { nome: "Cremona", sigla: "CR", abitanti: 352000 },
-        { nome: "Lecco", sigla: "LC", abitanti: 332000 },
-        { nome: "Lodi", sigla: "LO", abitanti: 227000 },
-        { nome: "Mantova", sigla: "MN", abitanti: 404000 },
-        { nome: "Monza e Brianza", sigla: "MB", abitanti: 870000 },
-        { nome: "Pavia", sigla: "PV", abitanti: 534000 },
-        { nome: "Sondrio", sigla: "SO", abitanti: 178000 },
-        { nome: "Varese", sigla: "VA", abitanti: 877000 }
+        { nome: "Milano", sigla: "MI", abitanti: 3253111, metropolitana: true },
+        { nome: "Bergamo", sigla: "BG", abitanti: 1119233, metropolitana: false },
+        { nome: "Brescia", sigla: "BS", abitanti: 1271759, metropolitana: false },
+        { nome: "Como", sigla: "CO", abitanti: 598562, metropolitana: false },
+        { nome: "Cremona", sigla: "CR", abitanti: 355134, metropolitana: false },
+        { nome: "Lecco", sigla: "LC", abitanti: 334211, metropolitana: false },
+        { nome: "Lodi", sigla: "LO", abitanti: 231481, metropolitana: false },
+        { nome: "Mantova", sigla: "MN", abitanti: 408715, metropolitana: false },
+        { nome: "Monza e Brianza", sigla: "MB", abitanti: 883396, metropolitana: false },
+        { nome: "Pavia", sigla: "PV", abitanti: 546023, metropolitana: false },
+        { nome: "Sondrio", sigla: "SO", abitanti: 179268, metropolitana: false },
+        { nome: "Varese", sigla: "VA", abitanti: 884801, metropolitana: false }
     ],
     "Trentino-Alto Adige": [
-        { nome: "Bolzano", sigla: "BZ", abitanti: 533000 },
-        { nome: "Trento", sigla: "TN", abitanti: 542000 }
+        { nome: "Bolzano", sigla: "BZ", abitanti: 542134, metropolitana: false },
+        { nome: "Trento", sigla: "TN", abitanti: 548684, metropolitana: false }
     ],
     "Veneto": [
-        { nome: "Venezia", sigla: "VE", abitanti: 835000 },
-        { nome: "Belluno", sigla: "BL", abitanti: 198000 },
-        { nome: "Padova", sigla: "PD", abitanti: 930000 },
-        { nome: "Rovigo", sigla: "RO", abitanti: 228000 },
-        { nome: "Treviso", sigla: "TV", abitanti: 876000 },
-        { nome: "Verona", sigla: "VR", abitanti: 923000 },
-        { nome: "Vicenza", sigla: "VI", abitanti: 854000 }
+        { nome: "Venezia", sigla: "VE", abitanti: 834077, metropolitana: true },
+        { nome: "Belluno", sigla: "BL", abitanti: 197265, metropolitana: false },
+        { nome: "Padova", sigla: "PD", abitanti: 934540, metropolitana: false },
+        { nome: "Rovigo", sigla: "RO", abitanti: 227183, metropolitana: false },
+        { nome: "Treviso", sigla: "TV", abitanti: 878341, metropolitana: false },
+        { nome: "Verona", sigla: "VR", abitanti: 930842, metropolitana: false },
+        { nome: "Vicenza", sigla: "VI", abitanti: 855212, metropolitana: false }
     ],
     "Friuli Venezia Giulia": [
-        { nome: "Trieste", sigla: "TS", abitanti: 230000 },
-        { nome: "Gorizia", sigla: "GO", abitanti: 138000 },
-        { nome: "Pordenone", sigla: "PN", abitanti: 310000 },
-        { nome: "Udine", sigla: "UD", abitanti: 518000 }
+        { nome: "Trieste", sigla: "TS", abitanti: 227840, metropolitana: false },
+        { nome: "Gorizia", sigla: "GO", abitanti: 138717, metropolitana: false },
+        { nome: "Pordenone", sigla: "PN", abitanti: 311114, metropolitana: false },
+        { nome: "Udine", sigla: "UD", abitanti: 515825, metropolitana: false }
     ],
     "Emilia-Romagna": [
-        { nome: "Bologna", sigla: "BO", abitanti: 1015000 },
-        { nome: "Ferrara", sigla: "FE", abitanti: 340000 },
-        { nome: "Forlì-Cesena", sigla: "FC", abitanti: 390000 },
-        { nome: "Modena", sigla: "MO", abitanti: 700000 },
-        { nome: "Parma", sigla: "PR", abitanti: 450000 },
-        { nome: "Piacenza", sigla: "PC", abitanti: 283000 },
-        { nome: "Ravenna", sigla: "RA", abitanti: 386000 },
-        { nome: "Reggio Emilia", sigla: "RE", abitanti: 525000 },
-        { nome: "Rimini", sigla: "RN", abitanti: 335000 }
+        { nome: "Bologna", sigla: "BO", abitanti: 1024290, metropolitana: true },
+        { nome: "Ferrara", sigla: "FE", abitanti: 340482, metropolitana: false },
+        { nome: "Forlì-Cesena", sigla: "FC", abitanti: 394337, metropolitana: false },
+        { nome: "Modena", sigla: "MO", abitanti: 711502, metropolitana: false },
+        { nome: "Parma", sigla: "PR", abitanti: 457509, metropolitana: false },
+        { nome: "Piacenza", sigla: "PC", abitanti: 287745, metropolitana: false },
+        { nome: "Ravenna", sigla: "RA", abitanti: 387743, metropolitana: false },
+        { nome: "Reggio Emilia", sigla: "RE", abitanti: 532157, metropolitana: false },
+        { nome: "Rimini", sigla: "RN", abitanti: 341244, metropolitana: false }
     ],
     "Toscana": [
-        { nome: "Firenze", sigla: "FI", abitanti: 987000 },
-        { nome: "Arezzo", sigla: "AR", abitanti: 334000 },
-        { nome: "Grosseto", sigla: "GR", abitanti: 216000 },
-        { nome: "Livorno", sigla: "LI", abitanti: 326000 },
-        { nome: "Lucca", sigla: "LU", abitanti: 381000 },
-        { nome: "Massa-Carrara", sigla: "MS", abitanti: 187000 },
-        { nome: "Pisa", sigla: "PI", abitanti: 414000 },
-        { nome: "Pistoia", sigla: "PT", abitanti: 288000 },
-        { nome: "Prato", sigla: "PO", abitanti: 258000 },
-        { nome: "Siena", sigla: "SI", abitanti: 260000 }
+        { nome: "Firenze", sigla: "FI", abitanti: 988494, metropolitana: true },
+        { nome: "Arezzo", sigla: "AR", abitanti: 333269, metropolitana: false },
+        { nome: "Grosseto", sigla: "GR", abitanti: 214863, metropolitana: false },
+        { nome: "Livorno", sigla: "LI", abitanti: 324893, metropolitana: false },
+        { nome: "Lucca", sigla: "LU", abitanti: 379957, metropolitana: false },
+        { nome: "Massa-Carrara", sigla: "MS", abitanti: 186637, metropolitana: false },
+        { nome: "Pisa", sigla: "PI", abitanti: 419588, metropolitana: false },
+        { nome: "Pistoia", sigla: "PT", abitanti: 290867, metropolitana: false },
+        { nome: "Prato", sigla: "PO", abitanti: 261152, metropolitana: false },
+        { nome: "Siena", sigla: "SI", abitanti: 259502, metropolitana: false }
     ],
     "Umbria": [
-        { nome: "Perugia", sigla: "PG", abitanti: 640000 },
-        { nome: "Terni", sigla: "TR", abitanti: 217000 }
+        { nome: "Perugia", sigla: "PG", abitanti: 636147, metropolitana: false },
+        { nome: "Terni", sigla: "TR", abitanti: 214734, metropolitana: false }
     ],
     "Marche": [
-        { nome: "Ancona", sigla: "AN", abitanti: 460000 },
-        { nome: "Ascoli Piceno", sigla: "AP", abitanti: 201000 },
-        { nome: "Fermo", sigla: "FM", abitanti: 168000 },
-        { nome: "Macerata", sigla: "MC", abitanti: 304000 },
-        { nome: "Pesaro e Urbino", sigla: "PU", abitanti: 349000 }
+        { nome: "Ancona", sigla: "AN", abitanti: 461685, metropolitana: false },
+        { nome: "Ascoli Piceno", sigla: "AP", abitanti: 200202, metropolitana: false },
+        { nome: "Fermo", sigla: "FM", abitanti: 166827, metropolitana: false },
+        { nome: "Macerata", sigla: "MC", abitanti: 301668, metropolitana: false },
+        { nome: "Pesaro e Urbino", sigla: "PU", abitanti: 349578, metropolitana: false }
     ],
     "Lazio": [
-        { nome: "Roma", sigla: "RM", abitanti: 4200000 },
-        { nome: "Frosinone", sigla: "FR", abitanti: 467000 },
-        { nome: "Latina", sigla: "LT", abitanti: 560000 },
-        { nome: "Rieti", sigla: "RI", abitanti: 150000 },
-        { nome: "Viterbo", sigla: "VT", abitanti: 308000 }
+        { nome: "Roma", sigla: "RM", abitanti: 4227295, metropolitana: true },
+        { nome: "Frosinone", sigla: "FR", abitanti: 460598, metropolitana: false },
+        { nome: "Latina", sigla: "LT", abitanti: 567222, metropolitana: false },
+        { nome: "Rieti", sigla: "RI", abitanti: 149432, metropolitana: false },
+        { nome: "Viterbo", sigla: "VT", abitanti: 307849, metropolitana: false }
     ],
     "Abruzzo": [
-        { nome: "L'Aquila", sigla: "AQ", abitanti: 288000 },
-        { nome: "Chieti", sigla: "CH", abitanti: 373000 },
-        { nome: "Pescara", sigla: "PE", abitanti: 313000 },
-        { nome: "Teramo", sigla: "TE", abitanti: 298000 }
+        { nome: "L'Aquila", sigla: "AQ", abitanti: 286808, metropolitana: false },
+        { nome: "Chieti", sigla: "CH", abitanti: 369311, metropolitana: false },
+        { nome: "Pescara", sigla: "PE", abitanti: 311668, metropolitana: false },
+        { nome: "Teramo", sigla: "TE", abitanti: 299919, metropolitana: false }
     ],
     "Molise": [
-        { nome: "Campobasso", sigla: "CB", abitanti: 211000 },
-        { nome: "Isernia", sigla: "IS", abitanti: 79000 }
+        { nome: "Campobasso", sigla: "CB", abitanti: 207948, metropolitana: false },
+        { nome: "Isernia", sigla: "IS", abitanti: 78282, metropolitana: false }
     ],
     "Campania": [
-        { nome: "Napoli", sigla: "NA", abitanti: 2900000 },
-        { nome: "Avellino", sigla: "AV", abitanti: 398000 },
-        { nome: "Benevento", sigla: "BN", abitanti: 262000 },
-        { nome: "Caserta", sigla: "CE", abitanti: 904000 },
-        { nome: "Salerno", sigla: "SA", abitanti: 1060000 }
+        { nome: "Avellino", sigla: "AV", abitanti: 393292, metropolitana: false },
+        { nome: "Benevento", sigla: "BN", abitanti: 258105, metropolitana: false },
+        { nome: "Caserta", sigla: "CE", abitanti: 909469, metropolitana: false },
+        { nome: "Napoli", sigla: "NA", abitanti: 2955709, metropolitana: true },
+        { nome: "Salerno", sigla: "SA", abitanti: 1053616, metropolitana: false }
     ],
     "Puglia": [
-        { nome: "Bari", sigla: "BA", abitanti: 1220000 },
-        { nome: "Barletta-Andria-Trani", sigla: "BT", abitanti: 380000 },
-        { nome: "Brindisi", sigla: "BR", abitanti: 381000 },
-        { nome: "Foggia", sigla: "FG", abitanti: 594000 },
-        { nome: "Lecce", sigla: "LE", abitanti: 775000 },
-        { nome: "Taranto", sigla: "TA", abitanti: 559000 }
+        { nome: "Bari", sigla: "BA", abitanti: 1218345, metropolitana: true },
+        { nome: "Barletta-Andria-Trani", sigla: "BT", abitanti: 376022, metropolitana: false },
+        { nome: "Brindisi", sigla: "BR", abitanti: 373790, metropolitana: false },
+        { nome: "Foggia", sigla: "FG", abitanti: 588112, metropolitana: false },
+        { nome: "Lecce", sigla: "LE", abitanti: 762300, metropolitana: false },
+        { nome: "Taranto", sigla: "TA", abitanti: 547928, metropolitana: false }
     ],
     "Basilicata": [
-        { nome: "Potenza", sigla: "PZ", abitanti: 344000 },
-        { nome: "Matera", sigla: "MT", abitanti: 191000 }
+        { nome: "Potenza", sigla: "PZ", abitanti: 337858, metropolitana: false },
+        { nome: "Matera", sigla: "MT", abitanti: 187899, metropolitana: false }
     ],
     "Calabria": [
-        { nome: "Catanzaro", sigla: "CZ", abitanti: 341000 },
-        { nome: "Cosenza", sigla: "CS", abitanti: 670000 },
-        { nome: "Crotone", sigla: "KR", abitanti: 162000 },
-        { nome: "Reggio Calabria", sigla: "RC", abitanti: 518000 },
-        { nome: "Vibo Valentia", sigla: "VV", abitanti: 151000 }
+        { nome: "Catanzaro", sigla: "CZ", abitanti: 338285, metropolitana: false },
+        { nome: "Cosenza", sigla: "CS", abitanti: 667643, metropolitana: false },
+        { nome: "Crotone", sigla: "KR", abitanti: 161820, metropolitana: false },
+        { nome: "Reggio Calabria", sigla: "RC", abitanti: 510818, metropolitana: true },
+        { nome: "Vibo Valentia", sigla: "VV", abitanti: 150041, metropolitana: false }
     ],
     "Sicilia": [
-        { nome: "Palermo", sigla: "PA", abitanti: 1200000 },
-        { nome: "Agrigento", sigla: "AG", abitanti: 412000 },
-        { nome: "Caltanissetta", sigla: "CL", abitanti: 248000 },
-        { nome: "Catania", sigla: "CT", abitanti: 1060000 },
-        { nome: "Enna", sigla: "EN", abitanti: 154000 },
-        { nome: "Messina", sigla: "ME", abitanti: 590000 },
-        { nome: "Ragusa", sigla: "RG", abitanti: 316000 },
-        { nome: "Siracusa", sigla: "SR", abitanti: 383000 },
-        { nome: "Trapani", sigla: "TP", abitanti: 413000 }
+        { nome: "Palermo", sigla: "PA", abitanti: 1195772, metropolitana: true },
+        { nome: "Agrigento", sigla: "AG", abitanti: 407250, metropolitana: false },
+        { nome: "Caltanissetta", sigla: "CL", abitanti: 243714, metropolitana: false },
+        { nome: "Catania", sigla: "CT", abitanti: 1067993, metropolitana: true },
+        { nome: "Enna", sigla: "EN", abitanti: 151621, metropolitana: false },
+        { nome: "Messina", sigla: "ME", abitanti: 594412, metropolitana: true },
+        { nome: "Ragusa", sigla: "RG", abitanti: 323144, metropolitana: false },
+        { nome: "Siracusa", sigla: "SR", abitanti: 382529, metropolitana: false },
+        { nome: "Trapani", sigla: "TP", abitanti: 410713, metropolitana: false }
     ],
     "Sardegna": [
-        { nome: "Cagliari", sigla: "CA", abitanti: 420000 },
-        { nome: "Nuoro", sigla: "NU", abitanti: 198000 },
-        { nome: "Oristano", sigla: "OR", abitanti: 150000 },
-        { nome: "Sassari", sigla: "SS", abitanti: 476000 },
-        { nome: "Sud Sardegna", sigla: "SU", abitanti: 334000 }
+        { nome: "Cagliari", sigla: "CA", abitanti: 542470, metropolitana: true },
+        { nome: "Gallura Nord-Est Sardegna", sigla: "OT", abitanti: 158916, metropolitana: false },
+        { nome: "Medio Campidano", sigla: "VS", abitanti: 90694, metropolitana: false },
+        { nome: "Nuoro", sigla: "NU", abitanti: 194616, metropolitana: false },
+        { nome: "Ogliastra", sigla: "OG", abitanti: 53984, metropolitana: false },
+        { nome: "Oristano", sigla: "OR", abitanti: 147203, metropolitana: false },
+        { nome: "Sassari", sigla: "SS", abitanti: 470794, metropolitana: true },
+        { nome: "Sulcis Iglesiente", sigla: "SU", abitanti: 131890, metropolitana: false }
     ]
 };
 
@@ -159,7 +162,7 @@ regioni.forEach(regione => {
         const provinceTrovate = provinceItalia[nomeRegione]; // Cerca il nome nel Database
 
         elencoProvince.innerHTML = ''; // Svuota la lista vecchia
-        if (elencoProvince.innerHTML == ''){
+        if (elencoProvince.innerHTML == '') {
             elencoProvince.style.border = 'none'
         }
         else {
@@ -168,13 +171,18 @@ regioni.forEach(regione => {
 
         if (provinceTrovate) {
             // Se trova i dati, cambia il titolo
-            titoloRegione.textContent = "Province della " + nomeRegione + ":";
+            titoloRegione.textContent = "Province della regione " + nomeRegione + ":";
 
             // Crea i punti elenco per ogni provincia
             let table = elencoProvince.innerHTML
             table = `<tr><th class="el">Nome</th><th class="el">Sigla</th><th class="el">Popolazione</th></tr>`
-            for(let provincia of provinceTrovate){
-                table += `<tr><td class="el nome">${provincia.nome}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti}</td></tr>`;
+            for (let provincia of provinceTrovate) {
+                if (provincia.metropolitana) {
+                    table += `<tr><td class="el nome"><strong>${provincia.nome}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT')}</strong></td></tr>`;
+                }
+                else {
+                    table += `<tr><td class="el nome">${provincia.nome}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT')}</td></tr>`;
+                }
             }
             elencoProvince.innerHTML = table
 
