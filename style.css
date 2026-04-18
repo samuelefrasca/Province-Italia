@@ -19,7 +19,12 @@ header {
     color: #fff;
 }
 
-.subtitle {
+/* .subtitle {
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+.text-subtitle {
     text-align: center;
     color: #fff;
 }
@@ -67,10 +72,25 @@ svg {
     width: 100%;
 }
 
+th {
+    background-color: #aaa;
+}
+
+tr {
+    background-color: #eee;
+}
+
 .el {
     margin: 2px;
     border: 1px solid black;
     padding: 5px;
+}
+
+.pointer {
+    cursor: pointer;
+    -webkit-user-select: none;
+    /* Aggiunge compatibilità per i browser Apple/Safari per il comando user-select seguente */
+    user-select: none;
 }
 
 .sigla {
