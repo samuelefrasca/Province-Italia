@@ -35,7 +35,7 @@ path {
 }
 
 path:hover {
-    fill: #ff9800;
+    fill: #a83232;
     /* Colore arancione al passaggio del mouse */
 }
 
@@ -72,18 +72,19 @@ svg {
     width: 100%;
 }
 
-th {
-    background-color: #aaa;
-}
-
-tr {
-    background-color: #eee;
+.hel {
+    margin: 2px;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: #bbb;
+    text-align: center;
 }
 
 .el {
     margin: 2px;
     border: 1px solid black;
     padding: 5px;
+    background-color: #eee;
 }
 
 .pointer {
@@ -94,6 +95,10 @@ tr {
 }
 
 .sigla {
+    text-align: center;
+}
+
+.abitanti {
     text-align: center;
 }
 
