@@ -172,7 +172,7 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
 
         // Crea i punti elenco per ogni provincia
         let table = elencoProvince.innerHTML
-        table = `<tr><th class="hel pointer" onclick="ordinaPerNome(flagAlfabetico)">Nome</th><th class="hel">Sigla</th><th class="hel pointer" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione</th></tr>`
+        table = `<tr><th class="hel pointer" onclick="ordinaPerNome(flagAlfabetico)">Nome <i class="fa-solid fa-sort"></i></th><th class="hel">Sigla</th><th class="hel pointer" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`
         let popolazioneTotale = 0;
 
         for (let provincia of provinceTrovate) {
@@ -208,7 +208,7 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
         if (nomeRegione === "Valle d'Aosta") {
             legenda = `<p><strong>La regione autonoma della Valle d'Aosta svolge anche le funzioni provinciali e, in elaborazioni statistiche, è considerata una provincia.</strong></p>`
         }
-        legenda += `<ol><li>Città metropolitana</li><li>Libero consorzio comunale</li><li>Provincia autonoma</li><li>Ente di decentramento regionale</li></ol>`
+        legenda += `<h3 class="title-legend">Legenda</h3><ol><li>Città metropolitana</li><li>Libero consorzio comunale</li><li>Provincia autonoma</li><li>Ente di decentramento regionale</li></ol>`
         legendaProvince.innerHTML = legenda;
     } else {
         // Se clicchi una regione non ancora presente nel database
