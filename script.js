@@ -184,23 +184,23 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
             // distinzione città metropolitane, lbc e province autonome
             let index = '';
             if (provincia.metropolitana) {
-                index = '<sup class="pointer" title="Città metropolitana"><a class="sup" href="#legenda"> [1]</a></sup>'
+                index = '<sup class="pointer" title="Città metropolitana"><a class="sup" href="#legenda">[1]</a></sup>'
             }
             if (provincia.lbc) {
-                index = '<sup class="pointer" title="Libero consorzio comunale"><a class="sup" href="#legenda"> [2]</a></sup>'
+                index = '<sup class="pointer" title="Libero consorzio comunale"><a class="sup" href="#legenda">[2]</a></sup>'
             }
             if (provincia.autonoma) {
-                index = '<sup class="pointer" title="Provincia autonoma"><a class="sup" href="#legenda"> [3]</a></sup>'
+                index = '<sup class="pointer" title="Provincia autonoma"><a class="sup" href="#legenda">[3]</a></sup>'
             }
             if (provincia.eddr) {
-                index = '<sup class="pointer" title="Ente di decentramento regionale"><a class="sup" href="#legenda"> [4]</a></sup>'
+                index = '<sup class="pointer" title="Ente di decentramento regionale"><a class="sup" href="#legenda">[4]</a></sup>'
             }
             // creazione tabella
             if (provincia.capoluogo) {
-                table += `<tr><td class="el nome"><strong>${provincia.nome}${index}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT')}</strong></td></tr>`;
+                table += `<tr><td class="el nome"><strong>${provincia.nome} ${index}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT')}</strong></td></tr>`;
             }
             else {
-                table += `<tr><td class="el nome">${provincia.nome}${index}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT')}</td></tr>`;
+                table += `<tr><td class="el nome">${provincia.nome} ${index}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT')}</td></tr>`;
             }
             // aggiornamento popolazione totale della regione
             popolazioneTotale += provincia.abitanti;
