@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -12,6 +16,7 @@ header {
     background-color: #800000;
     padding: 5px;
     border-radius: 0px 0px 25px 25px;
+    text-align: center;
 }
 
 .title {
@@ -107,6 +112,15 @@ svg {
     text-align: center;
 }
 
+.sup {
+    color: black;
+    text-decoration: none;
+}
+
+.sup:hover {
+    text-decoration: underline;
+}
+
 footer {
     background-color: #800000;
     color: white;
@@ -124,7 +138,8 @@ footer {
     text-decoration: underline;
 }
 
-.simplemaps {
+.button {
+    cursor: pointer;
     display: inline-block;
     margin-top: 5px;
     border: 1px solid #800000;
@@ -135,11 +150,10 @@ footer {
     transition: all 0.3s;
 }
 
-.simplemaps:hover {
+.button:hover {
     border: 1px solid #fff;
     background-color: #800000;
     color: white;
-    text-decoration: underline;
 }
 
 @media (max-width: 768px) {

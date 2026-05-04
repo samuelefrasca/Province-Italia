@@ -179,16 +179,16 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
             // distinzione città metropolitane, lbc e province autonome
             let index = '';
             if (provincia.metropolitana) {
-                index = '<sup>[1]</sup>'
+                index = '<sup class="pointer" title="Città metropolitana"><a class="sup" href="#legenda">[1]</a></sup>'
             }
             if (provincia.lbc) {
-                index = '<sup>[2]</sup>'
+                index = '<sup class="pointer" title="Libero consorzio comunale"><a class="sup" href="#legenda">[2]</a></sup>'
             }
             if (provincia.autonoma) {
-                index = '<sup>[3]</sup>'
+                index = '<sup class="pointer" title="Provincia autonoma"><a class="sup" href="#legenda">[3]</a></sup>'
             }
             if (provincia.eddr) {
-                index = '<sup>[4]</sup>'
+                index = '<sup class="pointer" title="Ente di decentramento regionale"><a class="sup" href="#legenda">[4]</a></sup>'
             }
             // creazione tabella
             if (provincia.capoluogo) {
@@ -232,6 +232,27 @@ regioni.forEach(regione => {
         flagAbitanti = false;
     })
 });
+
+function elencoCompleto() {
+    const elencoTotale = [];
+    for (let el in provinceItalia) {
+        for (let il of provinceItalia[el]) {
+            elencoTotale.push(il);
+        }
+    }
+    elencoTotale.sort((a, b) => {
+        if(a.nome<b.nome)
+            return -1;
+        if(a.nome>b.nome)
+            return 1;
+        return 0;
+    });
+    provinceCorrenti = elencoTotale;
+    scritturaProvince("", elencoTotale);
+    titoloRegione.textContent = "Elenco completo delle province d'Italia";
+    flagAlfabetico = true;
+    flagAbitanti = false;
+}
 
 // Funzioni di ordinamento
 function ordinaPerAbitantiDecrescente(provinceCorrenti) {
