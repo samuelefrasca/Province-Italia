@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <meta name="google-site-verification" content="SgiGPmqlF9z3E2cBuIWobW8XFTl17h_MKe-a0LLsk4E" />
-    <meta name="description" content="Elenco completo delle province italiane suddivise per regione e ordinate per popolazione.">
+    <meta name="description"
+        content="Elenco completo delle province italiane suddivise per regione e ordinate per popolazione.">
     <meta property="og:site_name" content="Province e regioni d'Italia">
     <script type="application/ld+json">
         {
@@ -23,11 +24,16 @@
 
 <body>
     <header>
-        <h1 class="title">Province e regioni d'Italia</h1>
-        <div class="subtitle">
-            <p class="text-subtitle">Dati aggiornati al bilancio demografico Istat del 30 novembre 2025</p>
-            <p class="text-subtitle">In grassetto i capoluoghi di regione</p>
-            <p class="text-subtitle button pointer"><a onclick="elencoCompleto()"><b>Premi qui per vedere l'elenco completo</b></a></p>
+        <div class="header1">
+            <h1 class="title">Province e regioni d'Italia</h1>
+            <div class="subtitle">
+                <p class="text-subtitle">Dati aggiornati al bilancio demografico Istat del 30 novembre 2025</p>
+                <p class="text-subtitle">In <b>grassetto</b> i capoluoghi di regione</p>
+                <p class="text-subtitle button pointer"><a onclick="elencoCompleto()"><b>Premi qui per vedere l'elenco completo</b></a></p>
+            </div>
+        </div>
+        <div class="header2">
+            <img src="pi_image.png" alt="pi_image" height="220px">
         </div>
     </header>
     <main>
@@ -194,7 +200,7 @@
     </main>
     <footer>
         <p>&copy; 2026 - Samuele Frasca</p>
-        <p><a href="https://github.com/samuelefrasca" class="a_footer" target="_blank">GitHub</a></p>
+        <p><a href="https://github.com/samuelefrasca" class="a_footer github" target="_blank"><img class="github-logo" src="GitHub_Invertocat_White.png" alt="github-logo">GitHub</a></p>
         <p><a href="https://simplemaps.com" class="a_footer button" target="_blank">Mappa di simplemaps.com</a></p>
     </footer>
     <script src="script.js"></script>

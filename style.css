@@ -17,11 +17,19 @@ header {
     padding: 5px;
     border-radius: 0px 0px 25px 25px;
     text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header1 {
+    justify-content: center;
 }
 
 .title {
     text-align: center;
     color: #fff;
+    font-size: 48px;
+    margin: 16px;
 }
 
 /* .subtitle {
@@ -32,6 +40,7 @@ header {
 .text-subtitle {
     text-align: center;
     color: #fff;
+    margin: 12px;
 }
 
 path {
@@ -138,10 +147,18 @@ footer {
     text-decoration: underline;
 }
 
+.github {
+    justify-content: center;
+}
+
+.github-logo {
+    height: 17px;
+    margin-right: 5px;
+}
+
 .button {
     cursor: pointer;
     display: inline-block;
-    margin-top: 5px;
     border: 1px solid #800000;
     border-radius: 20px;
     background-color: #fff;
