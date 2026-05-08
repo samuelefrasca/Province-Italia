@@ -1,6 +1,6 @@
 const provinceItalia = {
     "Valle d'Aosta": [
-        { nome: "Aosta", sigla: "AO", abitanti: 122554, capoluogo: true }
+        { nome: "Aosta", sigla: "AO", abitanti: 122554, capoluogo: true, vda: true }
     ],
     "Piemonte": [
         { nome: "Alessandria", sigla: "AL", abitanti: 408063 },
@@ -75,79 +75,79 @@ const provinceItalia = {
         { nome: "Siena", sigla: "SI", abitanti: 259502 }
     ],
     "Umbria": [
-        { nome: "Perugia", sigla: "PG", abitanti: 636147, capoluogo: true },
-        { nome: "Terni", sigla: "TR", abitanti: 214734 }
+        { nome: "Perugia", sigla: "PG", abitanti: 635988, capoluogo: true },
+        { nome: "Terni", sigla: "TR", abitanti: 214639 }
     ],
     "Marche": [
-        { nome: "Ancona", sigla: "AN", abitanti: 461685, capoluogo: true },
+        { nome: "Ancona", sigla: "AN", abitanti: 461613, capoluogo: true },
         { nome: "Ascoli Piceno", sigla: "AP", abitanti: 200202 },
-        { nome: "Fermo", sigla: "FM", abitanti: 166827 },
-        { nome: "Macerata", sigla: "MC", abitanti: 301668 },
-        { nome: "Pesaro e Urbino", sigla: "PU", abitanti: 349578 }
+        { nome: "Fermo", sigla: "FM", abitanti: 166772 },
+        { nome: "Macerata", sigla: "MC", abitanti: 301689 },
+        { nome: "Pesaro e Urbino", sigla: "PU", abitanti: 349556 }
     ],
     "Lazio": [
-        { nome: "Frosinone", sigla: "FR", abitanti: 460598 },
-        { nome: "Latina", sigla: "LT", abitanti: 567222 },
-        { nome: "Rieti", sigla: "RI", abitanti: 149432 },
-        { nome: "Roma", sigla: "RM", abitanti: 4227295, metropolitana: true, capoluogo: true },
-        { nome: "Viterbo", sigla: "VT", abitanti: 307849 }
+        { nome: "Frosinone", sigla: "FR", abitanti: 460266 },
+        { nome: "Latina", sigla: "LT", abitanti: 567130 },
+        { nome: "Rieti", sigla: "RI", abitanti: 149335 },
+        { nome: "Roma", sigla: "RM", abitanti: 4224901, metropolitana: true, capoluogo: true },
+        { nome: "Viterbo", sigla: "VT", abitanti: 307812 }
     ],
     "Abruzzo": [
-        { nome: "Chieti", sigla: "CH", abitanti: 369311 },
-        { nome: "L'Aquila", sigla: "AQ", abitanti: 286808, capoluogo: true },
-        { nome: "Pescara", sigla: "PE", abitanti: 311668 },
-        { nome: "Teramo", sigla: "TE", abitanti: 299919 }
+        { nome: "Chieti", sigla: "CH", abitanti: 369059 },
+        { nome: "L'Aquila", sigla: "AQ", abitanti: 286765, capoluogo: true },
+        { nome: "Pescara", sigla: "PE", abitanti: 311563 },
+        { nome: "Teramo", sigla: "TE", abitanti: 299835 }
     ],
     "Molise": [
-        { nome: "Campobasso", sigla: "CB", abitanti: 207948, capoluogo: true },
-        { nome: "Isernia", sigla: "IS", abitanti: 78282 }
+        { nome: "Campobasso", sigla: "CB", abitanti: 207723, capoluogo: true },
+        { nome: "Isernia", sigla: "IS", abitanti: 78217 }
     ],
     "Campania": [
-        { nome: "Avellino", sigla: "AV", abitanti: 393292 },
-        { nome: "Benevento", sigla: "BN", abitanti: 258105 },
-        { nome: "Caserta", sigla: "CE", abitanti: 909469 },
-        { nome: "Napoli", sigla: "NA", abitanti: 2955709, metropolitana: true, capoluogo: true },
-        { nome: "Salerno", sigla: "SA", abitanti: 1053616 }
+        { nome: "Avellino", sigla: "AV", abitanti: 393093 },
+        { nome: "Benevento", sigla: "BN", abitanti: 257968 },
+        { nome: "Caserta", sigla: "CE", abitanti: 909493 },
+        { nome: "Napoli", sigla: "NA", abitanti: 2954847, metropolitana: true, capoluogo: true },
+        { nome: "Salerno", sigla: "SA", abitanti: 1053302 }
     ],
     "Puglia": [
-        { nome: "Bari", sigla: "BA", abitanti: 1218345, metropolitana: true, capoluogo: true },
-        { nome: "Barletta-Andria-Trani", sigla: "BT", abitanti: 376022 },
-        { nome: "Brindisi", sigla: "BR", abitanti: 373790 },
-        { nome: "Foggia", sigla: "FG", abitanti: 588112 },
-        { nome: "Lecce", sigla: "LE", abitanti: 762300 },
+        { nome: "Bari", sigla: "BA", abitanti: 1218073, metropolitana: true, capoluogo: true },
+        { nome: "Barletta-Andria-Trani", sigla: "BT", abitanti: 375933 },
+        { nome: "Brindisi", sigla: "BR", abitanti: 373631 },
+        { nome: "Foggia", sigla: "FG", abitanti: 587785 },
+        { nome: "Lecce", sigla: "LE", abitanti: 761927 },
         { nome: "Taranto", sigla: "TA", abitanti: 547928 }
     ],
     "Basilicata": [
-        { nome: "Matera", sigla: "MT", abitanti: 187899 },
-        { nome: "Potenza", sigla: "PZ", abitanti: 337858, capoluogo: true }
+        { nome: "Matera", sigla: "MT", abitanti: 187754 },
+        { nome: "Potenza", sigla: "PZ", abitanti: 337527, capoluogo: true }
     ],
     "Calabria": [
-        { nome: "Catanzaro", sigla: "CZ", abitanti: 338285, capoluogo: true },
-        { nome: "Cosenza", sigla: "CS", abitanti: 667643 },
-        { nome: "Crotone", sigla: "KR", abitanti: 161820 },
-        { nome: "Reggio Calabria", sigla: "RC", abitanti: 510818, metropolitana: true },
-        { nome: "Vibo Valentia", sigla: "VV", abitanti: 150041 }
+        { nome: "Catanzaro", sigla: "CZ", abitanti: 338160, capoluogo: true },
+        { nome: "Cosenza", sigla: "CS", abitanti: 667134 },
+        { nome: "Crotone", sigla: "KR", abitanti: 161765 },
+        { nome: "Reggio Calabria", sigla: "RC", abitanti: 510590, metropolitana: true },
+        { nome: "Vibo Valentia", sigla: "VV", abitanti: 149922 }
     ],
     "Sicilia": [
-        { nome: "Agrigento", sigla: "AG", abitanti: 407250, lbc: true },
-        { nome: "Caltanissetta", sigla: "CL", abitanti: 243714, lbc: true },
-        { nome: "Catania", sigla: "CT", abitanti: 1067993, metropolitana: true },
-        { nome: "Enna", sigla: "EN", abitanti: 151621, lbc: true },
-        { nome: "Messina", sigla: "ME", abitanti: 594412, metropolitana: true },
-        { nome: "Palermo", sigla: "PA", abitanti: 1195772, metropolitana: true, capoluogo: true },
+        { nome: "Agrigento", sigla: "AG", abitanti: 407041, lbc: true },
+        { nome: "Caltanissetta", sigla: "CL", abitanti: 243501, lbc: true },
+        { nome: "Catania", sigla: "CT", abitanti: 1067550, metropolitana: true },
+        { nome: "Enna", sigla: "EN", abitanti: 151525, lbc: true },
+        { nome: "Messina", sigla: "ME", abitanti: 594074, metropolitana: true },
+        { nome: "Palermo", sigla: "PA", abitanti: 1195307, metropolitana: true, capoluogo: true },
         { nome: "Ragusa", sigla: "RG", abitanti: 323144, lbc: true },
-        { nome: "Siracusa", sigla: "SR", abitanti: 382529, lbc: true },
-        { nome: "Trapani", sigla: "TP", abitanti: 410713, lbc: true }
+        { nome: "Siracusa", sigla: "SR", abitanti: 382450, lbc: true },
+        { nome: "Trapani", sigla: "TP", abitanti: 410602, lbc: true }
     ],
     "Sardegna": [
-        { nome: "Cagliari", sigla: "CA", abitanti: 542470, metropolitana: true, capoluogo: true },
-        { nome: "Gallura Nord-Est Sardegna", sigla: "OT", abitanti: 158916 },
-        { nome: "Medio Campidano", sigla: "VS", abitanti: 90694 },
-        { nome: "Nuoro", sigla: "NU", abitanti: 194616 },
+        { nome: "Cagliari", sigla: "CA", abitanti: 536245, metropolitana: true, capoluogo: true },
+        { nome: "Gallura Nord-Est Sardegna", sigla: "OT", abitanti: 159222 },
+        { nome: "Medio Campidano", sigla: "VS", abitanti: 90045 },
+        { nome: "Nuoro", sigla: "NU", abitanti: 143262 },
         { nome: "Ogliastra", sigla: "OG", abitanti: 53984 },
-        { nome: "Oristano", sigla: "OR", abitanti: 147203 },
-        { nome: "Sassari", sigla: "SS", abitanti: 470794, metropolitana: true },
-        { nome: "Sulcis Iglesiente", sigla: "SU", abitanti: 131890 }
+        { nome: "Oristano", sigla: "OR", abitanti: 148005 },
+        { nome: "Sassari", sigla: "SS", abitanti: 312735, metropolitana: true },
+        { nome: "Sulcis Iglesiente", sigla: "SU", abitanti: 118883 }
     ]
 };
 
@@ -195,6 +195,9 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
             if (provincia.eddr) {
                 index = '<sup class="pointer" title="Ente di decentramento regionale"><a class="sup" href="#legenda">[4]</a></sup>'
             }
+            if (provincia.vda) {
+                index = '<sup class="pointer" title="Regione autonoma della Valle d\'Aosta (premi per vedere i dettagli)"><a class="sup" href="#legenda">[5]</a></sup>'
+            }
             // creazione tabella
             if (provincia.capoluogo) {
                 table += `<tr><td class="el nome"><strong>${provincia.nome} ${index}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT')}</strong></td></tr>`;
@@ -210,10 +213,11 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
 
         // Legenda
         let legenda = legendaProvince.innerHTML
-        if (nomeRegione === "Valle d'Aosta") {
-            legenda = `<p><strong>La regione autonoma della Valle d'Aosta svolge anche le funzioni provinciali e, in elaborazioni statistiche, è considerata una provincia.</strong></p>`
+        legenda += `<h3 class="title-legend">Legenda</h3><ol><li>Città metropolitana</li><li>Libero consorzio comunale</li><li>Provincia autonoma</li><li>Ente di decentramento regionale</li>`
+        if (nomeRegione === "Valle d'Aosta" || nomeRegione === "Italia" ) {
+            legenda += `<li><strong>La regione autonoma della Valle d'Aosta esercita anche le funzioni provinciali e, nelle elaborazioni statistiche, è considerata una provincia. Di conseguenza, Aosta è sede provinciale oltre che capoluogo di regione.</strong></li>`
         }
-        legenda += `<h3 class="title-legend">Legenda</h3><ol><li>Città metropolitana</li><li>Libero consorzio comunale</li><li>Provincia autonoma</li><li>Ente di decentramento regionale</li></ol>`
+        legenda += `</ol>`
         legendaProvince.innerHTML = legenda;
     } else {
         // Se clicchi una regione non ancora presente nel database
