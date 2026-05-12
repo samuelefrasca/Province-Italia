@@ -186,6 +186,10 @@ footer {
         flex-direction: column-reverse;
     }
 
+    .logo {
+        display: none;
+    }
+
     .pannello-info {
         width: 90%;
         max-height: none;
