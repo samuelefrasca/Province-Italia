@@ -32,11 +32,6 @@ header {
     margin: 16px;
 }
 
-/* .subtitle {
-    display: flex;
-    justify-content: space-evenly;
-} */
-
 .text-subtitle {
     text-align: center;
     color: #fff;
@@ -50,7 +45,7 @@ path {
 
 path:hover {
     fill: #a83232;
-    /* Colore arancione al passaggio del mouse */
+    /* Colore più chiaro al passaggio del mouse */
 }
 
 main {
