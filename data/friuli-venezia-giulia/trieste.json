@@ -1,0 +1,63 @@
+[
+  {
+    "codice_istat": "032001",
+    "comune": "Duino Aurisina-Devin Nabrežina",
+    "provincia": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3964,
+    "popolazione_femminile": 4221,
+    "popolazione_totale": 8185
+  },
+  {
+    "codice_istat": "032002",
+    "comune": "Monrupino-Repentabor",
+    "provincia": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 439,
+    "popolazione_femminile": 397,
+    "popolazione_totale": 836
+  },
+  {
+    "codice_istat": "032003",
+    "comune": "Muggia",
+    "provincia": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 6122,
+    "popolazione_femminile": 6505,
+    "popolazione_totale": 12627
+  },
+  {
+    "codice_istat": "032004",
+    "comune": "San Dorligo della Valle-Dolina",
+    "provincia": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2782,
+    "popolazione_femminile": 2840,
+    "popolazione_totale": 5622
+  },
+  {
+    "codice_istat": "032005",
+    "comune": "Sgonico-Zgonik",
+    "provincia": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 957,
+    "popolazione_femminile": 991,
+    "popolazione_totale": 1948
+  },
+  {
+    "codice_istat": "032006",
+    "comune": "Trieste",
+    "provincia": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 95985,
+    "popolazione_femminile": 102637,
+    "popolazione_totale": 198622,
+    "capoluogo": true
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "codice_istat": "068001",
+    "comune": "Abbateggio",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 177,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 345
+  },
+  {
+    "codice_istat": "068002",
+    "comune": "Alanno",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1588,
+    "popolazione_femminile": 1674,
+    "popolazione_totale": 3262
+  },
+  {
+    "codice_istat": "068003",
+    "comune": "Bolognano",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 508,
+    "popolazione_femminile": 495,
+    "popolazione_totale": 1003
+  },
+  {
+    "codice_istat": "068004",
+    "comune": "Brittoli",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 120,
+    "popolazione_femminile": 116,
+    "popolazione_totale": 236
+  },
+  {
+    "codice_istat": "068005",
+    "comune": "Bussi sul Tirino",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1089,
+    "popolazione_femminile": 1099,
+    "popolazione_totale": 2188
+  },
+  {
+    "codice_istat": "068006",
+    "comune": "Cappelle sul Tavo",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2014,
+    "popolazione_femminile": 2092,
+    "popolazione_totale": 4106
+  },
+  {
+    "codice_istat": "068007",
+    "comune": "Caramanico Terme",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 855,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1703
+  },
+  {
+    "codice_istat": "068008",
+    "comune": "Carpineto della Nora",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 245,
+    "popolazione_femminile": 253,
+    "popolazione_totale": 498
+  },
+  {
+    "codice_istat": "068009",
+    "comune": "Castiglione a Casauria",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 348,
+    "popolazione_totale": 723
+  },
+  {
+    "codice_istat": "068010",
+    "comune": "Catignano",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 650,
+    "popolazione_femminile": 582,
+    "popolazione_totale": 1232
+  },
+  {
+    "codice_istat": "068011",
+    "comune": "Cepagatti",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 5415,
+    "popolazione_femminile": 5615,
+    "popolazione_totale": 11030
+  },
+  {
+    "codice_istat": "068012",
+    "comune": "Città Sant'Angelo",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 7450,
+    "popolazione_femminile": 7485,
+    "popolazione_totale": 14935
+  },
+  {
+    "codice_istat": "068013",
+    "comune": "Civitaquana",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 602,
+    "popolazione_femminile": 554,
+    "popolazione_totale": 1156
+  },
+  {
+    "codice_istat": "068014",
+    "comune": "Civitella Casanova",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 753,
+    "popolazione_femminile": 752,
+    "popolazione_totale": 1505
+  },
+  {
+    "codice_istat": "068015",
+    "comune": "Collecorvino",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3056,
+    "popolazione_femminile": 3009,
+    "popolazione_totale": 6065
+  },
+  {
+    "codice_istat": "068016",
+    "comune": "Corvara",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 95,
+    "popolazione_femminile": 91,
+    "popolazione_totale": 186
+  },
+  {
+    "codice_istat": "068017",
+    "comune": "Cugnoli",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 650,
+    "popolazione_femminile": 674,
+    "popolazione_totale": 1324
+  },
+  {
+    "codice_istat": "068018",
+    "comune": "Elice",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 796,
+    "popolazione_femminile": 819,
+    "popolazione_totale": 1615
+  },
+  {
+    "codice_istat": "068019",
+    "comune": "Farindola",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 649,
+    "popolazione_totale": 1293
+  },
+  {
+    "codice_istat": "068020",
+    "comune": "Lettomanoppello",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1285,
+    "popolazione_femminile": 1318,
+    "popolazione_totale": 2603
+  },
+  {
+    "codice_istat": "068021",
+    "comune": "Loreto Aprutino",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3444,
+    "popolazione_femminile": 3593,
+    "popolazione_totale": 7037
+  },
+  {
+    "codice_istat": "068022",
+    "comune": "Manoppello",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3349,
+    "popolazione_femminile": 3413,
+    "popolazione_totale": 6762
+  },
+  {
+    "codice_istat": "068023",
+    "comune": "Montebello di Bertona",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 404,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 803
+  },
+  {
+    "codice_istat": "068024",
+    "comune": "Montesilvano",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 25836,
+    "popolazione_femminile": 27721,
+    "popolazione_totale": 53557
+  },
+  {
+    "codice_istat": "068025",
+    "comune": "Moscufo",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1655,
+    "popolazione_femminile": 1511,
+    "popolazione_totale": 3166
+  },
+  {
+    "codice_istat": "068026",
+    "comune": "Nocciano",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 858,
+    "popolazione_femminile": 826,
+    "popolazione_totale": 1684
+  },
+  {
+    "codice_istat": "068027",
+    "comune": "Penne",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 5410,
+    "popolazione_femminile": 5496,
+    "popolazione_totale": 10906
+  },
+  {
+    "codice_istat": "068028",
+    "comune": "Pescara",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 56224,
+    "popolazione_femminile": 62263,
+    "popolazione_totale": 118487,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "068029",
+    "comune": "Pescosansonesco",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 213,
+    "popolazione_femminile": 226,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "068030",
+    "comune": "Pianella",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 4301,
+    "popolazione_femminile": 4262,
+    "popolazione_totale": 8563
+  },
+  {
+    "codice_istat": "068031",
+    "comune": "Picciano",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 635,
+    "popolazione_femminile": 643,
+    "popolazione_totale": 1278
+  },
+  {
+    "codice_istat": "068032",
+    "comune": "Pietranico",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 206,
+    "popolazione_femminile": 210,
+    "popolazione_totale": 416
+  },
+  {
+    "codice_istat": "068033",
+    "comune": "Popoli Terme",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2212,
+    "popolazione_femminile": 2362,
+    "popolazione_totale": 4574
+  },
+  {
+    "codice_istat": "068034",
+    "comune": "Roccamorice",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 404,
+    "popolazione_femminile": 436,
+    "popolazione_totale": 840
+  },
+  {
+    "codice_istat": "068035",
+    "comune": "Rosciano",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2015,
+    "popolazione_femminile": 2099,
+    "popolazione_totale": 4114
+  },
+  {
+    "codice_istat": "068036",
+    "comune": "Salle",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 128,
+    "popolazione_femminile": 122,
+    "popolazione_totale": 250
+  },
+  {
+    "codice_istat": "068038",
+    "comune": "San Valentino in Abruzzo Citeriore",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 861,
+    "popolazione_femminile": 927,
+    "popolazione_totale": 1788
+  },
+  {
+    "codice_istat": "068037",
+    "comune": "Sant'Eufemia a Maiella",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 123,
+    "popolazione_femminile": 110,
+    "popolazione_totale": 233
+  },
+  {
+    "codice_istat": "068039",
+    "comune": "Scafa",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1625,
+    "popolazione_femminile": 1763,
+    "popolazione_totale": 3388
+  },
+  {
+    "codice_istat": "068040",
+    "comune": "Serramonacesca",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 231,
+    "popolazione_totale": 493
+  },
+  {
+    "codice_istat": "068041",
+    "comune": "Spoltore",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 9227,
+    "popolazione_femminile": 9697,
+    "popolazione_totale": 18924
+  },
+  {
+    "codice_istat": "068042",
+    "comune": "Tocco da Casauria",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1167,
+    "popolazione_femminile": 1158,
+    "popolazione_totale": 2325
+  },
+  {
+    "codice_istat": "068043",
+    "comune": "Torre de' Passeri",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1390,
+    "popolazione_femminile": 1472,
+    "popolazione_totale": 2862
+  },
+  {
+    "codice_istat": "068044",
+    "comune": "Turrivalignani",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 785
+  },
+  {
+    "codice_istat": "068045",
+    "comune": "Vicoli",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 187,
+    "popolazione_totale": 357
+  },
+  {
+    "codice_istat": "068046",
+    "comune": "Villa Celiera",
+    "provincia": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 249,
+    "popolazione_femminile": 275,
+    "popolazione_totale": 524
+  }
+]

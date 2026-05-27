@@ -1,0 +1,203 @@
+[
+  {
+    "codice_istat": "074001",
+    "comune": "Brindisi",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 39099,
+    "popolazione_femminile": 42082,
+    "popolazione_totale": 81181,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "074002",
+    "comune": "Carovigno",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 8717,
+    "popolazione_femminile": 8376,
+    "popolazione_totale": 17093
+  },
+  {
+    "codice_istat": "074003",
+    "comune": "Ceglie Messapica",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 8809,
+    "popolazione_femminile": 9554,
+    "popolazione_totale": 18363
+  },
+  {
+    "codice_istat": "074004",
+    "comune": "Cellino San Marco",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 2789,
+    "popolazione_femminile": 3100,
+    "popolazione_totale": 5889
+  },
+  {
+    "codice_istat": "074005",
+    "comune": "Cisternino",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 5258,
+    "popolazione_femminile": 5696,
+    "popolazione_totale": 10954
+  },
+  {
+    "codice_istat": "074006",
+    "comune": "Erchie",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 3925,
+    "popolazione_femminile": 4116,
+    "popolazione_totale": 8041
+  },
+  {
+    "codice_istat": "074007",
+    "comune": "Fasano",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 19017,
+    "popolazione_femminile": 19730,
+    "popolazione_totale": 38747
+  },
+  {
+    "codice_istat": "074008",
+    "comune": "Francavilla Fontana",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 16637,
+    "popolazione_femminile": 17715,
+    "popolazione_totale": 34352
+  },
+  {
+    "codice_istat": "074009",
+    "comune": "Latiano",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 6420,
+    "popolazione_femminile": 6802,
+    "popolazione_totale": 13222
+  },
+  {
+    "codice_istat": "074010",
+    "comune": "Mesagne",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 12387,
+    "popolazione_femminile": 13351,
+    "popolazione_totale": 25738
+  },
+  {
+    "codice_istat": "074011",
+    "comune": "Oria",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 6924,
+    "popolazione_femminile": 7440,
+    "popolazione_totale": 14364
+  },
+  {
+    "codice_istat": "074012",
+    "comune": "Ostuni",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 14376,
+    "popolazione_femminile": 15427,
+    "popolazione_totale": 29803
+  },
+  {
+    "codice_istat": "074013",
+    "comune": "San Donaci",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 2939,
+    "popolazione_femminile": 3111,
+    "popolazione_totale": 6050
+  },
+  {
+    "codice_istat": "074014",
+    "comune": "San Michele Salentino",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 2945,
+    "popolazione_femminile": 3061,
+    "popolazione_totale": 6006
+  },
+  {
+    "codice_istat": "074015",
+    "comune": "San Pancrazio Salentino",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 4332,
+    "popolazione_femminile": 4626,
+    "popolazione_totale": 8958
+  },
+  {
+    "codice_istat": "074016",
+    "comune": "San Pietro Vernotico",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 6198,
+    "popolazione_femminile": 6609,
+    "popolazione_totale": 12807
+  },
+  {
+    "codice_istat": "074017",
+    "comune": "San Vito dei Normanni",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 8639,
+    "popolazione_femminile": 9154,
+    "popolazione_totale": 17793
+  },
+  {
+    "codice_istat": "074018",
+    "comune": "Torchiarolo",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 2639,
+    "popolazione_femminile": 2647,
+    "popolazione_totale": 5286
+  },
+  {
+    "codice_istat": "074019",
+    "comune": "Torre Santa Susanna",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 4942,
+    "popolazione_femminile": 5103,
+    "popolazione_totale": 10045
+  },
+  {
+    "codice_istat": "074020",
+    "comune": "Villa Castelli",
+    "provincia": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "popolazione_maschile": 4496,
+    "popolazione_femminile": 4443,
+    "popolazione_totale": 8939
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "codice_istat": "067001",
+    "comune": "Alba Adriatica",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 6454,
+    "popolazione_femminile": 6871,
+    "popolazione_totale": 13325
+  },
+  {
+    "codice_istat": "067002",
+    "comune": "Ancarano",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 916,
+    "popolazione_femminile": 958,
+    "popolazione_totale": 1874
+  },
+  {
+    "codice_istat": "067003",
+    "comune": "Arsita",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 717
+  },
+  {
+    "codice_istat": "067004",
+    "comune": "Atri",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 4864,
+    "popolazione_femminile": 4950,
+    "popolazione_totale": 9814
+  },
+  {
+    "codice_istat": "067005",
+    "comune": "Basciano",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1169,
+    "popolazione_femminile": 1143,
+    "popolazione_totale": 2312
+  },
+  {
+    "codice_istat": "067006",
+    "comune": "Bellante",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3383,
+    "popolazione_femminile": 3450,
+    "popolazione_totale": 6833
+  },
+  {
+    "codice_istat": "067007",
+    "comune": "Bisenti",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 829,
+    "popolazione_femminile": 813,
+    "popolazione_totale": 1642
+  },
+  {
+    "codice_istat": "067008",
+    "comune": "Campli",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3347,
+    "popolazione_femminile": 3265,
+    "popolazione_totale": 6612
+  },
+  {
+    "codice_istat": "067009",
+    "comune": "Canzano",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 870,
+    "popolazione_femminile": 866,
+    "popolazione_totale": 1736
+  },
+  {
+    "codice_istat": "067010",
+    "comune": "Castel Castagna",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 208,
+    "popolazione_femminile": 192,
+    "popolazione_totale": 400
+  },
+  {
+    "codice_istat": "067011",
+    "comune": "Castellalto",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3614,
+    "popolazione_femminile": 3620,
+    "popolazione_totale": 7234
+  },
+  {
+    "codice_istat": "067012",
+    "comune": "Castelli",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 449,
+    "popolazione_totale": 907
+  },
+  {
+    "codice_istat": "067013",
+    "comune": "Castiglione Messer Raimondo",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 987,
+    "popolazione_femminile": 974,
+    "popolazione_totale": 1961
+  },
+  {
+    "codice_istat": "067014",
+    "comune": "Castilenti",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 682,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1307
+  },
+  {
+    "codice_istat": "067015",
+    "comune": "Cellino Attanasio",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1094,
+    "popolazione_femminile": 1090,
+    "popolazione_totale": 2184
+  },
+  {
+    "codice_istat": "067016",
+    "comune": "Cermignano",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 696,
+    "popolazione_femminile": 701,
+    "popolazione_totale": 1397
+  },
+  {
+    "codice_istat": "067017",
+    "comune": "Civitella del Tronto",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2290,
+    "popolazione_femminile": 2265,
+    "popolazione_totale": 4555
+  },
+  {
+    "codice_istat": "067018",
+    "comune": "Colledara",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1068,
+    "popolazione_femminile": 1010,
+    "popolazione_totale": 2078
+  },
+  {
+    "codice_istat": "067019",
+    "comune": "Colonnella",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1899,
+    "popolazione_femminile": 1819,
+    "popolazione_totale": 3718
+  },
+  {
+    "codice_istat": "067020",
+    "comune": "Controguerra",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1065,
+    "popolazione_femminile": 1109,
+    "popolazione_totale": 2174
+  },
+  {
+    "codice_istat": "067021",
+    "comune": "Corropoli",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2534,
+    "popolazione_femminile": 2624,
+    "popolazione_totale": 5158
+  },
+  {
+    "codice_istat": "067022",
+    "comune": "Cortino",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 246,
+    "popolazione_totale": 541
+  },
+  {
+    "codice_istat": "067023",
+    "comune": "Crognaleto",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 576,
+    "popolazione_femminile": 433,
+    "popolazione_totale": 1009
+  },
+  {
+    "codice_istat": "067024",
+    "comune": "Fano Adriano",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 137,
+    "popolazione_femminile": 106,
+    "popolazione_totale": 243
+  },
+  {
+    "codice_istat": "067025",
+    "comune": "Giulianova",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 11216,
+    "popolazione_femminile": 12340,
+    "popolazione_totale": 23556
+  },
+  {
+    "codice_istat": "067026",
+    "comune": "Isola del Gran Sasso d'Italia",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2180,
+    "popolazione_femminile": 2220,
+    "popolazione_totale": 4400
+  },
+  {
+    "codice_istat": "067047",
+    "comune": "Martinsicuro",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 8142,
+    "popolazione_femminile": 8341,
+    "popolazione_totale": 16483
+  },
+  {
+    "codice_istat": "067027",
+    "comune": "Montefino",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 438,
+    "popolazione_totale": 896
+  },
+  {
+    "codice_istat": "067028",
+    "comune": "Montorio al Vomano",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3663,
+    "popolazione_femminile": 3681,
+    "popolazione_totale": 7344
+  },
+  {
+    "codice_istat": "067029",
+    "comune": "Morro d'Oro",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1755,
+    "popolazione_femminile": 1775,
+    "popolazione_totale": 3530
+  },
+  {
+    "codice_istat": "067030",
+    "comune": "Mosciano Sant'Angelo",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 4719,
+    "popolazione_femminile": 4487,
+    "popolazione_totale": 9206
+  },
+  {
+    "codice_istat": "067031",
+    "comune": "Nereto",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2679,
+    "popolazione_femminile": 2786,
+    "popolazione_totale": 5465
+  },
+  {
+    "codice_istat": "067032",
+    "comune": "Notaresco",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3180,
+    "popolazione_femminile": 3171,
+    "popolazione_totale": 6351
+  },
+  {
+    "codice_istat": "067033",
+    "comune": "Penna Sant'Andrea",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 826,
+    "popolazione_femminile": 801,
+    "popolazione_totale": 1627
+  },
+  {
+    "codice_istat": "067034",
+    "comune": "Pietracamela",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 115,
+    "popolazione_femminile": 81,
+    "popolazione_totale": 196
+  },
+  {
+    "codice_istat": "067035",
+    "comune": "Pineto",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 7063,
+    "popolazione_femminile": 7698,
+    "popolazione_totale": 14761
+  },
+  {
+    "codice_istat": "067036",
+    "comune": "Rocca Santa Maria",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 215,
+    "popolazione_totale": 450
+  },
+  {
+    "codice_istat": "067037",
+    "comune": "Roseto degli Abruzzi",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 12794,
+    "popolazione_femminile": 13144,
+    "popolazione_totale": 25938
+  },
+  {
+    "codice_istat": "067038",
+    "comune": "Sant'Egidio alla Vibrata",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 4913,
+    "popolazione_femminile": 5000,
+    "popolazione_totale": 9913
+  },
+  {
+    "codice_istat": "067039",
+    "comune": "Sant'Omero",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2493,
+    "popolazione_femminile": 2584,
+    "popolazione_totale": 5077
+  },
+  {
+    "codice_istat": "067040",
+    "comune": "Silvi",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 7606,
+    "popolazione_femminile": 7872,
+    "popolazione_totale": 15478
+  },
+  {
+    "codice_istat": "067041",
+    "comune": "Teramo",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 25033,
+    "popolazione_femminile": 26367,
+    "popolazione_totale": 51400,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "067042",
+    "comune": "Torano Nuovo",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 712,
+    "popolazione_femminile": 728,
+    "popolazione_totale": 1440
+  },
+  {
+    "codice_istat": "067043",
+    "comune": "Torricella Sicura",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1193,
+    "popolazione_femminile": 1172,
+    "popolazione_totale": 2365
+  },
+  {
+    "codice_istat": "067044",
+    "comune": "Tortoreto",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 5918,
+    "popolazione_femminile": 6288,
+    "popolazione_totale": 12206
+  },
+  {
+    "codice_istat": "067045",
+    "comune": "Tossicia",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 582,
+    "popolazione_femminile": 622,
+    "popolazione_totale": 1204
+  },
+  {
+    "codice_istat": "067046",
+    "comune": "Valle Castellana",
+    "provincia": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 441,
+    "popolazione_femminile": 377,
+    "popolazione_totale": 818
+  }
+]

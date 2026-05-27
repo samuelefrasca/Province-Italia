@@ -1,0 +1,413 @@
+[
+  {
+    "codice_istat": "048001",
+    "comune": "Bagno a Ripoli",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 11771,
+    "popolazione_femminile": 13035,
+    "popolazione_totale": 24806
+  },
+  {
+    "codice_istat": "048002",
+    "comune": "Barberino di Mugello",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5473,
+    "popolazione_femminile": 5508,
+    "popolazione_totale": 10981
+  },
+  {
+    "codice_istat": "048054",
+    "comune": "Barberino Tavarnelle",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5985,
+    "popolazione_femminile": 5998,
+    "popolazione_totale": 11983
+  },
+  {
+    "codice_istat": "048004",
+    "comune": "Borgo San Lorenzo",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 9008,
+    "popolazione_femminile": 9404,
+    "popolazione_totale": 18412
+  },
+  {
+    "codice_istat": "048005",
+    "comune": "Calenzano",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 8843,
+    "popolazione_femminile": 9165,
+    "popolazione_totale": 18008
+  },
+  {
+    "codice_istat": "048006",
+    "comune": "Campi Bisenzio",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 23602,
+    "popolazione_femminile": 23833,
+    "popolazione_totale": 47435
+  },
+  {
+    "codice_istat": "048008",
+    "comune": "Capraia e Limite",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3833,
+    "popolazione_femminile": 3971,
+    "popolazione_totale": 7804
+  },
+  {
+    "codice_istat": "048010",
+    "comune": "Castelfiorentino",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 8631,
+    "popolazione_femminile": 8857,
+    "popolazione_totale": 17488
+  },
+  {
+    "codice_istat": "048011",
+    "comune": "Cerreto Guidi",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5184,
+    "popolazione_femminile": 5475,
+    "popolazione_totale": 10659
+  },
+  {
+    "codice_istat": "048012",
+    "comune": "Certaldo",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 7824,
+    "popolazione_femminile": 7907,
+    "popolazione_totale": 15731
+  },
+  {
+    "codice_istat": "048013",
+    "comune": "Dicomano",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2911,
+    "popolazione_femminile": 2699,
+    "popolazione_totale": 5610
+  },
+  {
+    "codice_istat": "048014",
+    "comune": "Empoli",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 24191,
+    "popolazione_femminile": 25335,
+    "popolazione_totale": 49526
+  },
+  {
+    "codice_istat": "048015",
+    "comune": "Fiesole",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6626,
+    "popolazione_femminile": 7116,
+    "popolazione_totale": 13742
+  },
+  {
+    "codice_istat": "048052",
+    "comune": "Figline e Incisa Valdarno",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 11399,
+    "popolazione_femminile": 11892,
+    "popolazione_totale": 23291
+  },
+  {
+    "codice_istat": "048017",
+    "comune": "Firenze",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 171535,
+    "popolazione_femminile": 190090,
+    "popolazione_totale": 361625,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "048018",
+    "comune": "Firenzuola",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2253,
+    "popolazione_femminile": 2191,
+    "popolazione_totale": 4444
+  },
+  {
+    "codice_istat": "048019",
+    "comune": "Fucecchio",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 11315,
+    "popolazione_femminile": 11604,
+    "popolazione_totale": 22919
+  },
+  {
+    "codice_istat": "048020",
+    "comune": "Gambassi Terme",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2381,
+    "popolazione_femminile": 2491,
+    "popolazione_totale": 4872
+  },
+  {
+    "codice_istat": "048021",
+    "comune": "Greve in Chianti",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6620,
+    "popolazione_femminile": 6745,
+    "popolazione_totale": 13365
+  },
+  {
+    "codice_istat": "048022",
+    "comune": "Impruneta",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6832,
+    "popolazione_femminile": 7354,
+    "popolazione_totale": 14186
+  },
+  {
+    "codice_istat": "048024",
+    "comune": "Lastra a Signa",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 9883,
+    "popolazione_femminile": 9997,
+    "popolazione_totale": 19880
+  },
+  {
+    "codice_istat": "048025",
+    "comune": "Londa",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 939,
+    "popolazione_femminile": 909,
+    "popolazione_totale": 1848
+  },
+  {
+    "codice_istat": "048026",
+    "comune": "Marradi",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1423,
+    "popolazione_femminile": 1385,
+    "popolazione_totale": 2808
+  },
+  {
+    "codice_istat": "048027",
+    "comune": "Montaione",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1688,
+    "popolazione_femminile": 1745,
+    "popolazione_totale": 3433
+  },
+  {
+    "codice_istat": "048028",
+    "comune": "Montelupo Fiorentino",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6925,
+    "popolazione_femminile": 7347,
+    "popolazione_totale": 14272
+  },
+  {
+    "codice_istat": "048030",
+    "comune": "Montespertoli",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6512,
+    "popolazione_femminile": 6685,
+    "popolazione_totale": 13197
+  },
+  {
+    "codice_istat": "048031",
+    "comune": "Palazzuolo sul Senio",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 579,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1095
+  },
+  {
+    "codice_istat": "048032",
+    "comune": "Pelago",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3986,
+    "popolazione_femminile": 3980,
+    "popolazione_totale": 7966
+  },
+  {
+    "codice_istat": "048033",
+    "comune": "Pontassieve",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 9933,
+    "popolazione_femminile": 10189,
+    "popolazione_totale": 20122
+  },
+  {
+    "codice_istat": "048035",
+    "comune": "Reggello",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 8205,
+    "popolazione_femminile": 8350,
+    "popolazione_totale": 16555
+  },
+  {
+    "codice_istat": "048036",
+    "comune": "Rignano sull'Arno",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4238,
+    "popolazione_femminile": 4273,
+    "popolazione_totale": 8511
+  },
+  {
+    "codice_istat": "048037",
+    "comune": "Rufina",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3509,
+    "popolazione_femminile": 3594,
+    "popolazione_totale": 7103
+  },
+  {
+    "codice_istat": "048038",
+    "comune": "San Casciano in Val di Pesa",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 7845,
+    "popolazione_femminile": 8443,
+    "popolazione_totale": 16288
+  },
+  {
+    "codice_istat": "048039",
+    "comune": "San Godenzo",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 591,
+    "popolazione_femminile": 524,
+    "popolazione_totale": 1115
+  },
+  {
+    "codice_istat": "048041",
+    "comune": "Scandicci",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 23547,
+    "popolazione_femminile": 25588,
+    "popolazione_totale": 49135
+  },
+  {
+    "codice_istat": "048053",
+    "comune": "Scarperia e San Piero",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5921,
+    "popolazione_femminile": 6022,
+    "popolazione_totale": 11943
+  },
+  {
+    "codice_istat": "048043",
+    "comune": "Sesto Fiorentino",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 23533,
+    "popolazione_femminile": 25704,
+    "popolazione_totale": 49237
+  },
+  {
+    "codice_istat": "048044",
+    "comune": "Signa",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 9345,
+    "popolazione_femminile": 9645,
+    "popolazione_totale": 18990
+  },
+  {
+    "codice_istat": "048046",
+    "comune": "Vaglia",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2692,
+    "popolazione_femminile": 2679,
+    "popolazione_totale": 5371
+  },
+  {
+    "codice_istat": "048049",
+    "comune": "Vicchio",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4150,
+    "popolazione_femminile": 4014,
+    "popolazione_totale": 8164
+  },
+  {
+    "codice_istat": "048050",
+    "comune": "Vinci",
+    "provincia": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "popolazione_maschile": 7180,
+    "popolazione_femminile": 7394,
+    "popolazione_totale": 14574
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "codice_istat": "044001",
+    "comune": "Acquasanta Terme",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1222,
+    "popolazione_femminile": 1189,
+    "popolazione_totale": 2411
+  },
+  {
+    "codice_istat": "044002",
+    "comune": "Acquaviva Picena",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1771,
+    "popolazione_femminile": 1815,
+    "popolazione_totale": 3586
+  },
+  {
+    "codice_istat": "044005",
+    "comune": "Appignano del Tronto",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 798,
+    "popolazione_femminile": 843,
+    "popolazione_totale": 1641
+  },
+  {
+    "codice_istat": "044006",
+    "comune": "Arquata del Tronto",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 473,
+    "popolazione_femminile": 437,
+    "popolazione_totale": 910
+  },
+  {
+    "codice_istat": "044007",
+    "comune": "Ascoli Piceno",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 22014,
+    "popolazione_femminile": 23179,
+    "popolazione_totale": 45193,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "044010",
+    "comune": "Carassai",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 534,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1042
+  },
+  {
+    "codice_istat": "044011",
+    "comune": "Castel di Lama",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 4144,
+    "popolazione_femminile": 4268,
+    "popolazione_totale": 8412
+  },
+  {
+    "codice_istat": "044012",
+    "comune": "Castignano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1252,
+    "popolazione_femminile": 1259,
+    "popolazione_totale": 2511
+  },
+  {
+    "codice_istat": "044013",
+    "comune": "Castorano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1119,
+    "popolazione_femminile": 1155,
+    "popolazione_totale": 2274
+  },
+  {
+    "codice_istat": "044014",
+    "comune": "Colli del Tronto",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1845,
+    "popolazione_femminile": 1836,
+    "popolazione_totale": 3681
+  },
+  {
+    "codice_istat": "044015",
+    "comune": "Comunanza",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1484,
+    "popolazione_femminile": 1435,
+    "popolazione_totale": 2919
+  },
+  {
+    "codice_istat": "044016",
+    "comune": "Cossignano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 430,
+    "popolazione_femminile": 449,
+    "popolazione_totale": 879
+  },
+  {
+    "codice_istat": "044017",
+    "comune": "Cupra Marittima",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 2615,
+    "popolazione_femminile": 2728,
+    "popolazione_totale": 5343
+  },
+  {
+    "codice_istat": "044020",
+    "comune": "Folignano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 4342,
+    "popolazione_femminile": 4307,
+    "popolazione_totale": 8649
+  },
+  {
+    "codice_istat": "044021",
+    "comune": "Force",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 546,
+    "popolazione_femminile": 534,
+    "popolazione_totale": 1080
+  },
+  {
+    "codice_istat": "044023",
+    "comune": "Grottammare",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 7684,
+    "popolazione_femminile": 8229,
+    "popolazione_totale": 15913
+  },
+  {
+    "codice_istat": "044027",
+    "comune": "Maltignano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 1069,
+    "popolazione_femminile": 1104,
+    "popolazione_totale": 2173
+  },
+  {
+    "codice_istat": "044029",
+    "comune": "Massignano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 837,
+    "popolazione_femminile": 772,
+    "popolazione_totale": 1609
+  },
+  {
+    "codice_istat": "044031",
+    "comune": "Monsampolo del Tronto",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 2202,
+    "popolazione_femminile": 2177,
+    "popolazione_totale": 4379
+  },
+  {
+    "codice_istat": "044032",
+    "comune": "Montalto delle Marche",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 857,
+    "popolazione_femminile": 957,
+    "popolazione_totale": 1814
+  },
+  {
+    "codice_istat": "044034",
+    "comune": "Montedinove",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 244,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 443
+  },
+  {
+    "codice_istat": "044036",
+    "comune": "Montefiore dell'Aso",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 943,
+    "popolazione_femminile": 1003,
+    "popolazione_totale": 1946
+  },
+  {
+    "codice_istat": "044038",
+    "comune": "Montegallo",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 159,
+    "popolazione_totale": 364
+  },
+  {
+    "codice_istat": "044044",
+    "comune": "Montemonaco",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 518
+  },
+  {
+    "codice_istat": "044045",
+    "comune": "Monteprandone",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 6549,
+    "popolazione_femminile": 6562,
+    "popolazione_totale": 13111
+  },
+  {
+    "codice_istat": "044054",
+    "comune": "Offida",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 2232,
+    "popolazione_femminile": 2337,
+    "popolazione_totale": 4569
+  },
+  {
+    "codice_istat": "044056",
+    "comune": "Palmiano",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 66,
+    "popolazione_femminile": 84,
+    "popolazione_totale": 150
+  },
+  {
+    "codice_istat": "044063",
+    "comune": "Ripatransone",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 2054,
+    "popolazione_femminile": 2051,
+    "popolazione_totale": 4105
+  },
+  {
+    "codice_istat": "044064",
+    "comune": "Roccafluvione",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 922,
+    "popolazione_femminile": 894,
+    "popolazione_totale": 1816
+  },
+  {
+    "codice_istat": "044065",
+    "comune": "Rotella",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 391,
+    "popolazione_femminile": 373,
+    "popolazione_totale": 764
+  },
+  {
+    "codice_istat": "044066",
+    "comune": "San Benedetto del Tronto",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 22326,
+    "popolazione_femminile": 24650,
+    "popolazione_totale": 46976
+  },
+  {
+    "codice_istat": "044071",
+    "comune": "Spinetoli",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 3505,
+    "popolazione_femminile": 3654,
+    "popolazione_totale": 7159
+  },
+  {
+    "codice_istat": "044073",
+    "comune": "Venarotta",
+    "provincia": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "popolazione_maschile": 928,
+    "popolazione_femminile": 934,
+    "popolazione_totale": 1862
+  }
+]

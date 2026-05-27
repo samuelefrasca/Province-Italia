@@ -1,0 +1,123 @@
+[
+  {
+    "codice_istat": "088001",
+    "comune": "Acate",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5928,
+    "popolazione_femminile": 4729,
+    "popolazione_totale": 10657
+  },
+  {
+    "codice_istat": "088002",
+    "comune": "Chiaramonte Gulfi",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4188,
+    "popolazione_femminile": 3857,
+    "popolazione_totale": 8045
+  },
+  {
+    "codice_istat": "088003",
+    "comune": "Comiso",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 15291,
+    "popolazione_femminile": 15146,
+    "popolazione_totale": 30437
+  },
+  {
+    "codice_istat": "088004",
+    "comune": "Giarratana",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1520,
+    "popolazione_femminile": 1474,
+    "popolazione_totale": 2994
+  },
+  {
+    "codice_istat": "088005",
+    "comune": "Ispica",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 8605,
+    "popolazione_femminile": 8101,
+    "popolazione_totale": 16706
+  },
+  {
+    "codice_istat": "088006",
+    "comune": "Modica",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 26139,
+    "popolazione_femminile": 27483,
+    "popolazione_totale": 53622
+  },
+  {
+    "codice_istat": "088007",
+    "comune": "Monterosso Almo",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1323,
+    "popolazione_femminile": 1382,
+    "popolazione_totale": 2705
+  },
+  {
+    "codice_istat": "088008",
+    "comune": "Pozzallo",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 9396,
+    "popolazione_femminile": 9562,
+    "popolazione_totale": 18958
+  },
+  {
+    "codice_istat": "088009",
+    "comune": "Ragusa",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 36524,
+    "popolazione_femminile": 37598,
+    "popolazione_totale": 74122,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "088010",
+    "comune": "Santa Croce Camerina",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6198,
+    "popolazione_femminile": 5451,
+    "popolazione_totale": 11649
+  },
+  {
+    "codice_istat": "088011",
+    "comune": "Scicli",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 13393,
+    "popolazione_femminile": 13527,
+    "popolazione_totale": 26920
+  },
+  {
+    "codice_istat": "088012",
+    "comune": "Vittoria",
+    "provincia": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 34536,
+    "popolazione_femminile": 31793,
+    "popolazione_totale": 66329
+  }
+]

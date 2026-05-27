@@ -1,0 +1,1473 @@
+[
+  {
+    "codice_istat": "013003",
+    "comune": "Albavilla",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3112,
+    "popolazione_femminile": 3236,
+    "popolazione_totale": 6348
+  },
+  {
+    "codice_istat": "013004",
+    "comune": "Albese con Cassano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2081,
+    "popolazione_femminile": 2196,
+    "popolazione_totale": 4277
+  },
+  {
+    "codice_istat": "013005",
+    "comune": "Albiolo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1430,
+    "popolazione_femminile": 1370,
+    "popolazione_totale": 2800
+  },
+  {
+    "codice_istat": "013006",
+    "comune": "Alserio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 714,
+    "popolazione_femminile": 703,
+    "popolazione_totale": 1417
+  },
+  {
+    "codice_istat": "013253",
+    "comune": "Alta Valle Intelvi",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1614,
+    "popolazione_femminile": 1572,
+    "popolazione_totale": 3186
+  },
+  {
+    "codice_istat": "013007",
+    "comune": "Alzate Brianza",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2395,
+    "popolazione_femminile": 2439,
+    "popolazione_totale": 4834
+  },
+  {
+    "codice_istat": "013009",
+    "comune": "Anzano del Parco",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 821,
+    "popolazione_femminile": 854,
+    "popolazione_totale": 1675
+  },
+  {
+    "codice_istat": "013010",
+    "comune": "Appiano Gentile",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3769,
+    "popolazione_femminile": 3980,
+    "popolazione_totale": 7749
+  },
+  {
+    "codice_istat": "013011",
+    "comune": "Argegno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 339,
+    "popolazione_totale": 676
+  },
+  {
+    "codice_istat": "013012",
+    "comune": "Arosio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2592,
+    "popolazione_femminile": 2635,
+    "popolazione_totale": 5227
+  },
+  {
+    "codice_istat": "013013",
+    "comune": "Asso",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1776,
+    "popolazione_femminile": 1779,
+    "popolazione_totale": 3555
+  },
+  {
+    "codice_istat": "013015",
+    "comune": "Barni",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 307,
+    "popolazione_totale": 611
+  },
+  {
+    "codice_istat": "013250",
+    "comune": "Bellagio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1698,
+    "popolazione_femminile": 1811,
+    "popolazione_totale": 3509
+  },
+  {
+    "codice_istat": "013021",
+    "comune": "Bene Lario",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 175,
+    "popolazione_femminile": 174,
+    "popolazione_totale": 349
+  },
+  {
+    "codice_istat": "013022",
+    "comune": "Beregazzo con Figliaro",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1385,
+    "popolazione_femminile": 1440,
+    "popolazione_totale": 2825
+  },
+  {
+    "codice_istat": "013023",
+    "comune": "Binago",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2393,
+    "popolazione_femminile": 2421,
+    "popolazione_totale": 4814
+  },
+  {
+    "codice_istat": "013024",
+    "comune": "Bizzarone",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 906,
+    "popolazione_femminile": 883,
+    "popolazione_totale": 1789
+  },
+  {
+    "codice_istat": "013025",
+    "comune": "Blessagno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 153,
+    "popolazione_totale": 313
+  },
+  {
+    "codice_istat": "013026",
+    "comune": "Blevio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 474,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1002
+  },
+  {
+    "codice_istat": "013028",
+    "comune": "Bregnano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3240,
+    "popolazione_femminile": 3162,
+    "popolazione_totale": 6402
+  },
+  {
+    "codice_istat": "013029",
+    "comune": "Brenna",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1115,
+    "popolazione_femminile": 1079,
+    "popolazione_totale": 2194
+  },
+  {
+    "codice_istat": "013030",
+    "comune": "Brienno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 152,
+    "popolazione_femminile": 159,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "013032",
+    "comune": "Brunate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 778,
+    "popolazione_femminile": 794,
+    "popolazione_totale": 1572
+  },
+  {
+    "codice_istat": "013034",
+    "comune": "Bulgarograsso",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2000,
+    "popolazione_femminile": 1957,
+    "popolazione_totale": 3957
+  },
+  {
+    "codice_istat": "013035",
+    "comune": "Cabiate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3668,
+    "popolazione_femminile": 3736,
+    "popolazione_totale": 7404
+  },
+  {
+    "codice_istat": "013036",
+    "comune": "Cadorago",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4037,
+    "popolazione_femminile": 4014,
+    "popolazione_totale": 8051
+  },
+  {
+    "codice_istat": "013037",
+    "comune": "Caglio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 229,
+    "popolazione_totale": 476
+  },
+  {
+    "codice_istat": "013040",
+    "comune": "Campione d'Italia",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 925,
+    "popolazione_femminile": 923,
+    "popolazione_totale": 1848
+  },
+  {
+    "codice_istat": "013041",
+    "comune": "Cantù",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 19917,
+    "popolazione_femminile": 20534,
+    "popolazione_totale": 40451
+  },
+  {
+    "codice_istat": "013042",
+    "comune": "Canzo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2555,
+    "popolazione_femminile": 2668,
+    "popolazione_totale": 5223
+  },
+  {
+    "codice_istat": "013043",
+    "comune": "Capiago Intimiano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2658,
+    "popolazione_femminile": 2775,
+    "popolazione_totale": 5433
+  },
+  {
+    "codice_istat": "013044",
+    "comune": "Carate Urio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 534,
+    "popolazione_femminile": 556,
+    "popolazione_totale": 1090
+  },
+  {
+    "codice_istat": "013045",
+    "comune": "Carbonate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1485,
+    "popolazione_femminile": 1492,
+    "popolazione_totale": 2977
+  },
+  {
+    "codice_istat": "013046",
+    "comune": "Carimate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2173,
+    "popolazione_femminile": 2201,
+    "popolazione_totale": 4374
+  },
+  {
+    "codice_istat": "013047",
+    "comune": "Carlazzo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1512,
+    "popolazione_femminile": 1634,
+    "popolazione_totale": 3146
+  },
+  {
+    "codice_istat": "013048",
+    "comune": "Carugo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3328,
+    "popolazione_femminile": 3330,
+    "popolazione_totale": 6658
+  },
+  {
+    "codice_istat": "013052",
+    "comune": "Caslino d'Erba",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 823,
+    "popolazione_femminile": 847,
+    "popolazione_totale": 1670
+  },
+  {
+    "codice_istat": "013053",
+    "comune": "Casnate con Bernate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2460,
+    "popolazione_femminile": 2573,
+    "popolazione_totale": 5033
+  },
+  {
+    "codice_istat": "013055",
+    "comune": "Cassina Rizzardi",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1616,
+    "popolazione_femminile": 1647,
+    "popolazione_totale": 3263
+  },
+  {
+    "codice_istat": "013058",
+    "comune": "Castelmarte",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 669,
+    "popolazione_femminile": 598,
+    "popolazione_totale": 1267
+  },
+  {
+    "codice_istat": "013059",
+    "comune": "Castelnuovo Bozzente",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 457,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 916
+  },
+  {
+    "codice_istat": "013062",
+    "comune": "Cavargna",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 92,
+    "popolazione_femminile": 79,
+    "popolazione_totale": 171
+  },
+  {
+    "codice_istat": "013254",
+    "comune": "Centro Valle Intelvi",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1878,
+    "popolazione_femminile": 1900,
+    "popolazione_totale": 3778
+  },
+  {
+    "codice_istat": "013063",
+    "comune": "Cerano d'Intelvi",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 318,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "013064",
+    "comune": "Cermenate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4676,
+    "popolazione_femminile": 4781,
+    "popolazione_totale": 9457
+  },
+  {
+    "codice_istat": "013065",
+    "comune": "Cernobbio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2940,
+    "popolazione_femminile": 3212,
+    "popolazione_totale": 6152
+  },
+  {
+    "codice_istat": "013068",
+    "comune": "Cirimido",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1118,
+    "popolazione_femminile": 1080,
+    "popolazione_totale": 2198
+  },
+  {
+    "codice_istat": "013071",
+    "comune": "Claino con Osteno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 286,
+    "popolazione_femminile": 257,
+    "popolazione_totale": 543
+  },
+  {
+    "codice_istat": "013074",
+    "comune": "Colonno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 215,
+    "popolazione_totale": 432
+  },
+  {
+    "codice_istat": "013251",
+    "comune": "Colverde",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2729,
+    "popolazione_femminile": 2824,
+    "popolazione_totale": 5553
+  },
+  {
+    "codice_istat": "013075",
+    "comune": "Como",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 40433,
+    "popolazione_femminile": 42602,
+    "popolazione_totale": 83035,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "013077",
+    "comune": "Corrido",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 426,
+    "popolazione_femminile": 419,
+    "popolazione_totale": 845
+  },
+  {
+    "codice_istat": "013083",
+    "comune": "Cremia",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 333,
+    "popolazione_femminile": 341,
+    "popolazione_totale": 674
+  },
+  {
+    "codice_istat": "013084",
+    "comune": "Cucciago",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1686,
+    "popolazione_femminile": 1679,
+    "popolazione_totale": 3365
+  },
+  {
+    "codice_istat": "013085",
+    "comune": "Cusino",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 131,
+    "popolazione_femminile": 119,
+    "popolazione_totale": 250
+  },
+  {
+    "codice_istat": "013087",
+    "comune": "Dizzasco",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 308,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 642
+  },
+  {
+    "codice_istat": "013089",
+    "comune": "Domaso",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 685,
+    "popolazione_femminile": 707,
+    "popolazione_totale": 1392
+  },
+  {
+    "codice_istat": "013090",
+    "comune": "Dongo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1555,
+    "popolazione_femminile": 1603,
+    "popolazione_totale": 3158
+  },
+  {
+    "codice_istat": "013092",
+    "comune": "Dosso del Liro",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 114,
+    "popolazione_femminile": 121,
+    "popolazione_totale": 235
+  },
+  {
+    "codice_istat": "013095",
+    "comune": "Erba",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7931,
+    "popolazione_femminile": 8335,
+    "popolazione_totale": 16266
+  },
+  {
+    "codice_istat": "013097",
+    "comune": "Eupilio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1274,
+    "popolazione_femminile": 1252,
+    "popolazione_totale": 2526
+  },
+  {
+    "codice_istat": "013098",
+    "comune": "Faggeto Lario",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 542,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1063
+  },
+  {
+    "codice_istat": "013099",
+    "comune": "Faloppio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2395,
+    "popolazione_femminile": 2487,
+    "popolazione_totale": 4882
+  },
+  {
+    "codice_istat": "013100",
+    "comune": "Fenegrò",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1703,
+    "popolazione_femminile": 1623,
+    "popolazione_totale": 3326
+  },
+  {
+    "codice_istat": "013101",
+    "comune": "Figino Serenza",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2453,
+    "popolazione_femminile": 2519,
+    "popolazione_totale": 4972
+  },
+  {
+    "codice_istat": "013102",
+    "comune": "Fino Mornasco",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5111,
+    "popolazione_femminile": 5028,
+    "popolazione_totale": 10139
+  },
+  {
+    "codice_istat": "013106",
+    "comune": "Garzeno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 323,
+    "popolazione_femminile": 333,
+    "popolazione_totale": 656
+  },
+  {
+    "codice_istat": "013107",
+    "comune": "Gera Lario",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1065
+  },
+  {
+    "codice_istat": "013110",
+    "comune": "Grandate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1342,
+    "popolazione_femminile": 1461,
+    "popolazione_totale": 2803
+  },
+  {
+    "codice_istat": "013111",
+    "comune": "Grandola ed Uniti",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 650,
+    "popolazione_femminile": 639,
+    "popolazione_totale": 1289
+  },
+  {
+    "codice_istat": "013249",
+    "comune": "Gravedona ed Uniti",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1969,
+    "popolazione_femminile": 2063,
+    "popolazione_totale": 4032
+  },
+  {
+    "codice_istat": "013113",
+    "comune": "Griante",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 273,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 553
+  },
+  {
+    "codice_istat": "013114",
+    "comune": "Guanzate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2885,
+    "popolazione_femminile": 2925,
+    "popolazione_totale": 5810
+  },
+  {
+    "codice_istat": "013118",
+    "comune": "Inverigo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4550,
+    "popolazione_femminile": 4599,
+    "popolazione_totale": 9149
+  },
+  {
+    "codice_istat": "013119",
+    "comune": "Laglio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 438,
+    "popolazione_totale": 813
+  },
+  {
+    "codice_istat": "013120",
+    "comune": "Laino",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 288,
+    "popolazione_femminile": 278,
+    "popolazione_totale": 566
+  },
+  {
+    "codice_istat": "013121",
+    "comune": "Lambrugo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1270,
+    "popolazione_femminile": 1274,
+    "popolazione_totale": 2544
+  },
+  {
+    "codice_istat": "013123",
+    "comune": "Lasnigo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 220,
+    "popolazione_femminile": 224,
+    "popolazione_totale": 444
+  },
+  {
+    "codice_istat": "013126",
+    "comune": "Lezzeno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 900,
+    "popolazione_femminile": 956,
+    "popolazione_totale": 1856
+  },
+  {
+    "codice_istat": "013128",
+    "comune": "Limido Comasco",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1965,
+    "popolazione_femminile": 1960,
+    "popolazione_totale": 3925
+  },
+  {
+    "codice_istat": "013129",
+    "comune": "Lipomo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2855,
+    "popolazione_femminile": 3014,
+    "popolazione_totale": 5869
+  },
+  {
+    "codice_istat": "013130",
+    "comune": "Livo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 90,
+    "popolazione_femminile": 68,
+    "popolazione_totale": 158
+  },
+  {
+    "codice_istat": "013131",
+    "comune": "Locate Varesino",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2158,
+    "popolazione_femminile": 2145,
+    "popolazione_totale": 4303
+  },
+  {
+    "codice_istat": "013133",
+    "comune": "Lomazzo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4915,
+    "popolazione_femminile": 5131,
+    "popolazione_totale": 10046
+  },
+  {
+    "codice_istat": "013134",
+    "comune": "Longone al Segrino",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 960,
+    "popolazione_femminile": 1024,
+    "popolazione_totale": 1984
+  },
+  {
+    "codice_istat": "013135",
+    "comune": "Luisago",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1407,
+    "popolazione_femminile": 1427,
+    "popolazione_totale": 2834
+  },
+  {
+    "codice_istat": "013136",
+    "comune": "Lurago d'Erba",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2753,
+    "popolazione_femminile": 2834,
+    "popolazione_totale": 5587
+  },
+  {
+    "codice_istat": "013137",
+    "comune": "Lurago Marinone",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1304,
+    "popolazione_femminile": 1294,
+    "popolazione_totale": 2598
+  },
+  {
+    "codice_istat": "013138",
+    "comune": "Lurate Caccivio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4763,
+    "popolazione_femminile": 4929,
+    "popolazione_totale": 9692
+  },
+  {
+    "codice_istat": "013139",
+    "comune": "Magreglio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 344,
+    "popolazione_femminile": 329,
+    "popolazione_totale": 673
+  },
+  {
+    "codice_istat": "013143",
+    "comune": "Mariano Comense",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 12668,
+    "popolazione_femminile": 12863,
+    "popolazione_totale": 25531
+  },
+  {
+    "codice_istat": "013144",
+    "comune": "Maslianico",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1573,
+    "popolazione_femminile": 1589,
+    "popolazione_totale": 3162
+  },
+  {
+    "codice_istat": "013145",
+    "comune": "Menaggio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1456,
+    "popolazione_femminile": 1490,
+    "popolazione_totale": 2946
+  },
+  {
+    "codice_istat": "013147",
+    "comune": "Merone",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2004,
+    "popolazione_femminile": 1999,
+    "popolazione_totale": 4003
+  },
+  {
+    "codice_istat": "013152",
+    "comune": "Moltrasio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 787,
+    "popolazione_totale": 1485
+  },
+  {
+    "codice_istat": "013153",
+    "comune": "Monguzzo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1192,
+    "popolazione_femminile": 1189,
+    "popolazione_totale": 2381
+  },
+  {
+    "codice_istat": "013154",
+    "comune": "Montano Lucino",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2712,
+    "popolazione_femminile": 2767,
+    "popolazione_totale": 5479
+  },
+  {
+    "codice_istat": "013155",
+    "comune": "Montemezzo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 106,
+    "popolazione_femminile": 97,
+    "popolazione_totale": 203
+  },
+  {
+    "codice_istat": "013157",
+    "comune": "Montorfano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1195,
+    "popolazione_femminile": 1299,
+    "popolazione_totale": 2494
+  },
+  {
+    "codice_istat": "013159",
+    "comune": "Mozzate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4291,
+    "popolazione_femminile": 4393,
+    "popolazione_totale": 8684
+  },
+  {
+    "codice_istat": "013160",
+    "comune": "Musso",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 935
+  },
+  {
+    "codice_istat": "013161",
+    "comune": "Nesso",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 534,
+    "popolazione_totale": 1074
+  },
+  {
+    "codice_istat": "013163",
+    "comune": "Novedrate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1453,
+    "popolazione_femminile": 1418,
+    "popolazione_totale": 2871
+  },
+  {
+    "codice_istat": "013165",
+    "comune": "Olgiate Comasco",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6038,
+    "popolazione_femminile": 6146,
+    "popolazione_totale": 12184
+  },
+  {
+    "codice_istat": "013169",
+    "comune": "Oltrona di San Mamette",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1152,
+    "popolazione_femminile": 1204,
+    "popolazione_totale": 2356
+  },
+  {
+    "codice_istat": "013170",
+    "comune": "Orsenigo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1317,
+    "popolazione_femminile": 1321,
+    "popolazione_totale": 2638
+  },
+  {
+    "codice_istat": "013178",
+    "comune": "Peglio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 92,
+    "popolazione_femminile": 101,
+    "popolazione_totale": 193
+  },
+  {
+    "codice_istat": "013183",
+    "comune": "Pianello del Lario",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 542,
+    "popolazione_totale": 1074
+  },
+  {
+    "codice_istat": "013184",
+    "comune": "Pigra",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 120,
+    "popolazione_femminile": 109,
+    "popolazione_totale": 229
+  },
+  {
+    "codice_istat": "013185",
+    "comune": "Plesio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 389,
+    "popolazione_totale": 807
+  },
+  {
+    "codice_istat": "013186",
+    "comune": "Pognana Lario",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 329,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 657
+  },
+  {
+    "codice_istat": "013187",
+    "comune": "Ponna",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 114,
+    "popolazione_femminile": 109,
+    "popolazione_totale": 223
+  },
+  {
+    "codice_istat": "013188",
+    "comune": "Ponte Lambro",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2111,
+    "popolazione_femminile": 2155,
+    "popolazione_totale": 4266
+  },
+  {
+    "codice_istat": "013189",
+    "comune": "Porlezza",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2398,
+    "popolazione_femminile": 2503,
+    "popolazione_totale": 4901
+  },
+  {
+    "codice_istat": "013192",
+    "comune": "Proserpio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 469,
+    "popolazione_femminile": 482,
+    "popolazione_totale": 951
+  },
+  {
+    "codice_istat": "013193",
+    "comune": "Pusiano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 633,
+    "popolazione_femminile": 668,
+    "popolazione_totale": 1301
+  },
+  {
+    "codice_istat": "013195",
+    "comune": "Rezzago",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 174,
+    "popolazione_femminile": 137,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "013197",
+    "comune": "Rodero",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 655,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1282
+  },
+  {
+    "codice_istat": "013201",
+    "comune": "Rovellasca",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3955,
+    "popolazione_femminile": 4073,
+    "popolazione_totale": 8028
+  },
+  {
+    "codice_istat": "013202",
+    "comune": "Rovello Porro",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3151,
+    "popolazione_femminile": 3236,
+    "popolazione_totale": 6387
+  },
+  {
+    "codice_istat": "013203",
+    "comune": "Sala Comacina",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 219,
+    "popolazione_femminile": 237,
+    "popolazione_totale": 456
+  },
+  {
+    "codice_istat": "013204",
+    "comune": "San Bartolomeo Val Cavargna",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 446,
+    "popolazione_femminile": 480,
+    "popolazione_totale": 926
+  },
+  {
+    "codice_istat": "013206",
+    "comune": "San Fermo della Battaglia",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3750,
+    "popolazione_femminile": 4020,
+    "popolazione_totale": 7770
+  },
+  {
+    "codice_istat": "013207",
+    "comune": "San Nazzaro Val Cavargna",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 136,
+    "popolazione_femminile": 120,
+    "popolazione_totale": 256
+  },
+  {
+    "codice_istat": "013248",
+    "comune": "San Siro",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 833,
+    "popolazione_femminile": 839,
+    "popolazione_totale": 1672
+  },
+  {
+    "codice_istat": "013211",
+    "comune": "Schignano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 457,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 868
+  },
+  {
+    "codice_istat": "013212",
+    "comune": "Senna Comasco",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1570,
+    "popolazione_femminile": 1604,
+    "popolazione_totale": 3174
+  },
+  {
+    "codice_istat": "013255",
+    "comune": "Solbiate con Cagno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2276,
+    "popolazione_femminile": 2362,
+    "popolazione_totale": 4638
+  },
+  {
+    "codice_istat": "013216",
+    "comune": "Sorico",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 634,
+    "popolazione_femminile": 609,
+    "popolazione_totale": 1243
+  },
+  {
+    "codice_istat": "013217",
+    "comune": "Sormano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 395,
+    "popolazione_femminile": 297,
+    "popolazione_totale": 692
+  },
+  {
+    "codice_istat": "013218",
+    "comune": "Stazzona",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 289,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "013222",
+    "comune": "Tavernerio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2746,
+    "popolazione_femminile": 2840,
+    "popolazione_totale": 5586
+  },
+  {
+    "codice_istat": "013223",
+    "comune": "Torno",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 503,
+    "popolazione_femminile": 527,
+    "popolazione_totale": 1030
+  },
+  {
+    "codice_istat": "013252",
+    "comune": "Tremezzina",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2430,
+    "popolazione_femminile": 2512,
+    "popolazione_totale": 4942
+  },
+  {
+    "codice_istat": "013226",
+    "comune": "Trezzone",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 119,
+    "popolazione_femminile": 112,
+    "popolazione_totale": 231
+  },
+  {
+    "codice_istat": "013227",
+    "comune": "Turate",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4982,
+    "popolazione_femminile": 4929,
+    "popolazione_totale": 9911
+  },
+  {
+    "codice_istat": "013256",
+    "comune": "Uggiate con Ronago",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3375,
+    "popolazione_femminile": 3450,
+    "popolazione_totale": 6825
+  },
+  {
+    "codice_istat": "013233",
+    "comune": "Val Rezzo",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 85,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 172
+  },
+  {
+    "codice_istat": "013229",
+    "comune": "Valbrona",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1312,
+    "popolazione_femminile": 1310,
+    "popolazione_totale": 2622
+  },
+  {
+    "codice_istat": "013232",
+    "comune": "Valmorea",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1278,
+    "popolazione_femminile": 1317,
+    "popolazione_totale": 2595
+  },
+  {
+    "codice_istat": "013234",
+    "comune": "Valsolda",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 710,
+    "popolazione_femminile": 724,
+    "popolazione_totale": 1434
+  },
+  {
+    "codice_istat": "013236",
+    "comune": "Veleso",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 95,
+    "popolazione_totale": 195
+  },
+  {
+    "codice_istat": "013238",
+    "comune": "Veniano",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1544,
+    "popolazione_femminile": 1613,
+    "popolazione_totale": 3157
+  },
+  {
+    "codice_istat": "013239",
+    "comune": "Vercana",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 373,
+    "popolazione_femminile": 359,
+    "popolazione_totale": 732
+  },
+  {
+    "codice_istat": "013242",
+    "comune": "Vertemate con Minoprio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2073,
+    "popolazione_femminile": 2116,
+    "popolazione_totale": 4189
+  },
+  {
+    "codice_istat": "013245",
+    "comune": "Villa Guardia",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3851,
+    "popolazione_femminile": 4016,
+    "popolazione_totale": 7867
+  },
+  {
+    "codice_istat": "013246",
+    "comune": "Zelbio",
+    "provincia": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 105,
+    "popolazione_femminile": 77,
+    "popolazione_totale": 182
+  }
+]

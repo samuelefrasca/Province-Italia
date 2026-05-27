@@ -1,0 +1,773 @@
+[
+  {
+    "codice_istat": "014001",
+    "comune": "Albaredo per San Marco",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 145,
+    "popolazione_femminile": 133,
+    "popolazione_totale": 278
+  },
+  {
+    "codice_istat": "014002",
+    "comune": "Albosaggia",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1486,
+    "popolazione_femminile": 1520,
+    "popolazione_totale": 3006
+  },
+  {
+    "codice_istat": "014003",
+    "comune": "Andalo Valtellino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 322,
+    "popolazione_femminile": 279,
+    "popolazione_totale": 601
+  },
+  {
+    "codice_istat": "014004",
+    "comune": "Aprica",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 735,
+    "popolazione_totale": 1433
+  },
+  {
+    "codice_istat": "014005",
+    "comune": "Ardenno",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1638,
+    "popolazione_femminile": 1590,
+    "popolazione_totale": 3228
+  },
+  {
+    "codice_istat": "014006",
+    "comune": "Bema",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 59,
+    "popolazione_femminile": 58,
+    "popolazione_totale": 117
+  },
+  {
+    "codice_istat": "014007",
+    "comune": "Berbenno di Valtellina",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2064,
+    "popolazione_femminile": 2002,
+    "popolazione_totale": 4066
+  },
+  {
+    "codice_istat": "014008",
+    "comune": "Bianzone",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 637,
+    "popolazione_femminile": 626,
+    "popolazione_totale": 1263
+  },
+  {
+    "codice_istat": "014009",
+    "comune": "Bormio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1924,
+    "popolazione_femminile": 1984,
+    "popolazione_totale": 3908
+  },
+  {
+    "codice_istat": "014010",
+    "comune": "Buglio in Monte",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1025,
+    "popolazione_femminile": 1032,
+    "popolazione_totale": 2057
+  },
+  {
+    "codice_istat": "014011",
+    "comune": "Caiolo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 1034
+  },
+  {
+    "codice_istat": "014012",
+    "comune": "Campodolcino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 914
+  },
+  {
+    "codice_istat": "014013",
+    "comune": "Caspoggio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 664,
+    "popolazione_femminile": 652,
+    "popolazione_totale": 1316
+  },
+  {
+    "codice_istat": "014014",
+    "comune": "Castello dell'Acqua",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 303,
+    "popolazione_totale": 607
+  },
+  {
+    "codice_istat": "014015",
+    "comune": "Castione Andevenno",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 792,
+    "popolazione_femminile": 780,
+    "popolazione_totale": 1572
+  },
+  {
+    "codice_istat": "014016",
+    "comune": "Cedrasco",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 200,
+    "popolazione_femminile": 223,
+    "popolazione_totale": 423
+  },
+  {
+    "codice_istat": "014017",
+    "comune": "Cercino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 411,
+    "popolazione_femminile": 395,
+    "popolazione_totale": 806
+  },
+  {
+    "codice_istat": "014018",
+    "comune": "Chiavenna",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3470,
+    "popolazione_femminile": 3824,
+    "popolazione_totale": 7294
+  },
+  {
+    "codice_istat": "014019",
+    "comune": "Chiesa in Valmalenco",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1109,
+    "popolazione_femminile": 1110,
+    "popolazione_totale": 2219
+  },
+  {
+    "codice_istat": "014020",
+    "comune": "Chiuro",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1191,
+    "popolazione_femminile": 1243,
+    "popolazione_totale": 2434
+  },
+  {
+    "codice_istat": "014021",
+    "comune": "Cino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 171,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 338
+  },
+  {
+    "codice_istat": "014022",
+    "comune": "Civo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 588,
+    "popolazione_femminile": 551,
+    "popolazione_totale": 1139
+  },
+  {
+    "codice_istat": "014023",
+    "comune": "Colorina",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 717,
+    "popolazione_femminile": 640,
+    "popolazione_totale": 1357
+  },
+  {
+    "codice_istat": "014024",
+    "comune": "Cosio Valtellino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2832,
+    "popolazione_femminile": 2754,
+    "popolazione_totale": 5586
+  },
+  {
+    "codice_istat": "014025",
+    "comune": "Dazio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 255,
+    "popolazione_femminile": 266,
+    "popolazione_totale": 521
+  },
+  {
+    "codice_istat": "014026",
+    "comune": "Delebio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1697,
+    "popolazione_femminile": 1656,
+    "popolazione_totale": 3353
+  },
+  {
+    "codice_istat": "014027",
+    "comune": "Dubino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1944,
+    "popolazione_femminile": 1903,
+    "popolazione_totale": 3847
+  },
+  {
+    "codice_istat": "014028",
+    "comune": "Faedo Valtellino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 508
+  },
+  {
+    "codice_istat": "014029",
+    "comune": "Forcola",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 387,
+    "popolazione_femminile": 366,
+    "popolazione_totale": 753
+  },
+  {
+    "codice_istat": "014030",
+    "comune": "Fusine",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 270,
+    "popolazione_totale": 545
+  },
+  {
+    "codice_istat": "014031",
+    "comune": "Gerola Alta",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 91,
+    "popolazione_femminile": 67,
+    "popolazione_totale": 158
+  },
+  {
+    "codice_istat": "014032",
+    "comune": "Gordona",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 980,
+    "popolazione_femminile": 976,
+    "popolazione_totale": 1956
+  },
+  {
+    "codice_istat": "014033",
+    "comune": "Grosio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2030,
+    "popolazione_femminile": 2200,
+    "popolazione_totale": 4230
+  },
+  {
+    "codice_istat": "014034",
+    "comune": "Grosotto",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 810,
+    "popolazione_femminile": 831,
+    "popolazione_totale": 1641
+  },
+  {
+    "codice_istat": "014036",
+    "comune": "Lanzada",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1227
+  },
+  {
+    "codice_istat": "014037",
+    "comune": "Livigno",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3451,
+    "popolazione_femminile": 3212,
+    "popolazione_totale": 6663
+  },
+  {
+    "codice_istat": "014038",
+    "comune": "Lovero",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 309,
+    "popolazione_femminile": 299,
+    "popolazione_totale": 608
+  },
+  {
+    "codice_istat": "014035",
+    "comune": "Madesimo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 505
+  },
+  {
+    "codice_istat": "014039",
+    "comune": "Mantello",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 382,
+    "popolazione_totale": 747
+  },
+  {
+    "codice_istat": "014040",
+    "comune": "Mazzo di Valtellina",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 496,
+    "popolazione_femminile": 513,
+    "popolazione_totale": 1009
+  },
+  {
+    "codice_istat": "014041",
+    "comune": "Mello",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 482,
+    "popolazione_femminile": 468,
+    "popolazione_totale": 950
+  },
+  {
+    "codice_istat": "014043",
+    "comune": "Mese",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 926,
+    "popolazione_femminile": 963,
+    "popolazione_totale": 1889
+  },
+  {
+    "codice_istat": "014044",
+    "comune": "Montagna in Valtellina",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1394,
+    "popolazione_femminile": 1551,
+    "popolazione_totale": 2945
+  },
+  {
+    "codice_istat": "014045",
+    "comune": "Morbegno",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6044,
+    "popolazione_femminile": 6377,
+    "popolazione_totale": 12421
+  },
+  {
+    "codice_istat": "014046",
+    "comune": "Novate Mezzola",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 942,
+    "popolazione_femminile": 981,
+    "popolazione_totale": 1923
+  },
+  {
+    "codice_istat": "014047",
+    "comune": "Pedesina",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 21,
+    "popolazione_femminile": 19,
+    "popolazione_totale": 40
+  },
+  {
+    "codice_istat": "014048",
+    "comune": "Piantedo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1425
+  },
+  {
+    "codice_istat": "014049",
+    "comune": "Piateda",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1014,
+    "popolazione_femminile": 1045,
+    "popolazione_totale": 2059
+  },
+  {
+    "codice_istat": "014050",
+    "comune": "Piuro",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 947,
+    "popolazione_femminile": 970,
+    "popolazione_totale": 1917
+  },
+  {
+    "codice_istat": "014051",
+    "comune": "Poggiridenti",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 898,
+    "popolazione_femminile": 927,
+    "popolazione_totale": 1825
+  },
+  {
+    "codice_istat": "014052",
+    "comune": "Ponte in Valtellina",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1111,
+    "popolazione_femminile": 1106,
+    "popolazione_totale": 2217
+  },
+  {
+    "codice_istat": "014053",
+    "comune": "Postalesio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 328,
+    "popolazione_femminile": 319,
+    "popolazione_totale": 647
+  },
+  {
+    "codice_istat": "014054",
+    "comune": "Prata Camportaccio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1484,
+    "popolazione_femminile": 1458,
+    "popolazione_totale": 2942
+  },
+  {
+    "codice_istat": "014055",
+    "comune": "Rasura",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 146,
+    "popolazione_femminile": 131,
+    "popolazione_totale": 277
+  },
+  {
+    "codice_istat": "014056",
+    "comune": "Rogolo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 283,
+    "popolazione_femminile": 292,
+    "popolazione_totale": 575
+  },
+  {
+    "codice_istat": "014057",
+    "comune": "Samolaco",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1415,
+    "popolazione_femminile": 1456,
+    "popolazione_totale": 2871
+  },
+  {
+    "codice_istat": "014058",
+    "comune": "San Giacomo Filippo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 193,
+    "popolazione_femminile": 178,
+    "popolazione_totale": 371
+  },
+  {
+    "codice_istat": "014059",
+    "comune": "Sernio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 500
+  },
+  {
+    "codice_istat": "014060",
+    "comune": "Sondalo",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1922,
+    "popolazione_femminile": 1937,
+    "popolazione_totale": 3859
+  },
+  {
+    "codice_istat": "014061",
+    "comune": "Sondrio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10222,
+    "popolazione_femminile": 11273,
+    "popolazione_totale": 21495,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "014062",
+    "comune": "Spriana",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 41,
+    "popolazione_femminile": 44,
+    "popolazione_totale": 85
+  },
+  {
+    "codice_istat": "014063",
+    "comune": "Talamona",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2291,
+    "popolazione_femminile": 2291,
+    "popolazione_totale": 4582
+  },
+  {
+    "codice_istat": "014064",
+    "comune": "Tartano",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 109,
+    "popolazione_femminile": 89,
+    "popolazione_totale": 198
+  },
+  {
+    "codice_istat": "014065",
+    "comune": "Teglio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2331,
+    "popolazione_femminile": 2352,
+    "popolazione_totale": 4683
+  },
+  {
+    "codice_istat": "014066",
+    "comune": "Tirano",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4267,
+    "popolazione_femminile": 4582,
+    "popolazione_totale": 8849
+  },
+  {
+    "codice_istat": "014067",
+    "comune": "Torre di Santa Maria",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 352,
+    "popolazione_totale": 712
+  },
+  {
+    "codice_istat": "014068",
+    "comune": "Tovo di Sant'Agata",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 313,
+    "popolazione_femminile": 298,
+    "popolazione_totale": 611
+  },
+  {
+    "codice_istat": "014069",
+    "comune": "Traona",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1512,
+    "popolazione_femminile": 1391,
+    "popolazione_totale": 2903
+  },
+  {
+    "codice_istat": "014070",
+    "comune": "Tresivio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1020,
+    "popolazione_femminile": 1018,
+    "popolazione_totale": 2038
+  },
+  {
+    "codice_istat": "014074",
+    "comune": "Val Masino",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 825
+  },
+  {
+    "codice_istat": "014071",
+    "comune": "Valdidentro",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2095,
+    "popolazione_femminile": 2012,
+    "popolazione_totale": 4107
+  },
+  {
+    "codice_istat": "014072",
+    "comune": "Valdisotto",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1774,
+    "popolazione_femminile": 1755,
+    "popolazione_totale": 3529
+  },
+  {
+    "codice_istat": "014073",
+    "comune": "Valfurva",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1215,
+    "popolazione_femminile": 1216,
+    "popolazione_totale": 2431
+  },
+  {
+    "codice_istat": "014075",
+    "comune": "Verceia",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 555,
+    "popolazione_totale": 1091
+  },
+  {
+    "codice_istat": "014076",
+    "comune": "Vervio",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 111,
+    "popolazione_femminile": 93,
+    "popolazione_totale": 204
+  },
+  {
+    "codice_istat": "014077",
+    "comune": "Villa di Chiavenna",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 516,
+    "popolazione_femminile": 476,
+    "popolazione_totale": 992
+  },
+  {
+    "codice_istat": "014078",
+    "comune": "Villa di Tirano",
+    "provincia": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1508,
+    "popolazione_femminile": 1505,
+    "popolazione_totale": 3013
+  }
+]

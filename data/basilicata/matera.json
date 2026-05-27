@@ -1,0 +1,313 @@
+[
+  {
+    "codice_istat": "077001",
+    "comune": "Accettura",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 773,
+    "popolazione_femminile": 802,
+    "popolazione_totale": 1575
+  },
+  {
+    "codice_istat": "077002",
+    "comune": "Aliano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 401,
+    "popolazione_femminile": 403,
+    "popolazione_totale": 804
+  },
+  {
+    "codice_istat": "077003",
+    "comune": "Bernalda",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 6087,
+    "popolazione_femminile": 5835,
+    "popolazione_totale": 11922
+  },
+  {
+    "codice_istat": "077004",
+    "comune": "Calciano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 312,
+    "popolazione_femminile": 304,
+    "popolazione_totale": 616
+  },
+  {
+    "codice_istat": "077005",
+    "comune": "Cirigliano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 129,
+    "popolazione_femminile": 150,
+    "popolazione_totale": 279
+  },
+  {
+    "codice_istat": "077006",
+    "comune": "Colobraro",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 518,
+    "popolazione_femminile": 496,
+    "popolazione_totale": 1014
+  },
+  {
+    "codice_istat": "077007",
+    "comune": "Craco",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 284,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 570
+  },
+  {
+    "codice_istat": "077008",
+    "comune": "Ferrandina",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3899,
+    "popolazione_femminile": 3914,
+    "popolazione_totale": 7813
+  },
+  {
+    "codice_istat": "077009",
+    "comune": "Garaguso",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 440,
+    "popolazione_femminile": 447,
+    "popolazione_totale": 887
+  },
+  {
+    "codice_istat": "077010",
+    "comune": "Gorgoglione",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 427,
+    "popolazione_femminile": 401,
+    "popolazione_totale": 828
+  },
+  {
+    "codice_istat": "077011",
+    "comune": "Grassano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2258,
+    "popolazione_femminile": 2272,
+    "popolazione_totale": 4530
+  },
+  {
+    "codice_istat": "077012",
+    "comune": "Grottole",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 969,
+    "popolazione_femminile": 966,
+    "popolazione_totale": 1935
+  },
+  {
+    "codice_istat": "077013",
+    "comune": "Irsina",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2253,
+    "popolazione_femminile": 2039,
+    "popolazione_totale": 4292
+  },
+  {
+    "codice_istat": "077014",
+    "comune": "Matera",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 29182,
+    "popolazione_femminile": 30186,
+    "popolazione_totale": 59368,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "077015",
+    "comune": "Miglionico",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1236,
+    "popolazione_femminile": 1100,
+    "popolazione_totale": 2336
+  },
+  {
+    "codice_istat": "077016",
+    "comune": "Montalbano Jonico",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3151,
+    "popolazione_femminile": 3310,
+    "popolazione_totale": 6461
+  },
+  {
+    "codice_istat": "077017",
+    "comune": "Montescaglioso",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 4579,
+    "popolazione_femminile": 4618,
+    "popolazione_totale": 9197
+  },
+  {
+    "codice_istat": "077018",
+    "comune": "Nova Siri",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3467,
+    "popolazione_femminile": 3381,
+    "popolazione_totale": 6848
+  },
+  {
+    "codice_istat": "077019",
+    "comune": "Oliveto Lucano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 161,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 328
+  },
+  {
+    "codice_istat": "077020",
+    "comune": "Pisticci",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 8319,
+    "popolazione_femminile": 8175,
+    "popolazione_totale": 16494
+  },
+  {
+    "codice_istat": "077021",
+    "comune": "Policoro",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 8720,
+    "popolazione_femminile": 9007,
+    "popolazione_totale": 17727
+  },
+  {
+    "codice_istat": "077022",
+    "comune": "Pomarico",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1807,
+    "popolazione_femminile": 1850,
+    "popolazione_totale": 3657
+  },
+  {
+    "codice_istat": "077023",
+    "comune": "Rotondella",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1101,
+    "popolazione_femminile": 1208,
+    "popolazione_totale": 2309
+  },
+  {
+    "codice_istat": "077024",
+    "comune": "Salandra",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1181,
+    "popolazione_femminile": 1210,
+    "popolazione_totale": 2391
+  },
+  {
+    "codice_istat": "077025",
+    "comune": "San Giorgio Lucano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 504,
+    "popolazione_femminile": 482,
+    "popolazione_totale": 986
+  },
+  {
+    "codice_istat": "077026",
+    "comune": "San Mauro Forte",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 604,
+    "popolazione_femminile": 564,
+    "popolazione_totale": 1168
+  },
+  {
+    "codice_istat": "077031",
+    "comune": "Scanzano Jonico",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3760,
+    "popolazione_femminile": 3715,
+    "popolazione_totale": 7475
+  },
+  {
+    "codice_istat": "077027",
+    "comune": "Stigliano",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1610,
+    "popolazione_femminile": 1759,
+    "popolazione_totale": 3369
+  },
+  {
+    "codice_istat": "077028",
+    "comune": "Tricarico",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2295,
+    "popolazione_femminile": 2334,
+    "popolazione_totale": 4629
+  },
+  {
+    "codice_istat": "077029",
+    "comune": "Tursi",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2333,
+    "popolazione_femminile": 2326,
+    "popolazione_totale": 4659
+  },
+  {
+    "codice_istat": "077030",
+    "comune": "Valsinni",
+    "provincia": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "popolazione_maschile": 636,
+    "popolazione_femminile": 651,
+    "popolazione_totale": 1287
+  }
+]

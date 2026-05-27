@@ -1,0 +1,463 @@
+[
+  {
+    "codice_istat": "033001",
+    "comune": "Agazzano",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1015,
+    "popolazione_femminile": 1039,
+    "popolazione_totale": 2054
+  },
+  {
+    "codice_istat": "033002",
+    "comune": "Alseno",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2382,
+    "popolazione_femminile": 2403,
+    "popolazione_totale": 4785
+  },
+  {
+    "codice_istat": "033049",
+    "comune": "Alta Val Tidone",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1501,
+    "popolazione_femminile": 1426,
+    "popolazione_totale": 2927
+  },
+  {
+    "codice_istat": "033003",
+    "comune": "Besenzone",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 498,
+    "popolazione_femminile": 438,
+    "popolazione_totale": 936
+  },
+  {
+    "codice_istat": "033004",
+    "comune": "Bettola",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1367,
+    "popolazione_femminile": 1260,
+    "popolazione_totale": 2627
+  },
+  {
+    "codice_istat": "033005",
+    "comune": "Bobbio",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1599,
+    "popolazione_femminile": 1745,
+    "popolazione_totale": 3344
+  },
+  {
+    "codice_istat": "033006",
+    "comune": "Borgonovo Val Tidone",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4234,
+    "popolazione_femminile": 4071,
+    "popolazione_totale": 8305
+  },
+  {
+    "codice_istat": "033007",
+    "comune": "Cadeo",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3029,
+    "popolazione_femminile": 3087,
+    "popolazione_totale": 6116
+  },
+  {
+    "codice_istat": "033008",
+    "comune": "Calendasco",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1246,
+    "popolazione_femminile": 1219,
+    "popolazione_totale": 2465
+  },
+  {
+    "codice_istat": "033010",
+    "comune": "Caorso",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2437,
+    "popolazione_femminile": 2360,
+    "popolazione_totale": 4797
+  },
+  {
+    "codice_istat": "033011",
+    "comune": "Carpaneto Piacentino",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3875,
+    "popolazione_femminile": 3900,
+    "popolazione_totale": 7775
+  },
+  {
+    "codice_istat": "033013",
+    "comune": "Castel San Giovanni",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7270,
+    "popolazione_femminile": 7132,
+    "popolazione_totale": 14402
+  },
+  {
+    "codice_istat": "033012",
+    "comune": "Castell'Arquato",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2304,
+    "popolazione_femminile": 2408,
+    "popolazione_totale": 4712
+  },
+  {
+    "codice_istat": "033014",
+    "comune": "Castelvetro Piacentino",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2714,
+    "popolazione_femminile": 2716,
+    "popolazione_totale": 5430
+  },
+  {
+    "codice_istat": "033015",
+    "comune": "Cerignale",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 63,
+    "popolazione_femminile": 46,
+    "popolazione_totale": 109
+  },
+  {
+    "codice_istat": "033016",
+    "comune": "Coli",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 467,
+    "popolazione_femminile": 410,
+    "popolazione_totale": 877
+  },
+  {
+    "codice_istat": "033017",
+    "comune": "Corte Brugnatella",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 259,
+    "popolazione_femminile": 242,
+    "popolazione_totale": 501
+  },
+  {
+    "codice_istat": "033018",
+    "comune": "Cortemaggiore",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2496,
+    "popolazione_femminile": 2261,
+    "popolazione_totale": 4757
+  },
+  {
+    "codice_istat": "033019",
+    "comune": "Farini",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 529,
+    "popolazione_femminile": 515,
+    "popolazione_totale": 1044
+  },
+  {
+    "codice_istat": "033020",
+    "comune": "Ferriere",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 594,
+    "popolazione_femminile": 487,
+    "popolazione_totale": 1081
+  },
+  {
+    "codice_istat": "033021",
+    "comune": "Fiorenzuola d'Arda",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7442,
+    "popolazione_femminile": 7606,
+    "popolazione_totale": 15048
+  },
+  {
+    "codice_istat": "033022",
+    "comune": "Gazzola",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1132,
+    "popolazione_femminile": 1069,
+    "popolazione_totale": 2201
+  },
+  {
+    "codice_istat": "033023",
+    "comune": "Gossolengo",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2817,
+    "popolazione_femminile": 2878,
+    "popolazione_totale": 5695
+  },
+  {
+    "codice_istat": "033024",
+    "comune": "Gragnano Trebbiense",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2227,
+    "popolazione_femminile": 2288,
+    "popolazione_totale": 4515
+  },
+  {
+    "codice_istat": "033025",
+    "comune": "Gropparello",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1117,
+    "popolazione_femminile": 1056,
+    "popolazione_totale": 2173
+  },
+  {
+    "codice_istat": "033026",
+    "comune": "Lugagnano Val d'Arda",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1982,
+    "popolazione_femminile": 1945,
+    "popolazione_totale": 3927
+  },
+  {
+    "codice_istat": "033027",
+    "comune": "Monticelli d'Ongina",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2622,
+    "popolazione_femminile": 2601,
+    "popolazione_totale": 5223
+  },
+  {
+    "codice_istat": "033028",
+    "comune": "Morfasso",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 444,
+    "popolazione_femminile": 405,
+    "popolazione_totale": 849
+  },
+  {
+    "codice_istat": "033030",
+    "comune": "Ottone",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 229,
+    "popolazione_femminile": 161,
+    "popolazione_totale": 390
+  },
+  {
+    "codice_istat": "033032",
+    "comune": "Piacenza",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 50520,
+    "popolazione_femminile": 53217,
+    "popolazione_totale": 103737,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "033033",
+    "comune": "Pianello Val Tidone",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1078,
+    "popolazione_femminile": 1101,
+    "popolazione_totale": 2179
+  },
+  {
+    "codice_istat": "033034",
+    "comune": "Piozzano",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 309,
+    "popolazione_femminile": 272,
+    "popolazione_totale": 581
+  },
+  {
+    "codice_istat": "033035",
+    "comune": "Podenzano",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4485,
+    "popolazione_femminile": 4560,
+    "popolazione_totale": 9045
+  },
+  {
+    "codice_istat": "033036",
+    "comune": "Ponte dell'Olio",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2307,
+    "popolazione_femminile": 2387,
+    "popolazione_totale": 4694
+  },
+  {
+    "codice_istat": "033037",
+    "comune": "Pontenure",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3327,
+    "popolazione_femminile": 3392,
+    "popolazione_totale": 6719
+  },
+  {
+    "codice_istat": "033038",
+    "comune": "Rivergaro",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3533,
+    "popolazione_femminile": 3639,
+    "popolazione_totale": 7172
+  },
+  {
+    "codice_istat": "033039",
+    "comune": "Rottofreno",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6056,
+    "popolazione_femminile": 6264,
+    "popolazione_totale": 12320
+  },
+  {
+    "codice_istat": "033040",
+    "comune": "San Giorgio Piacentino",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2771,
+    "popolazione_femminile": 2815,
+    "popolazione_totale": 5586
+  },
+  {
+    "codice_istat": "033041",
+    "comune": "San Pietro in Cerro",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 358,
+    "popolazione_totale": 739
+  },
+  {
+    "codice_istat": "033042",
+    "comune": "Sarmato",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1630,
+    "popolazione_femminile": 1478,
+    "popolazione_totale": 3108
+  },
+  {
+    "codice_istat": "033043",
+    "comune": "Travo",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1081,
+    "popolazione_femminile": 1084,
+    "popolazione_totale": 2165
+  },
+  {
+    "codice_istat": "033044",
+    "comune": "Vernasca",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1037,
+    "popolazione_femminile": 992,
+    "popolazione_totale": 2029
+  },
+  {
+    "codice_istat": "033045",
+    "comune": "Vigolzone",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2194,
+    "popolazione_femminile": 2130,
+    "popolazione_totale": 4324
+  },
+  {
+    "codice_istat": "033046",
+    "comune": "Villanova sull'Arda",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 847,
+    "popolazione_femminile": 819,
+    "popolazione_totale": 1666
+  },
+  {
+    "codice_istat": "033047",
+    "comune": "Zerba",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 36,
+    "popolazione_femminile": 30,
+    "popolazione_totale": 66
+  },
+  {
+    "codice_istat": "033048",
+    "comune": "Ziano Piacentino",
+    "provincia": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1330,
+    "popolazione_femminile": 1220,
+    "popolazione_totale": 2550
+  }
+]

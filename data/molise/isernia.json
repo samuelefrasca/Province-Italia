@@ -1,0 +1,523 @@
+[
+  {
+    "codice_istat": "094001",
+    "comune": "Acquaviva d'Isernia",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 183,
+    "popolazione_femminile": 163,
+    "popolazione_totale": 346
+  },
+  {
+    "codice_istat": "094002",
+    "comune": "Agnone",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 2353,
+    "popolazione_femminile": 2192,
+    "popolazione_totale": 4545
+  },
+  {
+    "codice_istat": "094003",
+    "comune": "Bagnoli del Trigno",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 320,
+    "popolazione_femminile": 287,
+    "popolazione_totale": 607
+  },
+  {
+    "codice_istat": "094004",
+    "comune": "Belmonte del Sannio",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 287,
+    "popolazione_femminile": 315,
+    "popolazione_totale": 602
+  },
+  {
+    "codice_istat": "094005",
+    "comune": "Cantalupo nel Sannio",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 333,
+    "popolazione_totale": 726
+  },
+  {
+    "codice_istat": "094006",
+    "comune": "Capracotta",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 361,
+    "popolazione_totale": 742
+  },
+  {
+    "codice_istat": "094007",
+    "comune": "Carovilli",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 610,
+    "popolazione_totale": 1240
+  },
+  {
+    "codice_istat": "094008",
+    "comune": "Carpinone",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 469,
+    "popolazione_femminile": 511,
+    "popolazione_totale": 980
+  },
+  {
+    "codice_istat": "094009",
+    "comune": "Castel del Giudice",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 151,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 306
+  },
+  {
+    "codice_istat": "094012",
+    "comune": "Castel San Vincenzo",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 215,
+    "popolazione_femminile": 203,
+    "popolazione_totale": 418
+  },
+  {
+    "codice_istat": "094010",
+    "comune": "Castelpetroso",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 769,
+    "popolazione_femminile": 727,
+    "popolazione_totale": 1496
+  },
+  {
+    "codice_istat": "094011",
+    "comune": "Castelpizzuto",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 62,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "094013",
+    "comune": "Castelverrino",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 50,
+    "popolazione_femminile": 37,
+    "popolazione_totale": 87
+  },
+  {
+    "codice_istat": "094014",
+    "comune": "Cerro al Volturno",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 588,
+    "popolazione_femminile": 515,
+    "popolazione_totale": 1103
+  },
+  {
+    "codice_istat": "094015",
+    "comune": "Chiauci",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 103,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 189
+  },
+  {
+    "codice_istat": "094016",
+    "comune": "Civitanova del Sannio",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 445,
+    "popolazione_femminile": 418,
+    "popolazione_totale": 863
+  },
+  {
+    "codice_istat": "094017",
+    "comune": "Colli a Volturno",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 623,
+    "popolazione_totale": 1253
+  },
+  {
+    "codice_istat": "094018",
+    "comune": "Conca Casale",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 87,
+    "popolazione_femminile": 75,
+    "popolazione_totale": 162
+  },
+  {
+    "codice_istat": "094019",
+    "comune": "Filignano",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 297,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 564
+  },
+  {
+    "codice_istat": "094020",
+    "comune": "Forlì del Sannio",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 324,
+    "popolazione_femminile": 303,
+    "popolazione_totale": 627
+  },
+  {
+    "codice_istat": "094021",
+    "comune": "Fornelli",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 885,
+    "popolazione_femminile": 893,
+    "popolazione_totale": 1778
+  },
+  {
+    "codice_istat": "094022",
+    "comune": "Frosolone",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 1388,
+    "popolazione_femminile": 1333,
+    "popolazione_totale": 2721
+  },
+  {
+    "codice_istat": "094023",
+    "comune": "Isernia",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 9900,
+    "popolazione_femminile": 10591,
+    "popolazione_totale": 20491,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "094024",
+    "comune": "Longano",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 307,
+    "popolazione_totale": 618
+  },
+  {
+    "codice_istat": "094025",
+    "comune": "Macchia d'Isernia",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 525,
+    "popolazione_femminile": 495,
+    "popolazione_totale": 1020
+  },
+  {
+    "codice_istat": "094026",
+    "comune": "Macchiagodena",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 826,
+    "popolazione_femminile": 829,
+    "popolazione_totale": 1655
+  },
+  {
+    "codice_istat": "094027",
+    "comune": "Miranda",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 447,
+    "popolazione_femminile": 466,
+    "popolazione_totale": 913
+  },
+  {
+    "codice_istat": "094028",
+    "comune": "Montaquila",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 1127,
+    "popolazione_femminile": 1091,
+    "popolazione_totale": 2218
+  },
+  {
+    "codice_istat": "094029",
+    "comune": "Montenero Val Cocchiara",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 241,
+    "popolazione_femminile": 223,
+    "popolazione_totale": 464
+  },
+  {
+    "codice_istat": "094030",
+    "comune": "Monteroduni",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 1122,
+    "popolazione_femminile": 999,
+    "popolazione_totale": 2121
+  },
+  {
+    "codice_istat": "094031",
+    "comune": "Pesche",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 745,
+    "popolazione_femminile": 692,
+    "popolazione_totale": 1437
+  },
+  {
+    "codice_istat": "094032",
+    "comune": "Pescolanciano",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 397,
+    "popolazione_femminile": 383,
+    "popolazione_totale": 780
+  },
+  {
+    "codice_istat": "094033",
+    "comune": "Pescopennataro",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 113,
+    "popolazione_femminile": 112,
+    "popolazione_totale": 225
+  },
+  {
+    "codice_istat": "094034",
+    "comune": "Pettoranello del Molise",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 249,
+    "popolazione_femminile": 202,
+    "popolazione_totale": 451
+  },
+  {
+    "codice_istat": "094035",
+    "comune": "Pietrabbondante",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 299,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 559
+  },
+  {
+    "codice_istat": "094036",
+    "comune": "Pizzone",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 159,
+    "popolazione_femminile": 128,
+    "popolazione_totale": 287
+  },
+  {
+    "codice_istat": "094037",
+    "comune": "Poggio Sannita",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 256,
+    "popolazione_totale": 513
+  },
+  {
+    "codice_istat": "094038",
+    "comune": "Pozzilli",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 1071,
+    "popolazione_femminile": 1092,
+    "popolazione_totale": 2163
+  },
+  {
+    "codice_istat": "094039",
+    "comune": "Rionero Sannitico",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 510,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 941
+  },
+  {
+    "codice_istat": "094040",
+    "comune": "Roccamandolfi",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 396,
+    "popolazione_femminile": 407,
+    "popolazione_totale": 803
+  },
+  {
+    "codice_istat": "094041",
+    "comune": "Roccasicura",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 240,
+    "popolazione_femminile": 220,
+    "popolazione_totale": 460
+  },
+  {
+    "codice_istat": "094042",
+    "comune": "Rocchetta a Volturno",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 544,
+    "popolazione_femminile": 522,
+    "popolazione_totale": 1066
+  },
+  {
+    "codice_istat": "094043",
+    "comune": "San Pietro Avellana",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 194,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 390
+  },
+  {
+    "codice_istat": "094044",
+    "comune": "Sant'Agapito",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 657,
+    "popolazione_femminile": 676,
+    "popolazione_totale": 1333
+  },
+  {
+    "codice_istat": "094046",
+    "comune": "Sant'Angelo del Pesco",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 157,
+    "popolazione_femminile": 143,
+    "popolazione_totale": 300
+  },
+  {
+    "codice_istat": "094047",
+    "comune": "Sant'Elena Sannita",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 179,
+    "popolazione_femminile": 119,
+    "popolazione_totale": 298
+  },
+  {
+    "codice_istat": "094045",
+    "comune": "Santa Maria del Molise",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 308,
+    "popolazione_totale": 645
+  },
+  {
+    "codice_istat": "094048",
+    "comune": "Scapoli",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 280,
+    "popolazione_femminile": 279,
+    "popolazione_totale": 559
+  },
+  {
+    "codice_istat": "094049",
+    "comune": "Sessano del Molise",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 305,
+    "popolazione_femminile": 359,
+    "popolazione_totale": 664
+  },
+  {
+    "codice_istat": "094050",
+    "comune": "Sesto Campano",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 1078,
+    "popolazione_femminile": 1056,
+    "popolazione_totale": 2134
+  },
+  {
+    "codice_istat": "094051",
+    "comune": "Vastogirardi",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 293,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 574
+  },
+  {
+    "codice_istat": "094052",
+    "comune": "Venafro",
+    "provincia": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "popolazione_maschile": 5238,
+    "popolazione_femminile": 5407,
+    "popolazione_totale": 10645
+  }
+]

@@ -1,0 +1,1503 @@
+[
+  {
+    "codice_istat": "078001",
+    "comune": "Acquaformosa",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 480,
+    "popolazione_femminile": 450,
+    "popolazione_totale": 930
+  },
+  {
+    "codice_istat": "078002",
+    "comune": "Acquappesa",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 854,
+    "popolazione_femminile": 900,
+    "popolazione_totale": 1754
+  },
+  {
+    "codice_istat": "078003",
+    "comune": "Acri",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 8775,
+    "popolazione_femminile": 9284,
+    "popolazione_totale": 18059
+  },
+  {
+    "codice_istat": "078004",
+    "comune": "Aiello Calabro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 662,
+    "popolazione_femminile": 662,
+    "popolazione_totale": 1324
+  },
+  {
+    "codice_istat": "078005",
+    "comune": "Aieta",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 350,
+    "popolazione_femminile": 353,
+    "popolazione_totale": 703
+  },
+  {
+    "codice_istat": "078006",
+    "comune": "Albidona",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 526,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1047
+  },
+  {
+    "codice_istat": "078007",
+    "comune": "Alessandria del Carretto",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 152,
+    "popolazione_totale": 337
+  },
+  {
+    "codice_istat": "078008",
+    "comune": "Altilia",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 367,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 669
+  },
+  {
+    "codice_istat": "078009",
+    "comune": "Altomonte",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1916,
+    "popolazione_femminile": 2027,
+    "popolazione_totale": 3943
+  },
+  {
+    "codice_istat": "078010",
+    "comune": "Amantea",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 6858,
+    "popolazione_femminile": 7001,
+    "popolazione_totale": 13859
+  },
+  {
+    "codice_istat": "078011",
+    "comune": "Amendolara",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1287,
+    "popolazione_femminile": 1303,
+    "popolazione_totale": 2590
+  },
+  {
+    "codice_istat": "078012",
+    "comune": "Aprigliano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1133,
+    "popolazione_femminile": 1174,
+    "popolazione_totale": 2307
+  },
+  {
+    "codice_istat": "078013",
+    "comune": "Belmonte Calabro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 802,
+    "popolazione_femminile": 862,
+    "popolazione_totale": 1664
+  },
+  {
+    "codice_istat": "078014",
+    "comune": "Belsito",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 461,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 892
+  },
+  {
+    "codice_istat": "078015",
+    "comune": "Belvedere Marittimo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4282,
+    "popolazione_femminile": 4645,
+    "popolazione_totale": 8927
+  },
+  {
+    "codice_istat": "078016",
+    "comune": "Bianchi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 590,
+    "popolazione_femminile": 551,
+    "popolazione_totale": 1141
+  },
+  {
+    "codice_istat": "078017",
+    "comune": "Bisignano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4724,
+    "popolazione_femminile": 4704,
+    "popolazione_totale": 9428
+  },
+  {
+    "codice_istat": "078018",
+    "comune": "Bocchigliero",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 502,
+    "popolazione_femminile": 536,
+    "popolazione_totale": 1038
+  },
+  {
+    "codice_istat": "078019",
+    "comune": "Bonifati",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1207,
+    "popolazione_femminile": 1297,
+    "popolazione_totale": 2504
+  },
+  {
+    "codice_istat": "078020",
+    "comune": "Buonvicino",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 937,
+    "popolazione_femminile": 1034,
+    "popolazione_totale": 1971
+  },
+  {
+    "codice_istat": "078021",
+    "comune": "Calopezzati",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 609,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1224
+  },
+  {
+    "codice_istat": "078022",
+    "comune": "Caloveto",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 505,
+    "popolazione_femminile": 541,
+    "popolazione_totale": 1046
+  },
+  {
+    "codice_istat": "078023",
+    "comune": "Campana",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 663,
+    "popolazione_femminile": 674,
+    "popolazione_totale": 1337
+  },
+  {
+    "codice_istat": "078024",
+    "comune": "Canna",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 286,
+    "popolazione_femminile": 291,
+    "popolazione_totale": 577
+  },
+  {
+    "codice_istat": "078025",
+    "comune": "Cariati",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 3699,
+    "popolazione_femminile": 3883,
+    "popolazione_totale": 7582
+  },
+  {
+    "codice_istat": "078026",
+    "comune": "Carolei",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1526,
+    "popolazione_femminile": 1501,
+    "popolazione_totale": 3027
+  },
+  {
+    "codice_istat": "078027",
+    "comune": "Carpanzano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 87,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 185
+  },
+  {
+    "codice_istat": "078156",
+    "comune": "Casali del Manco",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4605,
+    "popolazione_femminile": 4664,
+    "popolazione_totale": 9269
+  },
+  {
+    "codice_istat": "078029",
+    "comune": "Cassano all'Ionio",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 8267,
+    "popolazione_femminile": 8070,
+    "popolazione_totale": 16337
+  },
+  {
+    "codice_istat": "078030",
+    "comune": "Castiglione Cosentino",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1445,
+    "popolazione_femminile": 1286,
+    "popolazione_totale": 2731
+  },
+  {
+    "codice_istat": "078031",
+    "comune": "Castrolibero",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4339,
+    "popolazione_femminile": 4735,
+    "popolazione_totale": 9074
+  },
+  {
+    "codice_istat": "078032",
+    "comune": "Castroregio",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 125,
+    "popolazione_femminile": 83,
+    "popolazione_totale": 208
+  },
+  {
+    "codice_istat": "078033",
+    "comune": "Castrovillari",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 9853,
+    "popolazione_femminile": 10578,
+    "popolazione_totale": 20431
+  },
+  {
+    "codice_istat": "078034",
+    "comune": "Celico",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1230,
+    "popolazione_femminile": 1191,
+    "popolazione_totale": 2421
+  },
+  {
+    "codice_istat": "078035",
+    "comune": "Cellara",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 243,
+    "popolazione_femminile": 230,
+    "popolazione_totale": 473
+  },
+  {
+    "codice_istat": "078036",
+    "comune": "Cerchiara di Calabria",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1046,
+    "popolazione_femminile": 1028,
+    "popolazione_totale": 2074
+  },
+  {
+    "codice_istat": "078037",
+    "comune": "Cerisano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1444,
+    "popolazione_femminile": 1465,
+    "popolazione_totale": 2909
+  },
+  {
+    "codice_istat": "078038",
+    "comune": "Cervicati",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 388,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 767
+  },
+  {
+    "codice_istat": "078039",
+    "comune": "Cerzeto",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 609,
+    "popolazione_femminile": 599,
+    "popolazione_totale": 1208
+  },
+  {
+    "codice_istat": "078040",
+    "comune": "Cetraro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4498,
+    "popolazione_femminile": 4661,
+    "popolazione_totale": 9159
+  },
+  {
+    "codice_istat": "078041",
+    "comune": "Civita",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 407,
+    "popolazione_totale": 773
+  },
+  {
+    "codice_istat": "078042",
+    "comune": "Cleto",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 668,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1270
+  },
+  {
+    "codice_istat": "078043",
+    "comune": "Colosimi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 528,
+    "popolazione_femminile": 549,
+    "popolazione_totale": 1077
+  },
+  {
+    "codice_istat": "078157",
+    "comune": "Corigliano-Rossano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 37071,
+    "popolazione_femminile": 37332,
+    "popolazione_totale": 74403
+  },
+  {
+    "codice_istat": "078045",
+    "comune": "Cosenza",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 29989,
+    "popolazione_femminile": 33460,
+    "popolazione_totale": 63449,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "078046",
+    "comune": "Cropalati",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 473,
+    "popolazione_femminile": 474,
+    "popolazione_totale": 947
+  },
+  {
+    "codice_istat": "078047",
+    "comune": "Crosia",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4787,
+    "popolazione_femminile": 4829,
+    "popolazione_totale": 9616
+  },
+  {
+    "codice_istat": "078048",
+    "comune": "Diamante",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2397,
+    "popolazione_femminile": 2550,
+    "popolazione_totale": 4947
+  },
+  {
+    "codice_istat": "078049",
+    "comune": "Dipignano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1977,
+    "popolazione_femminile": 2077,
+    "popolazione_totale": 4054
+  },
+  {
+    "codice_istat": "078050",
+    "comune": "Domanico",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 447,
+    "popolazione_femminile": 468,
+    "popolazione_totale": 915
+  },
+  {
+    "codice_istat": "078051",
+    "comune": "Fagnano Castello",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1583,
+    "popolazione_femminile": 1674,
+    "popolazione_totale": 3257
+  },
+  {
+    "codice_istat": "078052",
+    "comune": "Falconara Albanese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 738,
+    "popolazione_femminile": 769,
+    "popolazione_totale": 1507
+  },
+  {
+    "codice_istat": "078053",
+    "comune": "Figline Vegliaturo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 528,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1088
+  },
+  {
+    "codice_istat": "078054",
+    "comune": "Firmo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 871,
+    "popolazione_femminile": 887,
+    "popolazione_totale": 1758
+  },
+  {
+    "codice_istat": "078055",
+    "comune": "Fiumefreddo Bruzio",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1992,
+    "popolazione_femminile": 1987,
+    "popolazione_totale": 3979
+  },
+  {
+    "codice_istat": "078056",
+    "comune": "Francavilla Marittima",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1338,
+    "popolazione_femminile": 1370,
+    "popolazione_totale": 2708
+  },
+  {
+    "codice_istat": "078057",
+    "comune": "Frascineto",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 866,
+    "popolazione_femminile": 946,
+    "popolazione_totale": 1812
+  },
+  {
+    "codice_istat": "078058",
+    "comune": "Fuscaldo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4062,
+    "popolazione_femminile": 3861,
+    "popolazione_totale": 7923
+  },
+  {
+    "codice_istat": "078059",
+    "comune": "Grimaldi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 762,
+    "popolazione_femminile": 727,
+    "popolazione_totale": 1489
+  },
+  {
+    "codice_istat": "078060",
+    "comune": "Grisolia",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1066,
+    "popolazione_femminile": 1095,
+    "popolazione_totale": 2161
+  },
+  {
+    "codice_istat": "078061",
+    "comune": "Guardia Piemontese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 866,
+    "popolazione_femminile": 901,
+    "popolazione_totale": 1767
+  },
+  {
+    "codice_istat": "078062",
+    "comune": "Lago",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1177,
+    "popolazione_femminile": 1185,
+    "popolazione_totale": 2362
+  },
+  {
+    "codice_istat": "078063",
+    "comune": "Laino Borgo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 772,
+    "popolazione_femminile": 806,
+    "popolazione_totale": 1578
+  },
+  {
+    "codice_istat": "078064",
+    "comune": "Laino Castello",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 351,
+    "popolazione_femminile": 398,
+    "popolazione_totale": 749
+  },
+  {
+    "codice_istat": "078065",
+    "comune": "Lappano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 849
+  },
+  {
+    "codice_istat": "078066",
+    "comune": "Lattarico",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1810,
+    "popolazione_femminile": 1861,
+    "popolazione_totale": 3671
+  },
+  {
+    "codice_istat": "078067",
+    "comune": "Longobardi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1709,
+    "popolazione_femminile": 1509,
+    "popolazione_totale": 3218
+  },
+  {
+    "codice_istat": "078068",
+    "comune": "Longobucco",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1195,
+    "popolazione_femminile": 1240,
+    "popolazione_totale": 2435
+  },
+  {
+    "codice_istat": "078069",
+    "comune": "Lungro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1023,
+    "popolazione_femminile": 1023,
+    "popolazione_totale": 2046
+  },
+  {
+    "codice_istat": "078070",
+    "comune": "Luzzi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4277,
+    "popolazione_femminile": 4403,
+    "popolazione_totale": 8680
+  },
+  {
+    "codice_istat": "078071",
+    "comune": "Maierà",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 542,
+    "popolazione_totale": 1107
+  },
+  {
+    "codice_istat": "078072",
+    "comune": "Malito",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 336,
+    "popolazione_femminile": 345,
+    "popolazione_totale": 681
+  },
+  {
+    "codice_istat": "078073",
+    "comune": "Malvito",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 788,
+    "popolazione_femminile": 779,
+    "popolazione_totale": 1567
+  },
+  {
+    "codice_istat": "078074",
+    "comune": "Mandatoriccio",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1221,
+    "popolazione_femminile": 1171,
+    "popolazione_totale": 2392
+  },
+  {
+    "codice_istat": "078075",
+    "comune": "Mangone",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 954,
+    "popolazione_femminile": 941,
+    "popolazione_totale": 1895
+  },
+  {
+    "codice_istat": "078076",
+    "comune": "Marano Marchesato",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1603,
+    "popolazione_femminile": 1726,
+    "popolazione_totale": 3329
+  },
+  {
+    "codice_istat": "078077",
+    "comune": "Marano Principato",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1466,
+    "popolazione_femminile": 1529,
+    "popolazione_totale": 2995
+  },
+  {
+    "codice_istat": "078078",
+    "comune": "Marzi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 480,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 939
+  },
+  {
+    "codice_istat": "078079",
+    "comune": "Mendicino",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4446,
+    "popolazione_femminile": 4446,
+    "popolazione_totale": 8892
+  },
+  {
+    "codice_istat": "078080",
+    "comune": "Mongrassano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 731,
+    "popolazione_totale": 1446
+  },
+  {
+    "codice_istat": "078081",
+    "comune": "Montalto Uffugo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 9708,
+    "popolazione_femminile": 10201,
+    "popolazione_totale": 19909
+  },
+  {
+    "codice_istat": "078082",
+    "comune": "Montegiordano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 780,
+    "popolazione_totale": 1498
+  },
+  {
+    "codice_istat": "078083",
+    "comune": "Morano Calabro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1831,
+    "popolazione_femminile": 1917,
+    "popolazione_totale": 3748
+  },
+  {
+    "codice_istat": "078084",
+    "comune": "Mormanno",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1218,
+    "popolazione_femminile": 1257,
+    "popolazione_totale": 2475
+  },
+  {
+    "codice_istat": "078085",
+    "comune": "Mottafollone",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 504,
+    "popolazione_femminile": 509,
+    "popolazione_totale": 1013
+  },
+  {
+    "codice_istat": "078086",
+    "comune": "Nocara",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 144,
+    "popolazione_femminile": 140,
+    "popolazione_totale": 284
+  },
+  {
+    "codice_istat": "078087",
+    "comune": "Oriolo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 825,
+    "popolazione_femminile": 937,
+    "popolazione_totale": 1762
+  },
+  {
+    "codice_istat": "078088",
+    "comune": "Orsomarso",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 537,
+    "popolazione_femminile": 519,
+    "popolazione_totale": 1056
+  },
+  {
+    "codice_istat": "078089",
+    "comune": "Paludi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 457,
+    "popolazione_totale": 936
+  },
+  {
+    "codice_istat": "078090",
+    "comune": "Panettieri",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 304
+  },
+  {
+    "codice_istat": "078091",
+    "comune": "Paola",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 7306,
+    "popolazione_femminile": 7784,
+    "popolazione_totale": 15090
+  },
+  {
+    "codice_istat": "078092",
+    "comune": "Papasidero",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 292,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 572
+  },
+  {
+    "codice_istat": "078093",
+    "comune": "Parenti",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 965,
+    "popolazione_femminile": 960,
+    "popolazione_totale": 1925
+  },
+  {
+    "codice_istat": "078094",
+    "comune": "Paterno Calabro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 672,
+    "popolazione_femminile": 647,
+    "popolazione_totale": 1319
+  },
+  {
+    "codice_istat": "078096",
+    "comune": "Pedivigliano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 354,
+    "popolazione_femminile": 375,
+    "popolazione_totale": 729
+  },
+  {
+    "codice_istat": "078097",
+    "comune": "Piane Crati",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 648,
+    "popolazione_totale": 1278
+  },
+  {
+    "codice_istat": "078098",
+    "comune": "Pietrafitta",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 546,
+    "popolazione_femminile": 572,
+    "popolazione_totale": 1118
+  },
+  {
+    "codice_istat": "078099",
+    "comune": "Pietrapaola",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 474,
+    "popolazione_femminile": 524,
+    "popolazione_totale": 998
+  },
+  {
+    "codice_istat": "078100",
+    "comune": "Plataci",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 314,
+    "popolazione_femminile": 312,
+    "popolazione_totale": 626
+  },
+  {
+    "codice_istat": "078101",
+    "comune": "Praia a Mare",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2975,
+    "popolazione_femminile": 3293,
+    "popolazione_totale": 6268
+  },
+  {
+    "codice_istat": "078102",
+    "comune": "Rende",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 18193,
+    "popolazione_femminile": 18700,
+    "popolazione_totale": 36893
+  },
+  {
+    "codice_istat": "078103",
+    "comune": "Rocca Imperiale",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1530,
+    "popolazione_femminile": 1586,
+    "popolazione_totale": 3116
+  },
+  {
+    "codice_istat": "078104",
+    "comune": "Roggiano Gravina",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 3296,
+    "popolazione_femminile": 3412,
+    "popolazione_totale": 6708
+  },
+  {
+    "codice_istat": "078105",
+    "comune": "Rogliano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2600,
+    "popolazione_femminile": 2550,
+    "popolazione_totale": 5150
+  },
+  {
+    "codice_istat": "078106",
+    "comune": "Rose",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2041,
+    "popolazione_femminile": 2068,
+    "popolazione_totale": 4109
+  },
+  {
+    "codice_istat": "078107",
+    "comune": "Roseto Capo Spulico",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 928,
+    "popolazione_femminile": 937,
+    "popolazione_totale": 1865
+  },
+  {
+    "codice_istat": "078109",
+    "comune": "Rota Greca",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 448,
+    "popolazione_femminile": 443,
+    "popolazione_totale": 891
+  },
+  {
+    "codice_istat": "078110",
+    "comune": "Rovito",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1463,
+    "popolazione_femminile": 1438,
+    "popolazione_totale": 2901
+  },
+  {
+    "codice_istat": "078111",
+    "comune": "San Basile",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 409,
+    "popolazione_femminile": 473,
+    "popolazione_totale": 882
+  },
+  {
+    "codice_istat": "078112",
+    "comune": "San Benedetto Ullano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 692,
+    "popolazione_femminile": 681,
+    "popolazione_totale": 1373
+  },
+  {
+    "codice_istat": "078113",
+    "comune": "San Cosmo Albanese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 246,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 540
+  },
+  {
+    "codice_istat": "078114",
+    "comune": "San Demetrio Corone",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1419,
+    "popolazione_femminile": 1536,
+    "popolazione_totale": 2955
+  },
+  {
+    "codice_istat": "078115",
+    "comune": "San Donato di Ninea",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 497,
+    "popolazione_femminile": 533,
+    "popolazione_totale": 1030
+  },
+  {
+    "codice_istat": "078116",
+    "comune": "San Fili",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1218,
+    "popolazione_femminile": 1188,
+    "popolazione_totale": 2406
+  },
+  {
+    "codice_istat": "078118",
+    "comune": "San Giorgio Albanese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 643,
+    "popolazione_totale": 1256
+  },
+  {
+    "codice_istat": "078119",
+    "comune": "San Giovanni in Fiore",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 7460,
+    "popolazione_femminile": 7868,
+    "popolazione_totale": 15328
+  },
+  {
+    "codice_istat": "078120",
+    "comune": "San Lorenzo Bellizzi",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 501
+  },
+  {
+    "codice_istat": "078121",
+    "comune": "San Lorenzo del Vallo",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1532,
+    "popolazione_femminile": 1525,
+    "popolazione_totale": 3057
+  },
+  {
+    "codice_istat": "078122",
+    "comune": "San Lucido",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 3935,
+    "popolazione_femminile": 3840,
+    "popolazione_totale": 7775
+  },
+  {
+    "codice_istat": "078123",
+    "comune": "San Marco Argentano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 3395,
+    "popolazione_femminile": 3374,
+    "popolazione_totale": 6769
+  },
+  {
+    "codice_istat": "078124",
+    "comune": "San Martino di Finita",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 917
+  },
+  {
+    "codice_istat": "078125",
+    "comune": "San Nicola Arcella",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1002,
+    "popolazione_femminile": 1016,
+    "popolazione_totale": 2018
+  },
+  {
+    "codice_istat": "078126",
+    "comune": "San Pietro in Amantea",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 236,
+    "popolazione_femminile": 210,
+    "popolazione_totale": 446
+  },
+  {
+    "codice_istat": "078127",
+    "comune": "San Pietro in Guarano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1639,
+    "popolazione_femminile": 1659,
+    "popolazione_totale": 3298
+  },
+  {
+    "codice_istat": "078128",
+    "comune": "San Sosti",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 957,
+    "popolazione_femminile": 882,
+    "popolazione_totale": 1839
+  },
+  {
+    "codice_istat": "078135",
+    "comune": "San Vincenzo La Costa",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 947,
+    "popolazione_femminile": 983,
+    "popolazione_totale": 1930
+  },
+  {
+    "codice_istat": "078117",
+    "comune": "Sangineto",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1202
+  },
+  {
+    "codice_istat": "078131",
+    "comune": "Sant'Agata di Esaro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 871,
+    "popolazione_femminile": 832,
+    "popolazione_totale": 1703
+  },
+  {
+    "codice_istat": "078129",
+    "comune": "Santa Caterina Albanese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 520,
+    "popolazione_totale": 1052
+  },
+  {
+    "codice_istat": "078130",
+    "comune": "Santa Domenica Talao",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 556,
+    "popolazione_femminile": 571,
+    "popolazione_totale": 1127
+  },
+  {
+    "codice_istat": "078132",
+    "comune": "Santa Maria del Cedro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2562,
+    "popolazione_femminile": 2617,
+    "popolazione_totale": 5179
+  },
+  {
+    "codice_istat": "078133",
+    "comune": "Santa Sofia d'Epiro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1010,
+    "popolazione_femminile": 1071,
+    "popolazione_totale": 2081
+  },
+  {
+    "codice_istat": "078134",
+    "comune": "Santo Stefano di Rogliano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 862,
+    "popolazione_femminile": 874,
+    "popolazione_totale": 1736
+  },
+  {
+    "codice_istat": "078136",
+    "comune": "Saracena",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1620,
+    "popolazione_femminile": 1614,
+    "popolazione_totale": 3234
+  },
+  {
+    "codice_istat": "078137",
+    "comune": "Scala Coeli",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 356,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 734
+  },
+  {
+    "codice_istat": "078138",
+    "comune": "Scalea",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 5891,
+    "popolazione_femminile": 5901,
+    "popolazione_totale": 11792
+  },
+  {
+    "codice_istat": "078139",
+    "comune": "Scigliano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 539,
+    "popolazione_femminile": 556,
+    "popolazione_totale": 1095
+  },
+  {
+    "codice_istat": "078140",
+    "comune": "Serra d'Aiello",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 285,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 521
+  },
+  {
+    "codice_istat": "078142",
+    "comune": "Spezzano Albanese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 3170,
+    "popolazione_femminile": 3218,
+    "popolazione_totale": 6388
+  },
+  {
+    "codice_istat": "078143",
+    "comune": "Spezzano della Sila",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2237,
+    "popolazione_femminile": 2067,
+    "popolazione_totale": 4304
+  },
+  {
+    "codice_istat": "078145",
+    "comune": "Tarsia",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 928,
+    "popolazione_femminile": 890,
+    "popolazione_totale": 1818
+  },
+  {
+    "codice_istat": "078146",
+    "comune": "Terranova da Sibari",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2222,
+    "popolazione_femminile": 2219,
+    "popolazione_totale": 4441
+  },
+  {
+    "codice_istat": "078147",
+    "comune": "Terravecchia",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 265,
+    "popolazione_femminile": 288,
+    "popolazione_totale": 553
+  },
+  {
+    "codice_istat": "078148",
+    "comune": "Torano Castello",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2134,
+    "popolazione_femminile": 2121,
+    "popolazione_totale": 4255
+  },
+  {
+    "codice_istat": "078149",
+    "comune": "Tortora",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2864,
+    "popolazione_femminile": 3055,
+    "popolazione_totale": 5919
+  },
+  {
+    "codice_istat": "078150",
+    "comune": "Trebisacce",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 4119,
+    "popolazione_femminile": 4463,
+    "popolazione_totale": 8582
+  },
+  {
+    "codice_istat": "078152",
+    "comune": "Vaccarizzo Albanese",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 493,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1010
+  },
+  {
+    "codice_istat": "078153",
+    "comune": "Verbicaro",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1237,
+    "popolazione_femminile": 1252,
+    "popolazione_totale": 2489
+  },
+  {
+    "codice_istat": "078154",
+    "comune": "Villapiana",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 2761,
+    "popolazione_femminile": 2851,
+    "popolazione_totale": 5612
+  },
+  {
+    "codice_istat": "078155",
+    "comune": "Zumpano",
+    "provincia": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "popolazione_maschile": 1266,
+    "popolazione_femminile": 1323,
+    "popolazione_totale": 2589
+  }
+]

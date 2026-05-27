@@ -1,0 +1,553 @@
+[
+  {
+    "codice_istat": "037062",
+    "comune": "Alto Reno Terme",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3516,
+    "popolazione_femminile": 3663,
+    "popolazione_totale": 7179
+  },
+  {
+    "codice_istat": "037001",
+    "comune": "Anzola dell'Emilia",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6131,
+    "popolazione_femminile": 6283,
+    "popolazione_totale": 12414
+  },
+  {
+    "codice_istat": "037002",
+    "comune": "Argelato",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4675,
+    "popolazione_femminile": 4898,
+    "popolazione_totale": 9573
+  },
+  {
+    "codice_istat": "037003",
+    "comune": "Baricella",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3586,
+    "popolazione_femminile": 3621,
+    "popolazione_totale": 7207
+  },
+  {
+    "codice_istat": "037005",
+    "comune": "Bentivoglio",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2932,
+    "popolazione_femminile": 2923,
+    "popolazione_totale": 5855
+  },
+  {
+    "codice_istat": "037006",
+    "comune": "Bologna",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 188003,
+    "popolazione_femminile": 203470,
+    "popolazione_totale": 391473,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "037007",
+    "comune": "Borgo Tossignano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1613,
+    "popolazione_femminile": 1618,
+    "popolazione_totale": 3231
+  },
+  {
+    "codice_istat": "037008",
+    "comune": "Budrio",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 9076,
+    "popolazione_femminile": 9418,
+    "popolazione_totale": 18494
+  },
+  {
+    "codice_istat": "037009",
+    "comune": "Calderara di Reno",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6767,
+    "popolazione_femminile": 7000,
+    "popolazione_totale": 13767
+  },
+  {
+    "codice_istat": "037010",
+    "comune": "Camugnano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 951,
+    "popolazione_femminile": 960,
+    "popolazione_totale": 1911
+  },
+  {
+    "codice_istat": "037011",
+    "comune": "Casalecchio di Reno",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 16704,
+    "popolazione_femminile": 18655,
+    "popolazione_totale": 35359
+  },
+  {
+    "codice_istat": "037012",
+    "comune": "Casalfiumanese",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1715,
+    "popolazione_femminile": 1646,
+    "popolazione_totale": 3361
+  },
+  {
+    "codice_istat": "037013",
+    "comune": "Castel d'Aiano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1038,
+    "popolazione_femminile": 931,
+    "popolazione_totale": 1969
+  },
+  {
+    "codice_istat": "037014",
+    "comune": "Castel del Rio",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 597,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1224
+  },
+  {
+    "codice_istat": "037015",
+    "comune": "Castel di Casio",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1661,
+    "popolazione_femminile": 1687,
+    "popolazione_totale": 3348
+  },
+  {
+    "codice_istat": "037016",
+    "comune": "Castel Guelfo di Bologna",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2244,
+    "popolazione_femminile": 2229,
+    "popolazione_totale": 4473
+  },
+  {
+    "codice_istat": "037019",
+    "comune": "Castel Maggiore",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8938,
+    "popolazione_femminile": 9541,
+    "popolazione_totale": 18479
+  },
+  {
+    "codice_istat": "037020",
+    "comune": "Castel San Pietro Terme",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 10219,
+    "popolazione_femminile": 10483,
+    "popolazione_totale": 20702
+  },
+  {
+    "codice_istat": "037017",
+    "comune": "Castello d'Argile",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3392,
+    "popolazione_femminile": 3302,
+    "popolazione_totale": 6694
+  },
+  {
+    "codice_istat": "037021",
+    "comune": "Castenaso",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8045,
+    "popolazione_femminile": 8625,
+    "popolazione_totale": 16670
+  },
+  {
+    "codice_istat": "037022",
+    "comune": "Castiglione dei Pepoli",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2788,
+    "popolazione_femminile": 2711,
+    "popolazione_totale": 5499
+  },
+  {
+    "codice_istat": "037024",
+    "comune": "Crevalcore",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7101,
+    "popolazione_femminile": 7109,
+    "popolazione_totale": 14210
+  },
+  {
+    "codice_istat": "037025",
+    "comune": "Dozza",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3216,
+    "popolazione_femminile": 3297,
+    "popolazione_totale": 6513
+  },
+  {
+    "codice_istat": "037026",
+    "comune": "Fontanelice",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 959,
+    "popolazione_femminile": 951,
+    "popolazione_totale": 1910
+  },
+  {
+    "codice_istat": "037027",
+    "comune": "Gaggio Montano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2480,
+    "popolazione_femminile": 2451,
+    "popolazione_totale": 4931
+  },
+  {
+    "codice_istat": "037028",
+    "comune": "Galliera",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2968,
+    "popolazione_femminile": 2808,
+    "popolazione_totale": 5776
+  },
+  {
+    "codice_istat": "037030",
+    "comune": "Granarolo dell'Emilia",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6421,
+    "popolazione_femminile": 6696,
+    "popolazione_totale": 13117
+  },
+  {
+    "codice_istat": "037031",
+    "comune": "Grizzana Morandi",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2044,
+    "popolazione_femminile": 1903,
+    "popolazione_totale": 3947
+  },
+  {
+    "codice_istat": "037032",
+    "comune": "Imola",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 33796,
+    "popolazione_femminile": 35906,
+    "popolazione_totale": 69702
+  },
+  {
+    "codice_istat": "037033",
+    "comune": "Lizzano in Belvedere",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1132,
+    "popolazione_femminile": 1163,
+    "popolazione_totale": 2295
+  },
+  {
+    "codice_istat": "037034",
+    "comune": "Loiano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2283,
+    "popolazione_femminile": 2306,
+    "popolazione_totale": 4589
+  },
+  {
+    "codice_istat": "037035",
+    "comune": "Malalbergo",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4635,
+    "popolazione_femminile": 4768,
+    "popolazione_totale": 9403
+  },
+  {
+    "codice_istat": "037036",
+    "comune": "Marzabotto",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3480,
+    "popolazione_femminile": 3446,
+    "popolazione_totale": 6926
+  },
+  {
+    "codice_istat": "037037",
+    "comune": "Medicina",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8330,
+    "popolazione_femminile": 8487,
+    "popolazione_totale": 16817
+  },
+  {
+    "codice_istat": "037038",
+    "comune": "Minerbio",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4422,
+    "popolazione_femminile": 4537,
+    "popolazione_totale": 8959
+  },
+  {
+    "codice_istat": "037039",
+    "comune": "Molinella",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7841,
+    "popolazione_femminile": 8069,
+    "popolazione_totale": 15910
+  },
+  {
+    "codice_istat": "037040",
+    "comune": "Monghidoro",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2071,
+    "popolazione_femminile": 1863,
+    "popolazione_totale": 3934
+  },
+  {
+    "codice_istat": "037042",
+    "comune": "Monte San Pietro",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5311,
+    "popolazione_femminile": 5534,
+    "popolazione_totale": 10845
+  },
+  {
+    "codice_istat": "037041",
+    "comune": "Monterenzio",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3116,
+    "popolazione_femminile": 3053,
+    "popolazione_totale": 6169
+  },
+  {
+    "codice_istat": "037044",
+    "comune": "Monzuno",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3280,
+    "popolazione_femminile": 3153,
+    "popolazione_totale": 6433
+  },
+  {
+    "codice_istat": "037045",
+    "comune": "Mordano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2320,
+    "popolazione_femminile": 2268,
+    "popolazione_totale": 4588
+  },
+  {
+    "codice_istat": "037046",
+    "comune": "Ozzano dell'Emilia",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7156,
+    "popolazione_femminile": 7260,
+    "popolazione_totale": 14416
+  },
+  {
+    "codice_istat": "037047",
+    "comune": "Pianoro",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8787,
+    "popolazione_femminile": 9065,
+    "popolazione_totale": 17852
+  },
+  {
+    "codice_istat": "037048",
+    "comune": "Pieve di Cento",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3704,
+    "popolazione_femminile": 3727,
+    "popolazione_totale": 7431
+  },
+  {
+    "codice_istat": "037050",
+    "comune": "Sala Bolognese",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4234,
+    "popolazione_femminile": 4217,
+    "popolazione_totale": 8451
+  },
+  {
+    "codice_istat": "037051",
+    "comune": "San Benedetto Val di Sambro",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2193,
+    "popolazione_femminile": 2075,
+    "popolazione_totale": 4268
+  },
+  {
+    "codice_istat": "037052",
+    "comune": "San Giorgio di Piano",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4833,
+    "popolazione_femminile": 4938,
+    "popolazione_totale": 9771
+  },
+  {
+    "codice_istat": "037053",
+    "comune": "San Giovanni in Persiceto",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 13806,
+    "popolazione_femminile": 14389,
+    "popolazione_totale": 28195
+  },
+  {
+    "codice_istat": "037054",
+    "comune": "San Lazzaro di Savena",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 15842,
+    "popolazione_femminile": 17108,
+    "popolazione_totale": 32950
+  },
+  {
+    "codice_istat": "037055",
+    "comune": "San Pietro in Casale",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6579,
+    "popolazione_femminile": 6627,
+    "popolazione_totale": 13206
+  },
+  {
+    "codice_istat": "037056",
+    "comune": "Sant'Agata Bolognese",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3719,
+    "popolazione_femminile": 3626,
+    "popolazione_totale": 7345
+  },
+  {
+    "codice_istat": "037057",
+    "comune": "Sasso Marconi",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7155,
+    "popolazione_femminile": 7674,
+    "popolazione_totale": 14829
+  },
+  {
+    "codice_istat": "037061",
+    "comune": "Valsamoggia",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 15994,
+    "popolazione_femminile": 16264,
+    "popolazione_totale": 32258
+  },
+  {
+    "codice_istat": "037059",
+    "comune": "Vergato",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3994,
+    "popolazione_femminile": 3952,
+    "popolazione_totale": 7946
+  },
+  {
+    "codice_istat": "037060",
+    "comune": "Zola Predosa",
+    "provincia": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 9541,
+    "popolazione_femminile": 9975,
+    "popolazione_totale": 19516
+  }
+]

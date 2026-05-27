@@ -1,0 +1,983 @@
+[
+  {
+    "codice_istat": "023001",
+    "comune": "Affi",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1253,
+    "popolazione_femminile": 1251,
+    "popolazione_totale": 2504
+  },
+  {
+    "codice_istat": "023002",
+    "comune": "Albaredo d'Adige",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2689,
+    "popolazione_femminile": 2609,
+    "popolazione_totale": 5298
+  },
+  {
+    "codice_istat": "023003",
+    "comune": "Angiari",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1261,
+    "popolazione_femminile": 1283,
+    "popolazione_totale": 2544
+  },
+  {
+    "codice_istat": "023004",
+    "comune": "Arcole",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3229,
+    "popolazione_femminile": 3190,
+    "popolazione_totale": 6419
+  },
+  {
+    "codice_istat": "023005",
+    "comune": "Badia Calavena",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1362,
+    "popolazione_femminile": 1345,
+    "popolazione_totale": 2707
+  },
+  {
+    "codice_istat": "023006",
+    "comune": "Bardolino",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3320,
+    "popolazione_femminile": 3496,
+    "popolazione_totale": 6816
+  },
+  {
+    "codice_istat": "023007",
+    "comune": "Belfiore",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1775,
+    "popolazione_femminile": 1633,
+    "popolazione_totale": 3408
+  },
+  {
+    "codice_istat": "023008",
+    "comune": "Bevilacqua",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 944,
+    "popolazione_femminile": 873,
+    "popolazione_totale": 1817
+  },
+  {
+    "codice_istat": "023009",
+    "comune": "Bonavigo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1074,
+    "popolazione_femminile": 916,
+    "popolazione_totale": 1990
+  },
+  {
+    "codice_istat": "023010",
+    "comune": "Boschi Sant'Anna",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 689,
+    "popolazione_femminile": 696,
+    "popolazione_totale": 1385
+  },
+  {
+    "codice_istat": "023011",
+    "comune": "Bosco Chiesanuova",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1924,
+    "popolazione_femminile": 1669,
+    "popolazione_totale": 3593
+  },
+  {
+    "codice_istat": "023012",
+    "comune": "Bovolone",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 8227,
+    "popolazione_femminile": 8165,
+    "popolazione_totale": 16392
+  },
+  {
+    "codice_istat": "023013",
+    "comune": "Brentino Belluno",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 702,
+    "popolazione_femminile": 666,
+    "popolazione_totale": 1368
+  },
+  {
+    "codice_istat": "023014",
+    "comune": "Brenzone sul Garda",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1136,
+    "popolazione_femminile": 1300,
+    "popolazione_totale": 2436
+  },
+  {
+    "codice_istat": "023015",
+    "comune": "Bussolengo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 10353,
+    "popolazione_femminile": 10684,
+    "popolazione_totale": 21037
+  },
+  {
+    "codice_istat": "023016",
+    "comune": "Buttapietra",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3538,
+    "popolazione_femminile": 3493,
+    "popolazione_totale": 7031
+  },
+  {
+    "codice_istat": "023017",
+    "comune": "Caldiero",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4120,
+    "popolazione_femminile": 4040,
+    "popolazione_totale": 8160
+  },
+  {
+    "codice_istat": "023018",
+    "comune": "Caprino Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4349,
+    "popolazione_femminile": 4426,
+    "popolazione_totale": 8775
+  },
+  {
+    "codice_istat": "023019",
+    "comune": "Casaleone",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2881,
+    "popolazione_femminile": 2791,
+    "popolazione_totale": 5672
+  },
+  {
+    "codice_istat": "023020",
+    "comune": "Castagnaro",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1741,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3497
+  },
+  {
+    "codice_istat": "023021",
+    "comune": "Castel d'Azzano",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 6100,
+    "popolazione_femminile": 6233,
+    "popolazione_totale": 12333
+  },
+  {
+    "codice_istat": "023022",
+    "comune": "Castelnuovo del Garda",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 6572,
+    "popolazione_femminile": 6734,
+    "popolazione_totale": 13306
+  },
+  {
+    "codice_istat": "023023",
+    "comune": "Cavaion Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2938,
+    "popolazione_femminile": 3057,
+    "popolazione_totale": 5995
+  },
+  {
+    "codice_istat": "023024",
+    "comune": "Cazzano di Tramigna",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 722,
+    "popolazione_femminile": 744,
+    "popolazione_totale": 1466
+  },
+  {
+    "codice_istat": "023025",
+    "comune": "Cerea",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 8607,
+    "popolazione_femminile": 8697,
+    "popolazione_totale": 17304
+  },
+  {
+    "codice_istat": "023026",
+    "comune": "Cerro Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1370,
+    "popolazione_femminile": 1328,
+    "popolazione_totale": 2698
+  },
+  {
+    "codice_istat": "023027",
+    "comune": "Cologna Veneta",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4286,
+    "popolazione_femminile": 4257,
+    "popolazione_totale": 8543
+  },
+  {
+    "codice_istat": "023028",
+    "comune": "Colognola ai Colli",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4416,
+    "popolazione_femminile": 4385,
+    "popolazione_totale": 8801
+  },
+  {
+    "codice_istat": "023029",
+    "comune": "Concamarise",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 513,
+    "popolazione_totale": 1060
+  },
+  {
+    "codice_istat": "023030",
+    "comune": "Costermano sul Garda",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1994,
+    "popolazione_femminile": 2002,
+    "popolazione_totale": 3996
+  },
+  {
+    "codice_istat": "023031",
+    "comune": "Dolcè",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1278,
+    "popolazione_femminile": 1258,
+    "popolazione_totale": 2536
+  },
+  {
+    "codice_istat": "023032",
+    "comune": "Erbè",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 961,
+    "popolazione_femminile": 961,
+    "popolazione_totale": 1922
+  },
+  {
+    "codice_istat": "023033",
+    "comune": "Erbezzo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 481,
+    "popolazione_femminile": 369,
+    "popolazione_totale": 850
+  },
+  {
+    "codice_istat": "023034",
+    "comune": "Ferrara di Monte Baldo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 140,
+    "popolazione_totale": 302
+  },
+  {
+    "codice_istat": "023035",
+    "comune": "Fumane",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2171,
+    "popolazione_femminile": 2022,
+    "popolazione_totale": 4193
+  },
+  {
+    "codice_istat": "023036",
+    "comune": "Garda",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1989,
+    "popolazione_femminile": 2055,
+    "popolazione_totale": 4044
+  },
+  {
+    "codice_istat": "023037",
+    "comune": "Gazzo Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2634,
+    "popolazione_femminile": 2592,
+    "popolazione_totale": 5226
+  },
+  {
+    "codice_istat": "023038",
+    "comune": "Grezzana",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 5439,
+    "popolazione_femminile": 5336,
+    "popolazione_totale": 10775
+  },
+  {
+    "codice_istat": "023039",
+    "comune": "Illasi",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2602,
+    "popolazione_femminile": 2547,
+    "popolazione_totale": 5149
+  },
+  {
+    "codice_istat": "023040",
+    "comune": "Isola della Scala",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 5977,
+    "popolazione_femminile": 5848,
+    "popolazione_totale": 11825
+  },
+  {
+    "codice_istat": "023041",
+    "comune": "Isola Rizza",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1671,
+    "popolazione_femminile": 1646,
+    "popolazione_totale": 3317
+  },
+  {
+    "codice_istat": "023042",
+    "comune": "Lavagno",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4321,
+    "popolazione_femminile": 4409,
+    "popolazione_totale": 8730
+  },
+  {
+    "codice_istat": "023043",
+    "comune": "Lazise",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3329,
+    "popolazione_femminile": 3442,
+    "popolazione_totale": 6771
+  },
+  {
+    "codice_istat": "023044",
+    "comune": "Legnago",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 12750,
+    "popolazione_femminile": 13334,
+    "popolazione_totale": 26084
+  },
+  {
+    "codice_istat": "023045",
+    "comune": "Malcesine",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1693,
+    "popolazione_femminile": 1779,
+    "popolazione_totale": 3472
+  },
+  {
+    "codice_istat": "023046",
+    "comune": "Marano di Valpolicella",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1527,
+    "popolazione_femminile": 1558,
+    "popolazione_totale": 3085
+  },
+  {
+    "codice_istat": "023047",
+    "comune": "Mezzane di Sotto",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1232,
+    "popolazione_femminile": 1270,
+    "popolazione_totale": 2502
+  },
+  {
+    "codice_istat": "023048",
+    "comune": "Minerbe",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2335,
+    "popolazione_femminile": 2309,
+    "popolazione_totale": 4644
+  },
+  {
+    "codice_istat": "023049",
+    "comune": "Montecchia di Crosara",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2248,
+    "popolazione_femminile": 2075,
+    "popolazione_totale": 4323
+  },
+  {
+    "codice_istat": "023050",
+    "comune": "Monteforte d'Alpone",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4564,
+    "popolazione_femminile": 4389,
+    "popolazione_totale": 8953
+  },
+  {
+    "codice_istat": "023051",
+    "comune": "Mozzecane",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4234,
+    "popolazione_femminile": 3966,
+    "popolazione_totale": 8200
+  },
+  {
+    "codice_istat": "023052",
+    "comune": "Negrar di Valpolicella",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 8086,
+    "popolazione_femminile": 8292,
+    "popolazione_totale": 16378
+  },
+  {
+    "codice_istat": "023053",
+    "comune": "Nogara",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 4252,
+    "popolazione_femminile": 4236,
+    "popolazione_totale": 8488
+  },
+  {
+    "codice_istat": "023054",
+    "comune": "Nogarole Rocca",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2068,
+    "popolazione_femminile": 1820,
+    "popolazione_totale": 3888
+  },
+  {
+    "codice_istat": "023055",
+    "comune": "Oppeano",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 5269,
+    "popolazione_femminile": 5114,
+    "popolazione_totale": 10383
+  },
+  {
+    "codice_istat": "023056",
+    "comune": "Palù",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 603,
+    "popolazione_femminile": 593,
+    "popolazione_totale": 1196
+  },
+  {
+    "codice_istat": "023057",
+    "comune": "Pastrengo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1551,
+    "popolazione_femminile": 1538,
+    "popolazione_totale": 3089
+  },
+  {
+    "codice_istat": "023058",
+    "comune": "Pescantina",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 8794,
+    "popolazione_femminile": 8836,
+    "popolazione_totale": 17630
+  },
+  {
+    "codice_istat": "023059",
+    "comune": "Peschiera del Garda",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 5252,
+    "popolazione_femminile": 5653,
+    "popolazione_totale": 10905
+  },
+  {
+    "codice_istat": "023060",
+    "comune": "Povegliano Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3666,
+    "popolazione_femminile": 3735,
+    "popolazione_totale": 7401
+  },
+  {
+    "codice_istat": "023061",
+    "comune": "Pressana",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1332,
+    "popolazione_femminile": 1179,
+    "popolazione_totale": 2511
+  },
+  {
+    "codice_istat": "023062",
+    "comune": "Rivoli Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1215,
+    "popolazione_femminile": 1153,
+    "popolazione_totale": 2368
+  },
+  {
+    "codice_istat": "023063",
+    "comune": "Roncà",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1927,
+    "popolazione_femminile": 1828,
+    "popolazione_totale": 3755
+  },
+  {
+    "codice_istat": "023064",
+    "comune": "Ronco all'Adige",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3151,
+    "popolazione_femminile": 3044,
+    "popolazione_totale": 6195
+  },
+  {
+    "codice_istat": "023065",
+    "comune": "Roverchiara",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1368,
+    "popolazione_femminile": 1228,
+    "popolazione_totale": 2596
+  },
+  {
+    "codice_istat": "023067",
+    "comune": "Roverè Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1099,
+    "popolazione_femminile": 1070,
+    "popolazione_totale": 2169
+  },
+  {
+    "codice_istat": "023066",
+    "comune": "Roveredo di Guà",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 830,
+    "popolazione_totale": 1657
+  },
+  {
+    "codice_istat": "023068",
+    "comune": "Salizzole",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1932,
+    "popolazione_femminile": 1826,
+    "popolazione_totale": 3758
+  },
+  {
+    "codice_istat": "023069",
+    "comune": "San Bonifacio",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 10788,
+    "popolazione_femminile": 10611,
+    "popolazione_totale": 21399
+  },
+  {
+    "codice_istat": "023070",
+    "comune": "San Giovanni Ilarione",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2446,
+    "popolazione_femminile": 2402,
+    "popolazione_totale": 4848
+  },
+  {
+    "codice_istat": "023071",
+    "comune": "San Giovanni Lupatoto",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 12503,
+    "popolazione_femminile": 12924,
+    "popolazione_totale": 25427
+  },
+  {
+    "codice_istat": "023073",
+    "comune": "San Martino Buon Albergo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 8354,
+    "popolazione_femminile": 8443,
+    "popolazione_totale": 16797
+  },
+  {
+    "codice_istat": "023074",
+    "comune": "San Mauro di Saline",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 319,
+    "popolazione_femminile": 287,
+    "popolazione_totale": 606
+  },
+  {
+    "codice_istat": "023075",
+    "comune": "San Pietro di Morubio",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1647,
+    "popolazione_femminile": 1498,
+    "popolazione_totale": 3145
+  },
+  {
+    "codice_istat": "023076",
+    "comune": "San Pietro in Cariano",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 6254,
+    "popolazione_femminile": 6742,
+    "popolazione_totale": 12996
+  },
+  {
+    "codice_istat": "023079",
+    "comune": "San Zeno di Montagna",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 797,
+    "popolazione_femminile": 747,
+    "popolazione_totale": 1544
+  },
+  {
+    "codice_istat": "023072",
+    "comune": "Sanguinetto",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2212,
+    "popolazione_femminile": 2106,
+    "popolazione_totale": 4318
+  },
+  {
+    "codice_istat": "023077",
+    "comune": "Sant'Ambrogio di Valpolicella",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 5855,
+    "popolazione_femminile": 6015,
+    "popolazione_totale": 11870
+  },
+  {
+    "codice_istat": "023078",
+    "comune": "Sant'Anna d'Alfaedo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1446,
+    "popolazione_femminile": 1214,
+    "popolazione_totale": 2660
+  },
+  {
+    "codice_istat": "023080",
+    "comune": "Selva di Progno",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 488,
+    "popolazione_femminile": 433,
+    "popolazione_totale": 921
+  },
+  {
+    "codice_istat": "023081",
+    "comune": "Soave",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 3549,
+    "popolazione_femminile": 3577,
+    "popolazione_totale": 7126
+  },
+  {
+    "codice_istat": "023082",
+    "comune": "Sommacampagna",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 7222,
+    "popolazione_femminile": 7258,
+    "popolazione_totale": 14480
+  },
+  {
+    "codice_istat": "023083",
+    "comune": "Sona",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 8834,
+    "popolazione_femminile": 8927,
+    "popolazione_totale": 17761
+  },
+  {
+    "codice_istat": "023084",
+    "comune": "Sorgà",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1564,
+    "popolazione_femminile": 1415,
+    "popolazione_totale": 2979
+  },
+  {
+    "codice_istat": "023085",
+    "comune": "Terrazzo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1064,
+    "popolazione_femminile": 1079,
+    "popolazione_totale": 2143
+  },
+  {
+    "codice_istat": "023086",
+    "comune": "Torri del Benaco",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1383,
+    "popolazione_femminile": 1473,
+    "popolazione_totale": 2856
+  },
+  {
+    "codice_istat": "023087",
+    "comune": "Tregnago",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2525,
+    "popolazione_femminile": 2540,
+    "popolazione_totale": 5065
+  },
+  {
+    "codice_istat": "023088",
+    "comune": "Trevenzuolo",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1494,
+    "popolazione_femminile": 1307,
+    "popolazione_totale": 2801
+  },
+  {
+    "codice_istat": "023089",
+    "comune": "Valeggio sul Mincio",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 7911,
+    "popolazione_femminile": 8129,
+    "popolazione_totale": 16040
+  },
+  {
+    "codice_istat": "023090",
+    "comune": "Velo Veronese",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 411,
+    "popolazione_femminile": 361,
+    "popolazione_totale": 772
+  },
+  {
+    "codice_istat": "023091",
+    "comune": "Verona",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 122454,
+    "popolazione_femminile": 132685,
+    "popolazione_totale": 255139,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "023092",
+    "comune": "Veronella",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2643,
+    "popolazione_femminile": 2546,
+    "popolazione_totale": 5189
+  },
+  {
+    "codice_istat": "023093",
+    "comune": "Vestenanova",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 1303,
+    "popolazione_femminile": 1196,
+    "popolazione_totale": 2499
+  },
+  {
+    "codice_istat": "023094",
+    "comune": "Vigasio",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 5234,
+    "popolazione_femminile": 5108,
+    "popolazione_totale": 10342
+  },
+  {
+    "codice_istat": "023095",
+    "comune": "Villa Bartolomea",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2933,
+    "popolazione_femminile": 2962,
+    "popolazione_totale": 5895
+  },
+  {
+    "codice_istat": "023096",
+    "comune": "Villafranca di Verona",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 16085,
+    "popolazione_femminile": 16700,
+    "popolazione_totale": 32785
+  },
+  {
+    "codice_istat": "023097",
+    "comune": "Zevio",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 7963,
+    "popolazione_femminile": 7974,
+    "popolazione_totale": 15937
+  },
+  {
+    "codice_istat": "023098",
+    "comune": "Zimella",
+    "provincia": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "popolazione_maschile": 2507,
+    "popolazione_femminile": 2374,
+    "popolazione_totale": 4881
+  }
+]

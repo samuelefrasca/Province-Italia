@@ -1,0 +1,353 @@
+[
+  {
+    "codice_istat": "052001",
+    "comune": "Abbadia San Salvatore",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3111,
+    "popolazione_femminile": 3006,
+    "popolazione_totale": 6117
+  },
+  {
+    "codice_istat": "052002",
+    "comune": "Asciano",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3338,
+    "popolazione_femminile": 3444,
+    "popolazione_totale": 6782
+  },
+  {
+    "codice_istat": "052003",
+    "comune": "Buonconvento",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1424,
+    "popolazione_femminile": 1512,
+    "popolazione_totale": 2936
+  },
+  {
+    "codice_istat": "052004",
+    "comune": "Casole d'Elsa",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1827,
+    "popolazione_femminile": 1842,
+    "popolazione_totale": 3669
+  },
+  {
+    "codice_istat": "052005",
+    "comune": "Castellina in Chianti",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1355,
+    "popolazione_femminile": 1236,
+    "popolazione_totale": 2591
+  },
+  {
+    "codice_istat": "052006",
+    "comune": "Castelnuovo Berardenga",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4295,
+    "popolazione_femminile": 4469,
+    "popolazione_totale": 8764
+  },
+  {
+    "codice_istat": "052007",
+    "comune": "Castiglione d'Orcia",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1016,
+    "popolazione_femminile": 1030,
+    "popolazione_totale": 2046
+  },
+  {
+    "codice_istat": "052008",
+    "comune": "Cetona",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1173,
+    "popolazione_femminile": 1268,
+    "popolazione_totale": 2441
+  },
+  {
+    "codice_istat": "052009",
+    "comune": "Chianciano Terme",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3673,
+    "popolazione_femminile": 3470,
+    "popolazione_totale": 7143
+  },
+  {
+    "codice_istat": "052010",
+    "comune": "Chiusdino",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 838,
+    "popolazione_femminile": 866,
+    "popolazione_totale": 1704
+  },
+  {
+    "codice_istat": "052011",
+    "comune": "Chiusi",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4034,
+    "popolazione_femminile": 4018,
+    "popolazione_totale": 8052
+  },
+  {
+    "codice_istat": "052012",
+    "comune": "Colle di Val d'Elsa",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 10575,
+    "popolazione_femminile": 11090,
+    "popolazione_totale": 21665
+  },
+  {
+    "codice_istat": "052013",
+    "comune": "Gaiole in Chianti",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1260,
+    "popolazione_femminile": 1200,
+    "popolazione_totale": 2460
+  },
+  {
+    "codice_istat": "052037",
+    "comune": "Montalcino",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2713,
+    "popolazione_femminile": 2817,
+    "popolazione_totale": 5530
+  },
+  {
+    "codice_istat": "052015",
+    "comune": "Montepulciano",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6286,
+    "popolazione_femminile": 6731,
+    "popolazione_totale": 13017
+  },
+  {
+    "codice_istat": "052016",
+    "comune": "Monteriggioni",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4962,
+    "popolazione_femminile": 5101,
+    "popolazione_totale": 10063
+  },
+  {
+    "codice_istat": "052017",
+    "comune": "Monteroni d'Arbia",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4431,
+    "popolazione_femminile": 4588,
+    "popolazione_totale": 9019
+  },
+  {
+    "codice_istat": "052018",
+    "comune": "Monticiano",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 880,
+    "popolazione_femminile": 756,
+    "popolazione_totale": 1636
+  },
+  {
+    "codice_istat": "052019",
+    "comune": "Murlo",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1307,
+    "popolazione_femminile": 1168,
+    "popolazione_totale": 2475
+  },
+  {
+    "codice_istat": "052020",
+    "comune": "Piancastagnaio",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1867,
+    "popolazione_femminile": 1972,
+    "popolazione_totale": 3839
+  },
+  {
+    "codice_istat": "052021",
+    "comune": "Pienza",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 903,
+    "popolazione_femminile": 997,
+    "popolazione_totale": 1900
+  },
+  {
+    "codice_istat": "052022",
+    "comune": "Poggibonsi",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 13779,
+    "popolazione_femminile": 14269,
+    "popolazione_totale": 28048
+  },
+  {
+    "codice_istat": "052023",
+    "comune": "Radda in Chianti",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 733,
+    "popolazione_totale": 1431
+  },
+  {
+    "codice_istat": "052024",
+    "comune": "Radicofani",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 495,
+    "popolazione_femminile": 529,
+    "popolazione_totale": 1024
+  },
+  {
+    "codice_istat": "052025",
+    "comune": "Radicondoli",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 513,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 969
+  },
+  {
+    "codice_istat": "052026",
+    "comune": "Rapolano Terme",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2494,
+    "popolazione_femminile": 2609,
+    "popolazione_totale": 5103
+  },
+  {
+    "codice_istat": "052027",
+    "comune": "San Casciano dei Bagni",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 709,
+    "popolazione_femminile": 708,
+    "popolazione_totale": 1417
+  },
+  {
+    "codice_istat": "052028",
+    "comune": "San Gimignano",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3847,
+    "popolazione_femminile": 3616,
+    "popolazione_totale": 7463
+  },
+  {
+    "codice_istat": "052030",
+    "comune": "San Quirico d'Orcia",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1231,
+    "popolazione_femminile": 1299,
+    "popolazione_totale": 2530
+  },
+  {
+    "codice_istat": "052031",
+    "comune": "Sarteano",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2186,
+    "popolazione_femminile": 2308,
+    "popolazione_totale": 4494
+  },
+  {
+    "codice_istat": "052032",
+    "comune": "Siena",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 24914,
+    "popolazione_femminile": 28266,
+    "popolazione_totale": 53180,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "052033",
+    "comune": "Sinalunga",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5923,
+    "popolazione_femminile": 6170,
+    "popolazione_totale": 12093
+  },
+  {
+    "codice_istat": "052034",
+    "comune": "Sovicille",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4771,
+    "popolazione_femminile": 5073,
+    "popolazione_totale": 9844
+  },
+  {
+    "codice_istat": "052035",
+    "comune": "Torrita di Siena",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3424,
+    "popolazione_femminile": 3518,
+    "popolazione_totale": 6942
+  },
+  {
+    "codice_istat": "052036",
+    "comune": "Trequanda",
+    "provincia": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "popolazione_maschile": 555,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1115
+  }
+]

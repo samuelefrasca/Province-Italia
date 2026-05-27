@@ -1,0 +1,363 @@
+[
+  {
+    "codice_istat": "051001",
+    "comune": "Anghiari",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2621,
+    "popolazione_femminile": 2722,
+    "popolazione_totale": 5343
+  },
+  {
+    "codice_istat": "051002",
+    "comune": "Arezzo",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 47177,
+    "popolazione_femminile": 49329,
+    "popolazione_totale": 96506,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "051003",
+    "comune": "Badia Tedalda",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 499,
+    "popolazione_femminile": 442,
+    "popolazione_totale": 941
+  },
+  {
+    "codice_istat": "051004",
+    "comune": "Bibbiena",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 6022,
+    "popolazione_femminile": 5949,
+    "popolazione_totale": 11971
+  },
+  {
+    "codice_istat": "051005",
+    "comune": "Bucine",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4891,
+    "popolazione_femminile": 5015,
+    "popolazione_totale": 9906
+  },
+  {
+    "codice_istat": "051006",
+    "comune": "Capolona",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2552,
+    "popolazione_femminile": 2651,
+    "popolazione_totale": 5203
+  },
+  {
+    "codice_istat": "051007",
+    "comune": "Caprese Michelangelo",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 653,
+    "popolazione_femminile": 672,
+    "popolazione_totale": 1325
+  },
+  {
+    "codice_istat": "051008",
+    "comune": "Castel Focognano",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1512,
+    "popolazione_femminile": 1419,
+    "popolazione_totale": 2931
+  },
+  {
+    "codice_istat": "051010",
+    "comune": "Castel San Niccolò",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1236,
+    "popolazione_femminile": 1257,
+    "popolazione_totale": 2493
+  },
+  {
+    "codice_istat": "051040",
+    "comune": "Castelfranco Piandiscò",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4801,
+    "popolazione_femminile": 5007,
+    "popolazione_totale": 9808
+  },
+  {
+    "codice_istat": "051011",
+    "comune": "Castiglion Fibocchi",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1083,
+    "popolazione_femminile": 1039,
+    "popolazione_totale": 2122
+  },
+  {
+    "codice_istat": "051012",
+    "comune": "Castiglion Fiorentino",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 6359,
+    "popolazione_femminile": 6464,
+    "popolazione_totale": 12823
+  },
+  {
+    "codice_istat": "051013",
+    "comune": "Cavriglia",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4735,
+    "popolazione_femminile": 4769,
+    "popolazione_totale": 9504
+  },
+  {
+    "codice_istat": "051014",
+    "comune": "Chitignano",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 430,
+    "popolazione_totale": 872
+  },
+  {
+    "codice_istat": "051015",
+    "comune": "Chiusi della Verna",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 910,
+    "popolazione_femminile": 982,
+    "popolazione_totale": 1892
+  },
+  {
+    "codice_istat": "051016",
+    "comune": "Civitella in Val di Chiana",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4283,
+    "popolazione_femminile": 4325,
+    "popolazione_totale": 8608
+  },
+  {
+    "codice_istat": "051017",
+    "comune": "Cortona",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 10017,
+    "popolazione_femminile": 10708,
+    "popolazione_totale": 20725
+  },
+  {
+    "codice_istat": "051018",
+    "comune": "Foiano della Chiana",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4455,
+    "popolazione_femminile": 4571,
+    "popolazione_totale": 9026
+  },
+  {
+    "codice_istat": "051042",
+    "comune": "Laterina Pergine Valdarno",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 3141,
+    "popolazione_femminile": 3150,
+    "popolazione_totale": 6291
+  },
+  {
+    "codice_istat": "051020",
+    "comune": "Loro Ciuffenna",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2918,
+    "popolazione_femminile": 2956,
+    "popolazione_totale": 5874
+  },
+  {
+    "codice_istat": "051021",
+    "comune": "Lucignano",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1638,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3394
+  },
+  {
+    "codice_istat": "051022",
+    "comune": "Marciano della Chiana",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1724,
+    "popolazione_femminile": 1793,
+    "popolazione_totale": 3517
+  },
+  {
+    "codice_istat": "051025",
+    "comune": "Monte San Savino",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4222,
+    "popolazione_femminile": 4366,
+    "popolazione_totale": 8588
+  },
+  {
+    "codice_istat": "051023",
+    "comune": "Montemignaio",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 495
+  },
+  {
+    "codice_istat": "051024",
+    "comune": "Monterchi",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 850,
+    "popolazione_totale": 1719
+  },
+  {
+    "codice_istat": "051026",
+    "comune": "Montevarchi",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 11909,
+    "popolazione_femminile": 12135,
+    "popolazione_totale": 24044
+  },
+  {
+    "codice_istat": "051027",
+    "comune": "Ortignano Raggiolo",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 435,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 834
+  },
+  {
+    "codice_istat": "051030",
+    "comune": "Pieve Santo Stefano",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1449,
+    "popolazione_femminile": 1517,
+    "popolazione_totale": 2966
+  },
+  {
+    "codice_istat": "051031",
+    "comune": "Poppi",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2922,
+    "popolazione_femminile": 2810,
+    "popolazione_totale": 5732
+  },
+  {
+    "codice_istat": "051041",
+    "comune": "Pratovecchio Stia",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2676,
+    "popolazione_femminile": 2730,
+    "popolazione_totale": 5406
+  },
+  {
+    "codice_istat": "051033",
+    "comune": "San Giovanni Valdarno",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 7934,
+    "popolazione_femminile": 8630,
+    "popolazione_totale": 16564
+  },
+  {
+    "codice_istat": "051034",
+    "comune": "Sansepolcro",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 7500,
+    "popolazione_femminile": 7692,
+    "popolazione_totale": 15192
+  },
+  {
+    "codice_istat": "051035",
+    "comune": "Sestino",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 554,
+    "popolazione_totale": 1150
+  },
+  {
+    "codice_istat": "051037",
+    "comune": "Subbiano",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 3273,
+    "popolazione_femminile": 3132,
+    "popolazione_totale": 6405
+  },
+  {
+    "codice_istat": "051038",
+    "comune": "Talla",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 505,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 964
+  },
+  {
+    "codice_istat": "051039",
+    "comune": "Terranuova Bracciolini",
+    "provincia": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "popolazione_maschile": 6003,
+    "popolazione_femminile": 6132,
+    "popolazione_totale": 12135
+  }
+]

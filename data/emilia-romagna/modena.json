@@ -1,0 +1,473 @@
+[
+  {
+    "codice_istat": "036001",
+    "comune": "Bastiglia",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2116,
+    "popolazione_femminile": 2128,
+    "popolazione_totale": 4244
+  },
+  {
+    "codice_istat": "036002",
+    "comune": "Bomporto",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5246,
+    "popolazione_femminile": 5152,
+    "popolazione_totale": 10398
+  },
+  {
+    "codice_istat": "036003",
+    "comune": "Campogalliano",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4215,
+    "popolazione_femminile": 4301,
+    "popolazione_totale": 8516
+  },
+  {
+    "codice_istat": "036004",
+    "comune": "Camposanto",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1723,
+    "popolazione_femminile": 1674,
+    "popolazione_totale": 3397
+  },
+  {
+    "codice_istat": "036005",
+    "comune": "Carpi",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 36732,
+    "popolazione_femminile": 37309,
+    "popolazione_totale": 74041
+  },
+  {
+    "codice_istat": "036006",
+    "comune": "Castelfranco Emilia",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 17092,
+    "popolazione_femminile": 16533,
+    "popolazione_totale": 33625
+  },
+  {
+    "codice_istat": "036007",
+    "comune": "Castelnuovo Rangone",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7545,
+    "popolazione_femminile": 7571,
+    "popolazione_totale": 15116
+  },
+  {
+    "codice_istat": "036008",
+    "comune": "Castelvetro di Modena",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5559,
+    "popolazione_femminile": 5401,
+    "popolazione_totale": 10960
+  },
+  {
+    "codice_istat": "036009",
+    "comune": "Cavezzo",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3523,
+    "popolazione_femminile": 3713,
+    "popolazione_totale": 7236
+  },
+  {
+    "codice_istat": "036010",
+    "comune": "Concordia sulla Secchia",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4225,
+    "popolazione_femminile": 4316,
+    "popolazione_totale": 8541
+  },
+  {
+    "codice_istat": "036011",
+    "comune": "Fanano",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1475,
+    "popolazione_femminile": 1509,
+    "popolazione_totale": 2984
+  },
+  {
+    "codice_istat": "036012",
+    "comune": "Finale Emilia",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7773,
+    "popolazione_femminile": 7797,
+    "popolazione_totale": 15570
+  },
+  {
+    "codice_istat": "036013",
+    "comune": "Fiorano Modenese",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8252,
+    "popolazione_femminile": 8358,
+    "popolazione_totale": 16610
+  },
+  {
+    "codice_istat": "036014",
+    "comune": "Fiumalbo",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 610,
+    "popolazione_femminile": 567,
+    "popolazione_totale": 1177
+  },
+  {
+    "codice_istat": "036015",
+    "comune": "Formigine",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 17080,
+    "popolazione_femminile": 17416,
+    "popolazione_totale": 34496
+  },
+  {
+    "codice_istat": "036016",
+    "comune": "Frassinoro",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 862,
+    "popolazione_femminile": 835,
+    "popolazione_totale": 1697
+  },
+  {
+    "codice_istat": "036017",
+    "comune": "Guiglia",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2224,
+    "popolazione_femminile": 2132,
+    "popolazione_totale": 4356
+  },
+  {
+    "codice_istat": "036018",
+    "comune": "Lama Mocogno",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1343,
+    "popolazione_femminile": 1336,
+    "popolazione_totale": 2679
+  },
+  {
+    "codice_istat": "036019",
+    "comune": "Maranello",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8668,
+    "popolazione_femminile": 8692,
+    "popolazione_totale": 17360
+  },
+  {
+    "codice_istat": "036020",
+    "comune": "Marano sul Panaro",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2630,
+    "popolazione_femminile": 2689,
+    "popolazione_totale": 5319
+  },
+  {
+    "codice_istat": "036021",
+    "comune": "Medolla",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3255,
+    "popolazione_femminile": 3276,
+    "popolazione_totale": 6531
+  },
+  {
+    "codice_istat": "036022",
+    "comune": "Mirandola",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 12173,
+    "popolazione_femminile": 12748,
+    "popolazione_totale": 24921
+  },
+  {
+    "codice_istat": "036023",
+    "comune": "Modena",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 90080,
+    "popolazione_femminile": 94281,
+    "popolazione_totale": 184361,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "036024",
+    "comune": "Montecreto",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 509,
+    "popolazione_femminile": 442,
+    "popolazione_totale": 951
+  },
+  {
+    "codice_istat": "036025",
+    "comune": "Montefiorino",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1077,
+    "popolazione_femminile": 1042,
+    "popolazione_totale": 2119
+  },
+  {
+    "codice_istat": "036026",
+    "comune": "Montese",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1707,
+    "popolazione_femminile": 1667,
+    "popolazione_totale": 3374
+  },
+  {
+    "codice_istat": "036027",
+    "comune": "Nonantola",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8095,
+    "popolazione_femminile": 8091,
+    "popolazione_totale": 16186
+  },
+  {
+    "codice_istat": "036028",
+    "comune": "Novi di Modena",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5252,
+    "popolazione_femminile": 5161,
+    "popolazione_totale": 10413
+  },
+  {
+    "codice_istat": "036029",
+    "comune": "Palagano",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 993,
+    "popolazione_femminile": 1041,
+    "popolazione_totale": 2034
+  },
+  {
+    "codice_istat": "036030",
+    "comune": "Pavullo nel Frignano",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 9184,
+    "popolazione_femminile": 9221,
+    "popolazione_totale": 18405
+  },
+  {
+    "codice_istat": "036031",
+    "comune": "Pievepelago",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1044,
+    "popolazione_femminile": 1052,
+    "popolazione_totale": 2096
+  },
+  {
+    "codice_istat": "036032",
+    "comune": "Polinago",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 832,
+    "popolazione_femminile": 772,
+    "popolazione_totale": 1604
+  },
+  {
+    "codice_istat": "036033",
+    "comune": "Prignano sulla Secchia",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1988,
+    "popolazione_femminile": 1910,
+    "popolazione_totale": 3898
+  },
+  {
+    "codice_istat": "036034",
+    "comune": "Ravarino",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3169,
+    "popolazione_femminile": 3219,
+    "popolazione_totale": 6388
+  },
+  {
+    "codice_istat": "036035",
+    "comune": "Riolunato",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 345,
+    "popolazione_femminile": 312,
+    "popolazione_totale": 657
+  },
+  {
+    "codice_istat": "036036",
+    "comune": "San Cesario sul Panaro",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3368,
+    "popolazione_femminile": 3308,
+    "popolazione_totale": 6676
+  },
+  {
+    "codice_istat": "036037",
+    "comune": "San Felice sul Panaro",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5525,
+    "popolazione_femminile": 5524,
+    "popolazione_totale": 11049
+  },
+  {
+    "codice_istat": "036038",
+    "comune": "San Possidonio",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1795,
+    "popolazione_femminile": 1782,
+    "popolazione_totale": 3577
+  },
+  {
+    "codice_istat": "036039",
+    "comune": "San Prospero",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3184,
+    "popolazione_femminile": 3077,
+    "popolazione_totale": 6261
+  },
+  {
+    "codice_istat": "036040",
+    "comune": "Sassuolo",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 20433,
+    "popolazione_femminile": 20690,
+    "popolazione_totale": 41123
+  },
+  {
+    "codice_istat": "036041",
+    "comune": "Savignano sul Panaro",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4761,
+    "popolazione_femminile": 4830,
+    "popolazione_totale": 9591
+  },
+  {
+    "codice_istat": "036042",
+    "comune": "Serramazzoni",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4611,
+    "popolazione_femminile": 4369,
+    "popolazione_totale": 8980
+  },
+  {
+    "codice_istat": "036043",
+    "comune": "Sestola",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1203,
+    "popolazione_femminile": 1198,
+    "popolazione_totale": 2401
+  },
+  {
+    "codice_istat": "036044",
+    "comune": "Soliera",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7686,
+    "popolazione_femminile": 7774,
+    "popolazione_totale": 15460
+  },
+  {
+    "codice_istat": "036045",
+    "comune": "Spilamberto",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6471,
+    "popolazione_femminile": 6497,
+    "popolazione_totale": 12968
+  },
+  {
+    "codice_istat": "036046",
+    "comune": "Vignola",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 12958,
+    "popolazione_femminile": 13352,
+    "popolazione_totale": 26310
+  },
+  {
+    "codice_istat": "036047",
+    "comune": "Zocca",
+    "provincia": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2489,
+    "popolazione_femminile": 2357,
+    "popolazione_totale": 4846
+  }
+]

@@ -1,0 +1,1333 @@
+[
+  {
+    "codice_istat": "015002",
+    "comune": "Abbiategrasso",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 16074,
+    "popolazione_femminile": 16719,
+    "popolazione_totale": 32793
+  },
+  {
+    "codice_istat": "015005",
+    "comune": "Albairate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2334,
+    "popolazione_femminile": 2385,
+    "popolazione_totale": 4719
+  },
+  {
+    "codice_istat": "015007",
+    "comune": "Arconate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3341,
+    "popolazione_femminile": 3530,
+    "popolazione_totale": 6871
+  },
+  {
+    "codice_istat": "015009",
+    "comune": "Arese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9407,
+    "popolazione_femminile": 10138,
+    "popolazione_totale": 19545
+  },
+  {
+    "codice_istat": "015010",
+    "comune": "Arluno",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6216,
+    "popolazione_femminile": 6399,
+    "popolazione_totale": 12615
+  },
+  {
+    "codice_istat": "015011",
+    "comune": "Assago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4569,
+    "popolazione_femminile": 4779,
+    "popolazione_totale": 9348
+  },
+  {
+    "codice_istat": "015250",
+    "comune": "Baranzate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6402,
+    "popolazione_femminile": 5727,
+    "popolazione_totale": 12129
+  },
+  {
+    "codice_istat": "015012",
+    "comune": "Bareggio",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8450,
+    "popolazione_femminile": 8821,
+    "popolazione_totale": 17271
+  },
+  {
+    "codice_istat": "015014",
+    "comune": "Basiano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1841,
+    "popolazione_femminile": 1804,
+    "popolazione_totale": 3645
+  },
+  {
+    "codice_istat": "015015",
+    "comune": "Basiglio",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3859,
+    "popolazione_femminile": 4168,
+    "popolazione_totale": 8027
+  },
+  {
+    "codice_istat": "015016",
+    "comune": "Bellinzago Lombardo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1849,
+    "popolazione_femminile": 1879,
+    "popolazione_totale": 3728
+  },
+  {
+    "codice_istat": "015019",
+    "comune": "Bernate Ticino",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1439,
+    "popolazione_femminile": 1480,
+    "popolazione_totale": 2919
+  },
+  {
+    "codice_istat": "015022",
+    "comune": "Besate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1014,
+    "popolazione_femminile": 1036,
+    "popolazione_totale": 2050
+  },
+  {
+    "codice_istat": "015024",
+    "comune": "Binasco",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3329,
+    "popolazione_femminile": 3739,
+    "popolazione_totale": 7068
+  },
+  {
+    "codice_istat": "015026",
+    "comune": "Boffalora sopra Ticino",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2025,
+    "popolazione_femminile": 2079,
+    "popolazione_totale": 4104
+  },
+  {
+    "codice_istat": "015027",
+    "comune": "Bollate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 17808,
+    "popolazione_femminile": 18946,
+    "popolazione_totale": 36754
+  },
+  {
+    "codice_istat": "015032",
+    "comune": "Bresso",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 13201,
+    "popolazione_femminile": 13471,
+    "popolazione_totale": 26672
+  },
+  {
+    "codice_istat": "015035",
+    "comune": "Bubbiano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1238,
+    "popolazione_femminile": 1208,
+    "popolazione_totale": 2446
+  },
+  {
+    "codice_istat": "015036",
+    "comune": "Buccinasco",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 12692,
+    "popolazione_femminile": 13653,
+    "popolazione_totale": 26345
+  },
+  {
+    "codice_istat": "015038",
+    "comune": "Buscate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2349,
+    "popolazione_femminile": 2347,
+    "popolazione_totale": 4696
+  },
+  {
+    "codice_istat": "015040",
+    "comune": "Bussero",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4017,
+    "popolazione_femminile": 4369,
+    "popolazione_totale": 8386
+  },
+  {
+    "codice_istat": "015041",
+    "comune": "Busto Garolfo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7056,
+    "popolazione_femminile": 7075,
+    "popolazione_totale": 14131
+  },
+  {
+    "codice_istat": "015042",
+    "comune": "Calvignasco",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 609,
+    "popolazione_femminile": 592,
+    "popolazione_totale": 1201
+  },
+  {
+    "codice_istat": "015044",
+    "comune": "Cambiago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3689,
+    "popolazione_femminile": 3642,
+    "popolazione_totale": 7331
+  },
+  {
+    "codice_istat": "015046",
+    "comune": "Canegrate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6298,
+    "popolazione_femminile": 6591,
+    "popolazione_totale": 12889
+  },
+  {
+    "codice_istat": "015050",
+    "comune": "Carpiano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2128,
+    "popolazione_femminile": 1991,
+    "popolazione_totale": 4119
+  },
+  {
+    "codice_istat": "015051",
+    "comune": "Carugate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7792,
+    "popolazione_femminile": 7971,
+    "popolazione_totale": 15763
+  },
+  {
+    "codice_istat": "015055",
+    "comune": "Casarile",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1940,
+    "popolazione_femminile": 1989,
+    "popolazione_totale": 3929
+  },
+  {
+    "codice_istat": "015058",
+    "comune": "Casorezzo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2805,
+    "popolazione_femminile": 2916,
+    "popolazione_totale": 5721
+  },
+  {
+    "codice_istat": "015059",
+    "comune": "Cassano d'Adda",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9811,
+    "popolazione_femminile": 10169,
+    "popolazione_totale": 19980
+  },
+  {
+    "codice_istat": "015060",
+    "comune": "Cassina de' Pecchi",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6751,
+    "popolazione_femminile": 7204,
+    "popolazione_totale": 13955
+  },
+  {
+    "codice_istat": "015061",
+    "comune": "Cassinetta di Lugagnano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 951,
+    "popolazione_femminile": 1016,
+    "popolazione_totale": 1967
+  },
+  {
+    "codice_istat": "015062",
+    "comune": "Castano Primo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5385,
+    "popolazione_femminile": 5546,
+    "popolazione_totale": 10931
+  },
+  {
+    "codice_istat": "015070",
+    "comune": "Cernusco sul Naviglio",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 16784,
+    "popolazione_femminile": 18056,
+    "popolazione_totale": 34840
+  },
+  {
+    "codice_istat": "015071",
+    "comune": "Cerro al Lambro",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2560,
+    "popolazione_femminile": 2651,
+    "popolazione_totale": 5211
+  },
+  {
+    "codice_istat": "015072",
+    "comune": "Cerro Maggiore",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7466,
+    "popolazione_femminile": 7726,
+    "popolazione_totale": 15192
+  },
+  {
+    "codice_istat": "015074",
+    "comune": "Cesano Boscone",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11340,
+    "popolazione_femminile": 11945,
+    "popolazione_totale": 23285
+  },
+  {
+    "codice_istat": "015076",
+    "comune": "Cesate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7065,
+    "popolazione_femminile": 7299,
+    "popolazione_totale": 14364
+  },
+  {
+    "codice_istat": "015077",
+    "comune": "Cinisello Balsamo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 37185,
+    "popolazione_femminile": 37969,
+    "popolazione_totale": 75154
+  },
+  {
+    "codice_istat": "015078",
+    "comune": "Cisliano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2545,
+    "popolazione_femminile": 2655,
+    "popolazione_totale": 5200
+  },
+  {
+    "codice_istat": "015081",
+    "comune": "Cologno Monzese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 23013,
+    "popolazione_femminile": 24166,
+    "popolazione_totale": 47179
+  },
+  {
+    "codice_istat": "015082",
+    "comune": "Colturano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1029,
+    "popolazione_femminile": 1027,
+    "popolazione_totale": 2056
+  },
+  {
+    "codice_istat": "015085",
+    "comune": "Corbetta",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9422,
+    "popolazione_femminile": 9734,
+    "popolazione_totale": 19156
+  },
+  {
+    "codice_istat": "015086",
+    "comune": "Cormano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10188,
+    "popolazione_femminile": 10848,
+    "popolazione_totale": 21036
+  },
+  {
+    "codice_istat": "015087",
+    "comune": "Cornaredo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10165,
+    "popolazione_femminile": 10581,
+    "popolazione_totale": 20746
+  },
+  {
+    "codice_istat": "015093",
+    "comune": "Corsico",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 16807,
+    "popolazione_femminile": 18004,
+    "popolazione_totale": 34811
+  },
+  {
+    "codice_istat": "015096",
+    "comune": "Cuggiono",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4047,
+    "popolazione_femminile": 4151,
+    "popolazione_totale": 8198
+  },
+  {
+    "codice_istat": "015097",
+    "comune": "Cusago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2414,
+    "popolazione_femminile": 2455,
+    "popolazione_totale": 4869
+  },
+  {
+    "codice_istat": "015098",
+    "comune": "Cusano Milanino",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9110,
+    "popolazione_femminile": 9884,
+    "popolazione_totale": 18994
+  },
+  {
+    "codice_istat": "015099",
+    "comune": "Dairago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3105,
+    "popolazione_femminile": 3241,
+    "popolazione_totale": 6346
+  },
+  {
+    "codice_istat": "015101",
+    "comune": "Dresano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1512,
+    "popolazione_femminile": 1542,
+    "popolazione_totale": 3054
+  },
+  {
+    "codice_istat": "015103",
+    "comune": "Gaggiano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4652,
+    "popolazione_femminile": 4891,
+    "popolazione_totale": 9543
+  },
+  {
+    "codice_istat": "015105",
+    "comune": "Garbagnate Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 13188,
+    "popolazione_femminile": 13876,
+    "popolazione_totale": 27064
+  },
+  {
+    "codice_istat": "015106",
+    "comune": "Gessate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4574,
+    "popolazione_femminile": 4563,
+    "popolazione_totale": 9137
+  },
+  {
+    "codice_istat": "015108",
+    "comune": "Gorgonzola",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10389,
+    "popolazione_femminile": 11059,
+    "popolazione_totale": 21448
+  },
+  {
+    "codice_istat": "015110",
+    "comune": "Grezzago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1645,
+    "popolazione_femminile": 1531,
+    "popolazione_totale": 3176
+  },
+  {
+    "codice_istat": "015112",
+    "comune": "Gudo Visconti",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 775,
+    "popolazione_femminile": 833,
+    "popolazione_totale": 1608
+  },
+  {
+    "codice_istat": "015113",
+    "comune": "Inveruno",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4212,
+    "popolazione_femminile": 4356,
+    "popolazione_totale": 8568
+  },
+  {
+    "codice_istat": "015114",
+    "comune": "Inzago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5671,
+    "popolazione_femminile": 5794,
+    "popolazione_totale": 11465
+  },
+  {
+    "codice_istat": "015115",
+    "comune": "Lacchiarella",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4498,
+    "popolazione_femminile": 4633,
+    "popolazione_totale": 9131
+  },
+  {
+    "codice_istat": "015116",
+    "comune": "Lainate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 13000,
+    "popolazione_femminile": 13457,
+    "popolazione_totale": 26457
+  },
+  {
+    "codice_istat": "015118",
+    "comune": "Legnano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 29550,
+    "popolazione_femminile": 31430,
+    "popolazione_totale": 60980
+  },
+  {
+    "codice_istat": "015122",
+    "comune": "Liscate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2000,
+    "popolazione_femminile": 1931,
+    "popolazione_totale": 3931
+  },
+  {
+    "codice_istat": "015125",
+    "comune": "Locate di Triulzi",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5137,
+    "popolazione_femminile": 5223,
+    "popolazione_totale": 10360
+  },
+  {
+    "codice_istat": "015130",
+    "comune": "Magenta",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 12243,
+    "popolazione_femminile": 12823,
+    "popolazione_totale": 25066
+  },
+  {
+    "codice_istat": "015131",
+    "comune": "Magnago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4761,
+    "popolazione_femminile": 4786,
+    "popolazione_totale": 9547
+  },
+  {
+    "codice_istat": "015134",
+    "comune": "Marcallo con Casone",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3199,
+    "popolazione_femminile": 3204,
+    "popolazione_totale": 6403
+  },
+  {
+    "codice_istat": "015136",
+    "comune": "Masate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1966,
+    "popolazione_femminile": 1951,
+    "popolazione_totale": 3917
+  },
+  {
+    "codice_istat": "015139",
+    "comune": "Mediglia",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6204,
+    "popolazione_femminile": 6169,
+    "popolazione_totale": 12373
+  },
+  {
+    "codice_istat": "015140",
+    "comune": "Melegnano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8748,
+    "popolazione_femminile": 9421,
+    "popolazione_totale": 18169
+  },
+  {
+    "codice_istat": "015142",
+    "comune": "Melzo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9027,
+    "popolazione_femminile": 9513,
+    "popolazione_totale": 18540
+  },
+  {
+    "codice_istat": "015144",
+    "comune": "Mesero",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2072,
+    "popolazione_femminile": 2062,
+    "popolazione_totale": 4134
+  },
+  {
+    "codice_istat": "015146",
+    "comune": "Milano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 663800,
+    "popolazione_femminile": 699063,
+    "popolazione_totale": 1362863,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "015150",
+    "comune": "Morimondo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 505,
+    "popolazione_femminile": 500,
+    "popolazione_totale": 1005
+  },
+  {
+    "codice_istat": "015151",
+    "comune": "Motta Visconti",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4088,
+    "popolazione_femminile": 4165,
+    "popolazione_totale": 8253
+  },
+  {
+    "codice_istat": "015154",
+    "comune": "Nerviano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8376,
+    "popolazione_femminile": 8695,
+    "popolazione_totale": 17071
+  },
+  {
+    "codice_istat": "015155",
+    "comune": "Nosate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 310,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 638
+  },
+  {
+    "codice_istat": "015157",
+    "comune": "Novate Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9846,
+    "popolazione_femminile": 10569,
+    "popolazione_totale": 20415
+  },
+  {
+    "codice_istat": "015158",
+    "comune": "Noviglio",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2288,
+    "popolazione_femminile": 2246,
+    "popolazione_totale": 4534
+  },
+  {
+    "codice_istat": "015159",
+    "comune": "Opera",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6927,
+    "popolazione_femminile": 7536,
+    "popolazione_totale": 14463
+  },
+  {
+    "codice_istat": "015164",
+    "comune": "Ossona",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2248,
+    "popolazione_femminile": 2192,
+    "popolazione_totale": 4440
+  },
+  {
+    "codice_istat": "015165",
+    "comune": "Ozzero",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 663,
+    "popolazione_femminile": 686,
+    "popolazione_totale": 1349
+  },
+  {
+    "codice_istat": "015166",
+    "comune": "Paderno Dugnano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 23464,
+    "popolazione_femminile": 24474,
+    "popolazione_totale": 47938
+  },
+  {
+    "codice_istat": "015167",
+    "comune": "Pantigliate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2862,
+    "popolazione_femminile": 3024,
+    "popolazione_totale": 5886
+  },
+  {
+    "codice_istat": "015168",
+    "comune": "Parabiago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 13993,
+    "popolazione_femminile": 14405,
+    "popolazione_totale": 28398
+  },
+  {
+    "codice_istat": "015169",
+    "comune": "Paullo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5519,
+    "popolazione_femminile": 5617,
+    "popolazione_totale": 11136
+  },
+  {
+    "codice_istat": "015170",
+    "comune": "Pero",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5969,
+    "popolazione_femminile": 5897,
+    "popolazione_totale": 11866
+  },
+  {
+    "codice_istat": "015171",
+    "comune": "Peschiera Borromeo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11973,
+    "popolazione_femminile": 12390,
+    "popolazione_totale": 24363
+  },
+  {
+    "codice_istat": "015172",
+    "comune": "Pessano con Bornago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4473,
+    "popolazione_femminile": 4561,
+    "popolazione_totale": 9034
+  },
+  {
+    "codice_istat": "015173",
+    "comune": "Pieve Emanuele",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7947,
+    "popolazione_femminile": 7899,
+    "popolazione_totale": 15846
+  },
+  {
+    "codice_istat": "015175",
+    "comune": "Pioltello",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 19389,
+    "popolazione_femminile": 18320,
+    "popolazione_totale": 37709
+  },
+  {
+    "codice_istat": "015176",
+    "comune": "Pogliano Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4215,
+    "popolazione_femminile": 4268,
+    "popolazione_totale": 8483
+  },
+  {
+    "codice_istat": "015177",
+    "comune": "Pozzo d'Adda",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3496,
+    "popolazione_femminile": 3375,
+    "popolazione_totale": 6871
+  },
+  {
+    "codice_istat": "015178",
+    "comune": "Pozzuolo Martesana",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4351,
+    "popolazione_femminile": 4477,
+    "popolazione_totale": 8828
+  },
+  {
+    "codice_istat": "015179",
+    "comune": "Pregnana Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3661,
+    "popolazione_femminile": 3670,
+    "popolazione_totale": 7331
+  },
+  {
+    "codice_istat": "015181",
+    "comune": "Rescaldina",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7116,
+    "popolazione_femminile": 7290,
+    "popolazione_totale": 14406
+  },
+  {
+    "codice_istat": "015182",
+    "comune": "Rho",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 24675,
+    "popolazione_femminile": 26325,
+    "popolazione_totale": 51000
+  },
+  {
+    "codice_istat": "015183",
+    "comune": "Robecchetto con Induno",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2370,
+    "popolazione_femminile": 2427,
+    "popolazione_totale": 4797
+  },
+  {
+    "codice_istat": "015184",
+    "comune": "Robecco sul Naviglio",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3347,
+    "popolazione_femminile": 3447,
+    "popolazione_totale": 6794
+  },
+  {
+    "codice_istat": "015185",
+    "comune": "Rodano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2336,
+    "popolazione_femminile": 2373,
+    "popolazione_totale": 4709
+  },
+  {
+    "codice_istat": "015188",
+    "comune": "Rosate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2782,
+    "popolazione_femminile": 2859,
+    "popolazione_totale": 5641
+  },
+  {
+    "codice_istat": "015189",
+    "comune": "Rozzano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 20311,
+    "popolazione_femminile": 21413,
+    "popolazione_totale": 41724
+  },
+  {
+    "codice_istat": "015191",
+    "comune": "San Colombano al Lambro",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3758,
+    "popolazione_femminile": 3833,
+    "popolazione_totale": 7591
+  },
+  {
+    "codice_istat": "015192",
+    "comune": "San Donato Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 15592,
+    "popolazione_femminile": 16618,
+    "popolazione_totale": 32210
+  },
+  {
+    "codice_istat": "015194",
+    "comune": "San Giorgio su Legnano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3371,
+    "popolazione_femminile": 3497,
+    "popolazione_totale": 6868
+  },
+  {
+    "codice_istat": "015195",
+    "comune": "San Giuliano Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 20127,
+    "popolazione_femminile": 20100,
+    "popolazione_totale": 40227
+  },
+  {
+    "codice_istat": "015201",
+    "comune": "San Vittore Olona",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4138,
+    "popolazione_femminile": 4312,
+    "popolazione_totale": 8450
+  },
+  {
+    "codice_istat": "015202",
+    "comune": "San Zenone al Lambro",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2324,
+    "popolazione_femminile": 2184,
+    "popolazione_totale": 4508
+  },
+  {
+    "codice_istat": "015200",
+    "comune": "Santo Stefano Ticino",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2449,
+    "popolazione_femminile": 2534,
+    "popolazione_totale": 4983
+  },
+  {
+    "codice_istat": "015204",
+    "comune": "Sedriano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6530,
+    "popolazione_femminile": 6558,
+    "popolazione_totale": 13088
+  },
+  {
+    "codice_istat": "015205",
+    "comune": "Segrate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 17861,
+    "popolazione_femminile": 19333,
+    "popolazione_totale": 37194
+  },
+  {
+    "codice_istat": "015206",
+    "comune": "Senago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10715,
+    "popolazione_femminile": 11039,
+    "popolazione_totale": 21754
+  },
+  {
+    "codice_istat": "015209",
+    "comune": "Sesto San Giovanni",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 38252,
+    "popolazione_femminile": 40598,
+    "popolazione_totale": 78850
+  },
+  {
+    "codice_istat": "015210",
+    "comune": "Settala",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3781,
+    "popolazione_femminile": 3666,
+    "popolazione_totale": 7447
+  },
+  {
+    "codice_istat": "015211",
+    "comune": "Settimo Milanese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9713,
+    "popolazione_femminile": 10289,
+    "popolazione_totale": 20002
+  },
+  {
+    "codice_istat": "015213",
+    "comune": "Solaro",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7116,
+    "popolazione_femminile": 7144,
+    "popolazione_totale": 14260
+  },
+  {
+    "codice_istat": "015219",
+    "comune": "Trezzano Rosa",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2736,
+    "popolazione_femminile": 2708,
+    "popolazione_totale": 5444
+  },
+  {
+    "codice_istat": "015220",
+    "comune": "Trezzano sul Naviglio",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10705,
+    "popolazione_femminile": 11170,
+    "popolazione_totale": 21875
+  },
+  {
+    "codice_istat": "015221",
+    "comune": "Trezzo sull'Adda",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6145,
+    "popolazione_femminile": 6297,
+    "popolazione_totale": 12442
+  },
+  {
+    "codice_istat": "015222",
+    "comune": "Tribiano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1977,
+    "popolazione_femminile": 1954,
+    "popolazione_totale": 3931
+  },
+  {
+    "codice_istat": "015224",
+    "comune": "Truccazzano",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2982,
+    "popolazione_femminile": 2828,
+    "popolazione_totale": 5810
+  },
+  {
+    "codice_istat": "015226",
+    "comune": "Turbigo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3603,
+    "popolazione_femminile": 3673,
+    "popolazione_totale": 7276
+  },
+  {
+    "codice_istat": "015249",
+    "comune": "Vanzaghello",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2666,
+    "popolazione_femminile": 2728,
+    "popolazione_totale": 5394
+  },
+  {
+    "codice_istat": "015229",
+    "comune": "Vanzago",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4571,
+    "popolazione_femminile": 4801,
+    "popolazione_totale": 9372
+  },
+  {
+    "codice_istat": "015230",
+    "comune": "Vaprio d'Adda",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4931,
+    "popolazione_femminile": 4792,
+    "popolazione_totale": 9723
+  },
+  {
+    "codice_istat": "015251",
+    "comune": "Vermezzo con Zelo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2952,
+    "popolazione_femminile": 3035,
+    "popolazione_totale": 5987
+  },
+  {
+    "codice_istat": "015236",
+    "comune": "Vernate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1749,
+    "popolazione_femminile": 1687,
+    "popolazione_totale": 3436
+  },
+  {
+    "codice_istat": "015237",
+    "comune": "Vignate",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4624,
+    "popolazione_femminile": 4745,
+    "popolazione_totale": 9369
+  },
+  {
+    "codice_istat": "015248",
+    "comune": "Villa Cortese",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3096,
+    "popolazione_femminile": 3237,
+    "popolazione_totale": 6333
+  },
+  {
+    "codice_istat": "015242",
+    "comune": "Vimodrone",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8135,
+    "popolazione_femminile": 8798,
+    "popolazione_totale": 16933
+  },
+  {
+    "codice_istat": "015243",
+    "comune": "Vittuone",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4624,
+    "popolazione_femminile": 4688,
+    "popolazione_totale": 9312
+  },
+  {
+    "codice_istat": "015244",
+    "comune": "Vizzolo Predabissi",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1905,
+    "popolazione_femminile": 1947,
+    "popolazione_totale": 3852
+  },
+  {
+    "codice_istat": "015247",
+    "comune": "Zibido San Giacomo",
+    "provincia": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3342,
+    "popolazione_femminile": 3301,
+    "popolazione_totale": 6643
+  }
+]

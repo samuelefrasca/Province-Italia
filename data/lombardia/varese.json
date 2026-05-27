@@ -1,0 +1,1363 @@
+[
+  {
+    "codice_istat": "012001",
+    "comune": "Agra",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 380
+  },
+  {
+    "codice_istat": "012002",
+    "comune": "Albizzate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2556,
+    "popolazione_femminile": 2644,
+    "popolazione_totale": 5200
+  },
+  {
+    "codice_istat": "012003",
+    "comune": "Angera",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2541,
+    "popolazione_femminile": 2785,
+    "popolazione_totale": 5326
+  },
+  {
+    "codice_istat": "012004",
+    "comune": "Arcisate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4844,
+    "popolazione_femminile": 5015,
+    "popolazione_totale": 9859
+  },
+  {
+    "codice_istat": "012005",
+    "comune": "Arsago Seprio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2326,
+    "popolazione_femminile": 2401,
+    "popolazione_totale": 4727
+  },
+  {
+    "codice_istat": "012006",
+    "comune": "Azzate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2262,
+    "popolazione_femminile": 2390,
+    "popolazione_totale": 4652
+  },
+  {
+    "codice_istat": "012007",
+    "comune": "Azzio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 377,
+    "popolazione_femminile": 381,
+    "popolazione_totale": 758
+  },
+  {
+    "codice_istat": "012008",
+    "comune": "Barasso",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 812,
+    "popolazione_femminile": 869,
+    "popolazione_totale": 1681
+  },
+  {
+    "codice_istat": "012144",
+    "comune": "Bardello con Malgesso e Bregano",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1788,
+    "popolazione_femminile": 1841,
+    "popolazione_totale": 3629
+  },
+  {
+    "codice_istat": "012010",
+    "comune": "Bedero Valcuvia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 344,
+    "popolazione_femminile": 320,
+    "popolazione_totale": 664
+  },
+  {
+    "codice_istat": "012011",
+    "comune": "Besano",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1228,
+    "popolazione_femminile": 1285,
+    "popolazione_totale": 2513
+  },
+  {
+    "codice_istat": "012012",
+    "comune": "Besnate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2677,
+    "popolazione_femminile": 2761,
+    "popolazione_totale": 5438
+  },
+  {
+    "codice_istat": "012013",
+    "comune": "Besozzo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4180,
+    "popolazione_femminile": 4537,
+    "popolazione_totale": 8717
+  },
+  {
+    "codice_istat": "012014",
+    "comune": "Biandronno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1557,
+    "popolazione_femminile": 1633,
+    "popolazione_totale": 3190
+  },
+  {
+    "codice_istat": "012015",
+    "comune": "Bisuschio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2062,
+    "popolazione_femminile": 2191,
+    "popolazione_totale": 4253
+  },
+  {
+    "codice_istat": "012016",
+    "comune": "Bodio Lomnago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1088,
+    "popolazione_femminile": 1167,
+    "popolazione_totale": 2255
+  },
+  {
+    "codice_istat": "012017",
+    "comune": "Brebbia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1541,
+    "popolazione_femminile": 1596,
+    "popolazione_totale": 3137
+  },
+  {
+    "codice_istat": "012019",
+    "comune": "Brenta",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 832,
+    "popolazione_femminile": 850,
+    "popolazione_totale": 1682
+  },
+  {
+    "codice_istat": "012020",
+    "comune": "Brezzo di Bedero",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 627,
+    "popolazione_femminile": 587,
+    "popolazione_totale": 1214
+  },
+  {
+    "codice_istat": "012021",
+    "comune": "Brinzio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 362,
+    "popolazione_totale": 765
+  },
+  {
+    "codice_istat": "012022",
+    "comune": "Brissago-Valtravaglia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 647,
+    "popolazione_femminile": 669,
+    "popolazione_totale": 1316
+  },
+  {
+    "codice_istat": "012023",
+    "comune": "Brunello",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 444,
+    "popolazione_femminile": 474,
+    "popolazione_totale": 918
+  },
+  {
+    "codice_istat": "012024",
+    "comune": "Brusimpiano",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 589,
+    "popolazione_femminile": 585,
+    "popolazione_totale": 1174
+  },
+  {
+    "codice_istat": "012025",
+    "comune": "Buguggiate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1521,
+    "popolazione_femminile": 1594,
+    "popolazione_totale": 3115
+  },
+  {
+    "codice_istat": "012026",
+    "comune": "Busto Arsizio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 40942,
+    "popolazione_femminile": 43653,
+    "popolazione_totale": 84595
+  },
+  {
+    "codice_istat": "012027",
+    "comune": "Cadegliano-Viconago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1015,
+    "popolazione_femminile": 1105,
+    "popolazione_totale": 2120
+  },
+  {
+    "codice_istat": "012143",
+    "comune": "Cadrezzate con Osmate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1358,
+    "popolazione_femminile": 1384,
+    "popolazione_totale": 2742
+  },
+  {
+    "codice_istat": "012029",
+    "comune": "Cairate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3906,
+    "popolazione_femminile": 3980,
+    "popolazione_totale": 7886
+  },
+  {
+    "codice_istat": "012030",
+    "comune": "Cantello",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2367,
+    "popolazione_femminile": 2499,
+    "popolazione_totale": 4866
+  },
+  {
+    "codice_istat": "012031",
+    "comune": "Caravate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1246,
+    "popolazione_femminile": 1286,
+    "popolazione_totale": 2532
+  },
+  {
+    "codice_istat": "012032",
+    "comune": "Cardano al Campo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7268,
+    "popolazione_femminile": 7503,
+    "popolazione_totale": 14771
+  },
+  {
+    "codice_istat": "012033",
+    "comune": "Carnago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3290,
+    "popolazione_femminile": 3320,
+    "popolazione_totale": 6610
+  },
+  {
+    "codice_istat": "012034",
+    "comune": "Caronno Pertusella",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9126,
+    "popolazione_femminile": 9430,
+    "popolazione_totale": 18556
+  },
+  {
+    "codice_istat": "012035",
+    "comune": "Caronno Varesino",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2396,
+    "popolazione_femminile": 2404,
+    "popolazione_totale": 4800
+  },
+  {
+    "codice_istat": "012036",
+    "comune": "Casale Litta",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1390,
+    "popolazione_femminile": 1385,
+    "popolazione_totale": 2775
+  },
+  {
+    "codice_istat": "012037",
+    "comune": "Casalzuigno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 704,
+    "popolazione_femminile": 705,
+    "popolazione_totale": 1409
+  },
+  {
+    "codice_istat": "012038",
+    "comune": "Casciago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1715,
+    "popolazione_femminile": 1834,
+    "popolazione_totale": 3549
+  },
+  {
+    "codice_istat": "012039",
+    "comune": "Casorate Sempione",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2730,
+    "popolazione_femminile": 2901,
+    "popolazione_totale": 5631
+  },
+  {
+    "codice_istat": "012040",
+    "comune": "Cassano Magnago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10588,
+    "popolazione_femminile": 10843,
+    "popolazione_totale": 21431
+  },
+  {
+    "codice_istat": "012041",
+    "comune": "Cassano Valcuvia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 327,
+    "popolazione_femminile": 320,
+    "popolazione_totale": 647
+  },
+  {
+    "codice_istat": "012042",
+    "comune": "Castellanza",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6728,
+    "popolazione_femminile": 7162,
+    "popolazione_totale": 13890
+  },
+  {
+    "codice_istat": "012043",
+    "comune": "Castello Cabiaglio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 282,
+    "popolazione_femminile": 268,
+    "popolazione_totale": 550
+  },
+  {
+    "codice_istat": "012044",
+    "comune": "Castelseprio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 654,
+    "popolazione_femminile": 676,
+    "popolazione_totale": 1330
+  },
+  {
+    "codice_istat": "012045",
+    "comune": "Castelveccana",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 920,
+    "popolazione_femminile": 935,
+    "popolazione_totale": 1855
+  },
+  {
+    "codice_istat": "012046",
+    "comune": "Castiglione Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3715,
+    "popolazione_femminile": 3739,
+    "popolazione_totale": 7454
+  },
+  {
+    "codice_istat": "012047",
+    "comune": "Castronno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2553,
+    "popolazione_femminile": 2482,
+    "popolazione_totale": 5035
+  },
+  {
+    "codice_istat": "012048",
+    "comune": "Cavaria con Premezzo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2903,
+    "popolazione_femminile": 2866,
+    "popolazione_totale": 5769
+  },
+  {
+    "codice_istat": "012049",
+    "comune": "Cazzago Brabbia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 384,
+    "popolazione_femminile": 395,
+    "popolazione_totale": 779
+  },
+  {
+    "codice_istat": "012050",
+    "comune": "Cislago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5289,
+    "popolazione_femminile": 5283,
+    "popolazione_totale": 10572
+  },
+  {
+    "codice_istat": "012051",
+    "comune": "Cittiglio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1875,
+    "popolazione_femminile": 1930,
+    "popolazione_totale": 3805
+  },
+  {
+    "codice_istat": "012052",
+    "comune": "Clivio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 967,
+    "popolazione_femminile": 1015,
+    "popolazione_totale": 1982
+  },
+  {
+    "codice_istat": "012053",
+    "comune": "Cocquio-Trevisago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2256,
+    "popolazione_femminile": 2395,
+    "popolazione_totale": 4651
+  },
+  {
+    "codice_istat": "012054",
+    "comune": "Comabbio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 588,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1177
+  },
+  {
+    "codice_istat": "012055",
+    "comune": "Comerio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1323,
+    "popolazione_femminile": 1461,
+    "popolazione_totale": 2784
+  },
+  {
+    "codice_istat": "012056",
+    "comune": "Cremenaga",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 410,
+    "popolazione_totale": 782
+  },
+  {
+    "codice_istat": "012057",
+    "comune": "Crosio della Valle",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 326,
+    "popolazione_femminile": 298,
+    "popolazione_totale": 624
+  },
+  {
+    "codice_istat": "012058",
+    "comune": "Cuasso al Monte",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1752,
+    "popolazione_femminile": 1793,
+    "popolazione_totale": 3545
+  },
+  {
+    "codice_istat": "012059",
+    "comune": "Cugliate-Fabiasco",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1560,
+    "popolazione_femminile": 1559,
+    "popolazione_totale": 3119
+  },
+  {
+    "codice_istat": "012060",
+    "comune": "Cunardo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1430,
+    "popolazione_femminile": 1450,
+    "popolazione_totale": 2880
+  },
+  {
+    "codice_istat": "012061",
+    "comune": "Curiglia con Monteviasco",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 82,
+    "popolazione_femminile": 59,
+    "popolazione_totale": 141
+  },
+  {
+    "codice_istat": "012062",
+    "comune": "Cuveglio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1639,
+    "popolazione_femminile": 1739,
+    "popolazione_totale": 3378
+  },
+  {
+    "codice_istat": "012063",
+    "comune": "Cuvio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 858,
+    "popolazione_femminile": 896,
+    "popolazione_totale": 1754
+  },
+  {
+    "codice_istat": "012064",
+    "comune": "Daverio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1495,
+    "popolazione_femminile": 1535,
+    "popolazione_totale": 3030
+  },
+  {
+    "codice_istat": "012065",
+    "comune": "Dumenza",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 725,
+    "popolazione_femminile": 736,
+    "popolazione_totale": 1461
+  },
+  {
+    "codice_istat": "012066",
+    "comune": "Duno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 95,
+    "popolazione_femminile": 68,
+    "popolazione_totale": 163
+  },
+  {
+    "codice_istat": "012067",
+    "comune": "Fagnano Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6135,
+    "popolazione_femminile": 6276,
+    "popolazione_totale": 12411
+  },
+  {
+    "codice_istat": "012068",
+    "comune": "Ferno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3350,
+    "popolazione_femminile": 3365,
+    "popolazione_totale": 6715
+  },
+  {
+    "codice_istat": "012069",
+    "comune": "Ferrera di Varese",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 694
+  },
+  {
+    "codice_istat": "012070",
+    "comune": "Gallarate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 26060,
+    "popolazione_femminile": 26963,
+    "popolazione_totale": 53023
+  },
+  {
+    "codice_istat": "012071",
+    "comune": "Galliate Lombardo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 507,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1035
+  },
+  {
+    "codice_istat": "012072",
+    "comune": "Gavirate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4420,
+    "popolazione_femminile": 4725,
+    "popolazione_totale": 9145
+  },
+  {
+    "codice_istat": "012073",
+    "comune": "Gazzada Schianno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2266,
+    "popolazione_femminile": 2369,
+    "popolazione_totale": 4635
+  },
+  {
+    "codice_istat": "012074",
+    "comune": "Gemonio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1404,
+    "popolazione_femminile": 1467,
+    "popolazione_totale": 2871
+  },
+  {
+    "codice_istat": "012075",
+    "comune": "Gerenzano",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5449,
+    "popolazione_femminile": 5616,
+    "popolazione_totale": 11065
+  },
+  {
+    "codice_istat": "012076",
+    "comune": "Germignaga",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1863,
+    "popolazione_femminile": 1918,
+    "popolazione_totale": 3781
+  },
+  {
+    "codice_istat": "012077",
+    "comune": "Golasecca",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1331,
+    "popolazione_femminile": 1299,
+    "popolazione_totale": 2630
+  },
+  {
+    "codice_istat": "012078",
+    "comune": "Gorla Maggiore",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2359,
+    "popolazione_femminile": 2422,
+    "popolazione_totale": 4781
+  },
+  {
+    "codice_istat": "012079",
+    "comune": "Gorla Minore",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4106,
+    "popolazione_femminile": 4130,
+    "popolazione_totale": 8236
+  },
+  {
+    "codice_istat": "012080",
+    "comune": "Gornate Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1129,
+    "popolazione_femminile": 1083,
+    "popolazione_totale": 2212
+  },
+  {
+    "codice_istat": "012081",
+    "comune": "Grantola",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 602,
+    "popolazione_femminile": 623,
+    "popolazione_totale": 1225
+  },
+  {
+    "codice_istat": "012082",
+    "comune": "Inarzo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 529,
+    "popolazione_femminile": 544,
+    "popolazione_totale": 1073
+  },
+  {
+    "codice_istat": "012083",
+    "comune": "Induno Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5119,
+    "popolazione_femminile": 5327,
+    "popolazione_totale": 10446
+  },
+  {
+    "codice_istat": "012084",
+    "comune": "Ispra",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2568,
+    "popolazione_femminile": 2790,
+    "popolazione_totale": 5358
+  },
+  {
+    "codice_istat": "012085",
+    "comune": "Jerago con Orago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2583,
+    "popolazione_femminile": 2594,
+    "popolazione_totale": 5177
+  },
+  {
+    "codice_istat": "012086",
+    "comune": "Lavena Ponte Tresa",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2712,
+    "popolazione_femminile": 2937,
+    "popolazione_totale": 5649
+  },
+  {
+    "codice_istat": "012087",
+    "comune": "Laveno-Mombello",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3940,
+    "popolazione_femminile": 4430,
+    "popolazione_totale": 8370
+  },
+  {
+    "codice_istat": "012088",
+    "comune": "Leggiuno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1728,
+    "popolazione_femminile": 1893,
+    "popolazione_totale": 3621
+  },
+  {
+    "codice_istat": "012089",
+    "comune": "Lonate Ceppino",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2537,
+    "popolazione_femminile": 2640,
+    "popolazione_totale": 5177
+  },
+  {
+    "codice_istat": "012090",
+    "comune": "Lonate Pozzolo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5618,
+    "popolazione_femminile": 5720,
+    "popolazione_totale": 11338
+  },
+  {
+    "codice_istat": "012091",
+    "comune": "Lozza",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 613,
+    "popolazione_totale": 1211
+  },
+  {
+    "codice_istat": "012092",
+    "comune": "Luino",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6703,
+    "popolazione_femminile": 7300,
+    "popolazione_totale": 14003
+  },
+  {
+    "codice_istat": "012093",
+    "comune": "Luvinate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 675,
+    "popolazione_femminile": 674,
+    "popolazione_totale": 1349
+  },
+  {
+    "codice_istat": "012142",
+    "comune": "Maccagno con Pino e Veddasca",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1131,
+    "popolazione_femminile": 1162,
+    "popolazione_totale": 2293
+  },
+  {
+    "codice_istat": "012096",
+    "comune": "Malnate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8142,
+    "popolazione_femminile": 8508,
+    "popolazione_totale": 16650
+  },
+  {
+    "codice_istat": "012097",
+    "comune": "Marchirolo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1759,
+    "popolazione_femminile": 1812,
+    "popolazione_totale": 3571
+  },
+  {
+    "codice_istat": "012098",
+    "comune": "Marnate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4042,
+    "popolazione_femminile": 4094,
+    "popolazione_totale": 8136
+  },
+  {
+    "codice_istat": "012099",
+    "comune": "Marzio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 166,
+    "popolazione_femminile": 145,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "012100",
+    "comune": "Masciago Primo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 134,
+    "popolazione_femminile": 141,
+    "popolazione_totale": 275
+  },
+  {
+    "codice_istat": "012101",
+    "comune": "Mercallo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 886,
+    "popolazione_femminile": 896,
+    "popolazione_totale": 1782
+  },
+  {
+    "codice_istat": "012102",
+    "comune": "Mesenzana",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 902,
+    "popolazione_femminile": 923,
+    "popolazione_totale": 1825
+  },
+  {
+    "codice_istat": "012103",
+    "comune": "Montegrino Valtravaglia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 744,
+    "popolazione_femminile": 778,
+    "popolazione_totale": 1522
+  },
+  {
+    "codice_istat": "012104",
+    "comune": "Monvalle",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 942,
+    "popolazione_femminile": 947,
+    "popolazione_totale": 1889
+  },
+  {
+    "codice_istat": "012105",
+    "comune": "Morazzone",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2151,
+    "popolazione_femminile": 2169,
+    "popolazione_totale": 4320
+  },
+  {
+    "codice_istat": "012106",
+    "comune": "Mornago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2404,
+    "popolazione_femminile": 2443,
+    "popolazione_totale": 4847
+  },
+  {
+    "codice_istat": "012107",
+    "comune": "Oggiona con Santo Stefano",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2186,
+    "popolazione_femminile": 2179,
+    "popolazione_totale": 4365
+  },
+  {
+    "codice_istat": "012108",
+    "comune": "Olgiate Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6327,
+    "popolazione_femminile": 6626,
+    "popolazione_totale": 12953
+  },
+  {
+    "codice_istat": "012109",
+    "comune": "Origgio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4043,
+    "popolazione_femminile": 4025,
+    "popolazione_totale": 8068
+  },
+  {
+    "codice_istat": "012110",
+    "comune": "Orino",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 437,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 848
+  },
+  {
+    "codice_istat": "012113",
+    "comune": "Porto Ceresio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1382,
+    "popolazione_femminile": 1403,
+    "popolazione_totale": 2785
+  },
+  {
+    "codice_istat": "012114",
+    "comune": "Porto Valtravaglia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1075,
+    "popolazione_femminile": 1222,
+    "popolazione_totale": 2297
+  },
+  {
+    "codice_istat": "012115",
+    "comune": "Rancio Valcuvia",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 460,
+    "popolazione_femminile": 451,
+    "popolazione_totale": 911
+  },
+  {
+    "codice_istat": "012116",
+    "comune": "Ranco",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 610,
+    "popolazione_femminile": 598,
+    "popolazione_totale": 1208
+  },
+  {
+    "codice_istat": "012117",
+    "comune": "Saltrio",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1454,
+    "popolazione_femminile": 1547,
+    "popolazione_totale": 3001
+  },
+  {
+    "codice_istat": "012118",
+    "comune": "Samarate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8078,
+    "popolazione_femminile": 8154,
+    "popolazione_totale": 16232
+  },
+  {
+    "codice_istat": "012141",
+    "comune": "Sangiano",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 735,
+    "popolazione_femminile": 702,
+    "popolazione_totale": 1437
+  },
+  {
+    "codice_istat": "012119",
+    "comune": "Saronno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 18591,
+    "popolazione_femminile": 20221,
+    "popolazione_totale": 38812
+  },
+  {
+    "codice_istat": "012120",
+    "comune": "Sesto Calende",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5280,
+    "popolazione_femminile": 5718,
+    "popolazione_totale": 10998
+  },
+  {
+    "codice_istat": "012121",
+    "comune": "Solbiate Arno",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1980,
+    "popolazione_femminile": 2067,
+    "popolazione_totale": 4047
+  },
+  {
+    "codice_istat": "012122",
+    "comune": "Solbiate Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2664,
+    "popolazione_femminile": 2713,
+    "popolazione_totale": 5377
+  },
+  {
+    "codice_istat": "012123",
+    "comune": "Somma Lombardo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8892,
+    "popolazione_femminile": 9039,
+    "popolazione_totale": 17931
+  },
+  {
+    "codice_istat": "012124",
+    "comune": "Sumirago",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2942,
+    "popolazione_femminile": 3036,
+    "popolazione_totale": 5978
+  },
+  {
+    "codice_istat": "012125",
+    "comune": "Taino",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1771,
+    "popolazione_femminile": 1783,
+    "popolazione_totale": 3554
+  },
+  {
+    "codice_istat": "012126",
+    "comune": "Ternate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1260,
+    "popolazione_femminile": 1296,
+    "popolazione_totale": 2556
+  },
+  {
+    "codice_istat": "012127",
+    "comune": "Tradate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9505,
+    "popolazione_femminile": 9596,
+    "popolazione_totale": 19101
+  },
+  {
+    "codice_istat": "012128",
+    "comune": "Travedona-Monate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1867,
+    "popolazione_femminile": 2001,
+    "popolazione_totale": 3868
+  },
+  {
+    "codice_istat": "012129",
+    "comune": "Tronzano Lago Maggiore",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 107,
+    "popolazione_femminile": 114,
+    "popolazione_totale": 221
+  },
+  {
+    "codice_istat": "012130",
+    "comune": "Uboldo",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5671,
+    "popolazione_femminile": 5468,
+    "popolazione_totale": 11139
+  },
+  {
+    "codice_istat": "012131",
+    "comune": "Valganna",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 801,
+    "popolazione_femminile": 790,
+    "popolazione_totale": 1591
+  },
+  {
+    "codice_istat": "012132",
+    "comune": "Varano Borghi",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1219,
+    "popolazione_femminile": 1273,
+    "popolazione_totale": 2492
+  },
+  {
+    "codice_istat": "012133",
+    "comune": "Varese",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 37905,
+    "popolazione_femminile": 41195,
+    "popolazione_totale": 79100,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "012134",
+    "comune": "Vedano Olona",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3593,
+    "popolazione_femminile": 3859,
+    "popolazione_totale": 7452
+  },
+  {
+    "codice_istat": "012136",
+    "comune": "Venegono Inferiore",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2903,
+    "popolazione_femminile": 3019,
+    "popolazione_totale": 5922
+  },
+  {
+    "codice_istat": "012137",
+    "comune": "Venegono Superiore",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3802,
+    "popolazione_femminile": 3720,
+    "popolazione_totale": 7522
+  },
+  {
+    "codice_istat": "012138",
+    "comune": "Vergiate",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4279,
+    "popolazione_femminile": 4367,
+    "popolazione_totale": 8646
+  },
+  {
+    "codice_istat": "012139",
+    "comune": "Viggiù",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2463,
+    "popolazione_femminile": 2687,
+    "popolazione_totale": 5150
+  },
+  {
+    "codice_istat": "012140",
+    "comune": "Vizzola Ticino",
+    "provincia": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "popolazione_maschile": 313,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 594
+  }
+]

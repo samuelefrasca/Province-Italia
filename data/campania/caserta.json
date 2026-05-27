@@ -1,0 +1,1043 @@
+[
+  {
+    "codice_istat": "061001",
+    "comune": "Ailano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 513,
+    "popolazione_femminile": 614,
+    "popolazione_totale": 1127
+  },
+  {
+    "codice_istat": "061002",
+    "comune": "Alife",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3616,
+    "popolazione_femminile": 3633,
+    "popolazione_totale": 7249
+  },
+  {
+    "codice_istat": "061003",
+    "comune": "Alvignano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2197,
+    "popolazione_femminile": 2236,
+    "popolazione_totale": 4433
+  },
+  {
+    "codice_istat": "061004",
+    "comune": "Arienzo",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2693,
+    "popolazione_femminile": 2706,
+    "popolazione_totale": 5399
+  },
+  {
+    "codice_istat": "061005",
+    "comune": "Aversa",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 23537,
+    "popolazione_femminile": 25323,
+    "popolazione_totale": 48860
+  },
+  {
+    "codice_istat": "061006",
+    "comune": "Baia e Latina",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 984,
+    "popolazione_femminile": 998,
+    "popolazione_totale": 1982
+  },
+  {
+    "codice_istat": "061007",
+    "comune": "Bellona",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2982,
+    "popolazione_femminile": 3073,
+    "popolazione_totale": 6055
+  },
+  {
+    "codice_istat": "061008",
+    "comune": "Caianello",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 959,
+    "popolazione_femminile": 866,
+    "popolazione_totale": 1825
+  },
+  {
+    "codice_istat": "061009",
+    "comune": "Caiazzo",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2473,
+    "popolazione_femminile": 2604,
+    "popolazione_totale": 5077
+  },
+  {
+    "codice_istat": "061010",
+    "comune": "Calvi Risorta",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2607,
+    "popolazione_femminile": 2773,
+    "popolazione_totale": 5380
+  },
+  {
+    "codice_istat": "061011",
+    "comune": "Camigliano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 987,
+    "popolazione_femminile": 984,
+    "popolazione_totale": 1971
+  },
+  {
+    "codice_istat": "061012",
+    "comune": "Cancello ed Arnone",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3021,
+    "popolazione_femminile": 2762,
+    "popolazione_totale": 5783
+  },
+  {
+    "codice_istat": "061013",
+    "comune": "Capodrise",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4913,
+    "popolazione_femminile": 5090,
+    "popolazione_totale": 10003
+  },
+  {
+    "codice_istat": "061014",
+    "comune": "Capriati a Volturno",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 671,
+    "popolazione_femminile": 710,
+    "popolazione_totale": 1381
+  },
+  {
+    "codice_istat": "061015",
+    "comune": "Capua",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 8904,
+    "popolazione_femminile": 9113,
+    "popolazione_totale": 18017
+  },
+  {
+    "codice_istat": "061016",
+    "comune": "Carinaro",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3514,
+    "popolazione_femminile": 3668,
+    "popolazione_totale": 7182
+  },
+  {
+    "codice_istat": "061017",
+    "comune": "Carinola",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3607,
+    "popolazione_femminile": 3435,
+    "popolazione_totale": 7042
+  },
+  {
+    "codice_istat": "061018",
+    "comune": "Casagiove",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 6161,
+    "popolazione_femminile": 6672,
+    "popolazione_totale": 12833
+  },
+  {
+    "codice_istat": "061019",
+    "comune": "Casal di Principe",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 11139,
+    "popolazione_femminile": 10865,
+    "popolazione_totale": 22004
+  },
+  {
+    "codice_istat": "061020",
+    "comune": "Casaluce",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4588,
+    "popolazione_femminile": 4808,
+    "popolazione_totale": 9396
+  },
+  {
+    "codice_istat": "061103",
+    "comune": "Casapesenna",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3800,
+    "popolazione_femminile": 3627,
+    "popolazione_totale": 7427
+  },
+  {
+    "codice_istat": "061021",
+    "comune": "Casapulla",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4010,
+    "popolazione_femminile": 4254,
+    "popolazione_totale": 8264
+  },
+  {
+    "codice_istat": "061022",
+    "comune": "Caserta",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 34465,
+    "popolazione_femminile": 38292,
+    "popolazione_totale": 72757,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "061023",
+    "comune": "Castel Campagnano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 676,
+    "popolazione_femminile": 739,
+    "popolazione_totale": 1415
+  },
+  {
+    "codice_istat": "061024",
+    "comune": "Castel di Sasso",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 488,
+    "popolazione_femminile": 507,
+    "popolazione_totale": 995
+  },
+  {
+    "codice_istat": "061026",
+    "comune": "Castel Morrone",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1717,
+    "popolazione_femminile": 1857,
+    "popolazione_totale": 3574
+  },
+  {
+    "codice_istat": "061027",
+    "comune": "Castel Volturno",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 16360,
+    "popolazione_femminile": 14870,
+    "popolazione_totale": 31230
+  },
+  {
+    "codice_istat": "061025",
+    "comune": "Castello del Matese",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 640,
+    "popolazione_femminile": 682,
+    "popolazione_totale": 1322
+  },
+  {
+    "codice_istat": "061102",
+    "comune": "Cellole",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4002,
+    "popolazione_femminile": 4290,
+    "popolazione_totale": 8292
+  },
+  {
+    "codice_istat": "061028",
+    "comune": "Cervino",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2326,
+    "popolazione_femminile": 2393,
+    "popolazione_totale": 4719
+  },
+  {
+    "codice_istat": "061029",
+    "comune": "Cesa",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4896,
+    "popolazione_femminile": 4952,
+    "popolazione_totale": 9848
+  },
+  {
+    "codice_istat": "061030",
+    "comune": "Ciorlano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 179,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 347
+  },
+  {
+    "codice_istat": "061031",
+    "comune": "Conca della Campania",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 570,
+    "popolazione_femminile": 556,
+    "popolazione_totale": 1126
+  },
+  {
+    "codice_istat": "061032",
+    "comune": "Curti",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3153,
+    "popolazione_femminile": 3464,
+    "popolazione_totale": 6617
+  },
+  {
+    "codice_istat": "061033",
+    "comune": "Dragoni",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 877,
+    "popolazione_femminile": 985,
+    "popolazione_totale": 1862
+  },
+  {
+    "codice_istat": "061101",
+    "comune": "Falciano del Massico",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1682,
+    "popolazione_femminile": 1747,
+    "popolazione_totale": 3429
+  },
+  {
+    "codice_istat": "061034",
+    "comune": "Fontegreca",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 362,
+    "popolazione_totale": 737
+  },
+  {
+    "codice_istat": "061035",
+    "comune": "Formicola",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 665,
+    "popolazione_femminile": 728,
+    "popolazione_totale": 1393
+  },
+  {
+    "codice_istat": "061036",
+    "comune": "Francolise",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2342,
+    "popolazione_femminile": 2319,
+    "popolazione_totale": 4661
+  },
+  {
+    "codice_istat": "061037",
+    "comune": "Frignano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4420,
+    "popolazione_femminile": 4554,
+    "popolazione_totale": 8974
+  },
+  {
+    "codice_istat": "061038",
+    "comune": "Gallo Matese",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 220,
+    "popolazione_femminile": 219,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "061039",
+    "comune": "Galluccio",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 986,
+    "popolazione_femminile": 1001,
+    "popolazione_totale": 1987
+  },
+  {
+    "codice_istat": "061040",
+    "comune": "Giano Vetusto",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 665
+  },
+  {
+    "codice_istat": "061041",
+    "comune": "Gioia Sannitica",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1596,
+    "popolazione_femminile": 1610,
+    "popolazione_totale": 3206
+  },
+  {
+    "codice_istat": "061042",
+    "comune": "Grazzanise",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3433,
+    "popolazione_femminile": 3372,
+    "popolazione_totale": 6805
+  },
+  {
+    "codice_istat": "061043",
+    "comune": "Gricignano di Aversa",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 6694,
+    "popolazione_femminile": 6529,
+    "popolazione_totale": 13223
+  },
+  {
+    "codice_istat": "061044",
+    "comune": "Letino",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 287,
+    "popolazione_femminile": 323,
+    "popolazione_totale": 610
+  },
+  {
+    "codice_istat": "061045",
+    "comune": "Liberi",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 502,
+    "popolazione_femminile": 506,
+    "popolazione_totale": 1008
+  },
+  {
+    "codice_istat": "061046",
+    "comune": "Lusciano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 8052,
+    "popolazione_femminile": 8319,
+    "popolazione_totale": 16371
+  },
+  {
+    "codice_istat": "061047",
+    "comune": "Macerata Campania",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4956,
+    "popolazione_femminile": 5116,
+    "popolazione_totale": 10072
+  },
+  {
+    "codice_istat": "061048",
+    "comune": "Maddaloni",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 17802,
+    "popolazione_femminile": 18736,
+    "popolazione_totale": 36538
+  },
+  {
+    "codice_istat": "061049",
+    "comune": "Marcianise",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 18563,
+    "popolazione_femminile": 19481,
+    "popolazione_totale": 38044
+  },
+  {
+    "codice_istat": "061050",
+    "comune": "Marzano Appio",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 988,
+    "popolazione_femminile": 925,
+    "popolazione_totale": 1913
+  },
+  {
+    "codice_istat": "061051",
+    "comune": "Mignano Monte Lungo",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1469,
+    "popolazione_femminile": 1505,
+    "popolazione_totale": 2974
+  },
+  {
+    "codice_istat": "061052",
+    "comune": "Mondragone",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 13925,
+    "popolazione_femminile": 14404,
+    "popolazione_totale": 28329
+  },
+  {
+    "codice_istat": "061053",
+    "comune": "Orta di Atella",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 13598,
+    "popolazione_femminile": 13856,
+    "popolazione_totale": 27454
+  },
+  {
+    "codice_istat": "061054",
+    "comune": "Parete",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 6621,
+    "popolazione_femminile": 6650,
+    "popolazione_totale": 13271
+  },
+  {
+    "codice_istat": "061055",
+    "comune": "Pastorano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1451,
+    "popolazione_femminile": 1401,
+    "popolazione_totale": 2852
+  },
+  {
+    "codice_istat": "061056",
+    "comune": "Piana di Monte Verna",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1049,
+    "popolazione_femminile": 1025,
+    "popolazione_totale": 2074
+  },
+  {
+    "codice_istat": "061057",
+    "comune": "Piedimonte Matese",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4807,
+    "popolazione_femminile": 5181,
+    "popolazione_totale": 9988
+  },
+  {
+    "codice_istat": "061058",
+    "comune": "Pietramelara",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2178,
+    "popolazione_femminile": 2272,
+    "popolazione_totale": 4450
+  },
+  {
+    "codice_istat": "061059",
+    "comune": "Pietravairano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1380,
+    "popolazione_femminile": 1402,
+    "popolazione_totale": 2782
+  },
+  {
+    "codice_istat": "061060",
+    "comune": "Pignataro Maggiore",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2912,
+    "popolazione_femminile": 2907,
+    "popolazione_totale": 5819
+  },
+  {
+    "codice_istat": "061061",
+    "comune": "Pontelatone",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 745,
+    "popolazione_femminile": 775,
+    "popolazione_totale": 1520
+  },
+  {
+    "codice_istat": "061062",
+    "comune": "Portico di Caserta",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3797,
+    "popolazione_femminile": 3941,
+    "popolazione_totale": 7738
+  },
+  {
+    "codice_istat": "061063",
+    "comune": "Prata Sannita",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 677,
+    "popolazione_totale": 1321
+  },
+  {
+    "codice_istat": "061064",
+    "comune": "Pratella",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 680,
+    "popolazione_totale": 1324
+  },
+  {
+    "codice_istat": "061065",
+    "comune": "Presenzano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 840,
+    "popolazione_femminile": 768,
+    "popolazione_totale": 1608
+  },
+  {
+    "codice_istat": "061066",
+    "comune": "Raviscanina",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 555,
+    "popolazione_femminile": 574,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "061067",
+    "comune": "Recale",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3837,
+    "popolazione_femminile": 3871,
+    "popolazione_totale": 7708
+  },
+  {
+    "codice_istat": "061068",
+    "comune": "Riardo",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1072,
+    "popolazione_femminile": 1098,
+    "popolazione_totale": 2170
+  },
+  {
+    "codice_istat": "061069",
+    "comune": "Rocca d'Evandro",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1462,
+    "popolazione_femminile": 1465,
+    "popolazione_totale": 2927
+  },
+  {
+    "codice_istat": "061070",
+    "comune": "Roccamonfina",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1511,
+    "popolazione_femminile": 1576,
+    "popolazione_totale": 3087
+  },
+  {
+    "codice_istat": "061071",
+    "comune": "Roccaromana",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 398,
+    "popolazione_femminile": 445,
+    "popolazione_totale": 843
+  },
+  {
+    "codice_istat": "061072",
+    "comune": "Rocchetta e Croce",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 207,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "061073",
+    "comune": "Ruviano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 787,
+    "popolazione_femminile": 839,
+    "popolazione_totale": 1626
+  },
+  {
+    "codice_istat": "061074",
+    "comune": "San Cipriano d'Aversa",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 6786,
+    "popolazione_femminile": 6710,
+    "popolazione_totale": 13496
+  },
+  {
+    "codice_istat": "061075",
+    "comune": "San Felice a Cancello",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 8291,
+    "popolazione_femminile": 8519,
+    "popolazione_totale": 16810
+  },
+  {
+    "codice_istat": "061076",
+    "comune": "San Gregorio Matese",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 417,
+    "popolazione_femminile": 425,
+    "popolazione_totale": 842
+  },
+  {
+    "codice_istat": "061077",
+    "comune": "San Marcellino",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 7311,
+    "popolazione_femminile": 7412,
+    "popolazione_totale": 14723
+  },
+  {
+    "codice_istat": "061104",
+    "comune": "San Marco Evangelista",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3214,
+    "popolazione_femminile": 3260,
+    "popolazione_totale": 6474
+  },
+  {
+    "codice_istat": "061078",
+    "comune": "San Nicola la Strada",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 10787,
+    "popolazione_femminile": 11055,
+    "popolazione_totale": 21842
+  },
+  {
+    "codice_istat": "061079",
+    "comune": "San Pietro Infine",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 775
+  },
+  {
+    "codice_istat": "061080",
+    "comune": "San Potito Sannitico",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 952,
+    "popolazione_femminile": 995,
+    "popolazione_totale": 1947
+  },
+  {
+    "codice_istat": "061081",
+    "comune": "San Prisco",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 5751,
+    "popolazione_femminile": 6343,
+    "popolazione_totale": 12094
+  },
+  {
+    "codice_istat": "061085",
+    "comune": "San Tammaro",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 2870,
+    "popolazione_femminile": 2882,
+    "popolazione_totale": 5752
+  },
+  {
+    "codice_istat": "061086",
+    "comune": "Sant'Angelo d'Alife",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 991,
+    "popolazione_femminile": 1056,
+    "popolazione_totale": 2047
+  },
+  {
+    "codice_istat": "061087",
+    "comune": "Sant'Arpino",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 7746,
+    "popolazione_femminile": 7821,
+    "popolazione_totale": 15567
+  },
+  {
+    "codice_istat": "061082",
+    "comune": "Santa Maria a Vico",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 6975,
+    "popolazione_femminile": 7400,
+    "popolazione_totale": 14375
+  },
+  {
+    "codice_istat": "061083",
+    "comune": "Santa Maria Capua Vetere",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 15433,
+    "popolazione_femminile": 16622,
+    "popolazione_totale": 32055
+  },
+  {
+    "codice_istat": "061084",
+    "comune": "Santa Maria la Fossa",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1258,
+    "popolazione_femminile": 1244,
+    "popolazione_totale": 2502
+  },
+  {
+    "codice_istat": "061088",
+    "comune": "Sessa Aurunca",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 9875,
+    "popolazione_femminile": 10160,
+    "popolazione_totale": 20035
+  },
+  {
+    "codice_istat": "061089",
+    "comune": "Sparanise",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3593,
+    "popolazione_femminile": 3706,
+    "popolazione_totale": 7299
+  },
+  {
+    "codice_istat": "061090",
+    "comune": "Succivo",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 4432,
+    "popolazione_femminile": 4486,
+    "popolazione_totale": 8918
+  },
+  {
+    "codice_istat": "061091",
+    "comune": "Teano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 5378,
+    "popolazione_femminile": 5573,
+    "popolazione_totale": 10951
+  },
+  {
+    "codice_istat": "061092",
+    "comune": "Teverola",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 7377,
+    "popolazione_femminile": 7666,
+    "popolazione_totale": 15043
+  },
+  {
+    "codice_istat": "061093",
+    "comune": "Tora e Piccilli",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 357,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 735
+  },
+  {
+    "codice_istat": "061094",
+    "comune": "Trentola Ducenta",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 10260,
+    "popolazione_femminile": 10637,
+    "popolazione_totale": 20897
+  },
+  {
+    "codice_istat": "061095",
+    "comune": "Vairano Patenora",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3081,
+    "popolazione_femminile": 3335,
+    "popolazione_totale": 6416
+  },
+  {
+    "codice_istat": "061096",
+    "comune": "Valle Agricola",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 366,
+    "popolazione_totale": 706
+  },
+  {
+    "codice_istat": "061097",
+    "comune": "Valle di Maddaloni",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 1264,
+    "popolazione_femminile": 1309,
+    "popolazione_totale": 2573
+  },
+  {
+    "codice_istat": "061098",
+    "comune": "Villa di Briano",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3782,
+    "popolazione_femminile": 3780,
+    "popolazione_totale": 7562
+  },
+  {
+    "codice_istat": "061099",
+    "comune": "Villa Literno",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 6866,
+    "popolazione_femminile": 6164,
+    "popolazione_totale": 13030
+  },
+  {
+    "codice_istat": "061100",
+    "comune": "Vitulazio",
+    "provincia": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "popolazione_maschile": 3763,
+    "popolazione_femminile": 3962,
+    "popolazione_totale": 7725
+  }
+]

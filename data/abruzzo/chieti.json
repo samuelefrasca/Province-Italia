@@ -1,0 +1,1043 @@
+[
+  {
+    "codice_istat": "069001",
+    "comune": "Altino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1490,
+    "popolazione_femminile": 1520,
+    "popolazione_totale": 3010
+  },
+  {
+    "codice_istat": "069002",
+    "comune": "Archi",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 932,
+    "popolazione_femminile": 997,
+    "popolazione_totale": 1929
+  },
+  {
+    "codice_istat": "069003",
+    "comune": "Ari",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 550,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1071
+  },
+  {
+    "codice_istat": "069004",
+    "comune": "Arielli",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 512,
+    "popolazione_femminile": 530,
+    "popolazione_totale": 1042
+  },
+  {
+    "codice_istat": "069005",
+    "comune": "Atessa",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 5037,
+    "popolazione_femminile": 5171,
+    "popolazione_totale": 10208
+  },
+  {
+    "codice_istat": "069006",
+    "comune": "Bomba",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 345,
+    "popolazione_femminile": 341,
+    "popolazione_totale": 686
+  },
+  {
+    "codice_istat": "069007",
+    "comune": "Borrello",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 328
+  },
+  {
+    "codice_istat": "069008",
+    "comune": "Bucchianico",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2419,
+    "popolazione_femminile": 2473,
+    "popolazione_totale": 4892
+  },
+  {
+    "codice_istat": "069010",
+    "comune": "Canosa Sannita",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 591,
+    "popolazione_femminile": 616,
+    "popolazione_totale": 1207
+  },
+  {
+    "codice_istat": "069011",
+    "comune": "Carpineto Sinello",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 226,
+    "popolazione_totale": 486
+  },
+  {
+    "codice_istat": "069012",
+    "comune": "Carunchio",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 234,
+    "popolazione_totale": 535
+  },
+  {
+    "codice_istat": "069013",
+    "comune": "Casacanditella",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 594,
+    "popolazione_femminile": 578,
+    "popolazione_totale": 1172
+  },
+  {
+    "codice_istat": "069014",
+    "comune": "Casalanguida",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 390,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 789
+  },
+  {
+    "codice_istat": "069015",
+    "comune": "Casalbordino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2705,
+    "popolazione_femminile": 2886,
+    "popolazione_totale": 5591
+  },
+  {
+    "codice_istat": "069016",
+    "comune": "Casalincontrada",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1455,
+    "popolazione_femminile": 1505,
+    "popolazione_totale": 2960
+  },
+  {
+    "codice_istat": "069017",
+    "comune": "Casoli",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2499,
+    "popolazione_femminile": 2534,
+    "popolazione_totale": 5033
+  },
+  {
+    "codice_istat": "069018",
+    "comune": "Castel Frentano",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2045,
+    "popolazione_femminile": 2136,
+    "popolazione_totale": 4181
+  },
+  {
+    "codice_istat": "069019",
+    "comune": "Castelguidone",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 130,
+    "popolazione_femminile": 140,
+    "popolazione_totale": 270
+  },
+  {
+    "codice_istat": "069020",
+    "comune": "Castiglione Messer Marino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 692,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1398
+  },
+  {
+    "codice_istat": "069021",
+    "comune": "Celenza sul Trigno",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 382,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 758
+  },
+  {
+    "codice_istat": "069022",
+    "comune": "Chieti",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 23197,
+    "popolazione_femminile": 25171,
+    "popolazione_totale": 48368,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "069023",
+    "comune": "Civitaluparella",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 136,
+    "popolazione_femminile": 136,
+    "popolazione_totale": 272
+  },
+  {
+    "codice_istat": "069024",
+    "comune": "Civitella Messer Raimondo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 374,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 738
+  },
+  {
+    "codice_istat": "069025",
+    "comune": "Colledimacine",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 90,
+    "popolazione_femminile": 59,
+    "popolazione_totale": 149
+  },
+  {
+    "codice_istat": "069026",
+    "comune": "Colledimezzo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 207,
+    "popolazione_femminile": 194,
+    "popolazione_totale": 401
+  },
+  {
+    "codice_istat": "069027",
+    "comune": "Crecchio",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1265,
+    "popolazione_femminile": 1285,
+    "popolazione_totale": 2550
+  },
+  {
+    "codice_istat": "069028",
+    "comune": "Cupello",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2447,
+    "popolazione_femminile": 2452,
+    "popolazione_totale": 4899
+  },
+  {
+    "codice_istat": "069029",
+    "comune": "Dogliola",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 167,
+    "popolazione_femminile": 137,
+    "popolazione_totale": 304
+  },
+  {
+    "codice_istat": "069104",
+    "comune": "Fallo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 66,
+    "popolazione_femminile": 55,
+    "popolazione_totale": 121
+  },
+  {
+    "codice_istat": "069030",
+    "comune": "Fara Filiorum Petri",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1009,
+    "popolazione_femminile": 963,
+    "popolazione_totale": 1972
+  },
+  {
+    "codice_istat": "069031",
+    "comune": "Fara San Martino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 631,
+    "popolazione_femminile": 622,
+    "popolazione_totale": 1253
+  },
+  {
+    "codice_istat": "069032",
+    "comune": "Filetto",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 396,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 807
+  },
+  {
+    "codice_istat": "069033",
+    "comune": "Fossacesia",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3128,
+    "popolazione_femminile": 3141,
+    "popolazione_totale": 6269
+  },
+  {
+    "codice_istat": "069034",
+    "comune": "Fraine",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 113,
+    "popolazione_femminile": 125,
+    "popolazione_totale": 238
+  },
+  {
+    "codice_istat": "069035",
+    "comune": "Francavilla al Mare",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 12155,
+    "popolazione_femminile": 13366,
+    "popolazione_totale": 25521
+  },
+  {
+    "codice_istat": "069036",
+    "comune": "Fresagrandinaria",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 451,
+    "popolazione_totale": 913
+  },
+  {
+    "codice_istat": "069037",
+    "comune": "Frisa",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 777,
+    "popolazione_femminile": 817,
+    "popolazione_totale": 1594
+  },
+  {
+    "codice_istat": "069038",
+    "comune": "Furci",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 377,
+    "popolazione_femminile": 402,
+    "popolazione_totale": 779
+  },
+  {
+    "codice_istat": "069039",
+    "comune": "Gamberale",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 138,
+    "popolazione_femminile": 129,
+    "popolazione_totale": 267
+  },
+  {
+    "codice_istat": "069040",
+    "comune": "Gessopalena",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 575,
+    "popolazione_totale": 1137
+  },
+  {
+    "codice_istat": "069041",
+    "comune": "Gissi",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1196,
+    "popolazione_femminile": 1205,
+    "popolazione_totale": 2401
+  },
+  {
+    "codice_istat": "069042",
+    "comune": "Giuliano Teatino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 558,
+    "popolazione_totale": 1105
+  },
+  {
+    "codice_istat": "069043",
+    "comune": "Guardiagrele",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 4028,
+    "popolazione_femminile": 4133,
+    "popolazione_totale": 8161
+  },
+  {
+    "codice_istat": "069044",
+    "comune": "Guilmi",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 233,
+    "popolazione_femminile": 210,
+    "popolazione_totale": 443
+  },
+  {
+    "codice_istat": "069045",
+    "comune": "Lama dei Peligni",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 499,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1007
+  },
+  {
+    "codice_istat": "069046",
+    "comune": "Lanciano",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 16349,
+    "popolazione_femminile": 17494,
+    "popolazione_totale": 33843
+  },
+  {
+    "codice_istat": "069047",
+    "comune": "Lentella",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 339,
+    "popolazione_femminile": 314,
+    "popolazione_totale": 653
+  },
+  {
+    "codice_istat": "069048",
+    "comune": "Lettopalena",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 138,
+    "popolazione_totale": 306
+  },
+  {
+    "codice_istat": "069049",
+    "comune": "Liscia",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 326,
+    "popolazione_femminile": 297,
+    "popolazione_totale": 623
+  },
+  {
+    "codice_istat": "069050",
+    "comune": "Miglianico",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2285,
+    "popolazione_femminile": 2335,
+    "popolazione_totale": 4620
+  },
+  {
+    "codice_istat": "069051",
+    "comune": "Montazzoli",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 395,
+    "popolazione_femminile": 395,
+    "popolazione_totale": 790
+  },
+  {
+    "codice_istat": "069009",
+    "comune": "Montebello sul Sangro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 38,
+    "popolazione_femminile": 42,
+    "popolazione_totale": 80
+  },
+  {
+    "codice_istat": "069052",
+    "comune": "Monteferrante",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 54,
+    "popolazione_femminile": 46,
+    "popolazione_totale": 100
+  },
+  {
+    "codice_istat": "069053",
+    "comune": "Montelapiano",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 32,
+    "popolazione_femminile": 36,
+    "popolazione_totale": 68
+  },
+  {
+    "codice_istat": "069054",
+    "comune": "Montenerodomo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 562
+  },
+  {
+    "codice_istat": "069055",
+    "comune": "Monteodorisio",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1156,
+    "popolazione_femminile": 1158,
+    "popolazione_totale": 2314
+  },
+  {
+    "codice_istat": "069056",
+    "comune": "Mozzagrogna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1170,
+    "popolazione_femminile": 1252,
+    "popolazione_totale": 2422
+  },
+  {
+    "codice_istat": "069057",
+    "comune": "Orsogna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1739,
+    "popolazione_femminile": 1856,
+    "popolazione_totale": 3595
+  },
+  {
+    "codice_istat": "069058",
+    "comune": "Ortona",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 10727,
+    "popolazione_femminile": 11194,
+    "popolazione_totale": 21921
+  },
+  {
+    "codice_istat": "069059",
+    "comune": "Paglieta",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2034,
+    "popolazione_femminile": 2066,
+    "popolazione_totale": 4100
+  },
+  {
+    "codice_istat": "069060",
+    "comune": "Palena",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 606,
+    "popolazione_femminile": 590,
+    "popolazione_totale": 1196
+  },
+  {
+    "codice_istat": "069061",
+    "comune": "Palmoli",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 451,
+    "popolazione_femminile": 400,
+    "popolazione_totale": 851
+  },
+  {
+    "codice_istat": "069062",
+    "comune": "Palombaro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 456,
+    "popolazione_femminile": 465,
+    "popolazione_totale": 921
+  },
+  {
+    "codice_istat": "069063",
+    "comune": "Pennadomo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 201
+  },
+  {
+    "codice_istat": "069064",
+    "comune": "Pennapiedimonte",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 180,
+    "popolazione_totale": 365
+  },
+  {
+    "codice_istat": "069065",
+    "comune": "Perano",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 722,
+    "popolazione_femminile": 741,
+    "popolazione_totale": 1463
+  },
+  {
+    "codice_istat": "069103",
+    "comune": "Pietraferrazzana",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 62,
+    "popolazione_femminile": 64,
+    "popolazione_totale": 126
+  },
+  {
+    "codice_istat": "069066",
+    "comune": "Pizzoferrato",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 502,
+    "popolazione_femminile": 447,
+    "popolazione_totale": 949
+  },
+  {
+    "codice_istat": "069067",
+    "comune": "Poggiofiorito",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 391,
+    "popolazione_totale": 751
+  },
+  {
+    "codice_istat": "069068",
+    "comune": "Pollutri",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 988,
+    "popolazione_femminile": 1028,
+    "popolazione_totale": 2016
+  },
+  {
+    "codice_istat": "069069",
+    "comune": "Pretoro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 422,
+    "popolazione_femminile": 437,
+    "popolazione_totale": 859
+  },
+  {
+    "codice_istat": "069070",
+    "comune": "Quadri",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 315,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 672
+  },
+  {
+    "codice_istat": "069071",
+    "comune": "Rapino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 553,
+    "popolazione_totale": 1115
+  },
+  {
+    "codice_istat": "069072",
+    "comune": "Ripa Teatina",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1969,
+    "popolazione_femminile": 1930,
+    "popolazione_totale": 3899
+  },
+  {
+    "codice_istat": "069074",
+    "comune": "Rocca San Giovanni",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1141,
+    "popolazione_femminile": 1158,
+    "popolazione_totale": 2299
+  },
+  {
+    "codice_istat": "069073",
+    "comune": "Roccamontepiano",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 771,
+    "popolazione_femminile": 762,
+    "popolazione_totale": 1533
+  },
+  {
+    "codice_istat": "069075",
+    "comune": "Roccascalegna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 510,
+    "popolazione_femminile": 501,
+    "popolazione_totale": 1011
+  },
+  {
+    "codice_istat": "069076",
+    "comune": "Roccaspinalveti",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 548,
+    "popolazione_femminile": 573,
+    "popolazione_totale": 1121
+  },
+  {
+    "codice_istat": "069077",
+    "comune": "Roio del Sangro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 56,
+    "popolazione_femminile": 45,
+    "popolazione_totale": 101
+  },
+  {
+    "codice_istat": "069078",
+    "comune": "Rosello",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 89,
+    "popolazione_totale": 175
+  },
+  {
+    "codice_istat": "069079",
+    "comune": "San Buono",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 835
+  },
+  {
+    "codice_istat": "069080",
+    "comune": "San Giovanni Lipioni",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 72,
+    "popolazione_femminile": 67,
+    "popolazione_totale": 139
+  },
+  {
+    "codice_istat": "069081",
+    "comune": "San Giovanni Teatino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 7142,
+    "popolazione_femminile": 7399,
+    "popolazione_totale": 14541
+  },
+  {
+    "codice_istat": "069082",
+    "comune": "San Martino sulla Marrucina",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 439,
+    "popolazione_totale": 868
+  },
+  {
+    "codice_istat": "069083",
+    "comune": "San Salvo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 9960,
+    "popolazione_femminile": 9958,
+    "popolazione_totale": 19918
+  },
+  {
+    "codice_istat": "069086",
+    "comune": "San Vito Chietino",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2513,
+    "popolazione_femminile": 2545,
+    "popolazione_totale": 5058
+  },
+  {
+    "codice_istat": "069085",
+    "comune": "Sant'Eusanio del Sangro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1080,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2224
+  },
+  {
+    "codice_istat": "069084",
+    "comune": "Santa Maria Imbaro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1012,
+    "popolazione_femminile": 1010,
+    "popolazione_totale": 2022
+  },
+  {
+    "codice_istat": "069087",
+    "comune": "Scerni",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1438,
+    "popolazione_femminile": 1463,
+    "popolazione_totale": 2901
+  },
+  {
+    "codice_istat": "069088",
+    "comune": "Schiavi di Abruzzo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 314,
+    "popolazione_totale": 616
+  },
+  {
+    "codice_istat": "069089",
+    "comune": "Taranta Peligna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 157,
+    "popolazione_femminile": 144,
+    "popolazione_totale": 301
+  },
+  {
+    "codice_istat": "069090",
+    "comune": "Tollo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1923,
+    "popolazione_femminile": 1945,
+    "popolazione_totale": 3868
+  },
+  {
+    "codice_istat": "069091",
+    "comune": "Torino di Sangro",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1499,
+    "popolazione_femminile": 1426,
+    "popolazione_totale": 2925
+  },
+  {
+    "codice_istat": "069092",
+    "comune": "Tornareccio",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 817,
+    "popolazione_femminile": 823,
+    "popolazione_totale": 1640
+  },
+  {
+    "codice_istat": "069093",
+    "comune": "Torrebruna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 305,
+    "popolazione_femminile": 330,
+    "popolazione_totale": 635
+  },
+  {
+    "codice_istat": "069094",
+    "comune": "Torrevecchia Teatina",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2078,
+    "popolazione_femminile": 2105,
+    "popolazione_totale": 4183
+  },
+  {
+    "codice_istat": "069095",
+    "comune": "Torricella Peligna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 527,
+    "popolazione_femminile": 550,
+    "popolazione_totale": 1077
+  },
+  {
+    "codice_istat": "069096",
+    "comune": "Treglio",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 846,
+    "popolazione_femminile": 875,
+    "popolazione_totale": 1721
+  },
+  {
+    "codice_istat": "069097",
+    "comune": "Tufillo",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 144,
+    "popolazione_femminile": 163,
+    "popolazione_totale": 307
+  },
+  {
+    "codice_istat": "069098",
+    "comune": "Vacri",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 734,
+    "popolazione_femminile": 737,
+    "popolazione_totale": 1471
+  },
+  {
+    "codice_istat": "069099",
+    "comune": "Vasto",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 20039,
+    "popolazione_femminile": 20881,
+    "popolazione_totale": 40920
+  },
+  {
+    "codice_istat": "069102",
+    "comune": "Villa Santa Maria",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 525,
+    "popolazione_totale": 1072
+  },
+  {
+    "codice_istat": "069100",
+    "comune": "Villalfonsina",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 428,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 855
+  },
+  {
+    "codice_istat": "069101",
+    "comune": "Villamagna",
+    "provincia": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1057,
+    "popolazione_femminile": 1069,
+    "popolazione_totale": 2126
+  }
+]

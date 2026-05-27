@@ -1,0 +1,673 @@
+[
+  {
+    "codice_istat": "010001",
+    "comune": "Arenzano",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 5316,
+    "popolazione_femminile": 5818,
+    "popolazione_totale": 11134
+  },
+  {
+    "codice_istat": "010002",
+    "comune": "Avegno",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1265,
+    "popolazione_femminile": 1268,
+    "popolazione_totale": 2533
+  },
+  {
+    "codice_istat": "010003",
+    "comune": "Bargagli",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1256,
+    "popolazione_femminile": 1222,
+    "popolazione_totale": 2478
+  },
+  {
+    "codice_istat": "010004",
+    "comune": "Bogliasco",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 2049,
+    "popolazione_femminile": 2200,
+    "popolazione_totale": 4249
+  },
+  {
+    "codice_istat": "010005",
+    "comune": "Borzonasca",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 934,
+    "popolazione_femminile": 897,
+    "popolazione_totale": 1831
+  },
+  {
+    "codice_istat": "010006",
+    "comune": "Busalla",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 2502,
+    "popolazione_femminile": 2608,
+    "popolazione_totale": 5110
+  },
+  {
+    "codice_istat": "010007",
+    "comune": "Camogli",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 2374,
+    "popolazione_femminile": 2424,
+    "popolazione_totale": 4798
+  },
+  {
+    "codice_istat": "010008",
+    "comune": "Campo Ligure",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1416,
+    "popolazione_femminile": 1405,
+    "popolazione_totale": 2821
+  },
+  {
+    "codice_istat": "010009",
+    "comune": "Campomorone",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 3147,
+    "popolazione_femminile": 3285,
+    "popolazione_totale": 6432
+  },
+  {
+    "codice_istat": "010010",
+    "comune": "Carasco",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1824,
+    "popolazione_femminile": 1883,
+    "popolazione_totale": 3707
+  },
+  {
+    "codice_istat": "010011",
+    "comune": "Casarza Ligure",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 3314,
+    "popolazione_femminile": 3415,
+    "popolazione_totale": 6729
+  },
+  {
+    "codice_istat": "010012",
+    "comune": "Casella",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1562,
+    "popolazione_femminile": 1487,
+    "popolazione_totale": 3049
+  },
+  {
+    "codice_istat": "010013",
+    "comune": "Castiglione Chiavarese",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 745,
+    "popolazione_femminile": 786,
+    "popolazione_totale": 1531
+  },
+  {
+    "codice_istat": "010014",
+    "comune": "Ceranesi",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1826,
+    "popolazione_femminile": 1758,
+    "popolazione_totale": 3584
+  },
+  {
+    "codice_istat": "010015",
+    "comune": "Chiavari",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 12753,
+    "popolazione_femminile": 14682,
+    "popolazione_totale": 27435
+  },
+  {
+    "codice_istat": "010016",
+    "comune": "Cicagna",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1193,
+    "popolazione_femminile": 1146,
+    "popolazione_totale": 2339
+  },
+  {
+    "codice_istat": "010017",
+    "comune": "Cogoleto",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 3959,
+    "popolazione_femminile": 4290,
+    "popolazione_totale": 8249
+  },
+  {
+    "codice_istat": "010018",
+    "comune": "Cogorno",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 2810,
+    "popolazione_femminile": 2882,
+    "popolazione_totale": 5692
+  },
+  {
+    "codice_istat": "010019",
+    "comune": "Coreglia Ligure",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 130,
+    "popolazione_femminile": 111,
+    "popolazione_totale": 241
+  },
+  {
+    "codice_istat": "010020",
+    "comune": "Crocefieschi",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 546
+  },
+  {
+    "codice_istat": "010021",
+    "comune": "Davagna",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 955,
+    "popolazione_femminile": 817,
+    "popolazione_totale": 1772
+  },
+  {
+    "codice_istat": "010022",
+    "comune": "Fascia",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 35,
+    "popolazione_femminile": 30,
+    "popolazione_totale": 65
+  },
+  {
+    "codice_istat": "010023",
+    "comune": "Favale di Malvaro",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 209,
+    "popolazione_femminile": 212,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "010024",
+    "comune": "Fontanigorda",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 100,
+    "popolazione_totale": 226
+  },
+  {
+    "codice_istat": "010025",
+    "comune": "Genova",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 272950,
+    "popolazione_femminile": 293297,
+    "popolazione_totale": 566247,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "010026",
+    "comune": "Gorreto",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 42,
+    "popolazione_femminile": 42,
+    "popolazione_totale": 84
+  },
+  {
+    "codice_istat": "010027",
+    "comune": "Isola del Cantone",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1425
+  },
+  {
+    "codice_istat": "010028",
+    "comune": "Lavagna",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 5801,
+    "popolazione_femminile": 6610,
+    "popolazione_totale": 12411
+  },
+  {
+    "codice_istat": "010029",
+    "comune": "Leivi",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1210,
+    "popolazione_femminile": 1237,
+    "popolazione_totale": 2447
+  },
+  {
+    "codice_istat": "010030",
+    "comune": "Lorsica",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 187,
+    "popolazione_femminile": 190,
+    "popolazione_totale": 377
+  },
+  {
+    "codice_istat": "010031",
+    "comune": "Lumarzo",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 719,
+    "popolazione_totale": 1437
+  },
+  {
+    "codice_istat": "010032",
+    "comune": "Masone",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1637,
+    "popolazione_femminile": 1677,
+    "popolazione_totale": 3314
+  },
+  {
+    "codice_istat": "010033",
+    "comune": "Mele",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1271,
+    "popolazione_femminile": 1240,
+    "popolazione_totale": 2511
+  },
+  {
+    "codice_istat": "010034",
+    "comune": "Mezzanego",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 803,
+    "popolazione_femminile": 760,
+    "popolazione_totale": 1563
+  },
+  {
+    "codice_istat": "010035",
+    "comune": "Mignanego",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1759,
+    "popolazione_femminile": 1783,
+    "popolazione_totale": 3542
+  },
+  {
+    "codice_istat": "010036",
+    "comune": "Moconesi",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1267,
+    "popolazione_femminile": 1156,
+    "popolazione_totale": 2423
+  },
+  {
+    "codice_istat": "010037",
+    "comune": "Moneglia",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1217,
+    "popolazione_femminile": 1273,
+    "popolazione_totale": 2490
+  },
+  {
+    "codice_istat": "010038",
+    "comune": "Montebruno",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 100,
+    "popolazione_totale": 199
+  },
+  {
+    "codice_istat": "010039",
+    "comune": "Montoggio",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1034,
+    "popolazione_femminile": 986,
+    "popolazione_totale": 2020
+  },
+  {
+    "codice_istat": "010040",
+    "comune": "Ne",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1106,
+    "popolazione_femminile": 1020,
+    "popolazione_totale": 2126
+  },
+  {
+    "codice_istat": "010041",
+    "comune": "Neirone",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 473,
+    "popolazione_femminile": 417,
+    "popolazione_totale": 890
+  },
+  {
+    "codice_istat": "010042",
+    "comune": "Orero",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 255,
+    "popolazione_femminile": 249,
+    "popolazione_totale": 504
+  },
+  {
+    "codice_istat": "010043",
+    "comune": "Pieve Ligure",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1161,
+    "popolazione_femminile": 1191,
+    "popolazione_totale": 2352
+  },
+  {
+    "codice_istat": "010044",
+    "comune": "Portofino",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 172,
+    "popolazione_femminile": 187,
+    "popolazione_totale": 359
+  },
+  {
+    "codice_istat": "010045",
+    "comune": "Propata",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 46,
+    "popolazione_totale": 119
+  },
+  {
+    "codice_istat": "010046",
+    "comune": "Rapallo",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 14199,
+    "popolazione_femminile": 15396,
+    "popolazione_totale": 29595
+  },
+  {
+    "codice_istat": "010047",
+    "comune": "Recco",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 4367,
+    "popolazione_femminile": 4906,
+    "popolazione_totale": 9273
+  },
+  {
+    "codice_istat": "010048",
+    "comune": "Rezzoaglio",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 432,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 859
+  },
+  {
+    "codice_istat": "010049",
+    "comune": "Ronco Scrivia",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 2126,
+    "popolazione_femminile": 2087,
+    "popolazione_totale": 4213
+  },
+  {
+    "codice_istat": "010050",
+    "comune": "Rondanina",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 34,
+    "popolazione_femminile": 23,
+    "popolazione_totale": 57
+  },
+  {
+    "codice_istat": "010051",
+    "comune": "Rossiglione",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1217,
+    "popolazione_femminile": 1306,
+    "popolazione_totale": 2523
+  },
+  {
+    "codice_istat": "010052",
+    "comune": "Rovegno",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 207,
+    "popolazione_totale": 469
+  },
+  {
+    "codice_istat": "010053",
+    "comune": "San Colombano Certenoli",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1359,
+    "popolazione_femminile": 1338,
+    "popolazione_totale": 2697
+  },
+  {
+    "codice_istat": "010055",
+    "comune": "Sant'Olcese",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 2759,
+    "popolazione_femminile": 2804,
+    "popolazione_totale": 5563
+  },
+  {
+    "codice_istat": "010054",
+    "comune": "Santa Margherita Ligure",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 3892,
+    "popolazione_femminile": 4367,
+    "popolazione_totale": 8259
+  },
+  {
+    "codice_istat": "010056",
+    "comune": "Santo Stefano d'Aveto",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 500,
+    "popolazione_femminile": 464,
+    "popolazione_totale": 964
+  },
+  {
+    "codice_istat": "010057",
+    "comune": "Savignone",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1484,
+    "popolazione_femminile": 1516,
+    "popolazione_totale": 3000
+  },
+  {
+    "codice_istat": "010058",
+    "comune": "Serra Riccò",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 3757,
+    "popolazione_femminile": 3816,
+    "popolazione_totale": 7573
+  },
+  {
+    "codice_istat": "010059",
+    "comune": "Sestri Levante",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 8156,
+    "popolazione_femminile": 8932,
+    "popolazione_totale": 17088
+  },
+  {
+    "codice_istat": "010060",
+    "comune": "Sori",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1905,
+    "popolazione_femminile": 1988,
+    "popolazione_totale": 3893
+  },
+  {
+    "codice_istat": "010061",
+    "comune": "Tiglieto",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 225,
+    "popolazione_totale": 476
+  },
+  {
+    "codice_istat": "010062",
+    "comune": "Torriglia",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1098,
+    "popolazione_femminile": 1138,
+    "popolazione_totale": 2236
+  },
+  {
+    "codice_istat": "010063",
+    "comune": "Tribogna",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 307,
+    "popolazione_femminile": 292,
+    "popolazione_totale": 599
+  },
+  {
+    "codice_istat": "010064",
+    "comune": "Uscio",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1029,
+    "popolazione_femminile": 1089,
+    "popolazione_totale": 2118
+  },
+  {
+    "codice_istat": "010065",
+    "comune": "Valbrevenna",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 417,
+    "popolazione_femminile": 337,
+    "popolazione_totale": 754
+  },
+  {
+    "codice_istat": "010066",
+    "comune": "Vobbia",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 365
+  },
+  {
+    "codice_istat": "010067",
+    "comune": "Zoagli",
+    "provincia": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "popolazione_maschile": 1142,
+    "popolazione_femminile": 1163,
+    "popolazione_totale": 2305
+  }
+]

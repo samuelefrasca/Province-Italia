@@ -1,0 +1,264 @@
+[
+  {
+    "codice_istat": "113001",
+    "comune": "Aggius",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 659,
+    "popolazione_femminile": 719,
+    "popolazione_totale": 1378
+  },
+  {
+    "codice_istat": "113002",
+    "comune": "Aglientu",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 602,
+    "popolazione_femminile": 593,
+    "popolazione_totale": 1195
+  },
+  {
+    "codice_istat": "113003",
+    "comune": "Alà dei Sardi",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 873,
+    "popolazione_femminile": 872,
+    "popolazione_totale": 1745
+  },
+  {
+    "codice_istat": "113004",
+    "comune": "Arzachena",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 6796,
+    "popolazione_femminile": 6660,
+    "popolazione_totale": 13456
+  },
+  {
+    "codice_istat": "113005",
+    "comune": "Badesi",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 899,
+    "popolazione_femminile": 913,
+    "popolazione_totale": 1812
+  },
+  {
+    "codice_istat": "113006",
+    "comune": "Berchidda",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1288,
+    "popolazione_femminile": 1316,
+    "popolazione_totale": 2604
+  },
+  {
+    "codice_istat": "113007",
+    "comune": "Bortigiadas",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 350,
+    "popolazione_femminile": 342,
+    "popolazione_totale": 692
+  },
+  {
+    "codice_istat": "113008",
+    "comune": "Buddusò",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1755,
+    "popolazione_femminile": 1732,
+    "popolazione_totale": 3487
+  },
+  {
+    "codice_istat": "113009",
+    "comune": "Budoni",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2841,
+    "popolazione_femminile": 2844,
+    "popolazione_totale": 5685
+  },
+  {
+    "codice_istat": "113010",
+    "comune": "Calangianus",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1842,
+    "popolazione_femminile": 1850,
+    "popolazione_totale": 3692
+  },
+  {
+    "codice_istat": "113011",
+    "comune": "Golfo Aranci",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1152,
+    "popolazione_femminile": 1221,
+    "popolazione_totale": 2373
+  },
+  {
+    "codice_istat": "113012",
+    "comune": "La Maddalena",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 5243,
+    "popolazione_femminile": 5206,
+    "popolazione_totale": 10449
+  },
+  {
+    "codice_istat": "113013",
+    "comune": "Loiri Porto San Paolo",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1991,
+    "popolazione_femminile": 1938,
+    "popolazione_totale": 3929
+  },
+  {
+    "codice_istat": "113014",
+    "comune": "Luogosanto",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 940,
+    "popolazione_femminile": 898,
+    "popolazione_totale": 1838
+  },
+  {
+    "codice_istat": "113015",
+    "comune": "Luras",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1156,
+    "popolazione_femminile": 1213,
+    "popolazione_totale": 2369
+  },
+  {
+    "codice_istat": "113016",
+    "comune": "Monti",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1199,
+    "popolazione_femminile": 1207,
+    "popolazione_totale": 2406
+  },
+  {
+    "codice_istat": "113017",
+    "comune": "Olbia",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 30530,
+    "popolazione_femminile": 31209,
+    "popolazione_totale": 61739,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "113018",
+    "comune": "Oschiri",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1461,
+    "popolazione_femminile": 1424,
+    "popolazione_totale": 2885
+  },
+  {
+    "codice_istat": "113019",
+    "comune": "Padru",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1074,
+    "popolazione_femminile": 1056,
+    "popolazione_totale": 2130
+  },
+  {
+    "codice_istat": "113020",
+    "comune": "Palau",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2057,
+    "popolazione_femminile": 2001,
+    "popolazione_totale": 4058
+  },
+  {
+    "codice_istat": "113021",
+    "comune": "San Teodoro",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2657,
+    "popolazione_femminile": 2567,
+    "popolazione_totale": 5224
+  },
+  {
+    "codice_istat": "113023",
+    "comune": "Sant'Antonio di Gallura",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 706,
+    "popolazione_femminile": 726,
+    "popolazione_totale": 1432
+  },
+  {
+    "codice_istat": "113022",
+    "comune": "Santa Teresa Gallura",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2598,
+    "popolazione_femminile": 2546,
+    "popolazione_totale": 5144
+  },
+  {
+    "codice_istat": "113024",
+    "comune": "Telti",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1143,
+    "popolazione_femminile": 1138,
+    "popolazione_totale": 2281
+  },
+  {
+    "codice_istat": "113025",
+    "comune": "Tempio Pausania",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 6412,
+    "popolazione_femminile": 6466,
+    "popolazione_totale": 12878,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "113026",
+    "comune": "Trinità d'Agultu e Vignola",
+    "provincia": "Gallura Nord-Est Sardegna",
+    "sigla": "OT",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1388,
+    "popolazione_femminile": 1191,
+    "popolazione_totale": 2579
+  }
+]

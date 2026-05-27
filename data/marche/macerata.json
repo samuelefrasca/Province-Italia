@@ -1,0 +1,553 @@
+[
+  {
+    "codice_istat": "043002",
+    "comune": "Apiro",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 990,
+    "popolazione_femminile": 1025,
+    "popolazione_totale": 2015
+  },
+  {
+    "codice_istat": "043003",
+    "comune": "Appignano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 2022,
+    "popolazione_femminile": 2097,
+    "popolazione_totale": 4119
+  },
+  {
+    "codice_istat": "043004",
+    "comune": "Belforte del Chienti",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 911,
+    "popolazione_femminile": 918,
+    "popolazione_totale": 1829
+  },
+  {
+    "codice_istat": "043005",
+    "comune": "Bolognola",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 81,
+    "popolazione_femminile": 67,
+    "popolazione_totale": 148
+  },
+  {
+    "codice_istat": "043006",
+    "comune": "Caldarola",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 806,
+    "popolazione_femminile": 815,
+    "popolazione_totale": 1621
+  },
+  {
+    "codice_istat": "043007",
+    "comune": "Camerino",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 2871,
+    "popolazione_femminile": 3064,
+    "popolazione_totale": 5935
+  },
+  {
+    "codice_istat": "043008",
+    "comune": "Camporotondo di Fiastrone",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 461
+  },
+  {
+    "codice_istat": "043009",
+    "comune": "Castelraimondo",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 2018,
+    "popolazione_femminile": 2162,
+    "popolazione_totale": 4180
+  },
+  {
+    "codice_istat": "043010",
+    "comune": "Castelsantangelo sul Nera",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 97,
+    "popolazione_totale": 207
+  },
+  {
+    "codice_istat": "043011",
+    "comune": "Cessapalombo",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 200,
+    "popolazione_femminile": 209,
+    "popolazione_totale": 409
+  },
+  {
+    "codice_istat": "043012",
+    "comune": "Cingoli",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 4619,
+    "popolazione_femminile": 4819,
+    "popolazione_totale": 9438
+  },
+  {
+    "codice_istat": "043013",
+    "comune": "Civitanova Marche",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 20027,
+    "popolazione_femminile": 21902,
+    "popolazione_totale": 41929
+  },
+  {
+    "codice_istat": "043014",
+    "comune": "Colmurano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 572,
+    "popolazione_totale": 1121
+  },
+  {
+    "codice_istat": "043015",
+    "comune": "Corridonia",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 7235,
+    "popolazione_femminile": 7449,
+    "popolazione_totale": 14684
+  },
+  {
+    "codice_istat": "043016",
+    "comune": "Esanatoglia",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 893,
+    "popolazione_femminile": 984,
+    "popolazione_totale": 1877
+  },
+  {
+    "codice_istat": "043017",
+    "comune": "Fiastra",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 319,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 600
+  },
+  {
+    "codice_istat": "043019",
+    "comune": "Fiuminata",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 591,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1194
+  },
+  {
+    "codice_istat": "043020",
+    "comune": "Gagliole",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 513
+  },
+  {
+    "codice_istat": "043021",
+    "comune": "Gualdo",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 363,
+    "popolazione_totale": 700
+  },
+  {
+    "codice_istat": "043022",
+    "comune": "Loro Piceno",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 1090,
+    "popolazione_femminile": 1065,
+    "popolazione_totale": 2155
+  },
+  {
+    "codice_istat": "043023",
+    "comune": "Macerata",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 19747,
+    "popolazione_femminile": 20942,
+    "popolazione_totale": 40689,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "043024",
+    "comune": "Matelica",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 4381,
+    "popolazione_femminile": 4645,
+    "popolazione_totale": 9026
+  },
+  {
+    "codice_istat": "043025",
+    "comune": "Mogliano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 2098,
+    "popolazione_femminile": 2147,
+    "popolazione_totale": 4245
+  },
+  {
+    "codice_istat": "043027",
+    "comune": "Monte Cavallo",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 51,
+    "popolazione_femminile": 49,
+    "popolazione_totale": 100
+  },
+  {
+    "codice_istat": "043031",
+    "comune": "Monte San Giusto",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 3689,
+    "popolazione_femminile": 3722,
+    "popolazione_totale": 7411
+  },
+  {
+    "codice_istat": "043032",
+    "comune": "Monte San Martino",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 342,
+    "popolazione_femminile": 326,
+    "popolazione_totale": 668
+  },
+  {
+    "codice_istat": "043026",
+    "comune": "Montecassiano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 3316,
+    "popolazione_femminile": 3378,
+    "popolazione_totale": 6694
+  },
+  {
+    "codice_istat": "043028",
+    "comune": "Montecosaro",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 3660,
+    "popolazione_femminile": 3710,
+    "popolazione_totale": 7370
+  },
+  {
+    "codice_istat": "043029",
+    "comune": "Montefano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 1626,
+    "popolazione_femminile": 1678,
+    "popolazione_totale": 3304
+  },
+  {
+    "codice_istat": "043030",
+    "comune": "Montelupone",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 1696,
+    "popolazione_femminile": 1684,
+    "popolazione_totale": 3380
+  },
+  {
+    "codice_istat": "043033",
+    "comune": "Morrovalle",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 4901,
+    "popolazione_femminile": 4872,
+    "popolazione_totale": 9773
+  },
+  {
+    "codice_istat": "043034",
+    "comune": "Muccia",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 384,
+    "popolazione_femminile": 402,
+    "popolazione_totale": 786
+  },
+  {
+    "codice_istat": "043035",
+    "comune": "Penna San Giovanni",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 437,
+    "popolazione_femminile": 464,
+    "popolazione_totale": 901
+  },
+  {
+    "codice_istat": "043036",
+    "comune": "Petriolo",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 914,
+    "popolazione_femminile": 907,
+    "popolazione_totale": 1821
+  },
+  {
+    "codice_istat": "043038",
+    "comune": "Pieve Torina",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 602,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1204
+  },
+  {
+    "codice_istat": "043039",
+    "comune": "Pioraco",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 456,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 915
+  },
+  {
+    "codice_istat": "043040",
+    "comune": "Poggio San Vicino",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 91,
+    "popolazione_femminile": 104,
+    "popolazione_totale": 195
+  },
+  {
+    "codice_istat": "043041",
+    "comune": "Pollenza",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 3052,
+    "popolazione_femminile": 3097,
+    "popolazione_totale": 6149
+  },
+  {
+    "codice_istat": "043042",
+    "comune": "Porto Recanati",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 6557,
+    "popolazione_femminile": 6177,
+    "popolazione_totale": 12734
+  },
+  {
+    "codice_istat": "043043",
+    "comune": "Potenza Picena",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 7561,
+    "popolazione_femminile": 7909,
+    "popolazione_totale": 15470
+  },
+  {
+    "codice_istat": "043044",
+    "comune": "Recanati",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 10005,
+    "popolazione_femminile": 10553,
+    "popolazione_totale": 20558
+  },
+  {
+    "codice_istat": "043045",
+    "comune": "Ripe San Ginesio",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 391,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 797
+  },
+  {
+    "codice_istat": "043046",
+    "comune": "San Ginesio",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 1534,
+    "popolazione_femminile": 1513,
+    "popolazione_totale": 3047
+  },
+  {
+    "codice_istat": "043047",
+    "comune": "San Severino Marche",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 5803,
+    "popolazione_femminile": 5990,
+    "popolazione_totale": 11793
+  },
+  {
+    "codice_istat": "043048",
+    "comune": "Sant'Angelo in Pontano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 592,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1219
+  },
+  {
+    "codice_istat": "043049",
+    "comune": "Sarnano",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 1531,
+    "popolazione_femminile": 1527,
+    "popolazione_totale": 3058
+  },
+  {
+    "codice_istat": "043050",
+    "comune": "Sefro",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 187,
+    "popolazione_totale": 425
+  },
+  {
+    "codice_istat": "043051",
+    "comune": "Serrapetrona",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 428,
+    "popolazione_femminile": 420,
+    "popolazione_totale": 848
+  },
+  {
+    "codice_istat": "043052",
+    "comune": "Serravalle di Chienti",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 553,
+    "popolazione_femminile": 482,
+    "popolazione_totale": 1035
+  },
+  {
+    "codice_istat": "043053",
+    "comune": "Tolentino",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 8475,
+    "popolazione_femminile": 8964,
+    "popolazione_totale": 17439
+  },
+  {
+    "codice_istat": "043054",
+    "comune": "Treia",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 4532,
+    "popolazione_femminile": 4470,
+    "popolazione_totale": 9002
+  },
+  {
+    "codice_istat": "043055",
+    "comune": "Urbisaglia",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 1178,
+    "popolazione_femminile": 1185,
+    "popolazione_totale": 2363
+  },
+  {
+    "codice_istat": "043056",
+    "comune": "Ussita",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 163,
+    "popolazione_femminile": 169,
+    "popolazione_totale": 332
+  },
+  {
+    "codice_istat": "043058",
+    "comune": "Valfornace",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 452,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 883
+  },
+  {
+    "codice_istat": "043057",
+    "comune": "Visso",
+    "provincia": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 477,
+    "popolazione_totale": 920
+  }
+]

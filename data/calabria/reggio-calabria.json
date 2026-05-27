@@ -1,0 +1,973 @@
+[
+  {
+    "codice_istat": "080001",
+    "comune": "Africo",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1338,
+    "popolazione_femminile": 1332,
+    "popolazione_totale": 2670
+  },
+  {
+    "codice_istat": "080002",
+    "comune": "Agnana Calabra",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 230,
+    "popolazione_femminile": 216,
+    "popolazione_totale": 446
+  },
+  {
+    "codice_istat": "080003",
+    "comune": "Anoia",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 948,
+    "popolazione_femminile": 1047,
+    "popolazione_totale": 1995
+  },
+  {
+    "codice_istat": "080004",
+    "comune": "Antonimina",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 583,
+    "popolazione_femminile": 569,
+    "popolazione_totale": 1152
+  },
+  {
+    "codice_istat": "080005",
+    "comune": "Ardore",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2435,
+    "popolazione_femminile": 2471,
+    "popolazione_totale": 4906
+  },
+  {
+    "codice_istat": "080006",
+    "comune": "Bagaladi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 474,
+    "popolazione_totale": 916
+  },
+  {
+    "codice_istat": "080007",
+    "comune": "Bagnara Calabra",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 4527,
+    "popolazione_femminile": 4575,
+    "popolazione_totale": 9102
+  },
+  {
+    "codice_istat": "080008",
+    "comune": "Benestare",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1252,
+    "popolazione_femminile": 1237,
+    "popolazione_totale": 2489
+  },
+  {
+    "codice_istat": "080009",
+    "comune": "Bianco",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2128,
+    "popolazione_femminile": 2170,
+    "popolazione_totale": 4298
+  },
+  {
+    "codice_istat": "080010",
+    "comune": "Bivongi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1131
+  },
+  {
+    "codice_istat": "080011",
+    "comune": "Bova",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 213,
+    "popolazione_totale": 460
+  },
+  {
+    "codice_istat": "080013",
+    "comune": "Bova Marina",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1966,
+    "popolazione_femminile": 1959,
+    "popolazione_totale": 3925
+  },
+  {
+    "codice_istat": "080012",
+    "comune": "Bovalino",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 4245,
+    "popolazione_femminile": 4498,
+    "popolazione_totale": 8743
+  },
+  {
+    "codice_istat": "080014",
+    "comune": "Brancaleone",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1543,
+    "popolazione_femminile": 1581,
+    "popolazione_totale": 3124
+  },
+  {
+    "codice_istat": "080015",
+    "comune": "Bruzzano Zeffirio",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 493,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1010
+  },
+  {
+    "codice_istat": "080016",
+    "comune": "Calanna",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 356,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 735
+  },
+  {
+    "codice_istat": "080017",
+    "comune": "Camini",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 386,
+    "popolazione_femminile": 407,
+    "popolazione_totale": 793
+  },
+  {
+    "codice_istat": "080018",
+    "comune": "Campo Calabro",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2223,
+    "popolazione_femminile": 2289,
+    "popolazione_totale": 4512
+  },
+  {
+    "codice_istat": "080019",
+    "comune": "Candidoni",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 214,
+    "popolazione_femminile": 193,
+    "popolazione_totale": 407
+  },
+  {
+    "codice_istat": "080020",
+    "comune": "Canolo",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 344,
+    "popolazione_totale": 684
+  },
+  {
+    "codice_istat": "080021",
+    "comune": "Caraffa del Bianco",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 224,
+    "popolazione_totale": 429
+  },
+  {
+    "codice_istat": "080022",
+    "comune": "Cardeto",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 588,
+    "popolazione_femminile": 649,
+    "popolazione_totale": 1237
+  },
+  {
+    "codice_istat": "080023",
+    "comune": "Careri",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 995,
+    "popolazione_femminile": 1054,
+    "popolazione_totale": 2049
+  },
+  {
+    "codice_istat": "080024",
+    "comune": "Casignana",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 327,
+    "popolazione_femminile": 353,
+    "popolazione_totale": 680
+  },
+  {
+    "codice_istat": "080025",
+    "comune": "Caulonia",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 3288,
+    "popolazione_femminile": 3361,
+    "popolazione_totale": 6649
+  },
+  {
+    "codice_istat": "080026",
+    "comune": "Ciminà",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 243,
+    "popolazione_totale": 510
+  },
+  {
+    "codice_istat": "080027",
+    "comune": "Cinquefrondi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 3017,
+    "popolazione_femminile": 3218,
+    "popolazione_totale": 6235
+  },
+  {
+    "codice_istat": "080028",
+    "comune": "Cittanova",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 4667,
+    "popolazione_femminile": 4913,
+    "popolazione_totale": 9580
+  },
+  {
+    "codice_istat": "080029",
+    "comune": "Condofuri",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2174,
+    "popolazione_femminile": 2317,
+    "popolazione_totale": 4491
+  },
+  {
+    "codice_istat": "080030",
+    "comune": "Cosoleto",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 359,
+    "popolazione_femminile": 369,
+    "popolazione_totale": 728
+  },
+  {
+    "codice_istat": "080031",
+    "comune": "Delianuova",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1469,
+    "popolazione_femminile": 1583,
+    "popolazione_totale": 3052
+  },
+  {
+    "codice_istat": "080032",
+    "comune": "Feroleto della Chiesa",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 770,
+    "popolazione_totale": 1489
+  },
+  {
+    "codice_istat": "080033",
+    "comune": "Ferruzzano",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 328,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 685
+  },
+  {
+    "codice_istat": "080034",
+    "comune": "Fiumara",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 789
+  },
+  {
+    "codice_istat": "080035",
+    "comune": "Galatro",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 672,
+    "popolazione_femminile": 719,
+    "popolazione_totale": 1391
+  },
+  {
+    "codice_istat": "080036",
+    "comune": "Gerace",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1149,
+    "popolazione_femminile": 1126,
+    "popolazione_totale": 2275
+  },
+  {
+    "codice_istat": "080037",
+    "comune": "Giffone",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 755,
+    "popolazione_femminile": 798,
+    "popolazione_totale": 1553
+  },
+  {
+    "codice_istat": "080038",
+    "comune": "Gioia Tauro",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 9627,
+    "popolazione_femminile": 9697,
+    "popolazione_totale": 19324
+  },
+  {
+    "codice_istat": "080039",
+    "comune": "Gioiosa Ionica",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 3382,
+    "popolazione_femminile": 3452,
+    "popolazione_totale": 6834
+  },
+  {
+    "codice_istat": "080040",
+    "comune": "Grotteria",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1376,
+    "popolazione_femminile": 1439,
+    "popolazione_totale": 2815
+  },
+  {
+    "codice_istat": "080041",
+    "comune": "Laganadi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 153,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 321
+  },
+  {
+    "codice_istat": "080042",
+    "comune": "Laureana di Borrello",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2233,
+    "popolazione_femminile": 2324,
+    "popolazione_totale": 4557
+  },
+  {
+    "codice_istat": "080043",
+    "comune": "Locri",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 5688,
+    "popolazione_femminile": 6168,
+    "popolazione_totale": 11856
+  },
+  {
+    "codice_istat": "080044",
+    "comune": "Mammola",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1136,
+    "popolazione_femminile": 1199,
+    "popolazione_totale": 2335
+  },
+  {
+    "codice_istat": "080045",
+    "comune": "Marina di Gioiosa Ionica",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 3054,
+    "popolazione_femminile": 3249,
+    "popolazione_totale": 6303
+  },
+  {
+    "codice_istat": "080046",
+    "comune": "Maropati",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 628,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1291
+  },
+  {
+    "codice_istat": "080047",
+    "comune": "Martone",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 240,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 476
+  },
+  {
+    "codice_istat": "080048",
+    "comune": "Melicuccà",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 412,
+    "popolazione_totale": 780
+  },
+  {
+    "codice_istat": "080049",
+    "comune": "Melicucco",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2393,
+    "popolazione_femminile": 2449,
+    "popolazione_totale": 4842
+  },
+  {
+    "codice_istat": "080050",
+    "comune": "Melito di Porto Salvo",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 5070,
+    "popolazione_femminile": 5244,
+    "popolazione_totale": 10314
+  },
+  {
+    "codice_istat": "080051",
+    "comune": "Molochio",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1033,
+    "popolazione_femminile": 1089,
+    "popolazione_totale": 2122
+  },
+  {
+    "codice_istat": "080052",
+    "comune": "Monasterace",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1637,
+    "popolazione_femminile": 1597,
+    "popolazione_totale": 3234
+  },
+  {
+    "codice_istat": "080053",
+    "comune": "Montebello Jonico",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2668,
+    "popolazione_femminile": 2783,
+    "popolazione_totale": 5451
+  },
+  {
+    "codice_istat": "080054",
+    "comune": "Motta San Giovanni",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2643,
+    "popolazione_femminile": 2734,
+    "popolazione_totale": 5377
+  },
+  {
+    "codice_istat": "080055",
+    "comune": "Oppido Mamertina",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2287,
+    "popolazione_femminile": 2387,
+    "popolazione_totale": 4674
+  },
+  {
+    "codice_istat": "080056",
+    "comune": "Palizzi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 899,
+    "popolazione_femminile": 927,
+    "popolazione_totale": 1826
+  },
+  {
+    "codice_istat": "080057",
+    "comune": "Palmi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 8693,
+    "popolazione_femminile": 9290,
+    "popolazione_totale": 17983
+  },
+  {
+    "codice_istat": "080058",
+    "comune": "Pazzano",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 497
+  },
+  {
+    "codice_istat": "080059",
+    "comune": "Placanica",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 498,
+    "popolazione_totale": 977
+  },
+  {
+    "codice_istat": "080060",
+    "comune": "Platì",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1850,
+    "popolazione_femminile": 1796,
+    "popolazione_totale": 3646
+  },
+  {
+    "codice_istat": "080061",
+    "comune": "Polistena",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 4769,
+    "popolazione_femminile": 5053,
+    "popolazione_totale": 9822
+  },
+  {
+    "codice_istat": "080062",
+    "comune": "Portigliola",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 470,
+    "popolazione_femminile": 524,
+    "popolazione_totale": 994
+  },
+  {
+    "codice_istat": "080063",
+    "comune": "Reggio Calabria",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 80626,
+    "popolazione_femminile": 87299,
+    "popolazione_totale": 167925,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "080064",
+    "comune": "Riace",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 893,
+    "popolazione_femminile": 903,
+    "popolazione_totale": 1796
+  },
+  {
+    "codice_istat": "080065",
+    "comune": "Rizziconi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 3920,
+    "popolazione_femminile": 3683,
+    "popolazione_totale": 7603
+  },
+  {
+    "codice_istat": "080066",
+    "comune": "Roccaforte del Greco",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 147,
+    "popolazione_femminile": 144,
+    "popolazione_totale": 291
+  },
+  {
+    "codice_istat": "080067",
+    "comune": "Roccella Ionica",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2919,
+    "popolazione_femminile": 3200,
+    "popolazione_totale": 6119
+  },
+  {
+    "codice_istat": "080068",
+    "comune": "Roghudi",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 433,
+    "popolazione_femminile": 464,
+    "popolazione_totale": 897
+  },
+  {
+    "codice_istat": "080069",
+    "comune": "Rosarno",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 7311,
+    "popolazione_femminile": 7217,
+    "popolazione_totale": 14528
+  },
+  {
+    "codice_istat": "080070",
+    "comune": "Samo",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 335,
+    "popolazione_femminile": 344,
+    "popolazione_totale": 679
+  },
+  {
+    "codice_istat": "080097",
+    "comune": "San Ferdinando",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2419,
+    "popolazione_femminile": 2050,
+    "popolazione_totale": 4469
+  },
+  {
+    "codice_istat": "080071",
+    "comune": "San Giorgio Morgeto",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1425,
+    "popolazione_femminile": 1520,
+    "popolazione_totale": 2945
+  },
+  {
+    "codice_istat": "080072",
+    "comune": "San Giovanni di Gerace",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 188,
+    "popolazione_femminile": 206,
+    "popolazione_totale": 394
+  },
+  {
+    "codice_istat": "080073",
+    "comune": "San Lorenzo",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1011,
+    "popolazione_femminile": 1057,
+    "popolazione_totale": 2068
+  },
+  {
+    "codice_istat": "080074",
+    "comune": "San Luca",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1609,
+    "popolazione_femminile": 1688,
+    "popolazione_totale": 3297
+  },
+  {
+    "codice_istat": "080075",
+    "comune": "San Pietro di Caridà",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 428,
+    "popolazione_femminile": 495,
+    "popolazione_totale": 923
+  },
+  {
+    "codice_istat": "080076",
+    "comune": "San Procopio",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 227,
+    "popolazione_femminile": 242,
+    "popolazione_totale": 469
+  },
+  {
+    "codice_istat": "080077",
+    "comune": "San Roberto",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 740,
+    "popolazione_femminile": 739,
+    "popolazione_totale": 1479
+  },
+  {
+    "codice_istat": "080079",
+    "comune": "Sant'Agata del Bianco",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 524
+  },
+  {
+    "codice_istat": "080080",
+    "comune": "Sant'Alessio in Aspromonte",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 153,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 299
+  },
+  {
+    "codice_istat": "080081",
+    "comune": "Sant'Eufemia d'Aspromonte",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1772,
+    "popolazione_femminile": 1853,
+    "popolazione_totale": 3625
+  },
+  {
+    "codice_istat": "080082",
+    "comune": "Sant'Ilario dello Ionio",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 655,
+    "popolazione_femminile": 653,
+    "popolazione_totale": 1308
+  },
+  {
+    "codice_istat": "080078",
+    "comune": "Santa Cristina d'Aspromonte",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 357,
+    "popolazione_femminile": 350,
+    "popolazione_totale": 707
+  },
+  {
+    "codice_istat": "080083",
+    "comune": "Santo Stefano in Aspromonte",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 525,
+    "popolazione_femminile": 476,
+    "popolazione_totale": 1001
+  },
+  {
+    "codice_istat": "080084",
+    "comune": "Scido",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 382,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 797
+  },
+  {
+    "codice_istat": "080085",
+    "comune": "Scilla",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 2158,
+    "popolazione_femminile": 2247,
+    "popolazione_totale": 4405
+  },
+  {
+    "codice_istat": "080086",
+    "comune": "Seminara",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1223,
+    "popolazione_femminile": 1250,
+    "popolazione_totale": 2473
+  },
+  {
+    "codice_istat": "080087",
+    "comune": "Serrata",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 387,
+    "popolazione_femminile": 401,
+    "popolazione_totale": 788
+  },
+  {
+    "codice_istat": "080088",
+    "comune": "Siderno",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 8648,
+    "popolazione_femminile": 8971,
+    "popolazione_totale": 17619
+  },
+  {
+    "codice_istat": "080089",
+    "comune": "Sinopoli",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 900,
+    "popolazione_femminile": 898,
+    "popolazione_totale": 1798
+  },
+  {
+    "codice_istat": "080090",
+    "comune": "Staiti",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 82,
+    "popolazione_femminile": 79,
+    "popolazione_totale": 161
+  },
+  {
+    "codice_istat": "080091",
+    "comune": "Stignano",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 547,
+    "popolazione_totale": 1143
+  },
+  {
+    "codice_istat": "080092",
+    "comune": "Stilo",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1179,
+    "popolazione_femminile": 1127,
+    "popolazione_totale": 2306
+  },
+  {
+    "codice_istat": "080093",
+    "comune": "Taurianova",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 7153,
+    "popolazione_femminile": 7490,
+    "popolazione_totale": 14643
+  },
+  {
+    "codice_istat": "080094",
+    "comune": "Terranova Sappo Minulio",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 202,
+    "popolazione_femminile": 200,
+    "popolazione_totale": 402
+  },
+  {
+    "codice_istat": "080095",
+    "comune": "Varapodio",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 1014,
+    "popolazione_femminile": 1048,
+    "popolazione_totale": 2062
+  },
+  {
+    "codice_istat": "080096",
+    "comune": "Villa San Giovanni",
+    "provincia": "Reggio Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "popolazione_maschile": 6249,
+    "popolazione_femminile": 6427,
+    "popolazione_totale": 12676
+  }
+]

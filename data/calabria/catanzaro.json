@@ -1,0 +1,803 @@
+[
+  {
+    "codice_istat": "079002",
+    "comune": "Albi",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 374,
+    "popolazione_femminile": 365,
+    "popolazione_totale": 739
+  },
+  {
+    "codice_istat": "079003",
+    "comune": "Amaroni",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 779,
+    "popolazione_femminile": 816,
+    "popolazione_totale": 1595
+  },
+  {
+    "codice_istat": "079004",
+    "comune": "Amato",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 371,
+    "popolazione_femminile": 398,
+    "popolazione_totale": 769
+  },
+  {
+    "codice_istat": "079005",
+    "comune": "Andali",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 286,
+    "popolazione_femminile": 295,
+    "popolazione_totale": 581
+  },
+  {
+    "codice_istat": "079007",
+    "comune": "Argusto",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 190,
+    "popolazione_femminile": 210,
+    "popolazione_totale": 400
+  },
+  {
+    "codice_istat": "079008",
+    "comune": "Badolato",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1360,
+    "popolazione_femminile": 1469,
+    "popolazione_totale": 2829
+  },
+  {
+    "codice_istat": "079009",
+    "comune": "Belcastro",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 622,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1211
+  },
+  {
+    "codice_istat": "079011",
+    "comune": "Borgia",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 3517,
+    "popolazione_femminile": 3668,
+    "popolazione_totale": 7185
+  },
+  {
+    "codice_istat": "079012",
+    "comune": "Botricello",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2464,
+    "popolazione_femminile": 2558,
+    "popolazione_totale": 5022
+  },
+  {
+    "codice_istat": "079017",
+    "comune": "Caraffa di Catanzaro",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 855,
+    "popolazione_femminile": 827,
+    "popolazione_totale": 1682
+  },
+  {
+    "codice_istat": "079018",
+    "comune": "Cardinale",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 804,
+    "popolazione_femminile": 909,
+    "popolazione_totale": 1713
+  },
+  {
+    "codice_istat": "079020",
+    "comune": "Carlopoli",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 664,
+    "popolazione_femminile": 639,
+    "popolazione_totale": 1303
+  },
+  {
+    "codice_istat": "079023",
+    "comune": "Catanzaro",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 39494,
+    "popolazione_femminile": 43214,
+    "popolazione_totale": 82708,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "079024",
+    "comune": "Cenadi",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 243,
+    "popolazione_femminile": 259,
+    "popolazione_totale": 502
+  },
+  {
+    "codice_istat": "079025",
+    "comune": "Centrache",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 180,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 353
+  },
+  {
+    "codice_istat": "079027",
+    "comune": "Cerva",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 466,
+    "popolazione_femminile": 545,
+    "popolazione_totale": 1011
+  },
+  {
+    "codice_istat": "079029",
+    "comune": "Chiaravalle Centrale",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2425,
+    "popolazione_femminile": 2647,
+    "popolazione_totale": 5072
+  },
+  {
+    "codice_istat": "079030",
+    "comune": "Cicala",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 413,
+    "popolazione_totale": 832
+  },
+  {
+    "codice_istat": "079033",
+    "comune": "Conflenti",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 667,
+    "popolazione_femminile": 650,
+    "popolazione_totale": 1317
+  },
+  {
+    "codice_istat": "079034",
+    "comune": "Cortale",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 850,
+    "popolazione_femminile": 952,
+    "popolazione_totale": 1802
+  },
+  {
+    "codice_istat": "079036",
+    "comune": "Cropani",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2412,
+    "popolazione_femminile": 2500,
+    "popolazione_totale": 4912
+  },
+  {
+    "codice_istat": "079039",
+    "comune": "Curinga",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 3173,
+    "popolazione_femminile": 3185,
+    "popolazione_totale": 6358
+  },
+  {
+    "codice_istat": "079042",
+    "comune": "Davoli",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2830,
+    "popolazione_femminile": 2849,
+    "popolazione_totale": 5679
+  },
+  {
+    "codice_istat": "079043",
+    "comune": "Decollatura",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1415,
+    "popolazione_femminile": 1402,
+    "popolazione_totale": 2817
+  },
+  {
+    "codice_istat": "079047",
+    "comune": "Falerna",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2127,
+    "popolazione_femminile": 1886,
+    "popolazione_totale": 4013
+  },
+  {
+    "codice_istat": "079048",
+    "comune": "Feroleto Antico",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 944,
+    "popolazione_femminile": 987,
+    "popolazione_totale": 1931
+  },
+  {
+    "codice_istat": "079052",
+    "comune": "Fossato Serralta",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 264,
+    "popolazione_totale": 527
+  },
+  {
+    "codice_istat": "079055",
+    "comune": "Gagliato",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 219,
+    "popolazione_totale": 411
+  },
+  {
+    "codice_istat": "079056",
+    "comune": "Gasperina",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 936,
+    "popolazione_femminile": 924,
+    "popolazione_totale": 1860
+  },
+  {
+    "codice_istat": "079058",
+    "comune": "Gimigliano",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1435,
+    "popolazione_femminile": 1460,
+    "popolazione_totale": 2895
+  },
+  {
+    "codice_istat": "079059",
+    "comune": "Girifalco",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2630,
+    "popolazione_femminile": 2771,
+    "popolazione_totale": 5401
+  },
+  {
+    "codice_istat": "079060",
+    "comune": "Gizzeria",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2844,
+    "popolazione_femminile": 2545,
+    "popolazione_totale": 5389
+  },
+  {
+    "codice_istat": "079061",
+    "comune": "Guardavalle",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1938,
+    "popolazione_femminile": 2066,
+    "popolazione_totale": 4004
+  },
+  {
+    "codice_istat": "079063",
+    "comune": "Isca sullo Ionio",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 748,
+    "popolazione_femminile": 732,
+    "popolazione_totale": 1480
+  },
+  {
+    "codice_istat": "079065",
+    "comune": "Jacurso",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 512
+  },
+  {
+    "codice_istat": "079160",
+    "comune": "Lamezia Terme",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 33242,
+    "popolazione_femminile": 33763,
+    "popolazione_totale": 67005
+  },
+  {
+    "codice_istat": "079068",
+    "comune": "Magisano",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 513,
+    "popolazione_femminile": 529,
+    "popolazione_totale": 1042
+  },
+  {
+    "codice_istat": "079069",
+    "comune": "Maida",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2197,
+    "popolazione_femminile": 2268,
+    "popolazione_totale": 4465
+  },
+  {
+    "codice_istat": "079071",
+    "comune": "Marcedusa",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 182,
+    "popolazione_femminile": 172,
+    "popolazione_totale": 354
+  },
+  {
+    "codice_istat": "079072",
+    "comune": "Marcellinara",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1043,
+    "popolazione_femminile": 1105,
+    "popolazione_totale": 2148
+  },
+  {
+    "codice_istat": "079073",
+    "comune": "Martirano",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 395,
+    "popolazione_femminile": 389,
+    "popolazione_totale": 784
+  },
+  {
+    "codice_istat": "079074",
+    "comune": "Martirano Lombardo",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 465,
+    "popolazione_totale": 923
+  },
+  {
+    "codice_istat": "079077",
+    "comune": "Miglierina",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 310,
+    "popolazione_femminile": 361,
+    "popolazione_totale": 671
+  },
+  {
+    "codice_istat": "079080",
+    "comune": "Montauro",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 932,
+    "popolazione_femminile": 998,
+    "popolazione_totale": 1930
+  },
+  {
+    "codice_istat": "079081",
+    "comune": "Montepaone",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2927,
+    "popolazione_femminile": 2963,
+    "popolazione_totale": 5890
+  },
+  {
+    "codice_istat": "079083",
+    "comune": "Motta Santa Lucia",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 400,
+    "popolazione_totale": 818
+  },
+  {
+    "codice_istat": "079087",
+    "comune": "Nocera Terinese",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2436,
+    "popolazione_femminile": 2337,
+    "popolazione_totale": 4773
+  },
+  {
+    "codice_istat": "079088",
+    "comune": "Olivadi",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 236,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 481
+  },
+  {
+    "codice_istat": "079089",
+    "comune": "Palermiti",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 513,
+    "popolazione_femminile": 523,
+    "popolazione_totale": 1036
+  },
+  {
+    "codice_istat": "079092",
+    "comune": "Pentone",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 872,
+    "popolazione_femminile": 919,
+    "popolazione_totale": 1791
+  },
+  {
+    "codice_istat": "079094",
+    "comune": "Petrizzi",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 498,
+    "popolazione_femminile": 490,
+    "popolazione_totale": 988
+  },
+  {
+    "codice_istat": "079095",
+    "comune": "Petronà",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1135,
+    "popolazione_femminile": 1178,
+    "popolazione_totale": 2313
+  },
+  {
+    "codice_istat": "079096",
+    "comune": "Pianopoli",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1296,
+    "popolazione_femminile": 1276,
+    "popolazione_totale": 2572
+  },
+  {
+    "codice_istat": "079099",
+    "comune": "Platania",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1017,
+    "popolazione_femminile": 948,
+    "popolazione_totale": 1965
+  },
+  {
+    "codice_istat": "079108",
+    "comune": "San Floro",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 345,
+    "popolazione_femminile": 346,
+    "popolazione_totale": 691
+  },
+  {
+    "codice_istat": "079110",
+    "comune": "San Mango d'Aquino",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 666,
+    "popolazione_femminile": 718,
+    "popolazione_totale": 1384
+  },
+  {
+    "codice_istat": "079114",
+    "comune": "San Pietro a Maida",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1893,
+    "popolazione_femminile": 1917,
+    "popolazione_totale": 3810
+  },
+  {
+    "codice_istat": "079115",
+    "comune": "San Pietro Apostolo",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 784,
+    "popolazione_femminile": 749,
+    "popolazione_totale": 1533
+  },
+  {
+    "codice_istat": "079116",
+    "comune": "San Sostene",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 717,
+    "popolazione_femminile": 690,
+    "popolazione_totale": 1407
+  },
+  {
+    "codice_istat": "079122",
+    "comune": "San Vito sullo Ionio",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 741,
+    "popolazione_femminile": 795,
+    "popolazione_totale": 1536
+  },
+  {
+    "codice_istat": "079118",
+    "comune": "Sant'Andrea Apostolo dello Ionio",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 863,
+    "popolazione_femminile": 828,
+    "popolazione_totale": 1691
+  },
+  {
+    "codice_istat": "079117",
+    "comune": "Santa Caterina dello Ionio",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 953,
+    "popolazione_femminile": 965,
+    "popolazione_totale": 1918
+  },
+  {
+    "codice_istat": "079123",
+    "comune": "Satriano",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1649,
+    "popolazione_femminile": 1722,
+    "popolazione_totale": 3371
+  },
+  {
+    "codice_istat": "079126",
+    "comune": "Sellia",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 216,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 452
+  },
+  {
+    "codice_istat": "079127",
+    "comune": "Sellia Marina",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 3985,
+    "popolazione_femminile": 3813,
+    "popolazione_totale": 7798
+  },
+  {
+    "codice_istat": "079129",
+    "comune": "Serrastretta",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1429,
+    "popolazione_femminile": 1449,
+    "popolazione_totale": 2878
+  },
+  {
+    "codice_istat": "079130",
+    "comune": "Sersale",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1996,
+    "popolazione_femminile": 2091,
+    "popolazione_totale": 4087
+  },
+  {
+    "codice_istat": "079131",
+    "comune": "Settingiano",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1686,
+    "popolazione_femminile": 1606,
+    "popolazione_totale": 3292
+  },
+  {
+    "codice_istat": "079133",
+    "comune": "Simeri Crichi",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 2309,
+    "popolazione_femminile": 2380,
+    "popolazione_totale": 4689
+  },
+  {
+    "codice_istat": "079134",
+    "comune": "Sorbo San Basile",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 352,
+    "popolazione_femminile": 356,
+    "popolazione_totale": 708
+  },
+  {
+    "codice_istat": "079137",
+    "comune": "Soverato",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 3929,
+    "popolazione_femminile": 4480,
+    "popolazione_totale": 8409
+  },
+  {
+    "codice_istat": "079138",
+    "comune": "Soveria Mannelli",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1314,
+    "popolazione_femminile": 1419,
+    "popolazione_totale": 2733
+  },
+  {
+    "codice_istat": "079139",
+    "comune": "Soveria Simeri",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 686,
+    "popolazione_femminile": 727,
+    "popolazione_totale": 1413
+  },
+  {
+    "codice_istat": "079142",
+    "comune": "Squillace",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1803,
+    "popolazione_femminile": 1797,
+    "popolazione_totale": 3600
+  },
+  {
+    "codice_istat": "079143",
+    "comune": "Stalettì",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1228,
+    "popolazione_femminile": 1166,
+    "popolazione_totale": 2394
+  },
+  {
+    "codice_istat": "079146",
+    "comune": "Taverna",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1246,
+    "popolazione_femminile": 1219,
+    "popolazione_totale": 2465
+  },
+  {
+    "codice_istat": "079147",
+    "comune": "Tiriolo",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 1724,
+    "popolazione_femminile": 1737,
+    "popolazione_totale": 3461
+  },
+  {
+    "codice_istat": "079148",
+    "comune": "Torre di Ruggiero",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 437,
+    "popolazione_femminile": 496,
+    "popolazione_totale": 933
+  },
+  {
+    "codice_istat": "079151",
+    "comune": "Vallefiorita",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 670,
+    "popolazione_femminile": 760,
+    "popolazione_totale": 1430
+  },
+  {
+    "codice_istat": "079157",
+    "comune": "Zagarise",
+    "provincia": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "popolazione_maschile": 641,
+    "popolazione_femminile": 672,
+    "popolazione_totale": 1313
+  }
+]

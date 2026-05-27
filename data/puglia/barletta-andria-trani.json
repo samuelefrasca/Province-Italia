@@ -1,0 +1,105 @@
+[
+  {
+    "codice_istat": "110001",
+    "comune": "Andria",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 47615,
+    "popolazione_femminile": 48905,
+    "popolazione_totale": 96520,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "110002",
+    "comune": "Barletta",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 45661,
+    "popolazione_femminile": 46406,
+    "popolazione_totale": 92067,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "110003",
+    "comune": "Bisceglie",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 26342,
+    "popolazione_femminile": 26900,
+    "popolazione_totale": 53242
+  },
+  {
+    "codice_istat": "110004",
+    "comune": "Canosa di Puglia",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 13579,
+    "popolazione_femminile": 13696,
+    "popolazione_totale": 27275
+  },
+  {
+    "codice_istat": "110005",
+    "comune": "Margherita di Savoia",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 5364,
+    "popolazione_femminile": 5661,
+    "popolazione_totale": 11025
+  },
+  {
+    "codice_istat": "110006",
+    "comune": "Minervino Murge",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 3843,
+    "popolazione_femminile": 3968,
+    "popolazione_totale": 7811
+  },
+  {
+    "codice_istat": "110007",
+    "comune": "San Ferdinando di Puglia",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 6977,
+    "popolazione_femminile": 6878,
+    "popolazione_totale": 13855
+  },
+  {
+    "codice_istat": "110008",
+    "comune": "Spinazzola",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 2853,
+    "popolazione_femminile": 2941,
+    "popolazione_totale": 5794
+  },
+  {
+    "codice_istat": "110009",
+    "comune": "Trani",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 27037,
+    "popolazione_femminile": 27694,
+    "popolazione_totale": 54731,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "110010",
+    "comune": "Trinitapoli",
+    "provincia": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "popolazione_maschile": 6662,
+    "popolazione_femminile": 6951,
+    "popolazione_totale": 13613
+  }
+]

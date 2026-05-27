@@ -1,0 +1,244 @@
+[
+  {
+    "codice_istat": "119001",
+    "comune": "Buggerru",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 519,
+    "popolazione_femminile": 488,
+    "popolazione_totale": 1007
+  },
+  {
+    "codice_istat": "119002",
+    "comune": "Calasetta",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1393,
+    "popolazione_femminile": 1383,
+    "popolazione_totale": 2776
+  },
+  {
+    "codice_istat": "119003",
+    "comune": "Carbonia",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 12176,
+    "popolazione_femminile": 13177,
+    "popolazione_totale": 25353,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "119004",
+    "comune": "Carloforte",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2881,
+    "popolazione_femminile": 2970,
+    "popolazione_totale": 5851
+  },
+  {
+    "codice_istat": "119005",
+    "comune": "Domusnovas",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2815,
+    "popolazione_femminile": 2879,
+    "popolazione_totale": 5694
+  },
+  {
+    "codice_istat": "119006",
+    "comune": "Fluminimaggiore",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1265,
+    "popolazione_femminile": 1310,
+    "popolazione_totale": 2575
+  },
+  {
+    "codice_istat": "119007",
+    "comune": "Giba",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 912,
+    "popolazione_femminile": 949,
+    "popolazione_totale": 1861
+  },
+  {
+    "codice_istat": "119008",
+    "comune": "Gonnesa",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2216,
+    "popolazione_femminile": 2240,
+    "popolazione_totale": 4456
+  },
+  {
+    "codice_istat": "119009",
+    "comune": "Iglesias",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 11756,
+    "popolazione_femminile": 12653,
+    "popolazione_totale": 24409,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "119010",
+    "comune": "Masainas",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 572,
+    "popolazione_femminile": 631,
+    "popolazione_totale": 1203
+  },
+  {
+    "codice_istat": "119011",
+    "comune": "Musei",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 771,
+    "popolazione_femminile": 741,
+    "popolazione_totale": 1512
+  },
+  {
+    "codice_istat": "119012",
+    "comune": "Narcao",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1510,
+    "popolazione_femminile": 1457,
+    "popolazione_totale": 2967
+  },
+  {
+    "codice_istat": "119013",
+    "comune": "Nuxis",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 673,
+    "popolazione_femminile": 709,
+    "popolazione_totale": 1382
+  },
+  {
+    "codice_istat": "119014",
+    "comune": "Perdaxius",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 637,
+    "popolazione_totale": 1276
+  },
+  {
+    "codice_istat": "119015",
+    "comune": "Piscinas",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 370,
+    "popolazione_femminile": 388,
+    "popolazione_totale": 758
+  },
+  {
+    "codice_istat": "119016",
+    "comune": "Portoscuso",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2317,
+    "popolazione_femminile": 2372,
+    "popolazione_totale": 4689
+  },
+  {
+    "codice_istat": "119017",
+    "comune": "San Giovanni Suergiu",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2763,
+    "popolazione_femminile": 2760,
+    "popolazione_totale": 5523
+  },
+  {
+    "codice_istat": "119019",
+    "comune": "Sant'Anna Arresi",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1328,
+    "popolazione_femminile": 1298,
+    "popolazione_totale": 2626
+  },
+  {
+    "codice_istat": "119020",
+    "comune": "Sant'Antioco",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 5097,
+    "popolazione_femminile": 5307,
+    "popolazione_totale": 10404
+  },
+  {
+    "codice_istat": "119018",
+    "comune": "Santadi",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1490,
+    "popolazione_femminile": 1539,
+    "popolazione_totale": 3029
+  },
+  {
+    "codice_istat": "119024",
+    "comune": "Teulada",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1631,
+    "popolazione_femminile": 1525,
+    "popolazione_totale": 3156
+  },
+  {
+    "codice_istat": "119021",
+    "comune": "Tratalias",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 507,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 988
+  },
+  {
+    "codice_istat": "119022",
+    "comune": "Villamassargia",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1651,
+    "popolazione_femminile": 1627,
+    "popolazione_totale": 3278
+  },
+  {
+    "codice_istat": "119023",
+    "comune": "Villaperuccio",
+    "provincia": "Sulcis Iglesiente",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 487,
+    "popolazione_femminile": 520,
+    "popolazione_totale": 1007
+  }
+]

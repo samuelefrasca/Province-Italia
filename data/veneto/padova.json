@@ -1,0 +1,1013 @@
+[
+  {
+    "codice_istat": "028001",
+    "comune": "Abano Terme",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 9805,
+    "popolazione_femminile": 10674,
+    "popolazione_totale": 20479
+  },
+  {
+    "codice_istat": "028002",
+    "comune": "Agna",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1554,
+    "popolazione_femminile": 1621,
+    "popolazione_totale": 3175
+  },
+  {
+    "codice_istat": "028003",
+    "comune": "Albignasego",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 13369,
+    "popolazione_femminile": 14232,
+    "popolazione_totale": 27601
+  },
+  {
+    "codice_istat": "028004",
+    "comune": "Anguillara Veneta",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2039,
+    "popolazione_femminile": 2037,
+    "popolazione_totale": 4076
+  },
+  {
+    "codice_istat": "028005",
+    "comune": "Arquà Petrarca",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 886,
+    "popolazione_femminile": 895,
+    "popolazione_totale": 1781
+  },
+  {
+    "codice_istat": "028006",
+    "comune": "Arre",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1046,
+    "popolazione_femminile": 1043,
+    "popolazione_totale": 2089
+  },
+  {
+    "codice_istat": "028007",
+    "comune": "Arzergrande",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2412,
+    "popolazione_femminile": 2429,
+    "popolazione_totale": 4841
+  },
+  {
+    "codice_istat": "028008",
+    "comune": "Bagnoli di Sopra",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1704,
+    "popolazione_femminile": 1657,
+    "popolazione_totale": 3361
+  },
+  {
+    "codice_istat": "028009",
+    "comune": "Baone",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1523,
+    "popolazione_femminile": 1501,
+    "popolazione_totale": 3024
+  },
+  {
+    "codice_istat": "028010",
+    "comune": "Barbona",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 292,
+    "popolazione_femminile": 275,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "028011",
+    "comune": "Battaglia Terme",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1930,
+    "popolazione_femminile": 1939,
+    "popolazione_totale": 3869
+  },
+  {
+    "codice_istat": "028012",
+    "comune": "Boara Pisani",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1201,
+    "popolazione_femminile": 1161,
+    "popolazione_totale": 2362
+  },
+  {
+    "codice_istat": "028107",
+    "comune": "Borgo Veneto",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3565,
+    "popolazione_femminile": 3480,
+    "popolazione_totale": 7045
+  },
+  {
+    "codice_istat": "028013",
+    "comune": "Borgoricco",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4563,
+    "popolazione_femminile": 4521,
+    "popolazione_totale": 9084
+  },
+  {
+    "codice_istat": "028014",
+    "comune": "Bovolenta",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1712,
+    "popolazione_femminile": 1682,
+    "popolazione_totale": 3394
+  },
+  {
+    "codice_istat": "028015",
+    "comune": "Brugine",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3573,
+    "popolazione_femminile": 3605,
+    "popolazione_totale": 7178
+  },
+  {
+    "codice_istat": "028016",
+    "comune": "Cadoneghe",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 7661,
+    "popolazione_femminile": 8102,
+    "popolazione_totale": 15763
+  },
+  {
+    "codice_istat": "028020",
+    "comune": "Campo San Martino",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2787,
+    "popolazione_femminile": 2760,
+    "popolazione_totale": 5547
+  },
+  {
+    "codice_istat": "028017",
+    "comune": "Campodarsego",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 7492,
+    "popolazione_femminile": 7636,
+    "popolazione_totale": 15128
+  },
+  {
+    "codice_istat": "028018",
+    "comune": "Campodoro",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1424,
+    "popolazione_femminile": 1303,
+    "popolazione_totale": 2727
+  },
+  {
+    "codice_istat": "028019",
+    "comune": "Camposampiero",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5934,
+    "popolazione_femminile": 5944,
+    "popolazione_totale": 11878
+  },
+  {
+    "codice_istat": "028021",
+    "comune": "Candiana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1115,
+    "popolazione_femminile": 1027,
+    "popolazione_totale": 2142
+  },
+  {
+    "codice_istat": "028023",
+    "comune": "Carmignano di Brenta",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3808,
+    "popolazione_femminile": 3738,
+    "popolazione_totale": 7546
+  },
+  {
+    "codice_istat": "028026",
+    "comune": "Cartura",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2285,
+    "popolazione_femminile": 2279,
+    "popolazione_totale": 4564
+  },
+  {
+    "codice_istat": "028027",
+    "comune": "Casale di Scodosia",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2329,
+    "popolazione_femminile": 2308,
+    "popolazione_totale": 4637
+  },
+  {
+    "codice_istat": "028028",
+    "comune": "Casalserugo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2625,
+    "popolazione_femminile": 2668,
+    "popolazione_totale": 5293
+  },
+  {
+    "codice_istat": "028029",
+    "comune": "Castelbaldo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 728,
+    "popolazione_totale": 1443
+  },
+  {
+    "codice_istat": "028030",
+    "comune": "Cervarese Santa Croce",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2782,
+    "popolazione_femminile": 2775,
+    "popolazione_totale": 5557
+  },
+  {
+    "codice_istat": "028031",
+    "comune": "Cinto Euganeo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 964,
+    "popolazione_femminile": 920,
+    "popolazione_totale": 1884
+  },
+  {
+    "codice_istat": "028032",
+    "comune": "Cittadella",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 9831,
+    "popolazione_femminile": 10216,
+    "popolazione_totale": 20047
+  },
+  {
+    "codice_istat": "028033",
+    "comune": "Codevigo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3206,
+    "popolazione_femminile": 3074,
+    "popolazione_totale": 6280
+  },
+  {
+    "codice_istat": "028034",
+    "comune": "Conselve",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4893,
+    "popolazione_femminile": 5100,
+    "popolazione_totale": 9993
+  },
+  {
+    "codice_istat": "028035",
+    "comune": "Correzzola",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2694,
+    "popolazione_femminile": 2579,
+    "popolazione_totale": 5273
+  },
+  {
+    "codice_istat": "028036",
+    "comune": "Curtarolo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3573,
+    "popolazione_femminile": 3577,
+    "popolazione_totale": 7150
+  },
+  {
+    "codice_istat": "028106",
+    "comune": "Due Carrare",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4498,
+    "popolazione_femminile": 4476,
+    "popolazione_totale": 8974
+  },
+  {
+    "codice_istat": "028037",
+    "comune": "Este",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 7667,
+    "popolazione_femminile": 8189,
+    "popolazione_totale": 15856
+  },
+  {
+    "codice_istat": "028038",
+    "comune": "Fontaniva",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4068,
+    "popolazione_femminile": 4026,
+    "popolazione_totale": 8094
+  },
+  {
+    "codice_istat": "028039",
+    "comune": "Galliera Veneta",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3604,
+    "popolazione_femminile": 3561,
+    "popolazione_totale": 7165
+  },
+  {
+    "codice_istat": "028040",
+    "comune": "Galzignano Terme",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2115,
+    "popolazione_femminile": 2156,
+    "popolazione_totale": 4271
+  },
+  {
+    "codice_istat": "028041",
+    "comune": "Gazzo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2155,
+    "popolazione_femminile": 2140,
+    "popolazione_totale": 4295
+  },
+  {
+    "codice_istat": "028042",
+    "comune": "Grantorto",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2237,
+    "popolazione_femminile": 2198,
+    "popolazione_totale": 4435
+  },
+  {
+    "codice_istat": "028043",
+    "comune": "Granze",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 913,
+    "popolazione_femminile": 960,
+    "popolazione_totale": 1873
+  },
+  {
+    "codice_istat": "028044",
+    "comune": "Legnaro",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4780,
+    "popolazione_femminile": 4784,
+    "popolazione_totale": 9564
+  },
+  {
+    "codice_istat": "028045",
+    "comune": "Limena",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4084,
+    "popolazione_femminile": 4153,
+    "popolazione_totale": 8237
+  },
+  {
+    "codice_istat": "028046",
+    "comune": "Loreggia",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3931,
+    "popolazione_femminile": 3794,
+    "popolazione_totale": 7725
+  },
+  {
+    "codice_istat": "028047",
+    "comune": "Lozzo Atestino",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1534,
+    "popolazione_femminile": 1542,
+    "popolazione_totale": 3076
+  },
+  {
+    "codice_istat": "028048",
+    "comune": "Maserà di Padova",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4621,
+    "popolazione_femminile": 4640,
+    "popolazione_totale": 9261
+  },
+  {
+    "codice_istat": "028049",
+    "comune": "Masi",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 886,
+    "popolazione_femminile": 937,
+    "popolazione_totale": 1823
+  },
+  {
+    "codice_istat": "028050",
+    "comune": "Massanzago",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3111,
+    "popolazione_femminile": 3001,
+    "popolazione_totale": 6112
+  },
+  {
+    "codice_istat": "028052",
+    "comune": "Megliadino San Vitale",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 913,
+    "popolazione_femminile": 908,
+    "popolazione_totale": 1821
+  },
+  {
+    "codice_istat": "028053",
+    "comune": "Merlara",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1246,
+    "popolazione_femminile": 1275,
+    "popolazione_totale": 2521
+  },
+  {
+    "codice_istat": "028054",
+    "comune": "Mestrino",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5904,
+    "popolazione_femminile": 6049,
+    "popolazione_totale": 11953
+  },
+  {
+    "codice_istat": "028055",
+    "comune": "Monselice",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 8332,
+    "popolazione_femminile": 8710,
+    "popolazione_totale": 17042
+  },
+  {
+    "codice_istat": "028056",
+    "comune": "Montagnana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4492,
+    "popolazione_femminile": 4701,
+    "popolazione_totale": 9193
+  },
+  {
+    "codice_istat": "028057",
+    "comune": "Montegrotto Terme",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5586,
+    "popolazione_femminile": 6042,
+    "popolazione_totale": 11628
+  },
+  {
+    "codice_istat": "028058",
+    "comune": "Noventa Padovana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5548,
+    "popolazione_femminile": 5720,
+    "popolazione_totale": 11268
+  },
+  {
+    "codice_istat": "028059",
+    "comune": "Ospedaletto Euganeo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2771,
+    "popolazione_femminile": 2807,
+    "popolazione_totale": 5578
+  },
+  {
+    "codice_istat": "028060",
+    "comune": "Padova",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 100717,
+    "popolazione_femminile": 107485,
+    "popolazione_totale": 208202,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "028061",
+    "comune": "Pernumia",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1897,
+    "popolazione_femminile": 1857,
+    "popolazione_totale": 3754
+  },
+  {
+    "codice_istat": "028062",
+    "comune": "Piacenza d'Adige",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 651,
+    "popolazione_femminile": 634,
+    "popolazione_totale": 1285
+  },
+  {
+    "codice_istat": "028063",
+    "comune": "Piazzola sul Brenta",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5522,
+    "popolazione_femminile": 5552,
+    "popolazione_totale": 11074
+  },
+  {
+    "codice_istat": "028064",
+    "comune": "Piombino Dese",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4838,
+    "popolazione_femminile": 4712,
+    "popolazione_totale": 9550
+  },
+  {
+    "codice_istat": "028065",
+    "comune": "Piove di Sacco",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 9904,
+    "popolazione_femminile": 10387,
+    "popolazione_totale": 20291
+  },
+  {
+    "codice_istat": "028066",
+    "comune": "Polverara",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1672,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3428
+  },
+  {
+    "codice_istat": "028067",
+    "comune": "Ponso",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1231,
+    "popolazione_femminile": 1184,
+    "popolazione_totale": 2415
+  },
+  {
+    "codice_istat": "028069",
+    "comune": "Ponte San Nicolò",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 6382,
+    "popolazione_femminile": 6768,
+    "popolazione_totale": 13150
+  },
+  {
+    "codice_istat": "028068",
+    "comune": "Pontelongo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1867,
+    "popolazione_femminile": 1831,
+    "popolazione_totale": 3698
+  },
+  {
+    "codice_istat": "028070",
+    "comune": "Pozzonovo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1706,
+    "popolazione_femminile": 1749,
+    "popolazione_totale": 3455
+  },
+  {
+    "codice_istat": "028071",
+    "comune": "Rovolon",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2448,
+    "popolazione_femminile": 2415,
+    "popolazione_totale": 4863
+  },
+  {
+    "codice_istat": "028072",
+    "comune": "Rubano",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 8352,
+    "popolazione_femminile": 8891,
+    "popolazione_totale": 17243
+  },
+  {
+    "codice_istat": "028073",
+    "comune": "Saccolongo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2528,
+    "popolazione_femminile": 2501,
+    "popolazione_totale": 5029
+  },
+  {
+    "codice_istat": "028075",
+    "comune": "San Giorgio delle Pertiche",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5074,
+    "popolazione_femminile": 5018,
+    "popolazione_totale": 10092
+  },
+  {
+    "codice_istat": "028076",
+    "comune": "San Giorgio in Bosco",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3192,
+    "popolazione_femminile": 3115,
+    "popolazione_totale": 6307
+  },
+  {
+    "codice_istat": "028077",
+    "comune": "San Martino di Lupari",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 6630,
+    "popolazione_femminile": 6689,
+    "popolazione_totale": 13319
+  },
+  {
+    "codice_istat": "028078",
+    "comune": "San Pietro in Gu",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2031,
+    "popolazione_femminile": 2076,
+    "popolazione_totale": 4107
+  },
+  {
+    "codice_istat": "028079",
+    "comune": "San Pietro Viminario",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1508,
+    "popolazione_femminile": 1474,
+    "popolazione_totale": 2982
+  },
+  {
+    "codice_istat": "028082",
+    "comune": "Sant'Angelo di Piove di Sacco",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3632,
+    "popolazione_femminile": 3715,
+    "popolazione_totale": 7347
+  },
+  {
+    "codice_istat": "028083",
+    "comune": "Sant'Elena",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1225,
+    "popolazione_femminile": 1289,
+    "popolazione_totale": 2514
+  },
+  {
+    "codice_istat": "028084",
+    "comune": "Sant'Urbano",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 969,
+    "popolazione_femminile": 945,
+    "popolazione_totale": 1914
+  },
+  {
+    "codice_istat": "028108",
+    "comune": "Santa Caterina d'Este",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1175,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2319
+  },
+  {
+    "codice_istat": "028080",
+    "comune": "Santa Giustina in Colle",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3621,
+    "popolazione_femminile": 3518,
+    "popolazione_totale": 7139
+  },
+  {
+    "codice_istat": "028085",
+    "comune": "Saonara",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5389,
+    "popolazione_femminile": 5488,
+    "popolazione_totale": 10877
+  },
+  {
+    "codice_istat": "028086",
+    "comune": "Selvazzano Dentro",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 11074,
+    "popolazione_femminile": 11857,
+    "popolazione_totale": 22931
+  },
+  {
+    "codice_istat": "028087",
+    "comune": "Solesino",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3355,
+    "popolazione_femminile": 3357,
+    "popolazione_totale": 6712
+  },
+  {
+    "codice_istat": "028088",
+    "comune": "Stanghella",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2065,
+    "popolazione_femminile": 2100,
+    "popolazione_totale": 4165
+  },
+  {
+    "codice_istat": "028089",
+    "comune": "Teolo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4392,
+    "popolazione_femminile": 4538,
+    "popolazione_totale": 8930
+  },
+  {
+    "codice_istat": "028090",
+    "comune": "Terrassa Padovana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1391,
+    "popolazione_femminile": 1325,
+    "popolazione_totale": 2716
+  },
+  {
+    "codice_istat": "028091",
+    "comune": "Tombolo",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 4059,
+    "popolazione_femminile": 4125,
+    "popolazione_totale": 8184
+  },
+  {
+    "codice_istat": "028092",
+    "comune": "Torreglia",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3008,
+    "popolazione_femminile": 3021,
+    "popolazione_totale": 6029
+  },
+  {
+    "codice_istat": "028093",
+    "comune": "Trebaseleghe",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 6524,
+    "popolazione_femminile": 6444,
+    "popolazione_totale": 12968
+  },
+  {
+    "codice_istat": "028094",
+    "comune": "Tribano",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2152,
+    "popolazione_femminile": 2067,
+    "popolazione_totale": 4219
+  },
+  {
+    "codice_istat": "028095",
+    "comune": "Urbana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1030,
+    "popolazione_femminile": 986,
+    "popolazione_totale": 2016
+  },
+  {
+    "codice_istat": "028096",
+    "comune": "Veggiano",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2446,
+    "popolazione_femminile": 2366,
+    "popolazione_totale": 4812
+  },
+  {
+    "codice_istat": "028097",
+    "comune": "Vescovana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 835,
+    "popolazione_femminile": 811,
+    "popolazione_totale": 1646
+  },
+  {
+    "codice_istat": "028099",
+    "comune": "Vigodarzere",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 6558,
+    "popolazione_femminile": 6723,
+    "popolazione_totale": 13281
+  },
+  {
+    "codice_istat": "028100",
+    "comune": "Vigonza",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 11552,
+    "popolazione_femminile": 11913,
+    "popolazione_totale": 23465
+  },
+  {
+    "codice_istat": "028101",
+    "comune": "Villa del Conte",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 2858,
+    "popolazione_femminile": 2759,
+    "popolazione_totale": 5617
+  },
+  {
+    "codice_istat": "028102",
+    "comune": "Villa Estense",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1034,
+    "popolazione_femminile": 987,
+    "popolazione_totale": 2021
+  },
+  {
+    "codice_istat": "028103",
+    "comune": "Villafranca Padovana",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 5195,
+    "popolazione_femminile": 5385,
+    "popolazione_totale": 10580
+  },
+  {
+    "codice_istat": "028104",
+    "comune": "Villanova di Camposampiero",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 3071,
+    "popolazione_femminile": 3069,
+    "popolazione_totale": 6140
+  },
+  {
+    "codice_istat": "028105",
+    "comune": "Vo'",
+    "provincia": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "popolazione_maschile": 1606,
+    "popolazione_femminile": 1605,
+    "popolazione_totale": 3211
+  }
+]

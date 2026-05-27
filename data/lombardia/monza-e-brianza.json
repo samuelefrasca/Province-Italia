@@ -1,0 +1,553 @@
+[
+  {
+    "codice_istat": "108001",
+    "comune": "Agrate Brianza",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7877,
+    "popolazione_femminile": 8014,
+    "popolazione_totale": 15891
+  },
+  {
+    "codice_istat": "108002",
+    "comune": "Aicurzio",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1014,
+    "popolazione_femminile": 1058,
+    "popolazione_totale": 2072
+  },
+  {
+    "codice_istat": "108003",
+    "comune": "Albiate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3271,
+    "popolazione_femminile": 3449,
+    "popolazione_totale": 6720
+  },
+  {
+    "codice_istat": "108004",
+    "comune": "Arcore",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8739,
+    "popolazione_femminile": 9199,
+    "popolazione_totale": 17938
+  },
+  {
+    "codice_istat": "108005",
+    "comune": "Barlassina",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3452,
+    "popolazione_femminile": 3533,
+    "popolazione_totale": 6985
+  },
+  {
+    "codice_istat": "108006",
+    "comune": "Bellusco",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3699,
+    "popolazione_femminile": 3788,
+    "popolazione_totale": 7487
+  },
+  {
+    "codice_istat": "108007",
+    "comune": "Bernareggio",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5878,
+    "popolazione_femminile": 5828,
+    "popolazione_totale": 11706
+  },
+  {
+    "codice_istat": "108008",
+    "comune": "Besana in Brianza",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7663,
+    "popolazione_femminile": 7840,
+    "popolazione_totale": 15503
+  },
+  {
+    "codice_istat": "108009",
+    "comune": "Biassono",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6026,
+    "popolazione_femminile": 6404,
+    "popolazione_totale": 12430
+  },
+  {
+    "codice_istat": "108010",
+    "comune": "Bovisio-Masciago",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8258,
+    "popolazione_femminile": 8695,
+    "popolazione_totale": 16953
+  },
+  {
+    "codice_istat": "108011",
+    "comune": "Briosco",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3021,
+    "popolazione_femminile": 3110,
+    "popolazione_totale": 6131
+  },
+  {
+    "codice_istat": "108012",
+    "comune": "Brugherio",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 17235,
+    "popolazione_femminile": 18236,
+    "popolazione_totale": 35471
+  },
+  {
+    "codice_istat": "108013",
+    "comune": "Burago di Molgora",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2138,
+    "popolazione_femminile": 2232,
+    "popolazione_totale": 4370
+  },
+  {
+    "codice_istat": "108051",
+    "comune": "Busnago",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3429,
+    "popolazione_femminile": 3453,
+    "popolazione_totale": 6882
+  },
+  {
+    "codice_istat": "108014",
+    "comune": "Camparada",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1206,
+    "popolazione_femminile": 1055,
+    "popolazione_totale": 2261
+  },
+  {
+    "codice_istat": "108052",
+    "comune": "Caponago",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2523,
+    "popolazione_femminile": 2527,
+    "popolazione_totale": 5050
+  },
+  {
+    "codice_istat": "108015",
+    "comune": "Carate Brianza",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8836,
+    "popolazione_femminile": 9218,
+    "popolazione_totale": 18054
+  },
+  {
+    "codice_istat": "108016",
+    "comune": "Carnate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4031,
+    "popolazione_femminile": 3961,
+    "popolazione_totale": 7992
+  },
+  {
+    "codice_istat": "108017",
+    "comune": "Cavenago di Brianza",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3796,
+    "popolazione_femminile": 3794,
+    "popolazione_totale": 7590
+  },
+  {
+    "codice_istat": "108018",
+    "comune": "Ceriano Laghetto",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3285,
+    "popolazione_femminile": 3390,
+    "popolazione_totale": 6675
+  },
+  {
+    "codice_istat": "108019",
+    "comune": "Cesano Maderno",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 20104,
+    "popolazione_femminile": 20073,
+    "popolazione_totale": 40177
+  },
+  {
+    "codice_istat": "108020",
+    "comune": "Cogliate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4158,
+    "popolazione_femminile": 4311,
+    "popolazione_totale": 8469
+  },
+  {
+    "codice_istat": "108021",
+    "comune": "Concorezzo",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7924,
+    "popolazione_femminile": 8229,
+    "popolazione_totale": 16153
+  },
+  {
+    "codice_istat": "108053",
+    "comune": "Cornate d'Adda",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5607,
+    "popolazione_femminile": 5527,
+    "popolazione_totale": 11134
+  },
+  {
+    "codice_istat": "108022",
+    "comune": "Correzzana",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1644,
+    "popolazione_femminile": 1645,
+    "popolazione_totale": 3289
+  },
+  {
+    "codice_istat": "108023",
+    "comune": "Desio",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 20683,
+    "popolazione_femminile": 21189,
+    "popolazione_totale": 41872
+  },
+  {
+    "codice_istat": "108024",
+    "comune": "Giussano",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 13213,
+    "popolazione_femminile": 13296,
+    "popolazione_totale": 26509
+  },
+  {
+    "codice_istat": "108025",
+    "comune": "Lazzate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3796,
+    "popolazione_femminile": 3926,
+    "popolazione_totale": 7722
+  },
+  {
+    "codice_istat": "108054",
+    "comune": "Lentate sul Seveso",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8071,
+    "popolazione_femminile": 7978,
+    "popolazione_totale": 16049
+  },
+  {
+    "codice_istat": "108026",
+    "comune": "Lesmo",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4116,
+    "popolazione_femminile": 4260,
+    "popolazione_totale": 8376
+  },
+  {
+    "codice_istat": "108027",
+    "comune": "Limbiate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 17946,
+    "popolazione_femminile": 17919,
+    "popolazione_totale": 35865
+  },
+  {
+    "codice_istat": "108028",
+    "comune": "Lissone",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 23047,
+    "popolazione_femminile": 23745,
+    "popolazione_totale": 46792
+  },
+  {
+    "codice_istat": "108029",
+    "comune": "Macherio",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3778,
+    "popolazione_femminile": 3804,
+    "popolazione_totale": 7582
+  },
+  {
+    "codice_istat": "108030",
+    "comune": "Meda",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11746,
+    "popolazione_femminile": 11989,
+    "popolazione_totale": 23735
+  },
+  {
+    "codice_istat": "108031",
+    "comune": "Mezzago",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2253,
+    "popolazione_femminile": 2226,
+    "popolazione_totale": 4479
+  },
+  {
+    "codice_istat": "108032",
+    "comune": "Misinto",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2886,
+    "popolazione_femminile": 2863,
+    "popolazione_totale": 5749
+  },
+  {
+    "codice_istat": "108033",
+    "comune": "Monza",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 59781,
+    "popolazione_femminile": 63891,
+    "popolazione_totale": 123672,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "108034",
+    "comune": "Muggiò",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11511,
+    "popolazione_femminile": 12074,
+    "popolazione_totale": 23585
+  },
+  {
+    "codice_istat": "108035",
+    "comune": "Nova Milanese",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11291,
+    "popolazione_femminile": 11777,
+    "popolazione_totale": 23068
+  },
+  {
+    "codice_istat": "108036",
+    "comune": "Ornago",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2700,
+    "popolazione_femminile": 2787,
+    "popolazione_totale": 5487
+  },
+  {
+    "codice_istat": "108037",
+    "comune": "Renate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2014,
+    "popolazione_femminile": 1969,
+    "popolazione_totale": 3983
+  },
+  {
+    "codice_istat": "108055",
+    "comune": "Roncello",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2382,
+    "popolazione_femminile": 2390,
+    "popolazione_totale": 4772
+  },
+  {
+    "codice_istat": "108038",
+    "comune": "Ronco Briantino",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1910,
+    "popolazione_femminile": 1867,
+    "popolazione_totale": 3777
+  },
+  {
+    "codice_istat": "108039",
+    "comune": "Seregno",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 21824,
+    "popolazione_femminile": 23416,
+    "popolazione_totale": 45240
+  },
+  {
+    "codice_istat": "108040",
+    "comune": "Seveso",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11802,
+    "popolazione_femminile": 12180,
+    "popolazione_totale": 23982
+  },
+  {
+    "codice_istat": "108041",
+    "comune": "Sovico",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4070,
+    "popolazione_femminile": 4243,
+    "popolazione_totale": 8313
+  },
+  {
+    "codice_istat": "108042",
+    "comune": "Sulbiate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2301,
+    "popolazione_femminile": 2231,
+    "popolazione_totale": 4532
+  },
+  {
+    "codice_istat": "108043",
+    "comune": "Triuggio",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4412,
+    "popolazione_femminile": 4364,
+    "popolazione_totale": 8776
+  },
+  {
+    "codice_istat": "108044",
+    "comune": "Usmate Velate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5338,
+    "popolazione_femminile": 5402,
+    "popolazione_totale": 10740
+  },
+  {
+    "codice_istat": "108045",
+    "comune": "Varedo",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6872,
+    "popolazione_femminile": 7167,
+    "popolazione_totale": 14039
+  },
+  {
+    "codice_istat": "108046",
+    "comune": "Vedano al Lambro",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3513,
+    "popolazione_femminile": 3850,
+    "popolazione_totale": 7363
+  },
+  {
+    "codice_istat": "108047",
+    "comune": "Veduggio con Colzano",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2095,
+    "popolazione_femminile": 2087,
+    "popolazione_totale": 4182
+  },
+  {
+    "codice_istat": "108048",
+    "comune": "Verano Brianza",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4525,
+    "popolazione_femminile": 4601,
+    "popolazione_totale": 9126
+  },
+  {
+    "codice_istat": "108049",
+    "comune": "Villasanta",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6910,
+    "popolazione_femminile": 7395,
+    "popolazione_totale": 14305
+  },
+  {
+    "codice_istat": "108050",
+    "comune": "Vimercate",
+    "provincia": "Monza e Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "popolazione_maschile": 12832,
+    "popolazione_femminile": 13509,
+    "popolazione_totale": 26341
+  }
+]

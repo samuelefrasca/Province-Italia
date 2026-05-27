@@ -1,0 +1,14 @@
+svg {
+    height: 400px;
+    margin: 50px 0px;
+}
+
+path {
+    fill: #821f1f;
+    stroke: #ffffff;
+}
+
+path:hover {
+    fill: #a83232;
+    /* Colore più chiaro al passaggio del mouse */
+}

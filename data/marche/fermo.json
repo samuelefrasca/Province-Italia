@@ -1,0 +1,403 @@
+[
+  {
+    "codice_istat": "109001",
+    "comune": "Altidona",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1833,
+    "popolazione_femminile": 1966,
+    "popolazione_totale": 3799
+  },
+  {
+    "codice_istat": "109002",
+    "comune": "Amandola",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1611,
+    "popolazione_femminile": 1595,
+    "popolazione_totale": 3206
+  },
+  {
+    "codice_istat": "109003",
+    "comune": "Belmonte Piceno",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 545
+  },
+  {
+    "codice_istat": "109004",
+    "comune": "Campofilone",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 971,
+    "popolazione_femminile": 959,
+    "popolazione_totale": 1930
+  },
+  {
+    "codice_istat": "109005",
+    "comune": "Falerone",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1602,
+    "popolazione_femminile": 1546,
+    "popolazione_totale": 3148
+  },
+  {
+    "codice_istat": "109006",
+    "comune": "Fermo",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 17505,
+    "popolazione_femminile": 18348,
+    "popolazione_totale": 35853,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "109007",
+    "comune": "Francavilla d'Ete",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 438,
+    "popolazione_totale": 914
+  },
+  {
+    "codice_istat": "109008",
+    "comune": "Grottazzolina",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1584,
+    "popolazione_femminile": 1655,
+    "popolazione_totale": 3239
+  },
+  {
+    "codice_istat": "109009",
+    "comune": "Lapedona",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 572,
+    "popolazione_femminile": 572,
+    "popolazione_totale": 1144
+  },
+  {
+    "codice_istat": "109010",
+    "comune": "Magliano di Tenna",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 687,
+    "popolazione_totale": 1405
+  },
+  {
+    "codice_istat": "109011",
+    "comune": "Massa Fermana",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 394,
+    "popolazione_femminile": 425,
+    "popolazione_totale": 819
+  },
+  {
+    "codice_istat": "109012",
+    "comune": "Monsampietro Morico",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 289,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 582
+  },
+  {
+    "codice_istat": "109013",
+    "comune": "Montappone",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 761,
+    "popolazione_femminile": 776,
+    "popolazione_totale": 1537
+  },
+  {
+    "codice_istat": "109016",
+    "comune": "Monte Giberto",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 369,
+    "popolazione_totale": 737
+  },
+  {
+    "codice_istat": "109021",
+    "comune": "Monte Rinaldo",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 155,
+    "popolazione_femminile": 147,
+    "popolazione_totale": 302
+  },
+  {
+    "codice_istat": "109023",
+    "comune": "Monte San Pietrangeli",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1047,
+    "popolazione_femminile": 1100,
+    "popolazione_totale": 2147
+  },
+  {
+    "codice_istat": "109024",
+    "comune": "Monte Urano",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 3867,
+    "popolazione_femminile": 3910,
+    "popolazione_totale": 7777
+  },
+  {
+    "codice_istat": "109025",
+    "comune": "Monte Vidon Combatte",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 205,
+    "popolazione_totale": 394
+  },
+  {
+    "codice_istat": "109026",
+    "comune": "Monte Vidon Corrado",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 326,
+    "popolazione_totale": 666
+  },
+  {
+    "codice_istat": "109014",
+    "comune": "Montefalcone Appennino",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 180,
+    "popolazione_femminile": 183,
+    "popolazione_totale": 363
+  },
+  {
+    "codice_istat": "109015",
+    "comune": "Montefortino",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1014
+  },
+  {
+    "codice_istat": "109017",
+    "comune": "Montegiorgio",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 3085,
+    "popolazione_femminile": 3151,
+    "popolazione_totale": 6236
+  },
+  {
+    "codice_istat": "109018",
+    "comune": "Montegranaro",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 6265,
+    "popolazione_femminile": 6217,
+    "popolazione_totale": 12482
+  },
+  {
+    "codice_istat": "109019",
+    "comune": "Monteleone di Fermo",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 182,
+    "popolazione_femminile": 169,
+    "popolazione_totale": 351
+  },
+  {
+    "codice_istat": "109020",
+    "comune": "Montelparo",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 355,
+    "popolazione_femminile": 329,
+    "popolazione_totale": 684
+  },
+  {
+    "codice_istat": "109022",
+    "comune": "Monterubbiano",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 989,
+    "popolazione_femminile": 975,
+    "popolazione_totale": 1964
+  },
+  {
+    "codice_istat": "109027",
+    "comune": "Montottone",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 413,
+    "popolazione_femminile": 477,
+    "popolazione_totale": 890
+  },
+  {
+    "codice_istat": "109028",
+    "comune": "Moresco",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 263,
+    "popolazione_totale": 510
+  },
+  {
+    "codice_istat": "109029",
+    "comune": "Ortezzano",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 730
+  },
+  {
+    "codice_istat": "109030",
+    "comune": "Pedaso",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1359,
+    "popolazione_femminile": 1460,
+    "popolazione_totale": 2819
+  },
+  {
+    "codice_istat": "109031",
+    "comune": "Petritoli",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1031,
+    "popolazione_femminile": 1055,
+    "popolazione_totale": 2086
+  },
+  {
+    "codice_istat": "109032",
+    "comune": "Ponzano di Fermo",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 806,
+    "popolazione_femminile": 783,
+    "popolazione_totale": 1589
+  },
+  {
+    "codice_istat": "109033",
+    "comune": "Porto San Giorgio",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 7298,
+    "popolazione_femminile": 8190,
+    "popolazione_totale": 15488
+  },
+  {
+    "codice_istat": "109034",
+    "comune": "Porto Sant'Elpidio",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 12621,
+    "popolazione_femminile": 13114,
+    "popolazione_totale": 25735
+  },
+  {
+    "codice_istat": "109035",
+    "comune": "Rapagnano",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 962,
+    "popolazione_femminile": 946,
+    "popolazione_totale": 1908
+  },
+  {
+    "codice_istat": "109037",
+    "comune": "Sant'Elpidio a Mare",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 8129,
+    "popolazione_femminile": 8196,
+    "popolazione_totale": 16325
+  },
+  {
+    "codice_istat": "109036",
+    "comune": "Santa Vittoria in Matenano",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 530,
+    "popolazione_femminile": 579,
+    "popolazione_totale": 1109
+  },
+  {
+    "codice_istat": "109038",
+    "comune": "Servigliano",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 1129,
+    "popolazione_femminile": 1076,
+    "popolazione_totale": 2205
+  },
+  {
+    "codice_istat": "109039",
+    "comune": "Smerillo",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 169,
+    "popolazione_femminile": 161,
+    "popolazione_totale": 330
+  },
+  {
+    "codice_istat": "109040",
+    "comune": "Torre San Patrizio",
+    "provincia": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "popolazione_maschile": 905,
+    "popolazione_femminile": 905,
+    "popolazione_totale": 1810
+  }
+]

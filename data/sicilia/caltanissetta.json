@@ -1,0 +1,223 @@
+[
+  {
+    "codice_istat": "085001",
+    "comune": "Acquaviva Platani",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 408,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 819
+  },
+  {
+    "codice_istat": "085002",
+    "comune": "Bompensiere",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 224,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 468
+  },
+  {
+    "codice_istat": "085003",
+    "comune": "Butera",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1999,
+    "popolazione_femminile": 2054,
+    "popolazione_totale": 4053
+  },
+  {
+    "codice_istat": "085004",
+    "comune": "Caltanissetta",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 28223,
+    "popolazione_femminile": 29699,
+    "popolazione_totale": 57922,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "085005",
+    "comune": "Campofranco",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1168,
+    "popolazione_femminile": 1344,
+    "popolazione_totale": 2512
+  },
+  {
+    "codice_istat": "085006",
+    "comune": "Delia",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1812,
+    "popolazione_femminile": 2039,
+    "popolazione_totale": 3851
+  },
+  {
+    "codice_istat": "085007",
+    "comune": "Gela",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 34154,
+    "popolazione_femminile": 35955,
+    "popolazione_totale": 70109
+  },
+  {
+    "codice_istat": "085008",
+    "comune": "Marianopoli",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 727,
+    "popolazione_femminile": 778,
+    "popolazione_totale": 1505
+  },
+  {
+    "codice_istat": "085009",
+    "comune": "Mazzarino",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5058,
+    "popolazione_femminile": 5509,
+    "popolazione_totale": 10567
+  },
+  {
+    "codice_istat": "085010",
+    "comune": "Milena",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1270,
+    "popolazione_femminile": 1329,
+    "popolazione_totale": 2599
+  },
+  {
+    "codice_istat": "085011",
+    "comune": "Montedoro",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 641,
+    "popolazione_femminile": 679,
+    "popolazione_totale": 1320
+  },
+  {
+    "codice_istat": "085012",
+    "comune": "Mussomeli",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4709,
+    "popolazione_femminile": 5033,
+    "popolazione_totale": 9742
+  },
+  {
+    "codice_istat": "085013",
+    "comune": "Niscemi",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 12118,
+    "popolazione_femminile": 12417,
+    "popolazione_totale": 24535
+  },
+  {
+    "codice_istat": "085014",
+    "comune": "Resuttano",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 824,
+    "popolazione_femminile": 863,
+    "popolazione_totale": 1687
+  },
+  {
+    "codice_istat": "085015",
+    "comune": "Riesi",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4863,
+    "popolazione_femminile": 5295,
+    "popolazione_totale": 10158
+  },
+  {
+    "codice_istat": "085016",
+    "comune": "San Cataldo",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 9727,
+    "popolazione_femminile": 10502,
+    "popolazione_totale": 20229
+  },
+  {
+    "codice_istat": "085017",
+    "comune": "Santa Caterina Villarmosa",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2090,
+    "popolazione_femminile": 2331,
+    "popolazione_totale": 4421
+  },
+  {
+    "codice_istat": "085018",
+    "comune": "Serradifalco",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2536,
+    "popolazione_femminile": 2806,
+    "popolazione_totale": 5342
+  },
+  {
+    "codice_istat": "085019",
+    "comune": "Sommatino",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2954,
+    "popolazione_femminile": 3266,
+    "popolazione_totale": 6220
+  },
+  {
+    "codice_istat": "085020",
+    "comune": "Sutera",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 514,
+    "popolazione_femminile": 582,
+    "popolazione_totale": 1096
+  },
+  {
+    "codice_istat": "085021",
+    "comune": "Vallelunga Pratameno",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1451,
+    "popolazione_femminile": 1552,
+    "popolazione_totale": 3003
+  },
+  {
+    "codice_istat": "085022",
+    "comune": "Villalba",
+    "provincia": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "popolazione_maschile": 650,
+    "popolazione_femminile": 693,
+    "popolazione_totale": 1343
+  }
+]

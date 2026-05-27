@@ -1,0 +1,253 @@
+[
+  {
+    "codice_istat": "081001",
+    "comune": "Alcamo",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 22276,
+    "popolazione_femminile": 22385,
+    "popolazione_totale": 44661
+  },
+  {
+    "codice_istat": "081002",
+    "comune": "Buseto Palizzolo",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1327,
+    "popolazione_femminile": 1400,
+    "popolazione_totale": 2727
+  },
+  {
+    "codice_istat": "081003",
+    "comune": "Calatafimi-Segesta",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2942,
+    "popolazione_femminile": 3013,
+    "popolazione_totale": 5955
+  },
+  {
+    "codice_istat": "081004",
+    "comune": "Campobello di Mazara",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5567,
+    "popolazione_femminile": 5554,
+    "popolazione_totale": 11121
+  },
+  {
+    "codice_istat": "081005",
+    "comune": "Castellammare del Golfo",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 7421,
+    "popolazione_femminile": 7214,
+    "popolazione_totale": 14635
+  },
+  {
+    "codice_istat": "081006",
+    "comune": "Castelvetrano",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 14451,
+    "popolazione_femminile": 14906,
+    "popolazione_totale": 29357
+  },
+  {
+    "codice_istat": "081007",
+    "comune": "Custonaci",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2607,
+    "popolazione_femminile": 2627,
+    "popolazione_totale": 5234
+  },
+  {
+    "codice_istat": "081008",
+    "comune": "Erice",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 12324,
+    "popolazione_femminile": 13249,
+    "popolazione_totale": 25573
+  },
+  {
+    "codice_istat": "081009",
+    "comune": "Favignana",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2327,
+    "popolazione_femminile": 2213,
+    "popolazione_totale": 4540
+  },
+  {
+    "codice_istat": "081010",
+    "comune": "Gibellina",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1743,
+    "popolazione_femminile": 1893,
+    "popolazione_totale": 3636
+  },
+  {
+    "codice_istat": "081011",
+    "comune": "Marsala",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 39563,
+    "popolazione_femminile": 39958,
+    "popolazione_totale": 79521
+  },
+  {
+    "codice_istat": "081012",
+    "comune": "Mazara del Vallo",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 24865,
+    "popolazione_femminile": 25205,
+    "popolazione_totale": 50070
+  },
+  {
+    "codice_istat": "081025",
+    "comune": "Misiliscemi",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4297,
+    "popolazione_femminile": 4149,
+    "popolazione_totale": 8446
+  },
+  {
+    "codice_istat": "081013",
+    "comune": "Paceco",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5144,
+    "popolazione_femminile": 5400,
+    "popolazione_totale": 10544
+  },
+  {
+    "codice_istat": "081014",
+    "comune": "Pantelleria",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3611,
+    "popolazione_femminile": 3539,
+    "popolazione_totale": 7150
+  },
+  {
+    "codice_istat": "081015",
+    "comune": "Partanna",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4817,
+    "popolazione_femminile": 5018,
+    "popolazione_totale": 9835
+  },
+  {
+    "codice_istat": "081024",
+    "comune": "Petrosino",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4051,
+    "popolazione_femminile": 3832,
+    "popolazione_totale": 7883
+  },
+  {
+    "codice_istat": "081016",
+    "comune": "Poggioreale",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 632,
+    "popolazione_femminile": 640,
+    "popolazione_totale": 1272
+  },
+  {
+    "codice_istat": "081017",
+    "comune": "Salaparuta",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 766,
+    "popolazione_femminile": 794,
+    "popolazione_totale": 1560
+  },
+  {
+    "codice_istat": "081018",
+    "comune": "Salemi",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4836,
+    "popolazione_femminile": 4883,
+    "popolazione_totale": 9719
+  },
+  {
+    "codice_istat": "081020",
+    "comune": "San Vito Lo Capo",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2456,
+    "popolazione_femminile": 2409,
+    "popolazione_totale": 4865
+  },
+  {
+    "codice_istat": "081019",
+    "comune": "Santa Ninfa",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2292,
+    "popolazione_femminile": 2421,
+    "popolazione_totale": 4713
+  },
+  {
+    "codice_istat": "081021",
+    "comune": "Trapani",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 26569,
+    "popolazione_femminile": 28067,
+    "popolazione_totale": 54636,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "081022",
+    "comune": "Valderice",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5627,
+    "popolazione_femminile": 5612,
+    "popolazione_totale": 11239
+  },
+  {
+    "codice_istat": "081023",
+    "comune": "Vita",
+    "provincia": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "popolazione_maschile": 826,
+    "popolazione_femminile": 884,
+    "popolazione_totale": 1710
+  }
+]

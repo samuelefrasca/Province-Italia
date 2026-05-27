@@ -1,0 +1,293 @@
+[
+  {
+    "codice_istat": "073001",
+    "comune": "Avetrana",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2957,
+    "popolazione_femminile": 3152,
+    "popolazione_totale": 6109
+  },
+  {
+    "codice_istat": "073002",
+    "comune": "Carosino",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 3134,
+    "popolazione_femminile": 3246,
+    "popolazione_totale": 6380
+  },
+  {
+    "codice_istat": "073003",
+    "comune": "Castellaneta",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7711,
+    "popolazione_femminile": 8087,
+    "popolazione_totale": 15798
+  },
+  {
+    "codice_istat": "073004",
+    "comune": "Crispiano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 6311,
+    "popolazione_femminile": 6505,
+    "popolazione_totale": 12816
+  },
+  {
+    "codice_istat": "073005",
+    "comune": "Faggiano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 1656,
+    "popolazione_femminile": 1710,
+    "popolazione_totale": 3366
+  },
+  {
+    "codice_istat": "073006",
+    "comune": "Fragagnano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2358,
+    "popolazione_femminile": 2531,
+    "popolazione_totale": 4889
+  },
+  {
+    "codice_istat": "073007",
+    "comune": "Ginosa",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 11037,
+    "popolazione_femminile": 10684,
+    "popolazione_totale": 21721
+  },
+  {
+    "codice_istat": "073008",
+    "comune": "Grottaglie",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 14492,
+    "popolazione_femminile": 15484,
+    "popolazione_totale": 29976
+  },
+  {
+    "codice_istat": "073009",
+    "comune": "Laterza",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7183,
+    "popolazione_femminile": 7401,
+    "popolazione_totale": 14584
+  },
+  {
+    "codice_istat": "073010",
+    "comune": "Leporano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 4158,
+    "popolazione_femminile": 4044,
+    "popolazione_totale": 8202
+  },
+  {
+    "codice_istat": "073011",
+    "comune": "Lizzano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 4625,
+    "popolazione_femminile": 4819,
+    "popolazione_totale": 9444
+  },
+  {
+    "codice_istat": "073012",
+    "comune": "Manduria",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 14388,
+    "popolazione_femminile": 15140,
+    "popolazione_totale": 29528
+  },
+  {
+    "codice_istat": "073013",
+    "comune": "Martina Franca",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 22581,
+    "popolazione_femminile": 24172,
+    "popolazione_totale": 46753
+  },
+  {
+    "codice_istat": "073014",
+    "comune": "Maruggio",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2566,
+    "popolazione_femminile": 2572,
+    "popolazione_totale": 5138
+  },
+  {
+    "codice_istat": "073015",
+    "comune": "Massafra",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 15862,
+    "popolazione_femminile": 15904,
+    "popolazione_totale": 31766
+  },
+  {
+    "codice_istat": "073016",
+    "comune": "Monteiasi",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2498,
+    "popolazione_femminile": 2692,
+    "popolazione_totale": 5190
+  },
+  {
+    "codice_istat": "073017",
+    "comune": "Montemesola",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 1681,
+    "popolazione_femminile": 1786,
+    "popolazione_totale": 3467
+  },
+  {
+    "codice_istat": "073018",
+    "comune": "Monteparano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 1083,
+    "popolazione_femminile": 1156,
+    "popolazione_totale": 2239
+  },
+  {
+    "codice_istat": "073019",
+    "comune": "Mottola",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7345,
+    "popolazione_femminile": 7758,
+    "popolazione_totale": 15103
+  },
+  {
+    "codice_istat": "073020",
+    "comune": "Palagianello",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 3623,
+    "popolazione_femminile": 3806,
+    "popolazione_totale": 7429
+  },
+  {
+    "codice_istat": "073021",
+    "comune": "Palagiano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7966,
+    "popolazione_femminile": 7746,
+    "popolazione_totale": 15712
+  },
+  {
+    "codice_istat": "073022",
+    "comune": "Pulsano",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 5544,
+    "popolazione_femminile": 5618,
+    "popolazione_totale": 11162
+  },
+  {
+    "codice_istat": "073023",
+    "comune": "Roccaforzata",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 841,
+    "popolazione_femminile": 888,
+    "popolazione_totale": 1729
+  },
+  {
+    "codice_istat": "073024",
+    "comune": "San Giorgio Ionico",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 6656,
+    "popolazione_femminile": 7194,
+    "popolazione_totale": 13850
+  },
+  {
+    "codice_istat": "073025",
+    "comune": "San Marzano di San Giuseppe",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 4383,
+    "popolazione_femminile": 4413,
+    "popolazione_totale": 8796
+  },
+  {
+    "codice_istat": "073026",
+    "comune": "Sava",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7334,
+    "popolazione_femminile": 7699,
+    "popolazione_totale": 15033
+  },
+  {
+    "codice_istat": "073029",
+    "comune": "Statte",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 6070,
+    "popolazione_femminile": 6470,
+    "popolazione_totale": 12540
+  },
+  {
+    "codice_istat": "073027",
+    "comune": "Taranto",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 89179,
+    "popolazione_femminile": 95933,
+    "popolazione_totale": 185112,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "073028",
+    "comune": "Torricella",
+    "provincia": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2030,
+    "popolazione_femminile": 2066,
+    "popolazione_totale": 4096
+  }
+]

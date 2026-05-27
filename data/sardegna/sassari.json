@@ -1,0 +1,663 @@
+[
+  {
+    "codice_istat": "112001",
+    "comune": "Alghero",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 20088,
+    "popolazione_femminile": 21677,
+    "popolazione_totale": 41765
+  },
+  {
+    "codice_istat": "112002",
+    "comune": "Anela",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 284,
+    "popolazione_femminile": 269,
+    "popolazione_totale": 553
+  },
+  {
+    "codice_istat": "112003",
+    "comune": "Ardara",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 344,
+    "popolazione_femminile": 336,
+    "popolazione_totale": 680
+  },
+  {
+    "codice_istat": "112004",
+    "comune": "Banari",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 508
+  },
+  {
+    "codice_istat": "112005",
+    "comune": "Benetutti",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 790,
+    "popolazione_femminile": 833,
+    "popolazione_totale": 1623
+  },
+  {
+    "codice_istat": "112006",
+    "comune": "Bessude",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 369
+  },
+  {
+    "codice_istat": "112007",
+    "comune": "Bonnanaro",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 435,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 894
+  },
+  {
+    "codice_istat": "112008",
+    "comune": "Bono",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1602,
+    "popolazione_femminile": 1630,
+    "popolazione_totale": 3232
+  },
+  {
+    "codice_istat": "112009",
+    "comune": "Bonorva",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1542,
+    "popolazione_femminile": 1488,
+    "popolazione_totale": 3030
+  },
+  {
+    "codice_istat": "112010",
+    "comune": "Borutta",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 123,
+    "popolazione_totale": 244
+  },
+  {
+    "codice_istat": "112011",
+    "comune": "Bottidda",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 316,
+    "popolazione_totale": 627
+  },
+  {
+    "codice_istat": "112012",
+    "comune": "Bultei",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 397,
+    "popolazione_totale": 776
+  },
+  {
+    "codice_istat": "112013",
+    "comune": "Bulzi",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 507
+  },
+  {
+    "codice_istat": "112014",
+    "comune": "Burgos",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 401,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 817
+  },
+  {
+    "codice_istat": "112015",
+    "comune": "Cargeghe",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 300,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 590
+  },
+  {
+    "codice_istat": "112016",
+    "comune": "Castelsardo",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2820,
+    "popolazione_femminile": 2804,
+    "popolazione_totale": 5624
+  },
+  {
+    "codice_istat": "112017",
+    "comune": "Cheremule",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 195,
+    "popolazione_femminile": 183,
+    "popolazione_totale": 378
+  },
+  {
+    "codice_istat": "112018",
+    "comune": "Chiaramonti",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 732,
+    "popolazione_femminile": 762,
+    "popolazione_totale": 1494
+  },
+  {
+    "codice_istat": "112019",
+    "comune": "Codrongianos",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 624,
+    "popolazione_femminile": 628,
+    "popolazione_totale": 1252
+  },
+  {
+    "codice_istat": "112020",
+    "comune": "Cossoine",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 361,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 739
+  },
+  {
+    "codice_istat": "112021",
+    "comune": "Erula",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 351,
+    "popolazione_femminile": 351,
+    "popolazione_totale": 702
+  },
+  {
+    "codice_istat": "112022",
+    "comune": "Esporlatu",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 172,
+    "popolazione_femminile": 188,
+    "popolazione_totale": 360
+  },
+  {
+    "codice_istat": "112023",
+    "comune": "Florinas",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 706,
+    "popolazione_femminile": 753,
+    "popolazione_totale": 1459
+  },
+  {
+    "codice_istat": "112024",
+    "comune": "Giave",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 241,
+    "popolazione_femminile": 230,
+    "popolazione_totale": 471
+  },
+  {
+    "codice_istat": "112025",
+    "comune": "Illorai",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 324,
+    "popolazione_femminile": 374,
+    "popolazione_totale": 698
+  },
+  {
+    "codice_istat": "112026",
+    "comune": "Ittireddu",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 219,
+    "popolazione_totale": 457
+  },
+  {
+    "codice_istat": "112027",
+    "comune": "Ittiri",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3802,
+    "popolazione_femminile": 3928,
+    "popolazione_totale": 7730
+  },
+  {
+    "codice_istat": "112028",
+    "comune": "Laerru",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 407,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 806
+  },
+  {
+    "codice_istat": "112029",
+    "comune": "Mara",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 518
+  },
+  {
+    "codice_istat": "112030",
+    "comune": "Martis",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 228,
+    "popolazione_femminile": 227,
+    "popolazione_totale": 455
+  },
+  {
+    "codice_istat": "112031",
+    "comune": "Monteleone Rocca Doria",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 53,
+    "popolazione_femminile": 52,
+    "popolazione_totale": 105
+  },
+  {
+    "codice_istat": "112032",
+    "comune": "Mores",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 831,
+    "popolazione_femminile": 832,
+    "popolazione_totale": 1663
+  },
+  {
+    "codice_istat": "112033",
+    "comune": "Muros",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 408,
+    "popolazione_femminile": 414,
+    "popolazione_totale": 822
+  },
+  {
+    "codice_istat": "112034",
+    "comune": "Nughedu San Nicolò",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 364,
+    "popolazione_femminile": 346,
+    "popolazione_totale": 710
+  },
+  {
+    "codice_istat": "112035",
+    "comune": "Nule",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 645,
+    "popolazione_femminile": 614,
+    "popolazione_totale": 1259
+  },
+  {
+    "codice_istat": "112036",
+    "comune": "Nulvi",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1292,
+    "popolazione_femminile": 1280,
+    "popolazione_totale": 2572
+  },
+  {
+    "codice_istat": "112037",
+    "comune": "Olmedo",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2113,
+    "popolazione_femminile": 2127,
+    "popolazione_totale": 4240
+  },
+  {
+    "codice_istat": "112038",
+    "comune": "Osilo",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1340,
+    "popolazione_femminile": 1392,
+    "popolazione_totale": 2732
+  },
+  {
+    "codice_istat": "112039",
+    "comune": "Ossi",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2642,
+    "popolazione_femminile": 2702,
+    "popolazione_totale": 5344
+  },
+  {
+    "codice_istat": "112040",
+    "comune": "Ozieri",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4777,
+    "popolazione_femminile": 4782,
+    "popolazione_totale": 9559
+  },
+  {
+    "codice_istat": "112041",
+    "comune": "Padria",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 293,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 574
+  },
+  {
+    "codice_istat": "112042",
+    "comune": "Pattada",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1408,
+    "popolazione_femminile": 1355,
+    "popolazione_totale": 2763
+  },
+  {
+    "codice_istat": "112043",
+    "comune": "Perfugas",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1109,
+    "popolazione_femminile": 1103,
+    "popolazione_totale": 2212
+  },
+  {
+    "codice_istat": "112044",
+    "comune": "Ploaghe",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2093,
+    "popolazione_femminile": 2108,
+    "popolazione_totale": 4201
+  },
+  {
+    "codice_istat": "112045",
+    "comune": "Porto Torres",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 10089,
+    "popolazione_femminile": 10535,
+    "popolazione_totale": 20624
+  },
+  {
+    "codice_istat": "112046",
+    "comune": "Pozzomaggiore",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1124,
+    "popolazione_femminile": 1162,
+    "popolazione_totale": 2286
+  },
+  {
+    "codice_istat": "112047",
+    "comune": "Putifigari",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 332,
+    "popolazione_femminile": 326,
+    "popolazione_totale": 658
+  },
+  {
+    "codice_istat": "112048",
+    "comune": "Romana",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 240,
+    "popolazione_totale": 457
+  },
+  {
+    "codice_istat": "112049",
+    "comune": "Santa Maria Coghinas",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 702,
+    "popolazione_femminile": 644,
+    "popolazione_totale": 1346
+  },
+  {
+    "codice_istat": "112050",
+    "comune": "Sassari",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 58292,
+    "popolazione_femminile": 61939,
+    "popolazione_totale": 120231,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "112051",
+    "comune": "Sedini",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 573,
+    "popolazione_femminile": 610,
+    "popolazione_totale": 1183
+  },
+  {
+    "codice_istat": "112052",
+    "comune": "Semestene",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 58,
+    "popolazione_femminile": 69,
+    "popolazione_totale": 127
+  },
+  {
+    "codice_istat": "112053",
+    "comune": "Sennori",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3299,
+    "popolazione_femminile": 3358,
+    "popolazione_totale": 6657
+  },
+  {
+    "codice_istat": "112054",
+    "comune": "Siligo",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 378,
+    "popolazione_femminile": 356,
+    "popolazione_totale": 734
+  },
+  {
+    "codice_istat": "112055",
+    "comune": "Sorso",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 7289,
+    "popolazione_femminile": 7105,
+    "popolazione_totale": 14394
+  },
+  {
+    "codice_istat": "112056",
+    "comune": "Stintino",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 813,
+    "popolazione_femminile": 754,
+    "popolazione_totale": 1567
+  },
+  {
+    "codice_istat": "112057",
+    "comune": "Tergu",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 317,
+    "popolazione_totale": 612
+  },
+  {
+    "codice_istat": "112058",
+    "comune": "Thiesi",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1329,
+    "popolazione_femminile": 1306,
+    "popolazione_totale": 2635
+  },
+  {
+    "codice_istat": "112059",
+    "comune": "Tissi",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1181,
+    "popolazione_femminile": 1171,
+    "popolazione_totale": 2352
+  },
+  {
+    "codice_istat": "112060",
+    "comune": "Torralba",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 420,
+    "popolazione_femminile": 434,
+    "popolazione_totale": 854
+  },
+  {
+    "codice_istat": "112061",
+    "comune": "Tula",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 724,
+    "popolazione_femminile": 701,
+    "popolazione_totale": 1425
+  },
+  {
+    "codice_istat": "112062",
+    "comune": "Uri",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1447,
+    "popolazione_femminile": 1375,
+    "popolazione_totale": 2822
+  },
+  {
+    "codice_istat": "112063",
+    "comune": "Usini",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2070,
+    "popolazione_femminile": 2050,
+    "popolazione_totale": 4120
+  },
+  {
+    "codice_istat": "112064",
+    "comune": "Valledoria",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2179,
+    "popolazione_femminile": 2142,
+    "popolazione_totale": 4321
+  },
+  {
+    "codice_istat": "112065",
+    "comune": "Viddalba",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 772,
+    "popolazione_femminile": 798,
+    "popolazione_totale": 1570
+  },
+  {
+    "codice_istat": "112066",
+    "comune": "Villanova Monteleone",
+    "provincia": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1017,
+    "popolazione_femminile": 1022,
+    "popolazione_totale": 2039
+  }
+]

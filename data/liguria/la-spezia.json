@@ -1,0 +1,323 @@
+[
+  {
+    "codice_istat": "011001",
+    "comune": "Ameglia",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 2100,
+    "popolazione_femminile": 2170,
+    "popolazione_totale": 4270
+  },
+  {
+    "codice_istat": "011002",
+    "comune": "Arcola",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 5021,
+    "popolazione_femminile": 5208,
+    "popolazione_totale": 10229
+  },
+  {
+    "codice_istat": "011003",
+    "comune": "Beverino",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 1141,
+    "popolazione_femminile": 1143,
+    "popolazione_totale": 2284
+  },
+  {
+    "codice_istat": "011004",
+    "comune": "Bolano",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 3685,
+    "popolazione_femminile": 3771,
+    "popolazione_totale": 7456
+  },
+  {
+    "codice_istat": "011005",
+    "comune": "Bonassola",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 364,
+    "popolazione_femminile": 397,
+    "popolazione_totale": 761
+  },
+  {
+    "codice_istat": "011006",
+    "comune": "Borghetto di Vara",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 460,
+    "popolazione_femminile": 468,
+    "popolazione_totale": 928
+  },
+  {
+    "codice_istat": "011007",
+    "comune": "Brugnato",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 628,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1291
+  },
+  {
+    "codice_istat": "011008",
+    "comune": "Calice al Cornoviglio",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 523,
+    "popolazione_femminile": 500,
+    "popolazione_totale": 1023
+  },
+  {
+    "codice_istat": "011009",
+    "comune": "Carro",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 229,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 489
+  },
+  {
+    "codice_istat": "011010",
+    "comune": "Carrodano",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 227,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 459
+  },
+  {
+    "codice_istat": "011011",
+    "comune": "Castelnuovo Magra",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 4011,
+    "popolazione_femminile": 4225,
+    "popolazione_totale": 8236
+  },
+  {
+    "codice_istat": "011012",
+    "comune": "Deiva Marina",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 608,
+    "popolazione_femminile": 668,
+    "popolazione_totale": 1276
+  },
+  {
+    "codice_istat": "011013",
+    "comune": "Follo",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 3120,
+    "popolazione_femminile": 3119,
+    "popolazione_totale": 6239
+  },
+  {
+    "codice_istat": "011014",
+    "comune": "Framura",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 285,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "011015",
+    "comune": "La Spezia",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 45351,
+    "popolazione_femminile": 47259,
+    "popolazione_totale": 92610,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "011016",
+    "comune": "Lerici",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 4379,
+    "popolazione_femminile": 4764,
+    "popolazione_totale": 9143
+  },
+  {
+    "codice_istat": "011017",
+    "comune": "Levanto",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 2389,
+    "popolazione_femminile": 2629,
+    "popolazione_totale": 5018
+  },
+  {
+    "codice_istat": "011020",
+    "comune": "Luni",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 4012,
+    "popolazione_femminile": 4087,
+    "popolazione_totale": 8099
+  },
+  {
+    "codice_istat": "011018",
+    "comune": "Maissana",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 309,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "011019",
+    "comune": "Monterosso al Mare",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 691,
+    "popolazione_totale": 1289
+  },
+  {
+    "codice_istat": "011021",
+    "comune": "Pignone",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 265,
+    "popolazione_femminile": 264,
+    "popolazione_totale": 529
+  },
+  {
+    "codice_istat": "011022",
+    "comune": "Portovenere",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 1580,
+    "popolazione_femminile": 1575,
+    "popolazione_totale": 3155
+  },
+  {
+    "codice_istat": "011023",
+    "comune": "Riccò del Golfo di Spezia",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 1803,
+    "popolazione_femminile": 1840,
+    "popolazione_totale": 3643
+  },
+  {
+    "codice_istat": "011024",
+    "comune": "Riomaggiore",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 630,
+    "popolazione_totale": 1260
+  },
+  {
+    "codice_istat": "011025",
+    "comune": "Rocchetta di Vara",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 348,
+    "popolazione_femminile": 313,
+    "popolazione_totale": 661
+  },
+  {
+    "codice_istat": "011026",
+    "comune": "Santo Stefano di Magra",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 5067,
+    "popolazione_femminile": 4937,
+    "popolazione_totale": 10004
+  },
+  {
+    "codice_istat": "011027",
+    "comune": "Sarzana",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 10532,
+    "popolazione_femminile": 11194,
+    "popolazione_totale": 21726
+  },
+  {
+    "codice_istat": "011028",
+    "comune": "Sesta Godano",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 656,
+    "popolazione_femminile": 607,
+    "popolazione_totale": 1263
+  },
+  {
+    "codice_istat": "011029",
+    "comune": "Varese Ligure",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1717
+  },
+  {
+    "codice_istat": "011030",
+    "comune": "Vernazza",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 332,
+    "popolazione_femminile": 343,
+    "popolazione_totale": 675
+  },
+  {
+    "codice_istat": "011031",
+    "comune": "Vezzano Ligure",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 3538,
+    "popolazione_femminile": 3676,
+    "popolazione_totale": 7214
+  },
+  {
+    "codice_istat": "011032",
+    "comune": "Zignago",
+    "provincia": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 226,
+    "popolazione_totale": 458
+  }
+]

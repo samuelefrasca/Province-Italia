@@ -1,0 +1,663 @@
+[
+  {
+    "codice_istat": "008001",
+    "comune": "Airole",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 195,
+    "popolazione_femminile": 176,
+    "popolazione_totale": 371
+  },
+  {
+    "codice_istat": "008002",
+    "comune": "Apricale",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 306,
+    "popolazione_femminile": 279,
+    "popolazione_totale": 585
+  },
+  {
+    "codice_istat": "008003",
+    "comune": "Aquila d'Arroscia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 78,
+    "popolazione_femminile": 66,
+    "popolazione_totale": 144
+  },
+  {
+    "codice_istat": "008004",
+    "comune": "Armo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 60,
+    "popolazione_totale": 121
+  },
+  {
+    "codice_istat": "008005",
+    "comune": "Aurigo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 172,
+    "popolazione_femminile": 164,
+    "popolazione_totale": 336
+  },
+  {
+    "codice_istat": "008006",
+    "comune": "Badalucco",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 525,
+    "popolazione_femminile": 540,
+    "popolazione_totale": 1065
+  },
+  {
+    "codice_istat": "008007",
+    "comune": "Bajardo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 147,
+    "popolazione_totale": 352
+  },
+  {
+    "codice_istat": "008008",
+    "comune": "Bordighera",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 4850,
+    "popolazione_femminile": 5516,
+    "popolazione_totale": 10366
+  },
+  {
+    "codice_istat": "008009",
+    "comune": "Borghetto d'Arroscia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 210,
+    "popolazione_femminile": 179,
+    "popolazione_totale": 389
+  },
+  {
+    "codice_istat": "008010",
+    "comune": "Borgomaro",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 431,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 823
+  },
+  {
+    "codice_istat": "008011",
+    "comune": "Camporosso",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 2847,
+    "popolazione_femminile": 2941,
+    "popolazione_totale": 5788
+  },
+  {
+    "codice_istat": "008012",
+    "comune": "Caravonica",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 143,
+    "popolazione_femminile": 114,
+    "popolazione_totale": 257
+  },
+  {
+    "codice_istat": "008015",
+    "comune": "Castel Vittorio",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 125,
+    "popolazione_femminile": 112,
+    "popolazione_totale": 237
+  },
+  {
+    "codice_istat": "008014",
+    "comune": "Castellaro",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 574,
+    "popolazione_femminile": 635,
+    "popolazione_totale": 1209
+  },
+  {
+    "codice_istat": "008016",
+    "comune": "Ceriana",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 505,
+    "popolazione_totale": 1098
+  },
+  {
+    "codice_istat": "008017",
+    "comune": "Cervo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 520,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1079
+  },
+  {
+    "codice_istat": "008018",
+    "comune": "Cesio",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 132,
+    "popolazione_femminile": 115,
+    "popolazione_totale": 247
+  },
+  {
+    "codice_istat": "008019",
+    "comune": "Chiusanico",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 321,
+    "popolazione_femminile": 273,
+    "popolazione_totale": 594
+  },
+  {
+    "codice_istat": "008020",
+    "comune": "Chiusavecchia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 533
+  },
+  {
+    "codice_istat": "008021",
+    "comune": "Cipressa",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 589,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1192
+  },
+  {
+    "codice_istat": "008022",
+    "comune": "Civezza",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 310,
+    "popolazione_femminile": 320,
+    "popolazione_totale": 630
+  },
+  {
+    "codice_istat": "008023",
+    "comune": "Cosio d'Arroscia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 78,
+    "popolazione_femminile": 90,
+    "popolazione_totale": 168
+  },
+  {
+    "codice_istat": "008024",
+    "comune": "Costarainera",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 377,
+    "popolazione_femminile": 390,
+    "popolazione_totale": 767
+  },
+  {
+    "codice_istat": "008025",
+    "comune": "Diano Arentino",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 334,
+    "popolazione_femminile": 335,
+    "popolazione_totale": 669
+  },
+  {
+    "codice_istat": "008026",
+    "comune": "Diano Castello",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 1094,
+    "popolazione_femminile": 1176,
+    "popolazione_totale": 2270
+  },
+  {
+    "codice_istat": "008027",
+    "comune": "Diano Marina",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 2565,
+    "popolazione_femminile": 2910,
+    "popolazione_totale": 5475
+  },
+  {
+    "codice_istat": "008028",
+    "comune": "Diano San Pietro",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 538,
+    "popolazione_femminile": 567,
+    "popolazione_totale": 1105
+  },
+  {
+    "codice_istat": "008029",
+    "comune": "Dolceacqua",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 1110,
+    "popolazione_femminile": 1106,
+    "popolazione_totale": 2216
+  },
+  {
+    "codice_istat": "008030",
+    "comune": "Dolcedo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 633,
+    "popolazione_femminile": 631,
+    "popolazione_totale": 1264
+  },
+  {
+    "codice_istat": "008031",
+    "comune": "Imperia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 20921,
+    "popolazione_femminile": 21673,
+    "popolazione_totale": 42594,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "008032",
+    "comune": "Isolabona",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 346,
+    "popolazione_femminile": 343,
+    "popolazione_totale": 689
+  },
+  {
+    "codice_istat": "008033",
+    "comune": "Lucinasco",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 154,
+    "popolazione_femminile": 140,
+    "popolazione_totale": 294
+  },
+  {
+    "codice_istat": "008034",
+    "comune": "Mendatica",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 64,
+    "popolazione_totale": 161
+  },
+  {
+    "codice_istat": "008035",
+    "comune": "Molini di Triora",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 305,
+    "popolazione_femminile": 278,
+    "popolazione_totale": 583
+  },
+  {
+    "codice_istat": "008068",
+    "comune": "Montalto Carpasio",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 227,
+    "popolazione_totale": 478
+  },
+  {
+    "codice_istat": "008037",
+    "comune": "Montegrosso Pian Latte",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 50,
+    "popolazione_femminile": 59,
+    "popolazione_totale": 109
+  },
+  {
+    "codice_istat": "008038",
+    "comune": "Olivetta San Michele",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 93,
+    "popolazione_totale": 190
+  },
+  {
+    "codice_istat": "008039",
+    "comune": "Ospedaletti",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 1548,
+    "popolazione_femminile": 1656,
+    "popolazione_totale": 3204
+  },
+  {
+    "codice_istat": "008040",
+    "comune": "Perinaldo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 397,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 775
+  },
+  {
+    "codice_istat": "008041",
+    "comune": "Pietrabruna",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 211,
+    "popolazione_femminile": 192,
+    "popolazione_totale": 403
+  },
+  {
+    "codice_istat": "008042",
+    "comune": "Pieve di Teco",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 653,
+    "popolazione_femminile": 676,
+    "popolazione_totale": 1329
+  },
+  {
+    "codice_istat": "008043",
+    "comune": "Pigna",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 370,
+    "popolazione_totale": 742
+  },
+  {
+    "codice_istat": "008044",
+    "comune": "Pompeiana",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 426,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 849
+  },
+  {
+    "codice_istat": "008045",
+    "comune": "Pontedassio",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 1207,
+    "popolazione_femminile": 1176,
+    "popolazione_totale": 2383
+  },
+  {
+    "codice_istat": "008046",
+    "comune": "Pornassio",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 396,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 682
+  },
+  {
+    "codice_istat": "008047",
+    "comune": "Prelà",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 230,
+    "popolazione_totale": 497
+  },
+  {
+    "codice_istat": "008048",
+    "comune": "Ranzo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 283,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 576
+  },
+  {
+    "codice_istat": "008049",
+    "comune": "Rezzo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 156,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "008050",
+    "comune": "Riva Ligure",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 1356,
+    "popolazione_femminile": 1355,
+    "popolazione_totale": 2711
+  },
+  {
+    "codice_istat": "008051",
+    "comune": "Rocchetta Nervina",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 146,
+    "popolazione_femminile": 121,
+    "popolazione_totale": 267
+  },
+  {
+    "codice_istat": "008052",
+    "comune": "San Bartolomeo al Mare",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 1437,
+    "popolazione_femminile": 1530,
+    "popolazione_totale": 2967
+  },
+  {
+    "codice_istat": "008053",
+    "comune": "San Biagio della Cima",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 621,
+    "popolazione_femminile": 662,
+    "popolazione_totale": 1283
+  },
+  {
+    "codice_istat": "008054",
+    "comune": "San Lorenzo al Mare",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 580,
+    "popolazione_femminile": 644,
+    "popolazione_totale": 1224
+  },
+  {
+    "codice_istat": "008055",
+    "comune": "Sanremo",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 25633,
+    "popolazione_femminile": 27524,
+    "popolazione_totale": 53157
+  },
+  {
+    "codice_istat": "008056",
+    "comune": "Santo Stefano al Mare",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 999,
+    "popolazione_femminile": 985,
+    "popolazione_totale": 1984
+  },
+  {
+    "codice_istat": "008057",
+    "comune": "Seborga",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 143,
+    "popolazione_femminile": 143,
+    "popolazione_totale": 286
+  },
+  {
+    "codice_istat": "008058",
+    "comune": "Soldano",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 493,
+    "popolazione_femminile": 474,
+    "popolazione_totale": 967
+  },
+  {
+    "codice_istat": "008059",
+    "comune": "Taggia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 6672,
+    "popolazione_femminile": 7286,
+    "popolazione_totale": 13958
+  },
+  {
+    "codice_istat": "008060",
+    "comune": "Terzorio",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 109,
+    "popolazione_femminile": 105,
+    "popolazione_totale": 214
+  },
+  {
+    "codice_istat": "008061",
+    "comune": "Triora",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 224,
+    "popolazione_femminile": 195,
+    "popolazione_totale": 419
+  },
+  {
+    "codice_istat": "008062",
+    "comune": "Vallebona",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 621,
+    "popolazione_femminile": 619,
+    "popolazione_totale": 1240
+  },
+  {
+    "codice_istat": "008063",
+    "comune": "Vallecrosia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 3290,
+    "popolazione_femminile": 3526,
+    "popolazione_totale": 6816
+  },
+  {
+    "codice_istat": "008064",
+    "comune": "Vasia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 173,
+    "popolazione_femminile": 182,
+    "popolazione_totale": 355
+  },
+  {
+    "codice_istat": "008065",
+    "comune": "Ventimiglia",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 11305,
+    "popolazione_femminile": 11778,
+    "popolazione_totale": 23083
+  },
+  {
+    "codice_istat": "008066",
+    "comune": "Vessalico",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 154,
+    "popolazione_femminile": 125,
+    "popolazione_totale": 279
+  },
+  {
+    "codice_istat": "008067",
+    "comune": "Villa Faraldi",
+    "provincia": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 222,
+    "popolazione_totale": 439
+  }
+]

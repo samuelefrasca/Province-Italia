@@ -1,0 +1,333 @@
+[
+  {
+    "codice_istat": "059001",
+    "comune": "Aprilia",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 37139,
+    "popolazione_femminile": 37558,
+    "popolazione_totale": 74697
+  },
+  {
+    "codice_istat": "059002",
+    "comune": "Bassiano",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 721,
+    "popolazione_femminile": 711,
+    "popolazione_totale": 1432
+  },
+  {
+    "codice_istat": "059003",
+    "comune": "Campodimele",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 285,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 545
+  },
+  {
+    "codice_istat": "059004",
+    "comune": "Castelforte",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1963,
+    "popolazione_femminile": 2047,
+    "popolazione_totale": 4010
+  },
+  {
+    "codice_istat": "059005",
+    "comune": "Cisterna di Latina",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 18016,
+    "popolazione_femminile": 18239,
+    "popolazione_totale": 36255
+  },
+  {
+    "codice_istat": "059006",
+    "comune": "Cori",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 5293,
+    "popolazione_femminile": 5172,
+    "popolazione_totale": 10465
+  },
+  {
+    "codice_istat": "059007",
+    "comune": "Fondi",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 20166,
+    "popolazione_femminile": 20144,
+    "popolazione_totale": 40310
+  },
+  {
+    "codice_istat": "059008",
+    "comune": "Formia",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 17725,
+    "popolazione_femminile": 19050,
+    "popolazione_totale": 36775
+  },
+  {
+    "codice_istat": "059009",
+    "comune": "Gaeta",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 9189,
+    "popolazione_femminile": 9719,
+    "popolazione_totale": 18908
+  },
+  {
+    "codice_istat": "059010",
+    "comune": "Itri",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 5400,
+    "popolazione_femminile": 5179,
+    "popolazione_totale": 10579
+  },
+  {
+    "codice_istat": "059011",
+    "comune": "Latina",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 62690,
+    "popolazione_femminile": 64760,
+    "popolazione_totale": 127450,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "059012",
+    "comune": "Lenola",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2069,
+    "popolazione_femminile": 2026,
+    "popolazione_totale": 4095
+  },
+  {
+    "codice_istat": "059013",
+    "comune": "Maenza",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1466,
+    "popolazione_femminile": 1490,
+    "popolazione_totale": 2956
+  },
+  {
+    "codice_istat": "059014",
+    "comune": "Minturno",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 10118,
+    "popolazione_femminile": 10282,
+    "popolazione_totale": 20400
+  },
+  {
+    "codice_istat": "059015",
+    "comune": "Monte San Biagio",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3097,
+    "popolazione_femminile": 2931,
+    "popolazione_totale": 6028
+  },
+  {
+    "codice_istat": "059016",
+    "comune": "Norma",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1816,
+    "popolazione_femminile": 1907,
+    "popolazione_totale": 3723
+  },
+  {
+    "codice_istat": "059017",
+    "comune": "Pontinia",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 7529,
+    "popolazione_femminile": 7555,
+    "popolazione_totale": 15084
+  },
+  {
+    "codice_istat": "059018",
+    "comune": "Ponza",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1723,
+    "popolazione_femminile": 1572,
+    "popolazione_totale": 3295
+  },
+  {
+    "codice_istat": "059019",
+    "comune": "Priverno",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 6806,
+    "popolazione_femminile": 6888,
+    "popolazione_totale": 13694
+  },
+  {
+    "codice_istat": "059020",
+    "comune": "Prossedi",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 569,
+    "popolazione_femminile": 543,
+    "popolazione_totale": 1112
+  },
+  {
+    "codice_istat": "059022",
+    "comune": "Rocca Massima",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 583,
+    "popolazione_femminile": 544,
+    "popolazione_totale": 1127
+  },
+  {
+    "codice_istat": "059021",
+    "comune": "Roccagorga",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2033,
+    "popolazione_femminile": 2054,
+    "popolazione_totale": 4087
+  },
+  {
+    "codice_istat": "059023",
+    "comune": "Roccasecca dei Volsci",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 541,
+    "popolazione_femminile": 519,
+    "popolazione_totale": 1060
+  },
+  {
+    "codice_istat": "059024",
+    "comune": "Sabaudia",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 9812,
+    "popolazione_femminile": 9514,
+    "popolazione_totale": 19326
+  },
+  {
+    "codice_istat": "059025",
+    "comune": "San Felice Circeo",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 5268,
+    "popolazione_femminile": 4821,
+    "popolazione_totale": 10089
+  },
+  {
+    "codice_istat": "059026",
+    "comune": "Santi Cosma e Damiano",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3390,
+    "popolazione_femminile": 3488,
+    "popolazione_totale": 6878
+  },
+  {
+    "codice_istat": "059027",
+    "comune": "Sermoneta",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 5025,
+    "popolazione_femminile": 4926,
+    "popolazione_totale": 9951
+  },
+  {
+    "codice_istat": "059028",
+    "comune": "Sezze",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 12114,
+    "popolazione_femminile": 11652,
+    "popolazione_totale": 23766
+  },
+  {
+    "codice_istat": "059029",
+    "comune": "Sonnino",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3715,
+    "popolazione_femminile": 3750,
+    "popolazione_totale": 7465
+  },
+  {
+    "codice_istat": "059030",
+    "comune": "Sperlonga",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1488,
+    "popolazione_femminile": 1502,
+    "popolazione_totale": 2990
+  },
+  {
+    "codice_istat": "059031",
+    "comune": "Spigno Saturnia",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1362,
+    "popolazione_femminile": 1483,
+    "popolazione_totale": 2845
+  },
+  {
+    "codice_istat": "059032",
+    "comune": "Terracina",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 22854,
+    "popolazione_femminile": 22201,
+    "popolazione_totale": 45055
+  },
+  {
+    "codice_istat": "059033",
+    "comune": "Ventotene",
+    "provincia": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 297,
+    "popolazione_totale": 678
+  }
+]

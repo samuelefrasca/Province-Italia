@@ -1,0 +1,913 @@
+[
+  {
+    "codice_istat": "060001",
+    "comune": "Acquafondata",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 137,
+    "popolazione_femminile": 116,
+    "popolazione_totale": 253
+  },
+  {
+    "codice_istat": "060002",
+    "comune": "Acuto",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 888,
+    "popolazione_femminile": 891,
+    "popolazione_totale": 1779
+  },
+  {
+    "codice_istat": "060003",
+    "comune": "Alatri",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 13441,
+    "popolazione_femminile": 13995,
+    "popolazione_totale": 27436
+  },
+  {
+    "codice_istat": "060004",
+    "comune": "Alvito",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1194,
+    "popolazione_femminile": 1240,
+    "popolazione_totale": 2434
+  },
+  {
+    "codice_istat": "060005",
+    "comune": "Amaseno",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2012,
+    "popolazione_femminile": 2017,
+    "popolazione_totale": 4029
+  },
+  {
+    "codice_istat": "060006",
+    "comune": "Anagni",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 10132,
+    "popolazione_femminile": 10498,
+    "popolazione_totale": 20630
+  },
+  {
+    "codice_istat": "060007",
+    "comune": "Aquino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2429,
+    "popolazione_femminile": 2469,
+    "popolazione_totale": 4898
+  },
+  {
+    "codice_istat": "060008",
+    "comune": "Arce",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2685,
+    "popolazione_femminile": 2691,
+    "popolazione_totale": 5376
+  },
+  {
+    "codice_istat": "060009",
+    "comune": "Arnara",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1037,
+    "popolazione_femminile": 1099,
+    "popolazione_totale": 2136
+  },
+  {
+    "codice_istat": "060010",
+    "comune": "Arpino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 3188,
+    "popolazione_femminile": 3324,
+    "popolazione_totale": 6512
+  },
+  {
+    "codice_istat": "060011",
+    "comune": "Atina",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1961,
+    "popolazione_femminile": 2118,
+    "popolazione_totale": 4079
+  },
+  {
+    "codice_istat": "060012",
+    "comune": "Ausonia",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1194,
+    "popolazione_femminile": 1211,
+    "popolazione_totale": 2405
+  },
+  {
+    "codice_istat": "060013",
+    "comune": "Belmonte Castello",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 333,
+    "popolazione_femminile": 324,
+    "popolazione_totale": 657
+  },
+  {
+    "codice_istat": "060014",
+    "comune": "Boville Ernica",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 4084,
+    "popolazione_femminile": 4130,
+    "popolazione_totale": 8214
+  },
+  {
+    "codice_istat": "060015",
+    "comune": "Broccostella",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1281,
+    "popolazione_femminile": 1328,
+    "popolazione_totale": 2609
+  },
+  {
+    "codice_istat": "060016",
+    "comune": "Campoli Appennino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 778,
+    "popolazione_femminile": 818,
+    "popolazione_totale": 1596
+  },
+  {
+    "codice_istat": "060017",
+    "comune": "Casalattico",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 250,
+    "popolazione_femminile": 265,
+    "popolazione_totale": 515
+  },
+  {
+    "codice_istat": "060018",
+    "comune": "Casalvieri",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1179,
+    "popolazione_femminile": 1206,
+    "popolazione_totale": 2385
+  },
+  {
+    "codice_istat": "060019",
+    "comune": "Cassino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 17128,
+    "popolazione_femminile": 17632,
+    "popolazione_totale": 34760
+  },
+  {
+    "codice_istat": "060020",
+    "comune": "Castelliri",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1521,
+    "popolazione_femminile": 1568,
+    "popolazione_totale": 3089
+  },
+  {
+    "codice_istat": "060021",
+    "comune": "Castelnuovo Parano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 411,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 827
+  },
+  {
+    "codice_istat": "060023",
+    "comune": "Castro dei Volsci",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2110,
+    "popolazione_femminile": 2227,
+    "popolazione_totale": 4337
+  },
+  {
+    "codice_istat": "060022",
+    "comune": "Castrocielo",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1800,
+    "popolazione_femminile": 1927,
+    "popolazione_totale": 3727
+  },
+  {
+    "codice_istat": "060024",
+    "comune": "Ceccano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 10712,
+    "popolazione_femminile": 11250,
+    "popolazione_totale": 21962
+  },
+  {
+    "codice_istat": "060025",
+    "comune": "Ceprano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 3953,
+    "popolazione_femminile": 3987,
+    "popolazione_totale": 7940
+  },
+  {
+    "codice_istat": "060026",
+    "comune": "Cervaro",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 3772,
+    "popolazione_femminile": 3936,
+    "popolazione_totale": 7708
+  },
+  {
+    "codice_istat": "060027",
+    "comune": "Colfelice",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 878,
+    "popolazione_totale": 1747
+  },
+  {
+    "codice_istat": "060029",
+    "comune": "Colle San Magno",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 310,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 603
+  },
+  {
+    "codice_istat": "060028",
+    "comune": "Collepardo",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 440,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 855
+  },
+  {
+    "codice_istat": "060030",
+    "comune": "Coreno Ausonio",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 731,
+    "popolazione_femminile": 733,
+    "popolazione_totale": 1464
+  },
+  {
+    "codice_istat": "060031",
+    "comune": "Esperia",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1789,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3545
+  },
+  {
+    "codice_istat": "060032",
+    "comune": "Falvaterra",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 259,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 503
+  },
+  {
+    "codice_istat": "060033",
+    "comune": "Ferentino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 9931,
+    "popolazione_femminile": 9971,
+    "popolazione_totale": 19902
+  },
+  {
+    "codice_istat": "060034",
+    "comune": "Filettino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 286,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 533
+  },
+  {
+    "codice_istat": "060035",
+    "comune": "Fiuggi",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 4945,
+    "popolazione_femminile": 5235,
+    "popolazione_totale": 10180
+  },
+  {
+    "codice_istat": "060036",
+    "comune": "Fontana Liri",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1261,
+    "popolazione_femminile": 1328,
+    "popolazione_totale": 2589
+  },
+  {
+    "codice_istat": "060037",
+    "comune": "Fontechiari",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 561,
+    "popolazione_femminile": 630,
+    "popolazione_totale": 1191
+  },
+  {
+    "codice_istat": "060038",
+    "comune": "Frosinone",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 20614,
+    "popolazione_femminile": 22222,
+    "popolazione_totale": 42836,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "060039",
+    "comune": "Fumone",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 953,
+    "popolazione_femminile": 976,
+    "popolazione_totale": 1929
+  },
+  {
+    "codice_istat": "060040",
+    "comune": "Gallinaro",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1164
+  },
+  {
+    "codice_istat": "060041",
+    "comune": "Giuliano di Roma",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1154,
+    "popolazione_femminile": 1156,
+    "popolazione_totale": 2310
+  },
+  {
+    "codice_istat": "060042",
+    "comune": "Guarcino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 773,
+    "popolazione_femminile": 715,
+    "popolazione_totale": 1488
+  },
+  {
+    "codice_istat": "060043",
+    "comune": "Isola del Liri",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 5085,
+    "popolazione_femminile": 5432,
+    "popolazione_totale": 10517
+  },
+  {
+    "codice_istat": "060044",
+    "comune": "Monte San Giovanni Campano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 5874,
+    "popolazione_femminile": 5920,
+    "popolazione_totale": 11794
+  },
+  {
+    "codice_istat": "060045",
+    "comune": "Morolo",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1566,
+    "popolazione_femminile": 1548,
+    "popolazione_totale": 3114
+  },
+  {
+    "codice_istat": "060046",
+    "comune": "Paliano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 3922,
+    "popolazione_femminile": 3930,
+    "popolazione_totale": 7852
+  },
+  {
+    "codice_istat": "060047",
+    "comune": "Pastena",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 621,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1248
+  },
+  {
+    "codice_istat": "060048",
+    "comune": "Patrica",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1556,
+    "popolazione_femminile": 1493,
+    "popolazione_totale": 3049
+  },
+  {
+    "codice_istat": "060049",
+    "comune": "Pescosolido",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 697,
+    "popolazione_femminile": 675,
+    "popolazione_totale": 1372
+  },
+  {
+    "codice_istat": "060050",
+    "comune": "Picinisco",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 557,
+    "popolazione_totale": 1106
+  },
+  {
+    "codice_istat": "060051",
+    "comune": "Pico",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1259,
+    "popolazione_femminile": 1295,
+    "popolazione_totale": 2554
+  },
+  {
+    "codice_istat": "060052",
+    "comune": "Piedimonte San Germano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 3150,
+    "popolazione_femminile": 3176,
+    "popolazione_totale": 6326
+  },
+  {
+    "codice_istat": "060053",
+    "comune": "Piglio",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2100,
+    "popolazione_femminile": 2148,
+    "popolazione_totale": 4248
+  },
+  {
+    "codice_istat": "060054",
+    "comune": "Pignataro Interamna",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1171,
+    "popolazione_femminile": 1203,
+    "popolazione_totale": 2374
+  },
+  {
+    "codice_istat": "060055",
+    "comune": "Pofi",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1900,
+    "popolazione_femminile": 1947,
+    "popolazione_totale": 3847
+  },
+  {
+    "codice_istat": "060056",
+    "comune": "Pontecorvo",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 5914,
+    "popolazione_femminile": 6153,
+    "popolazione_totale": 12067
+  },
+  {
+    "codice_istat": "060057",
+    "comune": "Posta Fibreno",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 510,
+    "popolazione_femminile": 525,
+    "popolazione_totale": 1035
+  },
+  {
+    "codice_istat": "060058",
+    "comune": "Ripi",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2495,
+    "popolazione_femminile": 2496,
+    "popolazione_totale": 4991
+  },
+  {
+    "codice_istat": "060059",
+    "comune": "Rocca d'Arce",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 417,
+    "popolazione_totale": 835
+  },
+  {
+    "codice_istat": "060060",
+    "comune": "Roccasecca",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 3336,
+    "popolazione_femminile": 3335,
+    "popolazione_totale": 6671
+  },
+  {
+    "codice_istat": "060061",
+    "comune": "San Biagio Saracinisco",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 145,
+    "popolazione_femminile": 144,
+    "popolazione_totale": 289
+  },
+  {
+    "codice_istat": "060062",
+    "comune": "San Donato Val di Comino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 884,
+    "popolazione_femminile": 968,
+    "popolazione_totale": 1852
+  },
+  {
+    "codice_istat": "060063",
+    "comune": "San Giorgio a Liri",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1439,
+    "popolazione_femminile": 1488,
+    "popolazione_totale": 2927
+  },
+  {
+    "codice_istat": "060064",
+    "comune": "San Giovanni Incarico",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1476,
+    "popolazione_femminile": 1490,
+    "popolazione_totale": 2966
+  },
+  {
+    "codice_istat": "060070",
+    "comune": "San Vittore del Lazio",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1184,
+    "popolazione_femminile": 1155,
+    "popolazione_totale": 2339
+  },
+  {
+    "codice_istat": "060065",
+    "comune": "Sant'Ambrogio sul Garigliano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 865
+  },
+  {
+    "codice_istat": "060066",
+    "comune": "Sant'Andrea del Garigliano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 622,
+    "popolazione_femminile": 641,
+    "popolazione_totale": 1263
+  },
+  {
+    "codice_istat": "060067",
+    "comune": "Sant'Apollinare",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 858,
+    "popolazione_femminile": 907,
+    "popolazione_totale": 1765
+  },
+  {
+    "codice_istat": "060068",
+    "comune": "Sant'Elia Fiumerapido",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2768,
+    "popolazione_femminile": 2781,
+    "popolazione_totale": 5549
+  },
+  {
+    "codice_istat": "060069",
+    "comune": "Santopadre",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 591,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1175
+  },
+  {
+    "codice_istat": "060071",
+    "comune": "Serrone",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1478,
+    "popolazione_femminile": 1457,
+    "popolazione_totale": 2935
+  },
+  {
+    "codice_istat": "060072",
+    "comune": "Settefrati",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 346,
+    "popolazione_femminile": 354,
+    "popolazione_totale": 700
+  },
+  {
+    "codice_istat": "060073",
+    "comune": "Sgurgola",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1177,
+    "popolazione_femminile": 1203,
+    "popolazione_totale": 2380
+  },
+  {
+    "codice_istat": "060074",
+    "comune": "Sora",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 12257,
+    "popolazione_femminile": 12415,
+    "popolazione_totale": 24672
+  },
+  {
+    "codice_istat": "060075",
+    "comune": "Strangolagalli",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1107,
+    "popolazione_femminile": 1146,
+    "popolazione_totale": 2253
+  },
+  {
+    "codice_istat": "060076",
+    "comune": "Supino",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2268,
+    "popolazione_femminile": 2289,
+    "popolazione_totale": 4557
+  },
+  {
+    "codice_istat": "060077",
+    "comune": "Terelle",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 130,
+    "popolazione_totale": 263
+  },
+  {
+    "codice_istat": "060078",
+    "comune": "Torre Cajetani",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 695,
+    "popolazione_femminile": 622,
+    "popolazione_totale": 1317
+  },
+  {
+    "codice_istat": "060079",
+    "comune": "Torrice",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 2311,
+    "popolazione_femminile": 2337,
+    "popolazione_totale": 4648
+  },
+  {
+    "codice_istat": "060080",
+    "comune": "Trevi nel Lazio",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 893,
+    "popolazione_femminile": 806,
+    "popolazione_totale": 1699
+  },
+  {
+    "codice_istat": "060081",
+    "comune": "Trivigliano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 787,
+    "popolazione_femminile": 807,
+    "popolazione_totale": 1594
+  },
+  {
+    "codice_istat": "060082",
+    "comune": "Vallecorsa",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1140,
+    "popolazione_femminile": 1183,
+    "popolazione_totale": 2323
+  },
+  {
+    "codice_istat": "060083",
+    "comune": "Vallemaio",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 434,
+    "popolazione_femminile": 447,
+    "popolazione_totale": 881
+  },
+  {
+    "codice_istat": "060084",
+    "comune": "Vallerotonda",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 684,
+    "popolazione_femminile": 681,
+    "popolazione_totale": 1365
+  },
+  {
+    "codice_istat": "060085",
+    "comune": "Veroli",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 9580,
+    "popolazione_femminile": 9822,
+    "popolazione_totale": 19402
+  },
+  {
+    "codice_istat": "060086",
+    "comune": "Vicalvi",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 324,
+    "popolazione_femminile": 370,
+    "popolazione_totale": 694
+  },
+  {
+    "codice_istat": "060087",
+    "comune": "Vico nel Lazio",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1024,
+    "popolazione_femminile": 1026,
+    "popolazione_totale": 2050
+  },
+  {
+    "codice_istat": "060088",
+    "comune": "Villa Latina",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 567,
+    "popolazione_femminile": 562,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "060089",
+    "comune": "Villa Santa Lucia",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 1224,
+    "popolazione_femminile": 1212,
+    "popolazione_totale": 2436
+  },
+  {
+    "codice_istat": "060090",
+    "comune": "Villa Santo Stefano",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 777,
+    "popolazione_femminile": 787,
+    "popolazione_totale": 1564
+  },
+  {
+    "codice_istat": "060091",
+    "comune": "Viticuso",
+    "provincia": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "popolazione_maschile": 141,
+    "popolazione_femminile": 141,
+    "popolazione_totale": 282
+  }
+]

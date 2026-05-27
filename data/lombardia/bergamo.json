@@ -1,0 +1,2433 @@
+[
+  {
+    "codice_istat": "016001",
+    "comune": "Adrara San Martino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1172,
+    "popolazione_femminile": 1041,
+    "popolazione_totale": 2213
+  },
+  {
+    "codice_istat": "016002",
+    "comune": "Adrara San Rocco",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 425,
+    "popolazione_femminile": 391,
+    "popolazione_totale": 816
+  },
+  {
+    "codice_istat": "016003",
+    "comune": "Albano Sant'Alessandro",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4188,
+    "popolazione_femminile": 4154,
+    "popolazione_totale": 8342
+  },
+  {
+    "codice_istat": "016004",
+    "comune": "Albino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8669,
+    "popolazione_femminile": 8919,
+    "popolazione_totale": 17588
+  },
+  {
+    "codice_istat": "016248",
+    "comune": "Algua",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 332,
+    "popolazione_totale": 698
+  },
+  {
+    "codice_istat": "016005",
+    "comune": "Almè",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2654,
+    "popolazione_femminile": 2829,
+    "popolazione_totale": 5483
+  },
+  {
+    "codice_istat": "016006",
+    "comune": "Almenno San Bartolomeo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3325,
+    "popolazione_femminile": 3305,
+    "popolazione_totale": 6630
+  },
+  {
+    "codice_istat": "016007",
+    "comune": "Almenno San Salvatore",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2688,
+    "popolazione_femminile": 2814,
+    "popolazione_totale": 5502
+  },
+  {
+    "codice_istat": "016008",
+    "comune": "Alzano Lombardo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6615,
+    "popolazione_femminile": 6764,
+    "popolazione_totale": 13379
+  },
+  {
+    "codice_istat": "016009",
+    "comune": "Ambivere",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1206,
+    "popolazione_femminile": 1128,
+    "popolazione_totale": 2334
+  },
+  {
+    "codice_istat": "016010",
+    "comune": "Antegnate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1797,
+    "popolazione_femminile": 1659,
+    "popolazione_totale": 3456
+  },
+  {
+    "codice_istat": "016011",
+    "comune": "Arcene",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2620,
+    "popolazione_femminile": 2492,
+    "popolazione_totale": 5112
+  },
+  {
+    "codice_istat": "016012",
+    "comune": "Ardesio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1637,
+    "popolazione_femminile": 1602,
+    "popolazione_totale": 3239
+  },
+  {
+    "codice_istat": "016013",
+    "comune": "Arzago d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1392,
+    "popolazione_femminile": 1375,
+    "popolazione_totale": 2767
+  },
+  {
+    "codice_istat": "016014",
+    "comune": "Averara",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 101,
+    "popolazione_femminile": 78,
+    "popolazione_totale": 179
+  },
+  {
+    "codice_istat": "016015",
+    "comune": "Aviatico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 320,
+    "popolazione_femminile": 273,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "016016",
+    "comune": "Azzano San Paolo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3789,
+    "popolazione_femminile": 3936,
+    "popolazione_totale": 7725
+  },
+  {
+    "codice_istat": "016017",
+    "comune": "Azzone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 351
+  },
+  {
+    "codice_istat": "016018",
+    "comune": "Bagnatica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2237,
+    "popolazione_femminile": 2211,
+    "popolazione_totale": 4448
+  },
+  {
+    "codice_istat": "016019",
+    "comune": "Barbata",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 354,
+    "popolazione_femminile": 341,
+    "popolazione_totale": 695
+  },
+  {
+    "codice_istat": "016020",
+    "comune": "Bariano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2230,
+    "popolazione_femminile": 2102,
+    "popolazione_totale": 4332
+  },
+  {
+    "codice_istat": "016021",
+    "comune": "Barzana",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1067,
+    "popolazione_femminile": 972,
+    "popolazione_totale": 2039
+  },
+  {
+    "codice_istat": "016022",
+    "comune": "Bedulita",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 353,
+    "popolazione_femminile": 359,
+    "popolazione_totale": 712
+  },
+  {
+    "codice_istat": "016023",
+    "comune": "Berbenno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1251,
+    "popolazione_femminile": 1275,
+    "popolazione_totale": 2526
+  },
+  {
+    "codice_istat": "016024",
+    "comune": "Bergamo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 57636,
+    "popolazione_femminile": 62993,
+    "popolazione_totale": 120629,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "016025",
+    "comune": "Berzo San Fermo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 757,
+    "popolazione_femminile": 699,
+    "popolazione_totale": 1456
+  },
+  {
+    "codice_istat": "016026",
+    "comune": "Bianzano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 324,
+    "popolazione_femminile": 318,
+    "popolazione_totale": 642
+  },
+  {
+    "codice_istat": "016027",
+    "comune": "Blello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 35,
+    "popolazione_femminile": 36,
+    "popolazione_totale": 71
+  },
+  {
+    "codice_istat": "016028",
+    "comune": "Bolgare",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3394,
+    "popolazione_femminile": 3337,
+    "popolazione_totale": 6731
+  },
+  {
+    "codice_istat": "016029",
+    "comune": "Boltiere",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3165,
+    "popolazione_femminile": 3020,
+    "popolazione_totale": 6185
+  },
+  {
+    "codice_istat": "016030",
+    "comune": "Bonate Sopra",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5358,
+    "popolazione_femminile": 5294,
+    "popolazione_totale": 10652
+  },
+  {
+    "codice_istat": "016031",
+    "comune": "Bonate Sotto",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3318,
+    "popolazione_femminile": 3327,
+    "popolazione_totale": 6645
+  },
+  {
+    "codice_istat": "016032",
+    "comune": "Borgo di Terzo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 629,
+    "popolazione_femminile": 596,
+    "popolazione_totale": 1225
+  },
+  {
+    "codice_istat": "016033",
+    "comune": "Bossico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 492,
+    "popolazione_femminile": 473,
+    "popolazione_totale": 965
+  },
+  {
+    "codice_istat": "016034",
+    "comune": "Bottanuco",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2587,
+    "popolazione_femminile": 2498,
+    "popolazione_totale": 5085
+  },
+  {
+    "codice_istat": "016035",
+    "comune": "Bracca",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 359,
+    "popolazione_femminile": 346,
+    "popolazione_totale": 705
+  },
+  {
+    "codice_istat": "016036",
+    "comune": "Branzi",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 308,
+    "popolazione_femminile": 304,
+    "popolazione_totale": 612
+  },
+  {
+    "codice_istat": "016037",
+    "comune": "Brembate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4450,
+    "popolazione_femminile": 4295,
+    "popolazione_totale": 8745
+  },
+  {
+    "codice_istat": "016038",
+    "comune": "Brembate di Sopra",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4013,
+    "popolazione_femminile": 4055,
+    "popolazione_totale": 8068
+  },
+  {
+    "codice_istat": "016040",
+    "comune": "Brignano Gera d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3122,
+    "popolazione_femminile": 3145,
+    "popolazione_totale": 6267
+  },
+  {
+    "codice_istat": "016041",
+    "comune": "Brumano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 75,
+    "popolazione_femminile": 60,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "016042",
+    "comune": "Brusaporto",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2827,
+    "popolazione_femminile": 2877,
+    "popolazione_totale": 5704
+  },
+  {
+    "codice_istat": "016043",
+    "comune": "Calcinate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3235,
+    "popolazione_femminile": 3019,
+    "popolazione_totale": 6254
+  },
+  {
+    "codice_istat": "016044",
+    "comune": "Calcio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2891,
+    "popolazione_femminile": 2660,
+    "popolazione_totale": 5551
+  },
+  {
+    "codice_istat": "016046",
+    "comune": "Calusco d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4239,
+    "popolazione_femminile": 4193,
+    "popolazione_totale": 8432
+  },
+  {
+    "codice_istat": "016047",
+    "comune": "Calvenzano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2250,
+    "popolazione_femminile": 2285,
+    "popolazione_totale": 4535
+  },
+  {
+    "codice_istat": "016048",
+    "comune": "Camerata Cornello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 277,
+    "popolazione_totale": 545
+  },
+  {
+    "codice_istat": "016049",
+    "comune": "Canonica d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2210,
+    "popolazione_femminile": 2083,
+    "popolazione_totale": 4293
+  },
+  {
+    "codice_istat": "016050",
+    "comune": "Capizzone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 616,
+    "popolazione_femminile": 619,
+    "popolazione_totale": 1235
+  },
+  {
+    "codice_istat": "016051",
+    "comune": "Capriate San Gervasio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4220,
+    "popolazione_femminile": 4096,
+    "popolazione_totale": 8316
+  },
+  {
+    "codice_istat": "016052",
+    "comune": "Caprino Bergamasco",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1594,
+    "popolazione_femminile": 1493,
+    "popolazione_totale": 3087
+  },
+  {
+    "codice_istat": "016053",
+    "comune": "Caravaggio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8211,
+    "popolazione_femminile": 8302,
+    "popolazione_totale": 16513
+  },
+  {
+    "codice_istat": "016055",
+    "comune": "Carobbio degli Angeli",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2485,
+    "popolazione_femminile": 2427,
+    "popolazione_totale": 4912
+  },
+  {
+    "codice_istat": "016056",
+    "comune": "Carona",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 149,
+    "popolazione_totale": 282
+  },
+  {
+    "codice_istat": "016057",
+    "comune": "Carvico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2330,
+    "popolazione_femminile": 2370,
+    "popolazione_totale": 4700
+  },
+  {
+    "codice_istat": "016058",
+    "comune": "Casazza",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1905,
+    "popolazione_femminile": 1938,
+    "popolazione_totale": 3843
+  },
+  {
+    "codice_istat": "016059",
+    "comune": "Casirate d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2127,
+    "popolazione_femminile": 2012,
+    "popolazione_totale": 4139
+  },
+  {
+    "codice_istat": "016060",
+    "comune": "Casnigo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1517,
+    "popolazione_femminile": 1488,
+    "popolazione_totale": 3005
+  },
+  {
+    "codice_istat": "016061",
+    "comune": "Cassiglio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 48,
+    "popolazione_femminile": 57,
+    "popolazione_totale": 105
+  },
+  {
+    "codice_istat": "016063",
+    "comune": "Castel Rozzone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1409,
+    "popolazione_femminile": 1446,
+    "popolazione_totale": 2855
+  },
+  {
+    "codice_istat": "016062",
+    "comune": "Castelli Calepio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5316,
+    "popolazione_femminile": 5168,
+    "popolazione_totale": 10484
+  },
+  {
+    "codice_istat": "016064",
+    "comune": "Castione della Presolana",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1745,
+    "popolazione_femminile": 1636,
+    "popolazione_totale": 3381
+  },
+  {
+    "codice_istat": "016065",
+    "comune": "Castro",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 595,
+    "popolazione_totale": 1191
+  },
+  {
+    "codice_istat": "016066",
+    "comune": "Cavernago",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1506,
+    "popolazione_femminile": 1468,
+    "popolazione_totale": 2974
+  },
+  {
+    "codice_istat": "016067",
+    "comune": "Cazzano Sant'Andrea",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 873,
+    "popolazione_femminile": 821,
+    "popolazione_totale": 1694
+  },
+  {
+    "codice_istat": "016068",
+    "comune": "Cenate Sopra",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1277,
+    "popolazione_femminile": 1274,
+    "popolazione_totale": 2551
+  },
+  {
+    "codice_istat": "016069",
+    "comune": "Cenate Sotto",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2013,
+    "popolazione_femminile": 1988,
+    "popolazione_totale": 4001
+  },
+  {
+    "codice_istat": "016070",
+    "comune": "Cene",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2014,
+    "popolazione_femminile": 2030,
+    "popolazione_totale": 4044
+  },
+  {
+    "codice_istat": "016071",
+    "comune": "Cerete",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 819,
+    "popolazione_femminile": 824,
+    "popolazione_totale": 1643
+  },
+  {
+    "codice_istat": "016072",
+    "comune": "Chignolo d'Isola",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1765,
+    "popolazione_femminile": 1618,
+    "popolazione_totale": 3383
+  },
+  {
+    "codice_istat": "016073",
+    "comune": "Chiuduno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3184,
+    "popolazione_femminile": 3076,
+    "popolazione_totale": 6260
+  },
+  {
+    "codice_istat": "016074",
+    "comune": "Cisano Bergamasco",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3118,
+    "popolazione_femminile": 3114,
+    "popolazione_totale": 6232
+  },
+  {
+    "codice_istat": "016075",
+    "comune": "Ciserano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3037,
+    "popolazione_femminile": 2806,
+    "popolazione_totale": 5843
+  },
+  {
+    "codice_istat": "016076",
+    "comune": "Cividate al Piano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2611,
+    "popolazione_femminile": 2488,
+    "popolazione_totale": 5099
+  },
+  {
+    "codice_istat": "016077",
+    "comune": "Clusone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4183,
+    "popolazione_femminile": 4413,
+    "popolazione_totale": 8596
+  },
+  {
+    "codice_istat": "016078",
+    "comune": "Colere",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1077
+  },
+  {
+    "codice_istat": "016079",
+    "comune": "Cologno al Serio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5702,
+    "popolazione_femminile": 5585,
+    "popolazione_totale": 11287
+  },
+  {
+    "codice_istat": "016080",
+    "comune": "Colzate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 817,
+    "popolazione_femminile": 824,
+    "popolazione_totale": 1641
+  },
+  {
+    "codice_istat": "016081",
+    "comune": "Comun Nuovo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2261,
+    "popolazione_femminile": 2210,
+    "popolazione_totale": 4471
+  },
+  {
+    "codice_istat": "016082",
+    "comune": "Corna Imagna",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 472,
+    "popolazione_femminile": 446,
+    "popolazione_totale": 918
+  },
+  {
+    "codice_istat": "016249",
+    "comune": "Cornalba",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 163,
+    "popolazione_femminile": 142,
+    "popolazione_totale": 305
+  },
+  {
+    "codice_istat": "016083",
+    "comune": "Cortenuova",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 994,
+    "popolazione_femminile": 987,
+    "popolazione_totale": 1981
+  },
+  {
+    "codice_istat": "016084",
+    "comune": "Costa di Mezzate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1743,
+    "popolazione_femminile": 1685,
+    "popolazione_totale": 3428
+  },
+  {
+    "codice_istat": "016247",
+    "comune": "Costa Serina",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 910
+  },
+  {
+    "codice_istat": "016085",
+    "comune": "Costa Valle Imagna",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 282,
+    "popolazione_femminile": 265,
+    "popolazione_totale": 547
+  },
+  {
+    "codice_istat": "016086",
+    "comune": "Costa Volpino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4354,
+    "popolazione_femminile": 4438,
+    "popolazione_totale": 8792
+  },
+  {
+    "codice_istat": "016087",
+    "comune": "Covo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2253,
+    "popolazione_femminile": 2115,
+    "popolazione_totale": 4368
+  },
+  {
+    "codice_istat": "016088",
+    "comune": "Credaro",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1796,
+    "popolazione_femminile": 1765,
+    "popolazione_totale": 3561
+  },
+  {
+    "codice_istat": "016089",
+    "comune": "Curno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3734,
+    "popolazione_femminile": 3840,
+    "popolazione_totale": 7574
+  },
+  {
+    "codice_istat": "016090",
+    "comune": "Cusio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 108,
+    "popolazione_femminile": 89,
+    "popolazione_totale": 197
+  },
+  {
+    "codice_istat": "016091",
+    "comune": "Dalmine",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11899,
+    "popolazione_femminile": 11919,
+    "popolazione_totale": 23818
+  },
+  {
+    "codice_istat": "016092",
+    "comune": "Dossena",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 452,
+    "popolazione_femminile": 426,
+    "popolazione_totale": 878
+  },
+  {
+    "codice_istat": "016093",
+    "comune": "Endine Gaiano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1758,
+    "popolazione_femminile": 1704,
+    "popolazione_totale": 3462
+  },
+  {
+    "codice_istat": "016094",
+    "comune": "Entratico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1021,
+    "popolazione_femminile": 1004,
+    "popolazione_totale": 2025
+  },
+  {
+    "codice_istat": "016096",
+    "comune": "Fara Gera d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4028,
+    "popolazione_femminile": 4052,
+    "popolazione_totale": 8080
+  },
+  {
+    "codice_istat": "016097",
+    "comune": "Fara Olivana con Sola",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1345
+  },
+  {
+    "codice_istat": "016098",
+    "comune": "Filago",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1562,
+    "popolazione_femminile": 1568,
+    "popolazione_totale": 3130
+  },
+  {
+    "codice_istat": "016099",
+    "comune": "Fino del Monte",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 606,
+    "popolazione_femminile": 529,
+    "popolazione_totale": 1135
+  },
+  {
+    "codice_istat": "016100",
+    "comune": "Fiorano al Serio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1427,
+    "popolazione_femminile": 1511,
+    "popolazione_totale": 2938
+  },
+  {
+    "codice_istat": "016101",
+    "comune": "Fontanella",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2489,
+    "popolazione_femminile": 2425,
+    "popolazione_totale": 4914
+  },
+  {
+    "codice_istat": "016102",
+    "comune": "Fonteno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 291,
+    "popolazione_femminile": 259,
+    "popolazione_totale": 550
+  },
+  {
+    "codice_istat": "016103",
+    "comune": "Foppolo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 88,
+    "popolazione_femminile": 64,
+    "popolazione_totale": 152
+  },
+  {
+    "codice_istat": "016104",
+    "comune": "Foresto Sparso",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1593,
+    "popolazione_femminile": 1540,
+    "popolazione_totale": 3133
+  },
+  {
+    "codice_istat": "016105",
+    "comune": "Fornovo San Giovanni",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1698,
+    "popolazione_femminile": 1726,
+    "popolazione_totale": 3424
+  },
+  {
+    "codice_istat": "016106",
+    "comune": "Fuipiano Valle Imagna",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 103,
+    "popolazione_femminile": 100,
+    "popolazione_totale": 203
+  },
+  {
+    "codice_istat": "016107",
+    "comune": "Gandellino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 495,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 936
+  },
+  {
+    "codice_istat": "016108",
+    "comune": "Gandino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2566,
+    "popolazione_femminile": 2616,
+    "popolazione_totale": 5182
+  },
+  {
+    "codice_istat": "016109",
+    "comune": "Gandosso",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 749,
+    "popolazione_femminile": 697,
+    "popolazione_totale": 1446
+  },
+  {
+    "codice_istat": "016110",
+    "comune": "Gaverina Terme",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 469,
+    "popolazione_femminile": 430,
+    "popolazione_totale": 899
+  },
+  {
+    "codice_istat": "016111",
+    "comune": "Gazzaniga",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2419,
+    "popolazione_femminile": 2557,
+    "popolazione_totale": 4976
+  },
+  {
+    "codice_istat": "016113",
+    "comune": "Ghisalba",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3140,
+    "popolazione_femminile": 3116,
+    "popolazione_totale": 6256
+  },
+  {
+    "codice_istat": "016114",
+    "comune": "Gorlago",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2620,
+    "popolazione_femminile": 2562,
+    "popolazione_totale": 5182
+  },
+  {
+    "codice_istat": "016115",
+    "comune": "Gorle",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3202,
+    "popolazione_femminile": 3370,
+    "popolazione_totale": 6572
+  },
+  {
+    "codice_istat": "016116",
+    "comune": "Gorno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 730,
+    "popolazione_femminile": 699,
+    "popolazione_totale": 1429
+  },
+  {
+    "codice_istat": "016117",
+    "comune": "Grassobbio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3294,
+    "popolazione_femminile": 3253,
+    "popolazione_totale": 6547
+  },
+  {
+    "codice_istat": "016118",
+    "comune": "Gromo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 607,
+    "popolazione_femminile": 535,
+    "popolazione_totale": 1142
+  },
+  {
+    "codice_istat": "016119",
+    "comune": "Grone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 481,
+    "popolazione_femminile": 457,
+    "popolazione_totale": 938
+  },
+  {
+    "codice_istat": "016120",
+    "comune": "Grumello del Monte",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3828,
+    "popolazione_femminile": 3847,
+    "popolazione_totale": 7675
+  },
+  {
+    "codice_istat": "016121",
+    "comune": "Isola di Fondra",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 172
+  },
+  {
+    "codice_istat": "016122",
+    "comune": "Isso",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 329,
+    "popolazione_femminile": 306,
+    "popolazione_totale": 635
+  },
+  {
+    "codice_istat": "016123",
+    "comune": "Lallio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2090,
+    "popolazione_femminile": 2164,
+    "popolazione_totale": 4254
+  },
+  {
+    "codice_istat": "016124",
+    "comune": "Leffe",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2145,
+    "popolazione_femminile": 2168,
+    "popolazione_totale": 4313
+  },
+  {
+    "codice_istat": "016125",
+    "comune": "Lenna",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 291,
+    "popolazione_totale": 549
+  },
+  {
+    "codice_istat": "016126",
+    "comune": "Levate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1878,
+    "popolazione_femminile": 1862,
+    "popolazione_totale": 3740
+  },
+  {
+    "codice_istat": "016127",
+    "comune": "Locatello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 422,
+    "popolazione_femminile": 390,
+    "popolazione_totale": 812
+  },
+  {
+    "codice_istat": "016128",
+    "comune": "Lovere",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2333,
+    "popolazione_femminile": 2610,
+    "popolazione_totale": 4943
+  },
+  {
+    "codice_istat": "016129",
+    "comune": "Lurano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1457,
+    "popolazione_femminile": 1436,
+    "popolazione_totale": 2893
+  },
+  {
+    "codice_istat": "016130",
+    "comune": "Luzzana",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 463,
+    "popolazione_femminile": 449,
+    "popolazione_totale": 912
+  },
+  {
+    "codice_istat": "016131",
+    "comune": "Madone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2138,
+    "popolazione_femminile": 2073,
+    "popolazione_totale": 4211
+  },
+  {
+    "codice_istat": "016132",
+    "comune": "Mapello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3607,
+    "popolazione_femminile": 3432,
+    "popolazione_totale": 7039
+  },
+  {
+    "codice_istat": "016133",
+    "comune": "Martinengo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5725,
+    "popolazione_femminile": 5447,
+    "popolazione_totale": 11172
+  },
+  {
+    "codice_istat": "016250",
+    "comune": "Medolago",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1191,
+    "popolazione_femminile": 1190,
+    "popolazione_totale": 2381
+  },
+  {
+    "codice_istat": "016134",
+    "comune": "Mezzoldo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 84,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 170
+  },
+  {
+    "codice_istat": "016135",
+    "comune": "Misano di Gera d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1501,
+    "popolazione_femminile": 1557,
+    "popolazione_totale": 3058
+  },
+  {
+    "codice_istat": "016136",
+    "comune": "Moio de' Calvi",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 95,
+    "popolazione_femminile": 104,
+    "popolazione_totale": 199
+  },
+  {
+    "codice_istat": "016137",
+    "comune": "Monasterolo del Castello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 591,
+    "popolazione_femminile": 562,
+    "popolazione_totale": 1153
+  },
+  {
+    "codice_istat": "016139",
+    "comune": "Montello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1645,
+    "popolazione_femminile": 1622,
+    "popolazione_totale": 3267
+  },
+  {
+    "codice_istat": "016140",
+    "comune": "Morengo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1239,
+    "popolazione_femminile": 1247,
+    "popolazione_totale": 2486
+  },
+  {
+    "codice_istat": "016141",
+    "comune": "Mornico al Serio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1531,
+    "popolazione_femminile": 1521,
+    "popolazione_totale": 3052
+  },
+  {
+    "codice_istat": "016142",
+    "comune": "Mozzanica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2211,
+    "popolazione_femminile": 2223,
+    "popolazione_totale": 4434
+  },
+  {
+    "codice_istat": "016143",
+    "comune": "Mozzo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3560,
+    "popolazione_femminile": 3673,
+    "popolazione_totale": 7233
+  },
+  {
+    "codice_istat": "016144",
+    "comune": "Nembro",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5608,
+    "popolazione_femminile": 5676,
+    "popolazione_totale": 11284
+  },
+  {
+    "codice_istat": "016145",
+    "comune": "Olmo al Brembo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 221,
+    "popolazione_totale": 453
+  },
+  {
+    "codice_istat": "016146",
+    "comune": "Oltre il Colle",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 477,
+    "popolazione_femminile": 443,
+    "popolazione_totale": 920
+  },
+  {
+    "codice_istat": "016147",
+    "comune": "Oltressenda Alta",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 62,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "016148",
+    "comune": "Oneta",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 287,
+    "popolazione_femminile": 296,
+    "popolazione_totale": 583
+  },
+  {
+    "codice_istat": "016149",
+    "comune": "Onore",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 475,
+    "popolazione_femminile": 502,
+    "popolazione_totale": 977
+  },
+  {
+    "codice_istat": "016150",
+    "comune": "Orio al Serio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 808,
+    "popolazione_femminile": 780,
+    "popolazione_totale": 1588
+  },
+  {
+    "codice_istat": "016151",
+    "comune": "Ornica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 69,
+    "popolazione_femminile": 57,
+    "popolazione_totale": 126
+  },
+  {
+    "codice_istat": "016152",
+    "comune": "Osio Sopra",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2619,
+    "popolazione_femminile": 2576,
+    "popolazione_totale": 5195
+  },
+  {
+    "codice_istat": "016153",
+    "comune": "Osio Sotto",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6490,
+    "popolazione_femminile": 6402,
+    "popolazione_totale": 12892
+  },
+  {
+    "codice_istat": "016154",
+    "comune": "Pagazzano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1159,
+    "popolazione_femminile": 1079,
+    "popolazione_totale": 2238
+  },
+  {
+    "codice_istat": "016155",
+    "comune": "Paladina",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1960,
+    "popolazione_femminile": 1986,
+    "popolazione_totale": 3946
+  },
+  {
+    "codice_istat": "016156",
+    "comune": "Palazzago",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2331,
+    "popolazione_femminile": 2266,
+    "popolazione_totale": 4597
+  },
+  {
+    "codice_istat": "016157",
+    "comune": "Palosco",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2874,
+    "popolazione_femminile": 2856,
+    "popolazione_totale": 5730
+  },
+  {
+    "codice_istat": "016158",
+    "comune": "Parre",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1323,
+    "popolazione_femminile": 1327,
+    "popolazione_totale": 2650
+  },
+  {
+    "codice_istat": "016159",
+    "comune": "Parzanica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 177,
+    "popolazione_femminile": 156,
+    "popolazione_totale": 333
+  },
+  {
+    "codice_istat": "016160",
+    "comune": "Pedrengo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2936,
+    "popolazione_femminile": 2975,
+    "popolazione_totale": 5911
+  },
+  {
+    "codice_istat": "016161",
+    "comune": "Peia",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 806,
+    "popolazione_femminile": 857,
+    "popolazione_totale": 1663
+  },
+  {
+    "codice_istat": "016162",
+    "comune": "Pianico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 717,
+    "popolazione_totale": 1456
+  },
+  {
+    "codice_istat": "016163",
+    "comune": "Piario",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 507,
+    "popolazione_femminile": 493,
+    "popolazione_totale": 1000
+  },
+  {
+    "codice_istat": "016164",
+    "comune": "Piazza Brembana",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 580,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1195
+  },
+  {
+    "codice_istat": "016165",
+    "comune": "Piazzatorre",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 199,
+    "popolazione_femminile": 197,
+    "popolazione_totale": 396
+  },
+  {
+    "codice_istat": "016166",
+    "comune": "Piazzolo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 45,
+    "popolazione_femminile": 47,
+    "popolazione_totale": 92
+  },
+  {
+    "codice_istat": "016167",
+    "comune": "Pognano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 814,
+    "popolazione_femminile": 792,
+    "popolazione_totale": 1606
+  },
+  {
+    "codice_istat": "016168",
+    "comune": "Ponte Nossa",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 896,
+    "popolazione_femminile": 902,
+    "popolazione_totale": 1798
+  },
+  {
+    "codice_istat": "016170",
+    "comune": "Ponte San Pietro",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6003,
+    "popolazione_femminile": 6004,
+    "popolazione_totale": 12007
+  },
+  {
+    "codice_istat": "016169",
+    "comune": "Ponteranica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3362,
+    "popolazione_femminile": 3369,
+    "popolazione_totale": 6731
+  },
+  {
+    "codice_istat": "016171",
+    "comune": "Pontida",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1715,
+    "popolazione_femminile": 1584,
+    "popolazione_totale": 3299
+  },
+  {
+    "codice_istat": "016172",
+    "comune": "Pontirolo Nuovo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2564,
+    "popolazione_femminile": 2482,
+    "popolazione_totale": 5046
+  },
+  {
+    "codice_istat": "016173",
+    "comune": "Pradalunga",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2263,
+    "popolazione_femminile": 2231,
+    "popolazione_totale": 4494
+  },
+  {
+    "codice_istat": "016174",
+    "comune": "Predore",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 906,
+    "popolazione_femminile": 941,
+    "popolazione_totale": 1847
+  },
+  {
+    "codice_istat": "016175",
+    "comune": "Premolo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 554,
+    "popolazione_femminile": 510,
+    "popolazione_totale": 1064
+  },
+  {
+    "codice_istat": "016176",
+    "comune": "Presezzo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2342,
+    "popolazione_femminile": 2448,
+    "popolazione_totale": 4790
+  },
+  {
+    "codice_istat": "016177",
+    "comune": "Pumenengo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 883,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1731
+  },
+  {
+    "codice_istat": "016178",
+    "comune": "Ranica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2822,
+    "popolazione_femminile": 3006,
+    "popolazione_totale": 5828
+  },
+  {
+    "codice_istat": "016179",
+    "comune": "Ranzanico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 611,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1217
+  },
+  {
+    "codice_istat": "016180",
+    "comune": "Riva di Solto",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 424,
+    "popolazione_totale": 843
+  },
+  {
+    "codice_istat": "016182",
+    "comune": "Rogno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1937,
+    "popolazione_femminile": 1917,
+    "popolazione_totale": 3854
+  },
+  {
+    "codice_istat": "016183",
+    "comune": "Romano di Lombardia",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10783,
+    "popolazione_femminile": 10266,
+    "popolazione_totale": 21049
+  },
+  {
+    "codice_istat": "016184",
+    "comune": "Roncobello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 222,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "016185",
+    "comune": "Roncola",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 474,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 901
+  },
+  {
+    "codice_istat": "016186",
+    "comune": "Rota d'Imagna",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 470,
+    "popolazione_femminile": 470,
+    "popolazione_totale": 940
+  },
+  {
+    "codice_istat": "016187",
+    "comune": "Rovetta",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2055,
+    "popolazione_femminile": 2095,
+    "popolazione_totale": 4150
+  },
+  {
+    "codice_istat": "016188",
+    "comune": "San Giovanni Bianco",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2328,
+    "popolazione_femminile": 2241,
+    "popolazione_totale": 4569
+  },
+  {
+    "codice_istat": "016189",
+    "comune": "San Paolo d'Argon",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2994,
+    "popolazione_femminile": 2944,
+    "popolazione_totale": 5938
+  },
+  {
+    "codice_istat": "016190",
+    "comune": "San Pellegrino Terme",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2212,
+    "popolazione_femminile": 2385,
+    "popolazione_totale": 4597
+  },
+  {
+    "codice_istat": "016252",
+    "comune": "Sant'Omobono Terme",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2003,
+    "popolazione_femminile": 1950,
+    "popolazione_totale": 3953
+  },
+  {
+    "codice_istat": "016191",
+    "comune": "Santa Brigida",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 265,
+    "popolazione_totale": 517
+  },
+  {
+    "codice_istat": "016193",
+    "comune": "Sarnico",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3347,
+    "popolazione_femminile": 3511,
+    "popolazione_totale": 6858
+  },
+  {
+    "codice_istat": "016194",
+    "comune": "Scanzorosciate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4979,
+    "popolazione_femminile": 5189,
+    "popolazione_totale": 10168
+  },
+  {
+    "codice_istat": "016195",
+    "comune": "Schilpario",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 573,
+    "popolazione_femminile": 563,
+    "popolazione_totale": 1136
+  },
+  {
+    "codice_istat": "016196",
+    "comune": "Sedrina",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1187,
+    "popolazione_femminile": 1174,
+    "popolazione_totale": 2361
+  },
+  {
+    "codice_istat": "016197",
+    "comune": "Selvino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 993,
+    "popolazione_femminile": 968,
+    "popolazione_totale": 1961
+  },
+  {
+    "codice_istat": "016198",
+    "comune": "Seriate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 12857,
+    "popolazione_femminile": 13000,
+    "popolazione_totale": 25857
+  },
+  {
+    "codice_istat": "016199",
+    "comune": "Serina",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1096,
+    "popolazione_femminile": 1011,
+    "popolazione_totale": 2107
+  },
+  {
+    "codice_istat": "016200",
+    "comune": "Solto Collina",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 943,
+    "popolazione_femminile": 893,
+    "popolazione_totale": 1836
+  },
+  {
+    "codice_istat": "016251",
+    "comune": "Solza",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1031,
+    "popolazione_femminile": 978,
+    "popolazione_totale": 2009
+  },
+  {
+    "codice_istat": "016201",
+    "comune": "Songavazzo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 380,
+    "popolazione_femminile": 352,
+    "popolazione_totale": 732
+  },
+  {
+    "codice_istat": "016202",
+    "comune": "Sorisole",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4343,
+    "popolazione_femminile": 4414,
+    "popolazione_totale": 8757
+  },
+  {
+    "codice_istat": "016203",
+    "comune": "Sotto il Monte Giovanni XXIII",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2255,
+    "popolazione_femminile": 2176,
+    "popolazione_totale": 4431
+  },
+  {
+    "codice_istat": "016204",
+    "comune": "Sovere",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2621,
+    "popolazione_femminile": 2689,
+    "popolazione_totale": 5310
+  },
+  {
+    "codice_istat": "016205",
+    "comune": "Spinone al Lago",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 499,
+    "popolazione_femminile": 507,
+    "popolazione_totale": 1006
+  },
+  {
+    "codice_istat": "016206",
+    "comune": "Spirano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2923,
+    "popolazione_femminile": 2814,
+    "popolazione_totale": 5737
+  },
+  {
+    "codice_istat": "016207",
+    "comune": "Stezzano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6847,
+    "popolazione_femminile": 7057,
+    "popolazione_totale": 13904
+  },
+  {
+    "codice_istat": "016208",
+    "comune": "Strozza",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 559,
+    "popolazione_femminile": 534,
+    "popolazione_totale": 1093
+  },
+  {
+    "codice_istat": "016209",
+    "comune": "Suisio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1946,
+    "popolazione_femminile": 1839,
+    "popolazione_totale": 3785
+  },
+  {
+    "codice_istat": "016210",
+    "comune": "Taleggio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 291,
+    "popolazione_femminile": 246,
+    "popolazione_totale": 537
+  },
+  {
+    "codice_istat": "016211",
+    "comune": "Tavernola Bergamasca",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 963,
+    "popolazione_femminile": 955,
+    "popolazione_totale": 1918
+  },
+  {
+    "codice_istat": "016212",
+    "comune": "Telgate",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2644,
+    "popolazione_femminile": 2381,
+    "popolazione_totale": 5025
+  },
+  {
+    "codice_istat": "016213",
+    "comune": "Terno d'Isola",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4026,
+    "popolazione_femminile": 3950,
+    "popolazione_totale": 7976
+  },
+  {
+    "codice_istat": "016214",
+    "comune": "Torre Boldone",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4181,
+    "popolazione_femminile": 4540,
+    "popolazione_totale": 8721
+  },
+  {
+    "codice_istat": "016215",
+    "comune": "Torre de' Busi",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1175,
+    "popolazione_femminile": 1146,
+    "popolazione_totale": 2321
+  },
+  {
+    "codice_istat": "016216",
+    "comune": "Torre de' Roveri",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1288,
+    "popolazione_femminile": 1326,
+    "popolazione_totale": 2614
+  },
+  {
+    "codice_istat": "016217",
+    "comune": "Torre Pallavicina",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 576,
+    "popolazione_femminile": 578,
+    "popolazione_totale": 1154
+  },
+  {
+    "codice_istat": "016218",
+    "comune": "Trescore Balneario",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5020,
+    "popolazione_femminile": 4902,
+    "popolazione_totale": 9922
+  },
+  {
+    "codice_istat": "016219",
+    "comune": "Treviglio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 15655,
+    "popolazione_femminile": 15949,
+    "popolazione_totale": 31604
+  },
+  {
+    "codice_istat": "016220",
+    "comune": "Treviolo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5321,
+    "popolazione_femminile": 5602,
+    "popolazione_totale": 10923
+  },
+  {
+    "codice_istat": "016221",
+    "comune": "Ubiale Clanezzo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 666,
+    "popolazione_femminile": 650,
+    "popolazione_totale": 1316
+  },
+  {
+    "codice_istat": "016222",
+    "comune": "Urgnano",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5173,
+    "popolazione_femminile": 4967,
+    "popolazione_totale": 10140
+  },
+  {
+    "codice_istat": "016253",
+    "comune": "Val Brembilla",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2089,
+    "popolazione_femminile": 2025,
+    "popolazione_totale": 4114
+  },
+  {
+    "codice_istat": "016223",
+    "comune": "Valbondione",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 472,
+    "popolazione_femminile": 469,
+    "popolazione_totale": 941
+  },
+  {
+    "codice_istat": "016224",
+    "comune": "Valbrembo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2114,
+    "popolazione_femminile": 2185,
+    "popolazione_totale": 4299
+  },
+  {
+    "codice_istat": "016225",
+    "comune": "Valgoglio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 278,
+    "popolazione_femminile": 276,
+    "popolazione_totale": 554
+  },
+  {
+    "codice_istat": "016226",
+    "comune": "Valleve",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 70,
+    "popolazione_femminile": 59,
+    "popolazione_totale": 129
+  },
+  {
+    "codice_istat": "016227",
+    "comune": "Valnegra",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 106,
+    "popolazione_femminile": 92,
+    "popolazione_totale": 198
+  },
+  {
+    "codice_istat": "016229",
+    "comune": "Valtorta",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 228
+  },
+  {
+    "codice_istat": "016230",
+    "comune": "Vedeseta",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 97,
+    "popolazione_totale": 196
+  },
+  {
+    "codice_istat": "016232",
+    "comune": "Verdellino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4125,
+    "popolazione_femminile": 3718,
+    "popolazione_totale": 7843
+  },
+  {
+    "codice_istat": "016233",
+    "comune": "Verdello",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4251,
+    "popolazione_femminile": 3961,
+    "popolazione_totale": 8212
+  },
+  {
+    "codice_istat": "016234",
+    "comune": "Vertova",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2182,
+    "popolazione_femminile": 2275,
+    "popolazione_totale": 4457
+  },
+  {
+    "codice_istat": "016235",
+    "comune": "Viadanica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 556,
+    "popolazione_totale": 1121
+  },
+  {
+    "codice_istat": "016236",
+    "comune": "Vigano San Martino",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 716,
+    "popolazione_femminile": 684,
+    "popolazione_totale": 1400
+  },
+  {
+    "codice_istat": "016237",
+    "comune": "Vigolo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 292,
+    "popolazione_femminile": 279,
+    "popolazione_totale": 571
+  },
+  {
+    "codice_istat": "016238",
+    "comune": "Villa d'Adda",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2254,
+    "popolazione_femminile": 2326,
+    "popolazione_totale": 4580
+  },
+  {
+    "codice_istat": "016239",
+    "comune": "Villa d'Almè",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3171,
+    "popolazione_femminile": 3257,
+    "popolazione_totale": 6428
+  },
+  {
+    "codice_istat": "016241",
+    "comune": "Villa d'Ogna",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 871,
+    "popolazione_femminile": 913,
+    "popolazione_totale": 1784
+  },
+  {
+    "codice_istat": "016240",
+    "comune": "Villa di Serio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3212,
+    "popolazione_femminile": 3278,
+    "popolazione_totale": 6490
+  },
+  {
+    "codice_istat": "016242",
+    "comune": "Villongo",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4195,
+    "popolazione_femminile": 3974,
+    "popolazione_totale": 8169
+  },
+  {
+    "codice_istat": "016243",
+    "comune": "Vilminore di Scalve",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 704,
+    "popolazione_totale": 1423
+  },
+  {
+    "codice_istat": "016244",
+    "comune": "Zandobbio",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1406,
+    "popolazione_femminile": 1331,
+    "popolazione_totale": 2737
+  },
+  {
+    "codice_istat": "016245",
+    "comune": "Zanica",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4433,
+    "popolazione_femminile": 4406,
+    "popolazione_totale": 8839
+  },
+  {
+    "codice_istat": "016246",
+    "comune": "Zogno",
+    "provincia": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4259,
+    "popolazione_femminile": 4331,
+    "popolazione_totale": 8590
+  }
+]

@@ -1,0 +1,733 @@
+[
+  {
+    "codice_istat": "057001",
+    "comune": "Accumoli",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 266,
+    "popolazione_femminile": 227,
+    "popolazione_totale": 493
+  },
+  {
+    "codice_istat": "057002",
+    "comune": "Amatrice",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1132,
+    "popolazione_femminile": 1014,
+    "popolazione_totale": 2146
+  },
+  {
+    "codice_istat": "057003",
+    "comune": "Antrodoco",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1156,
+    "popolazione_femminile": 1082,
+    "popolazione_totale": 2238
+  },
+  {
+    "codice_istat": "057004",
+    "comune": "Ascrea",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 105,
+    "popolazione_femminile": 90,
+    "popolazione_totale": 195
+  },
+  {
+    "codice_istat": "057005",
+    "comune": "Belmonte in Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 319,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 653
+  },
+  {
+    "codice_istat": "057006",
+    "comune": "Borbona",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 271,
+    "popolazione_totale": 573
+  },
+  {
+    "codice_istat": "057008",
+    "comune": "Borgo Velino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 440,
+    "popolazione_femminile": 461,
+    "popolazione_totale": 901
+  },
+  {
+    "codice_istat": "057007",
+    "comune": "Borgorose",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 2170,
+    "popolazione_femminile": 2040,
+    "popolazione_totale": 4210
+  },
+  {
+    "codice_istat": "057009",
+    "comune": "Cantalice",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1202,
+    "popolazione_femminile": 1184,
+    "popolazione_totale": 2386
+  },
+  {
+    "codice_istat": "057010",
+    "comune": "Cantalupo in Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 814,
+    "popolazione_femminile": 843,
+    "popolazione_totale": 1657
+  },
+  {
+    "codice_istat": "057011",
+    "comune": "Casaprota",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 338,
+    "popolazione_femminile": 340,
+    "popolazione_totale": 678
+  },
+  {
+    "codice_istat": "057012",
+    "comune": "Casperia",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 619,
+    "popolazione_totale": 1215
+  },
+  {
+    "codice_istat": "057013",
+    "comune": "Castel di Tora",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 122,
+    "popolazione_totale": 271
+  },
+  {
+    "codice_istat": "057015",
+    "comune": "Castel Sant'Angelo",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 597,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1156
+  },
+  {
+    "codice_istat": "057014",
+    "comune": "Castelnuovo di Farfa",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 486,
+    "popolazione_totale": 987
+  },
+  {
+    "codice_istat": "057016",
+    "comune": "Cittaducale",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 3177,
+    "popolazione_femminile": 3223,
+    "popolazione_totale": 6400
+  },
+  {
+    "codice_istat": "057017",
+    "comune": "Cittareale",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 203,
+    "popolazione_femminile": 171,
+    "popolazione_totale": 374
+  },
+  {
+    "codice_istat": "057018",
+    "comune": "Collalto Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 204,
+    "popolazione_femminile": 165,
+    "popolazione_totale": 369
+  },
+  {
+    "codice_istat": "057019",
+    "comune": "Colle di Tora",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 163,
+    "popolazione_totale": 348
+  },
+  {
+    "codice_istat": "057020",
+    "comune": "Collegiove",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 60,
+    "popolazione_totale": 133
+  },
+  {
+    "codice_istat": "057021",
+    "comune": "Collevecchio",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 820,
+    "popolazione_femminile": 755,
+    "popolazione_totale": 1575
+  },
+  {
+    "codice_istat": "057022",
+    "comune": "Colli sul Velino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 230,
+    "popolazione_femminile": 235,
+    "popolazione_totale": 465
+  },
+  {
+    "codice_istat": "057023",
+    "comune": "Concerviano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 143,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 282
+  },
+  {
+    "codice_istat": "057024",
+    "comune": "Configni",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 296,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 556
+  },
+  {
+    "codice_istat": "057025",
+    "comune": "Contigliano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1847,
+    "popolazione_femminile": 1810,
+    "popolazione_totale": 3657
+  },
+  {
+    "codice_istat": "057026",
+    "comune": "Cottanello",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 248,
+    "popolazione_totale": 517
+  },
+  {
+    "codice_istat": "057027",
+    "comune": "Fara in Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 6976,
+    "popolazione_femminile": 6992,
+    "popolazione_totale": 13968
+  },
+  {
+    "codice_istat": "057028",
+    "comune": "Fiamignano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 611,
+    "popolazione_femminile": 540,
+    "popolazione_totale": 1151
+  },
+  {
+    "codice_istat": "057029",
+    "comune": "Forano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1630,
+    "popolazione_femminile": 1600,
+    "popolazione_totale": 3230
+  },
+  {
+    "codice_istat": "057030",
+    "comune": "Frasso Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 367,
+    "popolazione_totale": 733
+  },
+  {
+    "codice_istat": "057031",
+    "comune": "Greccio",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 720,
+    "popolazione_femminile": 728,
+    "popolazione_totale": 1448
+  },
+  {
+    "codice_istat": "057032",
+    "comune": "Labro",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 164,
+    "popolazione_totale": 342
+  },
+  {
+    "codice_istat": "057033",
+    "comune": "Leonessa",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1026,
+    "popolazione_femminile": 993,
+    "popolazione_totale": 2019
+  },
+  {
+    "codice_istat": "057034",
+    "comune": "Longone Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 243,
+    "popolazione_totale": 510
+  },
+  {
+    "codice_istat": "057035",
+    "comune": "Magliano Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1726,
+    "popolazione_femminile": 1731,
+    "popolazione_totale": 3457
+  },
+  {
+    "codice_istat": "057036",
+    "comune": "Marcetelli",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 31,
+    "popolazione_femminile": 22,
+    "popolazione_totale": 53
+  },
+  {
+    "codice_istat": "057037",
+    "comune": "Micigliano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 70,
+    "popolazione_femminile": 49,
+    "popolazione_totale": 119
+  },
+  {
+    "codice_istat": "057038",
+    "comune": "Mompeo",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 251,
+    "popolazione_totale": 504
+  },
+  {
+    "codice_istat": "057039",
+    "comune": "Montasola",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 193,
+    "popolazione_totale": 398
+  },
+  {
+    "codice_istat": "057043",
+    "comune": "Monte San Giovanni in Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 349,
+    "popolazione_femminile": 315,
+    "popolazione_totale": 664
+  },
+  {
+    "codice_istat": "057040",
+    "comune": "Montebuono",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 417,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 844
+  },
+  {
+    "codice_istat": "057041",
+    "comune": "Monteleone Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 561,
+    "popolazione_femminile": 567,
+    "popolazione_totale": 1128
+  },
+  {
+    "codice_istat": "057042",
+    "comune": "Montenero Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 134,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 268
+  },
+  {
+    "codice_istat": "057044",
+    "comune": "Montopoli di Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 2059,
+    "popolazione_femminile": 2050,
+    "popolazione_totale": 4109
+  },
+  {
+    "codice_istat": "057045",
+    "comune": "Morro Reatino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 179,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 334
+  },
+  {
+    "codice_istat": "057046",
+    "comune": "Nespolo",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 123,
+    "popolazione_femminile": 84,
+    "popolazione_totale": 207
+  },
+  {
+    "codice_istat": "057047",
+    "comune": "Orvinio",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 199,
+    "popolazione_femminile": 180,
+    "popolazione_totale": 379
+  },
+  {
+    "codice_istat": "057048",
+    "comune": "Paganico Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 69,
+    "popolazione_totale": 155
+  },
+  {
+    "codice_istat": "057049",
+    "comune": "Pescorocchiano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 938,
+    "popolazione_femminile": 859,
+    "popolazione_totale": 1797
+  },
+  {
+    "codice_istat": "057050",
+    "comune": "Petrella Salto",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 553,
+    "popolazione_femminile": 461,
+    "popolazione_totale": 1014
+  },
+  {
+    "codice_istat": "057051",
+    "comune": "Poggio Bustone",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 995,
+    "popolazione_femminile": 962,
+    "popolazione_totale": 1957
+  },
+  {
+    "codice_istat": "057052",
+    "comune": "Poggio Catino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 627,
+    "popolazione_femminile": 676,
+    "popolazione_totale": 1303
+  },
+  {
+    "codice_istat": "057053",
+    "comune": "Poggio Mirteto",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 2987,
+    "popolazione_femminile": 3094,
+    "popolazione_totale": 6081
+  },
+  {
+    "codice_istat": "057054",
+    "comune": "Poggio Moiano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1432,
+    "popolazione_femminile": 1363,
+    "popolazione_totale": 2795
+  },
+  {
+    "codice_istat": "057055",
+    "comune": "Poggio Nativo",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1360,
+    "popolazione_femminile": 1222,
+    "popolazione_totale": 2582
+  },
+  {
+    "codice_istat": "057056",
+    "comune": "Poggio San Lorenzo",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 296,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 563
+  },
+  {
+    "codice_istat": "057057",
+    "comune": "Posta",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 276,
+    "popolazione_femminile": 242,
+    "popolazione_totale": 518
+  },
+  {
+    "codice_istat": "057058",
+    "comune": "Pozzaglia Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 152,
+    "popolazione_femminile": 151,
+    "popolazione_totale": 303
+  },
+  {
+    "codice_istat": "057059",
+    "comune": "Rieti",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 21717,
+    "popolazione_femminile": 23149,
+    "popolazione_totale": 44866,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "057060",
+    "comune": "Rivodutri",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 574,
+    "popolazione_femminile": 547,
+    "popolazione_totale": 1121
+  },
+  {
+    "codice_istat": "057062",
+    "comune": "Rocca Sinibalda",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 430,
+    "popolazione_femminile": 371,
+    "popolazione_totale": 801
+  },
+  {
+    "codice_istat": "057061",
+    "comune": "Roccantica",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 259,
+    "popolazione_femminile": 283,
+    "popolazione_totale": 542
+  },
+  {
+    "codice_istat": "057063",
+    "comune": "Salisano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 227,
+    "popolazione_femminile": 235,
+    "popolazione_totale": 462
+  },
+  {
+    "codice_istat": "057064",
+    "comune": "Scandriglia",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1833,
+    "popolazione_femminile": 1514,
+    "popolazione_totale": 3347
+  },
+  {
+    "codice_istat": "057065",
+    "comune": "Selci",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 555,
+    "popolazione_totale": 1117
+  },
+  {
+    "codice_istat": "057066",
+    "comune": "Stimigliano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 1095,
+    "popolazione_femminile": 1110,
+    "popolazione_totale": 2205
+  },
+  {
+    "codice_istat": "057067",
+    "comune": "Tarano",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 681,
+    "popolazione_femminile": 688,
+    "popolazione_totale": 1369
+  },
+  {
+    "codice_istat": "057068",
+    "comune": "Toffia",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 531,
+    "popolazione_femminile": 519,
+    "popolazione_totale": 1050
+  },
+  {
+    "codice_istat": "057070",
+    "comune": "Torri in Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 579,
+    "popolazione_totale": 1209
+  },
+  {
+    "codice_istat": "057069",
+    "comune": "Torricella in Sabina",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 654,
+    "popolazione_femminile": 629,
+    "popolazione_totale": 1283
+  },
+  {
+    "codice_istat": "057071",
+    "comune": "Turania",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 134,
+    "popolazione_femminile": 99,
+    "popolazione_totale": 233
+  },
+  {
+    "codice_istat": "057072",
+    "comune": "Vacone",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 108,
+    "popolazione_femminile": 106,
+    "popolazione_totale": 214
+  },
+  {
+    "codice_istat": "057073",
+    "comune": "Varco Sabino",
+    "provincia": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "popolazione_maschile": 89,
+    "popolazione_femminile": 59,
+    "popolazione_totale": 148
+  }
+]

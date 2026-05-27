@@ -1,0 +1,1083 @@
+[
+  {
+    "codice_istat": "066001",
+    "comune": "Acciano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 135,
+    "popolazione_femminile": 117,
+    "popolazione_totale": 252
+  },
+  {
+    "codice_istat": "066002",
+    "comune": "Aielli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 680,
+    "popolazione_femminile": 690,
+    "popolazione_totale": 1370
+  },
+  {
+    "codice_istat": "066003",
+    "comune": "Alfedena",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 377,
+    "popolazione_totale": 917
+  },
+  {
+    "codice_istat": "066004",
+    "comune": "Anversa degli Abruzzi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 153,
+    "popolazione_femminile": 151,
+    "popolazione_totale": 304
+  },
+  {
+    "codice_istat": "066005",
+    "comune": "Ateleta",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 538,
+    "popolazione_totale": 1103
+  },
+  {
+    "codice_istat": "066006",
+    "comune": "Avezzano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 20073,
+    "popolazione_femminile": 21165,
+    "popolazione_totale": 41238
+  },
+  {
+    "codice_istat": "066007",
+    "comune": "Balsorano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1581,
+    "popolazione_femminile": 1615,
+    "popolazione_totale": 3196
+  },
+  {
+    "codice_istat": "066008",
+    "comune": "Barete",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 329,
+    "popolazione_femminile": 305,
+    "popolazione_totale": 634
+  },
+  {
+    "codice_istat": "066009",
+    "comune": "Barisciano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 824,
+    "popolazione_femminile": 813,
+    "popolazione_totale": 1637
+  },
+  {
+    "codice_istat": "066010",
+    "comune": "Barrea",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 343,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 677
+  },
+  {
+    "codice_istat": "066011",
+    "comune": "Bisegna",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 113,
+    "popolazione_totale": 212
+  },
+  {
+    "codice_istat": "066012",
+    "comune": "Bugnara",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 510,
+    "popolazione_femminile": 488,
+    "popolazione_totale": 998
+  },
+  {
+    "codice_istat": "066013",
+    "comune": "Cagnano Amiterno",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 551,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1079
+  },
+  {
+    "codice_istat": "066014",
+    "comune": "Calascio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 65,
+    "popolazione_femminile": 54,
+    "popolazione_totale": 119
+  },
+  {
+    "codice_istat": "066015",
+    "comune": "Campo di Giove",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 370,
+    "popolazione_totale": 742
+  },
+  {
+    "codice_istat": "066016",
+    "comune": "Campotosto",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 226,
+    "popolazione_femminile": 202,
+    "popolazione_totale": 428
+  },
+  {
+    "codice_istat": "066017",
+    "comune": "Canistro",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 443,
+    "popolazione_totale": 949
+  },
+  {
+    "codice_istat": "066018",
+    "comune": "Cansano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 116,
+    "popolazione_totale": 216
+  },
+  {
+    "codice_istat": "066019",
+    "comune": "Capestrano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 392,
+    "popolazione_femminile": 419,
+    "popolazione_totale": 811
+  },
+  {
+    "codice_istat": "066020",
+    "comune": "Capistrello",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2238,
+    "popolazione_femminile": 2358,
+    "popolazione_totale": 4596
+  },
+  {
+    "codice_istat": "066021",
+    "comune": "Capitignano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 298,
+    "popolazione_totale": 602
+  },
+  {
+    "codice_istat": "066022",
+    "comune": "Caporciano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 113,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 201
+  },
+  {
+    "codice_istat": "066023",
+    "comune": "Cappadocia",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 248,
+    "popolazione_totale": 588
+  },
+  {
+    "codice_istat": "066024",
+    "comune": "Carapelle Calvisio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 36,
+    "popolazione_femminile": 32,
+    "popolazione_totale": 68
+  },
+  {
+    "codice_istat": "066025",
+    "comune": "Carsoli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2468,
+    "popolazione_femminile": 2484,
+    "popolazione_totale": 4952
+  },
+  {
+    "codice_istat": "066026",
+    "comune": "Castel del Monte",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 200,
+    "popolazione_femminile": 179,
+    "popolazione_totale": 379
+  },
+  {
+    "codice_istat": "066027",
+    "comune": "Castel di Ieri",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 130,
+    "popolazione_femminile": 143,
+    "popolazione_totale": 273
+  },
+  {
+    "codice_istat": "066028",
+    "comune": "Castel di Sangro",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3381,
+    "popolazione_femminile": 3209,
+    "popolazione_totale": 6590
+  },
+  {
+    "codice_istat": "066029",
+    "comune": "Castellafiume",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 557,
+    "popolazione_femminile": 520,
+    "popolazione_totale": 1077
+  },
+  {
+    "codice_istat": "066030",
+    "comune": "Castelvecchio Calvisio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 58,
+    "popolazione_femminile": 67,
+    "popolazione_totale": 125
+  },
+  {
+    "codice_istat": "066031",
+    "comune": "Castelvecchio Subequo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 389,
+    "popolazione_femminile": 414,
+    "popolazione_totale": 803
+  },
+  {
+    "codice_istat": "066032",
+    "comune": "Celano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 5145,
+    "popolazione_femminile": 4976,
+    "popolazione_totale": 10121
+  },
+  {
+    "codice_istat": "066033",
+    "comune": "Cerchio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 782,
+    "popolazione_femminile": 760,
+    "popolazione_totale": 1542
+  },
+  {
+    "codice_istat": "066034",
+    "comune": "Civita d'Antino",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 477,
+    "popolazione_femminile": 446,
+    "popolazione_totale": 923
+  },
+  {
+    "codice_istat": "066035",
+    "comune": "Civitella Alfedena",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 148,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 287
+  },
+  {
+    "codice_istat": "066036",
+    "comune": "Civitella Roveto",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1547,
+    "popolazione_femminile": 1471,
+    "popolazione_totale": 3018
+  },
+  {
+    "codice_istat": "066037",
+    "comune": "Cocullo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 93,
+    "popolazione_totale": 203
+  },
+  {
+    "codice_istat": "066038",
+    "comune": "Collarmele",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 354,
+    "popolazione_femminile": 398,
+    "popolazione_totale": 752
+  },
+  {
+    "codice_istat": "066039",
+    "comune": "Collelongo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 550,
+    "popolazione_femminile": 505,
+    "popolazione_totale": 1055
+  },
+  {
+    "codice_istat": "066040",
+    "comune": "Collepietro",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 103,
+    "popolazione_totale": 200
+  },
+  {
+    "codice_istat": "066041",
+    "comune": "Corfinio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 491,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 947
+  },
+  {
+    "codice_istat": "066042",
+    "comune": "Fagnano Alto",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 165,
+    "popolazione_femminile": 172,
+    "popolazione_totale": 337
+  },
+  {
+    "codice_istat": "066043",
+    "comune": "Fontecchio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 138,
+    "popolazione_femminile": 142,
+    "popolazione_totale": 280
+  },
+  {
+    "codice_istat": "066044",
+    "comune": "Fossa",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 336,
+    "popolazione_femminile": 346,
+    "popolazione_totale": 682
+  },
+  {
+    "codice_istat": "066045",
+    "comune": "Gagliano Aterno",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 114,
+    "popolazione_femminile": 107,
+    "popolazione_totale": 221
+  },
+  {
+    "codice_istat": "066046",
+    "comune": "Gioia dei Marsi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 900,
+    "popolazione_femminile": 788,
+    "popolazione_totale": 1688
+  },
+  {
+    "codice_istat": "066047",
+    "comune": "Goriano Sicoli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 248,
+    "popolazione_totale": 523
+  },
+  {
+    "codice_istat": "066048",
+    "comune": "Introdacqua",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 967,
+    "popolazione_femminile": 961,
+    "popolazione_totale": 1928
+  },
+  {
+    "codice_istat": "066049",
+    "comune": "L'Aquila",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 35143,
+    "popolazione_femminile": 35660,
+    "popolazione_totale": 70803,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "066050",
+    "comune": "Lecce nei Marsi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 729,
+    "popolazione_femminile": 747,
+    "popolazione_totale": 1476
+  },
+  {
+    "codice_istat": "066051",
+    "comune": "Luco dei Marsi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3060,
+    "popolazione_femminile": 2875,
+    "popolazione_totale": 5935
+  },
+  {
+    "codice_istat": "066052",
+    "comune": "Lucoli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 405,
+    "popolazione_totale": 847
+  },
+  {
+    "codice_istat": "066053",
+    "comune": "Magliano de' Marsi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1671,
+    "popolazione_femminile": 1729,
+    "popolazione_totale": 3400
+  },
+  {
+    "codice_istat": "066054",
+    "comune": "Massa d'Albe",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 687,
+    "popolazione_femminile": 650,
+    "popolazione_totale": 1337
+  },
+  {
+    "codice_istat": "066055",
+    "comune": "Molina Aterno",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 165,
+    "popolazione_femminile": 163,
+    "popolazione_totale": 328
+  },
+  {
+    "codice_istat": "066056",
+    "comune": "Montereale",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1150,
+    "popolazione_femminile": 1033,
+    "popolazione_totale": 2183
+  },
+  {
+    "codice_istat": "066057",
+    "comune": "Morino",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 645,
+    "popolazione_femminile": 635,
+    "popolazione_totale": 1280
+  },
+  {
+    "codice_istat": "066058",
+    "comune": "Navelli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 583
+  },
+  {
+    "codice_istat": "066059",
+    "comune": "Ocre",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 564,
+    "popolazione_femminile": 531,
+    "popolazione_totale": 1095
+  },
+  {
+    "codice_istat": "066060",
+    "comune": "Ofena",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 202,
+    "popolazione_totale": 462
+  },
+  {
+    "codice_istat": "066061",
+    "comune": "Opi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 197,
+    "popolazione_femminile": 176,
+    "popolazione_totale": 373
+  },
+  {
+    "codice_istat": "066062",
+    "comune": "Oricola",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 636,
+    "popolazione_femminile": 638,
+    "popolazione_totale": 1274
+  },
+  {
+    "codice_istat": "066063",
+    "comune": "Ortona dei Marsi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 175,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 366
+  },
+  {
+    "codice_istat": "066064",
+    "comune": "Ortucchio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 876,
+    "popolazione_femminile": 860,
+    "popolazione_totale": 1736
+  },
+  {
+    "codice_istat": "066065",
+    "comune": "Ovindoli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 585,
+    "popolazione_femminile": 569,
+    "popolazione_totale": 1154
+  },
+  {
+    "codice_istat": "066066",
+    "comune": "Pacentro",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 539,
+    "popolazione_femminile": 518,
+    "popolazione_totale": 1057
+  },
+  {
+    "codice_istat": "066067",
+    "comune": "Pereto",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 335,
+    "popolazione_femminile": 295,
+    "popolazione_totale": 630
+  },
+  {
+    "codice_istat": "066068",
+    "comune": "Pescasseroli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1022,
+    "popolazione_femminile": 971,
+    "popolazione_totale": 1993
+  },
+  {
+    "codice_istat": "066069",
+    "comune": "Pescina",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1837,
+    "popolazione_femminile": 1817,
+    "popolazione_totale": 3654
+  },
+  {
+    "codice_istat": "066070",
+    "comune": "Pescocostanzo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1081
+  },
+  {
+    "codice_istat": "066071",
+    "comune": "Pettorano sul Gizio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 640,
+    "popolazione_femminile": 619,
+    "popolazione_totale": 1259
+  },
+  {
+    "codice_istat": "066072",
+    "comune": "Pizzoli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2176,
+    "popolazione_femminile": 2010,
+    "popolazione_totale": 4186
+  },
+  {
+    "codice_istat": "066073",
+    "comune": "Poggio Picenze",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 495,
+    "popolazione_femminile": 533,
+    "popolazione_totale": 1028
+  },
+  {
+    "codice_istat": "066074",
+    "comune": "Prata d'Ansidonia",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 206,
+    "popolazione_femminile": 218,
+    "popolazione_totale": 424
+  },
+  {
+    "codice_istat": "066075",
+    "comune": "Pratola Peligna",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3369,
+    "popolazione_femminile": 3512,
+    "popolazione_totale": 6881
+  },
+  {
+    "codice_istat": "066076",
+    "comune": "Prezza",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 392,
+    "popolazione_femminile": 412,
+    "popolazione_totale": 804
+  },
+  {
+    "codice_istat": "066077",
+    "comune": "Raiano",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1230,
+    "popolazione_femminile": 1365,
+    "popolazione_totale": 2595
+  },
+  {
+    "codice_istat": "066078",
+    "comune": "Rivisondoli",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 386,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 680
+  },
+  {
+    "codice_istat": "066080",
+    "comune": "Rocca di Botte",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 485,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 891
+  },
+  {
+    "codice_istat": "066081",
+    "comune": "Rocca di Cambio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 277,
+    "popolazione_femminile": 246,
+    "popolazione_totale": 523
+  },
+  {
+    "codice_istat": "066082",
+    "comune": "Rocca di Mezzo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 689,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1314
+  },
+  {
+    "codice_istat": "066083",
+    "comune": "Rocca Pia",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 83,
+    "popolazione_femminile": 70,
+    "popolazione_totale": 153
+  },
+  {
+    "codice_istat": "066079",
+    "comune": "Roccacasale",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 282,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 562
+  },
+  {
+    "codice_istat": "066084",
+    "comune": "Roccaraso",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 721,
+    "popolazione_totale": 1460
+  },
+  {
+    "codice_istat": "066085",
+    "comune": "San Benedetto dei Marsi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1884,
+    "popolazione_femminile": 1831,
+    "popolazione_totale": 3715
+  },
+  {
+    "codice_istat": "066086",
+    "comune": "San Benedetto in Perillis",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 60,
+    "popolazione_femminile": 40,
+    "popolazione_totale": 100
+  },
+  {
+    "codice_istat": "066087",
+    "comune": "San Demetrio ne' Vestini",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1030,
+    "popolazione_femminile": 972,
+    "popolazione_totale": 2002
+  },
+  {
+    "codice_istat": "066088",
+    "comune": "San Pio delle Camere",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 332,
+    "popolazione_femminile": 331,
+    "popolazione_totale": 663
+  },
+  {
+    "codice_istat": "066092",
+    "comune": "San Vincenzo Valle Roveto",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 974,
+    "popolazione_femminile": 1039,
+    "popolazione_totale": 2013
+  },
+  {
+    "codice_istat": "066090",
+    "comune": "Sant'Eusanio Forconese",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 184,
+    "popolazione_femminile": 180,
+    "popolazione_totale": 364
+  },
+  {
+    "codice_istat": "066089",
+    "comune": "Sante Marie",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 513,
+    "popolazione_totale": 1053
+  },
+  {
+    "codice_istat": "066091",
+    "comune": "Santo Stefano di Sessanio",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 49,
+    "popolazione_femminile": 53,
+    "popolazione_totale": 102
+  },
+  {
+    "codice_istat": "066093",
+    "comune": "Scanno",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 814,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1662
+  },
+  {
+    "codice_istat": "066094",
+    "comune": "Scontrone",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 283,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 535
+  },
+  {
+    "codice_istat": "066095",
+    "comune": "Scoppito",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1920,
+    "popolazione_femminile": 1889,
+    "popolazione_totale": 3809
+  },
+  {
+    "codice_istat": "066096",
+    "comune": "Scurcola Marsicana",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1352,
+    "popolazione_femminile": 1348,
+    "popolazione_totale": 2700
+  },
+  {
+    "codice_istat": "066097",
+    "comune": "Secinaro",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 140,
+    "popolazione_totale": 302
+  },
+  {
+    "codice_istat": "066098",
+    "comune": "Sulmona",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 10507,
+    "popolazione_femminile": 11103,
+    "popolazione_totale": 21610
+  },
+  {
+    "codice_istat": "066099",
+    "comune": "Tagliacozzo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 3181,
+    "popolazione_femminile": 3236,
+    "popolazione_totale": 6417
+  },
+  {
+    "codice_istat": "066100",
+    "comune": "Tione degli Abruzzi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 125,
+    "popolazione_femminile": 118,
+    "popolazione_totale": 243
+  },
+  {
+    "codice_istat": "066101",
+    "comune": "Tornimparte",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 1395,
+    "popolazione_femminile": 1334,
+    "popolazione_totale": 2729
+  },
+  {
+    "codice_istat": "066102",
+    "comune": "Trasacco",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 2991,
+    "popolazione_femminile": 2813,
+    "popolazione_totale": 5804
+  },
+  {
+    "codice_istat": "066105",
+    "comune": "Villa Sant'Angelo",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 229,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 511
+  },
+  {
+    "codice_istat": "066104",
+    "comune": "Villa Santa Lucia degli Abruzzi",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 38,
+    "popolazione_femminile": 38,
+    "popolazione_totale": 76
+  },
+  {
+    "codice_istat": "066103",
+    "comune": "Villalago",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 254,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 490
+  },
+  {
+    "codice_istat": "066106",
+    "comune": "Villavallelonga",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 429,
+    "popolazione_totale": 822
+  },
+  {
+    "codice_istat": "066107",
+    "comune": "Villetta Barrea",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 307,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 589
+  },
+  {
+    "codice_istat": "066108",
+    "comune": "Vittorito",
+    "provincia": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "popolazione_maschile": 384,
+    "popolazione_femminile": 420,
+    "popolazione_totale": 804
+  }
+]

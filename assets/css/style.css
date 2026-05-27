@@ -19,6 +19,7 @@ header {
     text-align: center;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .header1 {
@@ -54,7 +55,6 @@ main {
     flex: 1;
     max-width: 1440px;
     width: 100%;
-    /* <-- Aggiungi solo questa riga */
     margin: 0 auto;
 }
 
@@ -72,11 +72,31 @@ svg {
     margin-top: 20px;
 }
 
-#titolo-regione {
+.titolo-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titolo {
     margin: 0px 0px 15px 40px;
 }
 
-#elenco-province {
+.elementi-trovati {
+    margin: 0px 0px 15px 50px;
+}
+
+#estendi {
+    color: #800000;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+#estendi:hover {
+    text-decoration: underline;
+}
+
+.tabella {
     /* border: 1px solid black; */
     width: 100%;
 }
@@ -141,12 +161,12 @@ footer {
     border-radius: 20px 20px 0px 0px;
 }
 
-.a_footer {
+.a_link {
     color: white;
     text-decoration: none;
 }
 
-.a_footer:hover {
+.a_link:hover {
     text-decoration: underline;
 }
 
@@ -174,6 +194,11 @@ footer {
     border: 1px solid #fff;
     background-color: #800000;
     color: white;
+}
+
+.nav-invisibile {
+    position: absolute;
+    left: -9999px;
 }
 
 @media (max-width: 768px) {

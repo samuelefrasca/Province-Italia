@@ -1,0 +1,413 @@
+[
+  {
+    "codice_istat": "072001",
+    "comune": "Acquaviva delle Fonti",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 9574,
+    "popolazione_femminile": 10106,
+    "popolazione_totale": 19680
+  },
+  {
+    "codice_istat": "072002",
+    "comune": "Adelfia",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 8044,
+    "popolazione_femminile": 8327,
+    "popolazione_totale": 16371
+  },
+  {
+    "codice_istat": "072003",
+    "comune": "Alberobello",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 4895,
+    "popolazione_femminile": 5134,
+    "popolazione_totale": 10029
+  },
+  {
+    "codice_istat": "072004",
+    "comune": "Altamura",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 34574,
+    "popolazione_femminile": 35762,
+    "popolazione_totale": 70336
+  },
+  {
+    "codice_istat": "072006",
+    "comune": "Bari",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 152764,
+    "popolazione_femminile": 163484,
+    "popolazione_totale": 316248,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "072008",
+    "comune": "Binetto",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 1075,
+    "popolazione_femminile": 1109,
+    "popolazione_totale": 2184
+  },
+  {
+    "codice_istat": "072010",
+    "comune": "Bitetto",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 5733,
+    "popolazione_femminile": 6012,
+    "popolazione_totale": 11745
+  },
+  {
+    "codice_istat": "072011",
+    "comune": "Bitonto",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 26076,
+    "popolazione_femminile": 26792,
+    "popolazione_totale": 52868
+  },
+  {
+    "codice_istat": "072012",
+    "comune": "Bitritto",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 5583,
+    "popolazione_femminile": 5873,
+    "popolazione_totale": 11456
+  },
+  {
+    "codice_istat": "072014",
+    "comune": "Capurso",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7340,
+    "popolazione_femminile": 7767,
+    "popolazione_totale": 15107
+  },
+  {
+    "codice_istat": "072015",
+    "comune": "Casamassima",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 9421,
+    "popolazione_femminile": 9672,
+    "popolazione_totale": 19093
+  },
+  {
+    "codice_istat": "072016",
+    "comune": "Cassano delle Murge",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 7626,
+    "popolazione_femminile": 7656,
+    "popolazione_totale": 15282
+  },
+  {
+    "codice_istat": "072017",
+    "comune": "Castellana Grotte",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 9619,
+    "popolazione_femminile": 10083,
+    "popolazione_totale": 19702
+  },
+  {
+    "codice_istat": "072018",
+    "comune": "Cellamare",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2850,
+    "popolazione_femminile": 2911,
+    "popolazione_totale": 5761
+  },
+  {
+    "codice_istat": "072019",
+    "comune": "Conversano",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 12769,
+    "popolazione_femminile": 13224,
+    "popolazione_totale": 25993
+  },
+  {
+    "codice_istat": "072020",
+    "comune": "Corato",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 22998,
+    "popolazione_femminile": 23847,
+    "popolazione_totale": 46845
+  },
+  {
+    "codice_istat": "072021",
+    "comune": "Gioia del Colle",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 13074,
+    "popolazione_femminile": 13359,
+    "popolazione_totale": 26433
+  },
+  {
+    "codice_istat": "072022",
+    "comune": "Giovinazzo",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 9225,
+    "popolazione_femminile": 9862,
+    "popolazione_totale": 19087
+  },
+  {
+    "codice_istat": "072023",
+    "comune": "Gravina in Puglia",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 20822,
+    "popolazione_femminile": 21168,
+    "popolazione_totale": 41990
+  },
+  {
+    "codice_istat": "072024",
+    "comune": "Grumo Appula",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 6079,
+    "popolazione_femminile": 5877,
+    "popolazione_totale": 11956
+  },
+  {
+    "codice_istat": "072025",
+    "comune": "Locorotondo",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 6714,
+    "popolazione_femminile": 7078,
+    "popolazione_totale": 13792
+  },
+  {
+    "codice_istat": "072027",
+    "comune": "Modugno",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 17562,
+    "popolazione_femminile": 18431,
+    "popolazione_totale": 35993
+  },
+  {
+    "codice_istat": "072028",
+    "comune": "Mola di Bari",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 11917,
+    "popolazione_femminile": 12178,
+    "popolazione_totale": 24095
+  },
+  {
+    "codice_istat": "072029",
+    "comune": "Molfetta",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 27659,
+    "popolazione_femminile": 29357,
+    "popolazione_totale": 57016
+  },
+  {
+    "codice_istat": "072030",
+    "comune": "Monopoli",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 23248,
+    "popolazione_femminile": 24409,
+    "popolazione_totale": 47657
+  },
+  {
+    "codice_istat": "072031",
+    "comune": "Noci",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 8792,
+    "popolazione_femminile": 9303,
+    "popolazione_totale": 18095
+  },
+  {
+    "codice_istat": "072032",
+    "comune": "Noicattaro",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 12785,
+    "popolazione_femminile": 12981,
+    "popolazione_totale": 25766
+  },
+  {
+    "codice_istat": "072033",
+    "comune": "Palo del Colle",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 9974,
+    "popolazione_femminile": 10279,
+    "popolazione_totale": 20253
+  },
+  {
+    "codice_istat": "072034",
+    "comune": "Poggiorsini",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 633,
+    "popolazione_femminile": 607,
+    "popolazione_totale": 1240
+  },
+  {
+    "codice_istat": "072035",
+    "comune": "Polignano a Mare",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 8508,
+    "popolazione_femminile": 8763,
+    "popolazione_totale": 17271
+  },
+  {
+    "codice_istat": "072036",
+    "comune": "Putignano",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 12570,
+    "popolazione_femminile": 13126,
+    "popolazione_totale": 25696
+  },
+  {
+    "codice_istat": "072037",
+    "comune": "Rutigliano",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 8937,
+    "popolazione_femminile": 9317,
+    "popolazione_totale": 18254
+  },
+  {
+    "codice_istat": "072038",
+    "comune": "Ruvo di Puglia",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 11815,
+    "popolazione_femminile": 12277,
+    "popolazione_totale": 24092
+  },
+  {
+    "codice_istat": "072039",
+    "comune": "Sammichele di Bari",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 2895,
+    "popolazione_femminile": 3026,
+    "popolazione_totale": 5921
+  },
+  {
+    "codice_istat": "072040",
+    "comune": "Sannicandro di Bari",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 4935,
+    "popolazione_femminile": 4673,
+    "popolazione_totale": 9608
+  },
+  {
+    "codice_istat": "072041",
+    "comune": "Santeramo in Colle",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 12634,
+    "popolazione_femminile": 12944,
+    "popolazione_totale": 25578
+  },
+  {
+    "codice_istat": "072043",
+    "comune": "Terlizzi",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 12909,
+    "popolazione_femminile": 13049,
+    "popolazione_totale": 25958
+  },
+  {
+    "codice_istat": "072044",
+    "comune": "Toritto",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 3901,
+    "popolazione_femminile": 4052,
+    "popolazione_totale": 7953
+  },
+  {
+    "codice_istat": "072046",
+    "comune": "Triggiano",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 12289,
+    "popolazione_femminile": 13269,
+    "popolazione_totale": 25558
+  },
+  {
+    "codice_istat": "072047",
+    "comune": "Turi",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 6329,
+    "popolazione_femminile": 6643,
+    "popolazione_totale": 12972
+  },
+  {
+    "codice_istat": "072048",
+    "comune": "Valenzano",
+    "provincia": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "popolazione_maschile": 8298,
+    "popolazione_femminile": 8841,
+    "popolazione_totale": 17139
+  }
+]

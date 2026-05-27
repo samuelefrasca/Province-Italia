@@ -1,0 +1,234 @@
+[
+  {
+    "codice_istat": "116001",
+    "comune": "Arzana",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1104,
+    "popolazione_femminile": 1095,
+    "popolazione_totale": 2199
+  },
+  {
+    "codice_istat": "116002",
+    "comune": "Bari Sardo",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1825,
+    "popolazione_femminile": 1945,
+    "popolazione_totale": 3770
+  },
+  {
+    "codice_istat": "116003",
+    "comune": "Baunei",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1656,
+    "popolazione_femminile": 1710,
+    "popolazione_totale": 3366
+  },
+  {
+    "codice_istat": "116004",
+    "comune": "Cardedu",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 974,
+    "popolazione_femminile": 1028,
+    "popolazione_totale": 2002
+  },
+  {
+    "codice_istat": "116005",
+    "comune": "Elini",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 284,
+    "popolazione_totale": 555
+  },
+  {
+    "codice_istat": "116006",
+    "comune": "Gairo",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 626,
+    "popolazione_femminile": 646,
+    "popolazione_totale": 1272
+  },
+  {
+    "codice_istat": "116007",
+    "comune": "Girasole",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 687,
+    "popolazione_femminile": 682,
+    "popolazione_totale": 1369
+  },
+  {
+    "codice_istat": "116008",
+    "comune": "Ilbono",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 959,
+    "popolazione_femminile": 1007,
+    "popolazione_totale": 1966
+  },
+  {
+    "codice_istat": "116009",
+    "comune": "Jerzu",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1444,
+    "popolazione_femminile": 1468,
+    "popolazione_totale": 2912
+  },
+  {
+    "codice_istat": "116010",
+    "comune": "Lanusei",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2396,
+    "popolazione_femminile": 2485,
+    "popolazione_totale": 4881,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "116011",
+    "comune": "Loceri",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 658,
+    "popolazione_femminile": 687,
+    "popolazione_totale": 1345
+  },
+  {
+    "codice_istat": "116012",
+    "comune": "Lotzorai",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1020,
+    "popolazione_femminile": 1102,
+    "popolazione_totale": 2122
+  },
+  {
+    "codice_istat": "116013",
+    "comune": "Osini",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 321,
+    "popolazione_totale": 681
+  },
+  {
+    "codice_istat": "116014",
+    "comune": "Perdasdefogu",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 864,
+    "popolazione_femminile": 825,
+    "popolazione_totale": 1689
+  },
+  {
+    "codice_istat": "116023",
+    "comune": "Seui",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 587,
+    "popolazione_femminile": 550,
+    "popolazione_totale": 1137
+  },
+  {
+    "codice_istat": "116015",
+    "comune": "Talana",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 437,
+    "popolazione_femminile": 476,
+    "popolazione_totale": 913
+  },
+  {
+    "codice_istat": "116016",
+    "comune": "Tertenia",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1911,
+    "popolazione_femminile": 1923,
+    "popolazione_totale": 3834
+  },
+  {
+    "codice_istat": "116017",
+    "comune": "Tortolì",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 5429,
+    "popolazione_femminile": 5565,
+    "popolazione_totale": 10994,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "116018",
+    "comune": "Triei",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 537,
+    "popolazione_femminile": 523,
+    "popolazione_totale": 1060
+  },
+  {
+    "codice_istat": "116019",
+    "comune": "Ulassai",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 659,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1365
+  },
+  {
+    "codice_istat": "116020",
+    "comune": "Urzulei",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 511,
+    "popolazione_femminile": 513,
+    "popolazione_totale": 1024
+  },
+  {
+    "codice_istat": "116021",
+    "comune": "Ussassai",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 223,
+    "popolazione_femminile": 209,
+    "popolazione_totale": 432
+  },
+  {
+    "codice_istat": "116022",
+    "comune": "Villagrande Strisaili",
+    "provincia": "Ogliastra",
+    "sigla": "OG",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1415,
+    "popolazione_femminile": 1419,
+    "popolazione_totale": 2834
+  }
+]

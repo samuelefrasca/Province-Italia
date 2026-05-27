@@ -1,0 +1,503 @@
+[
+  {
+    "codice_istat": "029001",
+    "comune": "Adria",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 9319,
+    "popolazione_femminile": 9559,
+    "popolazione_totale": 18878
+  },
+  {
+    "codice_istat": "029002",
+    "comune": "Ariano nel Polesine",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1825,
+    "popolazione_femminile": 1932,
+    "popolazione_totale": 3757
+  },
+  {
+    "codice_istat": "029003",
+    "comune": "Arquà Polesine",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1292,
+    "popolazione_femminile": 1286,
+    "popolazione_totale": 2578
+  },
+  {
+    "codice_istat": "029004",
+    "comune": "Badia Polesine",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 5199,
+    "popolazione_femminile": 5179,
+    "popolazione_totale": 10378
+  },
+  {
+    "codice_istat": "029005",
+    "comune": "Bagnolo di Po",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 629,
+    "popolazione_femminile": 574,
+    "popolazione_totale": 1203
+  },
+  {
+    "codice_istat": "029006",
+    "comune": "Bergantino",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1146,
+    "popolazione_femminile": 1194,
+    "popolazione_totale": 2340
+  },
+  {
+    "codice_istat": "029007",
+    "comune": "Bosaro",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 725,
+    "popolazione_femminile": 687,
+    "popolazione_totale": 1412
+  },
+  {
+    "codice_istat": "029008",
+    "comune": "Calto",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 699
+  },
+  {
+    "codice_istat": "029009",
+    "comune": "Canaro",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1272,
+    "popolazione_femminile": 1297,
+    "popolazione_totale": 2569
+  },
+  {
+    "codice_istat": "029010",
+    "comune": "Canda",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 397,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 812
+  },
+  {
+    "codice_istat": "029011",
+    "comune": "Castelguglielmo",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 795,
+    "popolazione_femminile": 715,
+    "popolazione_totale": 1510
+  },
+  {
+    "codice_istat": "029012",
+    "comune": "Castelmassa",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1972,
+    "popolazione_femminile": 2054,
+    "popolazione_totale": 4026
+  },
+  {
+    "codice_istat": "029013",
+    "comune": "Castelnovo Bariano",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1288,
+    "popolazione_femminile": 1300,
+    "popolazione_totale": 2588
+  },
+  {
+    "codice_istat": "029014",
+    "comune": "Ceneselli",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 800,
+    "popolazione_femminile": 773,
+    "popolazione_totale": 1573
+  },
+  {
+    "codice_istat": "029015",
+    "comune": "Ceregnano",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1656,
+    "popolazione_femminile": 1721,
+    "popolazione_totale": 3377
+  },
+  {
+    "codice_istat": "029017",
+    "comune": "Corbola",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1089,
+    "popolazione_femminile": 1157,
+    "popolazione_totale": 2246
+  },
+  {
+    "codice_istat": "029018",
+    "comune": "Costa di Rovigo",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1183,
+    "popolazione_femminile": 1237,
+    "popolazione_totale": 2420
+  },
+  {
+    "codice_istat": "029019",
+    "comune": "Crespino",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 883,
+    "popolazione_femminile": 904,
+    "popolazione_totale": 1787
+  },
+  {
+    "codice_istat": "029021",
+    "comune": "Ficarolo",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1060,
+    "popolazione_femminile": 1139,
+    "popolazione_totale": 2199
+  },
+  {
+    "codice_istat": "029022",
+    "comune": "Fiesso Umbertiano",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1935,
+    "popolazione_femminile": 1947,
+    "popolazione_totale": 3882
+  },
+  {
+    "codice_istat": "029023",
+    "comune": "Frassinelle Polesine",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 657,
+    "popolazione_femminile": 669,
+    "popolazione_totale": 1326
+  },
+  {
+    "codice_istat": "029024",
+    "comune": "Fratta Polesine",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1156,
+    "popolazione_femminile": 1289,
+    "popolazione_totale": 2445
+  },
+  {
+    "codice_istat": "029025",
+    "comune": "Gaiba",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 470,
+    "popolazione_totale": 932
+  },
+  {
+    "codice_istat": "029026",
+    "comune": "Gavello",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 700,
+    "popolazione_totale": 1418
+  },
+  {
+    "codice_istat": "029027",
+    "comune": "Giacciano con Baruchella",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1057,
+    "popolazione_femminile": 1026,
+    "popolazione_totale": 2083
+  },
+  {
+    "codice_istat": "029028",
+    "comune": "Guarda Veneta",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 541,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1100
+  },
+  {
+    "codice_istat": "029029",
+    "comune": "Lendinara",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 5785,
+    "popolazione_femminile": 5753,
+    "popolazione_totale": 11538
+  },
+  {
+    "codice_istat": "029030",
+    "comune": "Loreo",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1604,
+    "popolazione_femminile": 1573,
+    "popolazione_totale": 3177
+  },
+  {
+    "codice_istat": "029031",
+    "comune": "Lusia",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1597,
+    "popolazione_femminile": 1599,
+    "popolazione_totale": 3196
+  },
+  {
+    "codice_istat": "029032",
+    "comune": "Melara",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 844,
+    "popolazione_femminile": 860,
+    "popolazione_totale": 1704
+  },
+  {
+    "codice_istat": "029033",
+    "comune": "Occhiobello",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 5853,
+    "popolazione_femminile": 6169,
+    "popolazione_totale": 12022
+  },
+  {
+    "codice_istat": "029034",
+    "comune": "Papozze",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 690,
+    "popolazione_femminile": 718,
+    "popolazione_totale": 1408
+  },
+  {
+    "codice_istat": "029035",
+    "comune": "Pettorazza Grimani",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 707,
+    "popolazione_femminile": 685,
+    "popolazione_totale": 1392
+  },
+  {
+    "codice_istat": "029036",
+    "comune": "Pincara",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 543,
+    "popolazione_femminile": 519,
+    "popolazione_totale": 1062
+  },
+  {
+    "codice_istat": "029037",
+    "comune": "Polesella",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1876,
+    "popolazione_femminile": 1800,
+    "popolazione_totale": 3676
+  },
+  {
+    "codice_istat": "029038",
+    "comune": "Pontecchio Polesine",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1133,
+    "popolazione_femminile": 1089,
+    "popolazione_totale": 2222
+  },
+  {
+    "codice_istat": "029039",
+    "comune": "Porto Tolle",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 4210,
+    "popolazione_femminile": 4397,
+    "popolazione_totale": 8607
+  },
+  {
+    "codice_istat": "029052",
+    "comune": "Porto Viro",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 6773,
+    "popolazione_femminile": 6902,
+    "popolazione_totale": 13675
+  },
+  {
+    "codice_istat": "029040",
+    "comune": "Rosolina",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 3047,
+    "popolazione_femminile": 2996,
+    "popolazione_totale": 6043
+  },
+  {
+    "codice_istat": "029041",
+    "comune": "Rovigo",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 24434,
+    "popolazione_femminile": 25560,
+    "popolazione_totale": 49994,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "029042",
+    "comune": "Salara",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 484,
+    "popolazione_femminile": 543,
+    "popolazione_totale": 1027
+  },
+  {
+    "codice_istat": "029043",
+    "comune": "San Bellino",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 545,
+    "popolazione_femminile": 530,
+    "popolazione_totale": 1075
+  },
+  {
+    "codice_istat": "029044",
+    "comune": "San Martino di Venezze",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1895,
+    "popolazione_femminile": 1911,
+    "popolazione_totale": 3806
+  },
+  {
+    "codice_istat": "029045",
+    "comune": "Stienta",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1503,
+    "popolazione_femminile": 1516,
+    "popolazione_totale": 3019
+  },
+  {
+    "codice_istat": "029046",
+    "comune": "Taglio di Po",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 3893,
+    "popolazione_femminile": 3943,
+    "popolazione_totale": 7836
+  },
+  {
+    "codice_istat": "029047",
+    "comune": "Trecenta",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 1274,
+    "popolazione_femminile": 1331,
+    "popolazione_totale": 2605
+  },
+  {
+    "codice_istat": "029048",
+    "comune": "Villadose",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 2312,
+    "popolazione_femminile": 2328,
+    "popolazione_totale": 4640
+  },
+  {
+    "codice_istat": "029049",
+    "comune": "Villamarzana",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 554,
+    "popolazione_femminile": 558,
+    "popolazione_totale": 1112
+  },
+  {
+    "codice_istat": "029050",
+    "comune": "Villanova del Ghebbo",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 982,
+    "popolazione_femminile": 951,
+    "popolazione_totale": 1933
+  },
+  {
+    "codice_istat": "029051",
+    "comune": "Villanova Marchesana",
+    "provincia": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "popolazione_maschile": 460,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 876
+  }
+]

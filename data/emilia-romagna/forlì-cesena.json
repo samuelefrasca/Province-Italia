@@ -1,0 +1,304 @@
+[
+  {
+    "codice_istat": "040001",
+    "comune": "Bagno di Romagna",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2734,
+    "popolazione_femminile": 2850,
+    "popolazione_totale": 5584
+  },
+  {
+    "codice_istat": "040003",
+    "comune": "Bertinoro",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5520,
+    "popolazione_femminile": 5673,
+    "popolazione_totale": 11193
+  },
+  {
+    "codice_istat": "040004",
+    "comune": "Borghi",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1499,
+    "popolazione_femminile": 1416,
+    "popolazione_totale": 2915
+  },
+  {
+    "codice_istat": "040005",
+    "comune": "Castrocaro Terme e Terra del Sole",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3159,
+    "popolazione_femminile": 3371,
+    "popolazione_totale": 6530
+  },
+  {
+    "codice_istat": "040007",
+    "comune": "Cesena",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 46519,
+    "popolazione_femminile": 49101,
+    "popolazione_totale": 95620,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "040008",
+    "comune": "Cesenatico",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 12641,
+    "popolazione_femminile": 13401,
+    "popolazione_totale": 26042
+  },
+  {
+    "codice_istat": "040009",
+    "comune": "Civitella di Romagna",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1819,
+    "popolazione_femminile": 1807,
+    "popolazione_totale": 3626
+  },
+  {
+    "codice_istat": "040011",
+    "comune": "Dovadola",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 781,
+    "popolazione_femminile": 810,
+    "popolazione_totale": 1591
+  },
+  {
+    "codice_istat": "040012",
+    "comune": "Forlì",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 58019,
+    "popolazione_femminile": 60034,
+    "popolazione_totale": 118053,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "040013",
+    "comune": "Forlimpopoli",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6524,
+    "popolazione_femminile": 6616,
+    "popolazione_totale": 13140
+  },
+  {
+    "codice_istat": "040014",
+    "comune": "Galeata",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1313,
+    "popolazione_femminile": 1243,
+    "popolazione_totale": 2556
+  },
+  {
+    "codice_istat": "040015",
+    "comune": "Gambettola",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5361,
+    "popolazione_femminile": 5602,
+    "popolazione_totale": 10963
+  },
+  {
+    "codice_istat": "040016",
+    "comune": "Gatteo",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4720,
+    "popolazione_femminile": 4749,
+    "popolazione_totale": 9469
+  },
+  {
+    "codice_istat": "040018",
+    "comune": "Longiano",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3579,
+    "popolazione_femminile": 3615,
+    "popolazione_totale": 7194
+  },
+  {
+    "codice_istat": "040019",
+    "comune": "Meldola",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4982,
+    "popolazione_femminile": 5055,
+    "popolazione_totale": 10037
+  },
+  {
+    "codice_istat": "040020",
+    "comune": "Mercato Saraceno",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3486,
+    "popolazione_femminile": 3340,
+    "popolazione_totale": 6826
+  },
+  {
+    "codice_istat": "040022",
+    "comune": "Modigliana",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2149,
+    "popolazione_femminile": 2152,
+    "popolazione_totale": 4301
+  },
+  {
+    "codice_istat": "040028",
+    "comune": "Montiano",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 838,
+    "popolazione_femminile": 857,
+    "popolazione_totale": 1695
+  },
+  {
+    "codice_istat": "040031",
+    "comune": "Portico e San Benedetto",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 348,
+    "popolazione_totale": 716
+  },
+  {
+    "codice_istat": "040032",
+    "comune": "Predappio",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3258,
+    "popolazione_femminile": 3106,
+    "popolazione_totale": 6364
+  },
+  {
+    "codice_istat": "040033",
+    "comune": "Premilcuore",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 344,
+    "popolazione_femminile": 331,
+    "popolazione_totale": 675
+  },
+  {
+    "codice_istat": "040036",
+    "comune": "Rocca San Casciano",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 916,
+    "popolazione_femminile": 907,
+    "popolazione_totale": 1823
+  },
+  {
+    "codice_istat": "040037",
+    "comune": "Roncofreddo",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1804,
+    "popolazione_femminile": 1754,
+    "popolazione_totale": 3558
+  },
+  {
+    "codice_istat": "040041",
+    "comune": "San Mauro Pascoli",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6142,
+    "popolazione_femminile": 6316,
+    "popolazione_totale": 12458
+  },
+  {
+    "codice_istat": "040043",
+    "comune": "Santa Sofia",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2016,
+    "popolazione_femminile": 2017,
+    "popolazione_totale": 4033
+  },
+  {
+    "codice_istat": "040044",
+    "comune": "Sarsina",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1660,
+    "popolazione_femminile": 1627,
+    "popolazione_totale": 3287
+  },
+  {
+    "codice_istat": "040045",
+    "comune": "Savignano sul Rubicone",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 9015,
+    "popolazione_femminile": 9132,
+    "popolazione_totale": 18147
+  },
+  {
+    "codice_istat": "040046",
+    "comune": "Sogliano al Rubicone",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1568,
+    "popolazione_femminile": 1577,
+    "popolazione_totale": 3145
+  },
+  {
+    "codice_istat": "040049",
+    "comune": "Tredozio",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 545,
+    "popolazione_femminile": 530,
+    "popolazione_totale": 1075
+  },
+  {
+    "codice_istat": "040050",
+    "comune": "Verghereto",
+    "provincia": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 897,
+    "popolazione_femminile": 824,
+    "popolazione_totale": 1721
+  }
+]

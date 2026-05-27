@@ -1,0 +1,923 @@
+[
+  {
+    "codice_istat": "063001",
+    "comune": "Acerra",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 28846,
+    "popolazione_femminile": 29739,
+    "popolazione_totale": 58585
+  },
+  {
+    "codice_istat": "063002",
+    "comune": "Afragola",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 30363,
+    "popolazione_femminile": 31218,
+    "popolazione_totale": 61581
+  },
+  {
+    "codice_istat": "063003",
+    "comune": "Agerola",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3868,
+    "popolazione_femminile": 3976,
+    "popolazione_totale": 7844
+  },
+  {
+    "codice_istat": "063004",
+    "comune": "Anacapri",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3314,
+    "popolazione_femminile": 3432,
+    "popolazione_totale": 6746
+  },
+  {
+    "codice_istat": "063005",
+    "comune": "Arzano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 15468,
+    "popolazione_femminile": 16145,
+    "popolazione_totale": 31613
+  },
+  {
+    "codice_istat": "063006",
+    "comune": "Bacoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 12071,
+    "popolazione_femminile": 12712,
+    "popolazione_totale": 24783
+  },
+  {
+    "codice_istat": "063007",
+    "comune": "Barano d'Ischia",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4930,
+    "popolazione_femminile": 5023,
+    "popolazione_totale": 9953
+  },
+  {
+    "codice_istat": "063008",
+    "comune": "Boscoreale",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 12587,
+    "popolazione_femminile": 13058,
+    "popolazione_totale": 25645
+  },
+  {
+    "codice_istat": "063009",
+    "comune": "Boscotrecase",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4781,
+    "popolazione_femminile": 5015,
+    "popolazione_totale": 9796
+  },
+  {
+    "codice_istat": "063010",
+    "comune": "Brusciano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 7937,
+    "popolazione_femminile": 8212,
+    "popolazione_totale": 16149
+  },
+  {
+    "codice_istat": "063011",
+    "comune": "Caivano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 17688,
+    "popolazione_femminile": 18198,
+    "popolazione_totale": 35886
+  },
+  {
+    "codice_istat": "063012",
+    "comune": "Calvizzano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 6575,
+    "popolazione_femminile": 6294,
+    "popolazione_totale": 12869
+  },
+  {
+    "codice_istat": "063013",
+    "comune": "Camposano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 2408,
+    "popolazione_femminile": 2602,
+    "popolazione_totale": 5010
+  },
+  {
+    "codice_istat": "063014",
+    "comune": "Capri",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3336,
+    "popolazione_femminile": 3369,
+    "popolazione_totale": 6705
+  },
+  {
+    "codice_istat": "063015",
+    "comune": "Carbonara di Nola",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 1246,
+    "popolazione_femminile": 1217,
+    "popolazione_totale": 2463
+  },
+  {
+    "codice_istat": "063016",
+    "comune": "Cardito",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 10491,
+    "popolazione_femminile": 10943,
+    "popolazione_totale": 21434
+  },
+  {
+    "codice_istat": "063017",
+    "comune": "Casalnuovo di Napoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 22730,
+    "popolazione_femminile": 23933,
+    "popolazione_totale": 46663
+  },
+  {
+    "codice_istat": "063018",
+    "comune": "Casamarciano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 1489,
+    "popolazione_femminile": 1501,
+    "popolazione_totale": 2990
+  },
+  {
+    "codice_istat": "063019",
+    "comune": "Casamicciola Terme",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3600,
+    "popolazione_femminile": 3761,
+    "popolazione_totale": 7361
+  },
+  {
+    "codice_istat": "063020",
+    "comune": "Casandrino",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 6688,
+    "popolazione_femminile": 6367,
+    "popolazione_totale": 13055
+  },
+  {
+    "codice_istat": "063021",
+    "comune": "Casavatore",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 8857,
+    "popolazione_femminile": 9387,
+    "popolazione_totale": 18244
+  },
+  {
+    "codice_istat": "063022",
+    "comune": "Casola di Napoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 1759,
+    "popolazione_femminile": 1839,
+    "popolazione_totale": 3598
+  },
+  {
+    "codice_istat": "063023",
+    "comune": "Casoria",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 35285,
+    "popolazione_femminile": 37972,
+    "popolazione_totale": 73257
+  },
+  {
+    "codice_istat": "063024",
+    "comune": "Castellammare di Stabia",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 29625,
+    "popolazione_femminile": 32312,
+    "popolazione_totale": 61937
+  },
+  {
+    "codice_istat": "063025",
+    "comune": "Castello di Cisterna",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3862,
+    "popolazione_femminile": 3993,
+    "popolazione_totale": 7855
+  },
+  {
+    "codice_istat": "063026",
+    "comune": "Cercola",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 8013,
+    "popolazione_femminile": 8689,
+    "popolazione_totale": 16702
+  },
+  {
+    "codice_istat": "063027",
+    "comune": "Cicciano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 6087,
+    "popolazione_femminile": 6255,
+    "popolazione_totale": 12342
+  },
+  {
+    "codice_istat": "063028",
+    "comune": "Cimitile",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3353,
+    "popolazione_femminile": 3554,
+    "popolazione_totale": 6907
+  },
+  {
+    "codice_istat": "063029",
+    "comune": "Comiziano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 819,
+    "popolazione_femminile": 846,
+    "popolazione_totale": 1665
+  },
+  {
+    "codice_istat": "063030",
+    "comune": "Crispano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 5673,
+    "popolazione_femminile": 5893,
+    "popolazione_totale": 11566
+  },
+  {
+    "codice_istat": "063064",
+    "comune": "Ercolano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 23798,
+    "popolazione_femminile": 25381,
+    "popolazione_totale": 49179
+  },
+  {
+    "codice_istat": "063031",
+    "comune": "Forio",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 8706,
+    "popolazione_femminile": 8758,
+    "popolazione_totale": 17464
+  },
+  {
+    "codice_istat": "063032",
+    "comune": "Frattamaggiore",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 13900,
+    "popolazione_femminile": 14777,
+    "popolazione_totale": 28677
+  },
+  {
+    "codice_istat": "063033",
+    "comune": "Frattaminore",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 7599,
+    "popolazione_femminile": 7813,
+    "popolazione_totale": 15412
+  },
+  {
+    "codice_istat": "063034",
+    "comune": "Giugliano in Campania",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 61720,
+    "popolazione_femminile": 63298,
+    "popolazione_totale": 125018
+  },
+  {
+    "codice_istat": "063035",
+    "comune": "Gragnano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 13407,
+    "popolazione_femminile": 14013,
+    "popolazione_totale": 27420
+  },
+  {
+    "codice_istat": "063036",
+    "comune": "Grumo Nevano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 8565,
+    "popolazione_femminile": 8492,
+    "popolazione_totale": 17057
+  },
+  {
+    "codice_istat": "063037",
+    "comune": "Ischia",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 9620,
+    "popolazione_femminile": 9795,
+    "popolazione_totale": 19415
+  },
+  {
+    "codice_istat": "063038",
+    "comune": "Lacco Ameno",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 2191,
+    "popolazione_femminile": 2278,
+    "popolazione_totale": 4469
+  },
+  {
+    "codice_istat": "063039",
+    "comune": "Lettere",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3021,
+    "popolazione_femminile": 2998,
+    "popolazione_totale": 6019
+  },
+  {
+    "codice_istat": "063040",
+    "comune": "Liveri",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 723,
+    "popolazione_femminile": 751,
+    "popolazione_totale": 1474
+  },
+  {
+    "codice_istat": "063041",
+    "comune": "Marano di Napoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 27925,
+    "popolazione_femminile": 29706,
+    "popolazione_totale": 57631
+  },
+  {
+    "codice_istat": "063042",
+    "comune": "Mariglianella",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4013,
+    "popolazione_femminile": 4034,
+    "popolazione_totale": 8047
+  },
+  {
+    "codice_istat": "063043",
+    "comune": "Marigliano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 14272,
+    "popolazione_femminile": 15224,
+    "popolazione_totale": 29496
+  },
+  {
+    "codice_istat": "063092",
+    "comune": "Massa di Somma",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 2405,
+    "popolazione_femminile": 2528,
+    "popolazione_totale": 4933
+  },
+  {
+    "codice_istat": "063044",
+    "comune": "Massa Lubrense",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 6970,
+    "popolazione_femminile": 7146,
+    "popolazione_totale": 14116
+  },
+  {
+    "codice_istat": "063045",
+    "comune": "Melito di Napoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 17658,
+    "popolazione_femminile": 18498,
+    "popolazione_totale": 36156
+  },
+  {
+    "codice_istat": "063046",
+    "comune": "Meta",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3776,
+    "popolazione_femminile": 4079,
+    "popolazione_totale": 7855
+  },
+  {
+    "codice_istat": "063047",
+    "comune": "Monte di Procida",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 5683,
+    "popolazione_femminile": 6052,
+    "popolazione_totale": 11735
+  },
+  {
+    "codice_istat": "063048",
+    "comune": "Mugnano di Napoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 17219,
+    "popolazione_femminile": 18287,
+    "popolazione_totale": 35506
+  },
+  {
+    "codice_istat": "063049",
+    "comune": "Napoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 436314,
+    "popolazione_femminile": 468736,
+    "popolazione_totale": 905050,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "063050",
+    "comune": "Nola",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 16629,
+    "popolazione_femminile": 17435,
+    "popolazione_totale": 34064
+  },
+  {
+    "codice_istat": "063051",
+    "comune": "Ottaviano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 11694,
+    "popolazione_femminile": 11670,
+    "popolazione_totale": 23364
+  },
+  {
+    "codice_istat": "063052",
+    "comune": "Palma Campania",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 8440,
+    "popolazione_femminile": 7814,
+    "popolazione_totale": 16254
+  },
+  {
+    "codice_istat": "063053",
+    "comune": "Piano di Sorrento",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 5843,
+    "popolazione_femminile": 6293,
+    "popolazione_totale": 12136
+  },
+  {
+    "codice_istat": "063054",
+    "comune": "Pimonte",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 2954,
+    "popolazione_femminile": 2929,
+    "popolazione_totale": 5883
+  },
+  {
+    "codice_istat": "063055",
+    "comune": "Poggiomarino",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 11455,
+    "popolazione_femminile": 11348,
+    "popolazione_totale": 22803
+  },
+  {
+    "codice_istat": "063056",
+    "comune": "Pollena Trocchia",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 6054,
+    "popolazione_femminile": 6600,
+    "popolazione_totale": 12654
+  },
+  {
+    "codice_istat": "063057",
+    "comune": "Pomigliano d'Arco",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 18990,
+    "popolazione_femminile": 20617,
+    "popolazione_totale": 39607
+  },
+  {
+    "codice_istat": "063058",
+    "comune": "Pompei",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 11253,
+    "popolazione_femminile": 12264,
+    "popolazione_totale": 23517
+  },
+  {
+    "codice_istat": "063059",
+    "comune": "Portici",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 24100,
+    "popolazione_femminile": 27113,
+    "popolazione_totale": 51213
+  },
+  {
+    "codice_istat": "063060",
+    "comune": "Pozzuoli",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 36261,
+    "popolazione_femminile": 38404,
+    "popolazione_totale": 74665
+  },
+  {
+    "codice_istat": "063061",
+    "comune": "Procida",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4910,
+    "popolazione_femminile": 5061,
+    "popolazione_totale": 9971
+  },
+  {
+    "codice_istat": "063062",
+    "comune": "Qualiano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 12323,
+    "popolazione_femminile": 12476,
+    "popolazione_totale": 24799
+  },
+  {
+    "codice_istat": "063063",
+    "comune": "Quarto",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 20331,
+    "popolazione_femminile": 21200,
+    "popolazione_totale": 41531
+  },
+  {
+    "codice_istat": "063065",
+    "comune": "Roccarainola",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3136,
+    "popolazione_femminile": 3327,
+    "popolazione_totale": 6463
+  },
+  {
+    "codice_istat": "063066",
+    "comune": "San Gennaro Vesuviano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 6297,
+    "popolazione_femminile": 5867,
+    "popolazione_totale": 12164
+  },
+  {
+    "codice_istat": "063067",
+    "comune": "San Giorgio a Cremano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 19587,
+    "popolazione_femminile": 21998,
+    "popolazione_totale": 41585
+  },
+  {
+    "codice_istat": "063068",
+    "comune": "San Giuseppe Vesuviano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 15804,
+    "popolazione_femminile": 14746,
+    "popolazione_totale": 30550
+  },
+  {
+    "codice_istat": "063069",
+    "comune": "San Paolo Bel Sito",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 1638,
+    "popolazione_femminile": 1720,
+    "popolazione_totale": 3358
+  },
+  {
+    "codice_istat": "063070",
+    "comune": "San Sebastiano al Vesuvio",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4077,
+    "popolazione_femminile": 4494,
+    "popolazione_totale": 8571
+  },
+  {
+    "codice_istat": "063075",
+    "comune": "San Vitaliano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3212,
+    "popolazione_femminile": 3368,
+    "popolazione_totale": 6580
+  },
+  {
+    "codice_istat": "063071",
+    "comune": "Sant'Agnello",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4084,
+    "popolazione_femminile": 4341,
+    "popolazione_totale": 8425
+  },
+  {
+    "codice_istat": "063072",
+    "comune": "Sant'Anastasia",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 12664,
+    "popolazione_femminile": 13335,
+    "popolazione_totale": 25999
+  },
+  {
+    "codice_istat": "063073",
+    "comune": "Sant'Antimo",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 15908,
+    "popolazione_femminile": 16608,
+    "popolazione_totale": 32516
+  },
+  {
+    "codice_istat": "063074",
+    "comune": "Sant'Antonio Abate",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 9336,
+    "popolazione_femminile": 9430,
+    "popolazione_totale": 18766
+  },
+  {
+    "codice_istat": "063090",
+    "comune": "Santa Maria la Carità",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 5917,
+    "popolazione_femminile": 5985,
+    "popolazione_totale": 11902
+  },
+  {
+    "codice_istat": "063076",
+    "comune": "Saviano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 7916,
+    "popolazione_femminile": 8147,
+    "popolazione_totale": 16063
+  },
+  {
+    "codice_istat": "063077",
+    "comune": "Scisciano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 3168,
+    "popolazione_femminile": 3203,
+    "popolazione_totale": 6371
+  },
+  {
+    "codice_istat": "063078",
+    "comune": "Serrara Fontana",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 1502,
+    "popolazione_femminile": 1563,
+    "popolazione_totale": 3065
+  },
+  {
+    "codice_istat": "063079",
+    "comune": "Somma Vesuviana",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 16189,
+    "popolazione_femminile": 17036,
+    "popolazione_totale": 33225
+  },
+  {
+    "codice_istat": "063080",
+    "comune": "Sorrento",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 7180,
+    "popolazione_femminile": 7769,
+    "popolazione_totale": 14949
+  },
+  {
+    "codice_istat": "063081",
+    "comune": "Striano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4663,
+    "popolazione_femminile": 4603,
+    "popolazione_totale": 9266
+  },
+  {
+    "codice_istat": "063082",
+    "comune": "Terzigno",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 8802,
+    "popolazione_femminile": 8571,
+    "popolazione_totale": 17373
+  },
+  {
+    "codice_istat": "063083",
+    "comune": "Torre Annunziata",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 18924,
+    "popolazione_femminile": 20572,
+    "popolazione_totale": 39496
+  },
+  {
+    "codice_istat": "063084",
+    "comune": "Torre del Greco",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 38003,
+    "popolazione_femminile": 40836,
+    "popolazione_totale": 78839
+  },
+  {
+    "codice_istat": "063091",
+    "comune": "Trecase",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 4177,
+    "popolazione_femminile": 4345,
+    "popolazione_totale": 8522
+  },
+  {
+    "codice_istat": "063085",
+    "comune": "Tufino",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 1671,
+    "popolazione_femminile": 1679,
+    "popolazione_totale": 3350
+  },
+  {
+    "codice_istat": "063086",
+    "comune": "Vico Equense",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 9861,
+    "popolazione_femminile": 10272,
+    "popolazione_totale": 20133
+  },
+  {
+    "codice_istat": "063087",
+    "comune": "Villaricca",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 15261,
+    "popolazione_femminile": 16221,
+    "popolazione_totale": 31482
+  },
+  {
+    "codice_istat": "063088",
+    "comune": "Visciano",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 2005,
+    "popolazione_femminile": 2114,
+    "popolazione_totale": 4119
+  },
+  {
+    "codice_istat": "063089",
+    "comune": "Volla",
+    "provincia": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "popolazione_maschile": 12701,
+    "popolazione_femminile": 13220,
+    "popolazione_totale": 25921
+  }
+]

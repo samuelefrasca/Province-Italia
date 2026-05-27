@@ -1,0 +1,843 @@
+[
+  {
+    "codice_istat": "097001",
+    "comune": "Abbadia Lariana",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1537,
+    "popolazione_femminile": 1601,
+    "popolazione_totale": 3138
+  },
+  {
+    "codice_istat": "097002",
+    "comune": "Airuno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1537,
+    "popolazione_femminile": 1391,
+    "popolazione_totale": 2928
+  },
+  {
+    "codice_istat": "097003",
+    "comune": "Annone di Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1145,
+    "popolazione_femminile": 1138,
+    "popolazione_totale": 2283
+  },
+  {
+    "codice_istat": "097004",
+    "comune": "Ballabio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2144,
+    "popolazione_femminile": 2037,
+    "popolazione_totale": 4181
+  },
+  {
+    "codice_istat": "097005",
+    "comune": "Barzago",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1199,
+    "popolazione_femminile": 1208,
+    "popolazione_totale": 2407
+  },
+  {
+    "codice_istat": "097006",
+    "comune": "Barzanò",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2463,
+    "popolazione_femminile": 2584,
+    "popolazione_totale": 5047
+  },
+  {
+    "codice_istat": "097007",
+    "comune": "Barzio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 631,
+    "popolazione_femminile": 638,
+    "popolazione_totale": 1269
+  },
+  {
+    "codice_istat": "097008",
+    "comune": "Bellano",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1667,
+    "popolazione_femminile": 1690,
+    "popolazione_totale": 3357
+  },
+  {
+    "codice_istat": "097009",
+    "comune": "Bosisio Parini",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1606,
+    "popolazione_femminile": 1593,
+    "popolazione_totale": 3199
+  },
+  {
+    "codice_istat": "097010",
+    "comune": "Brivio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2217,
+    "popolazione_femminile": 2134,
+    "popolazione_totale": 4351
+  },
+  {
+    "codice_istat": "097011",
+    "comune": "Bulciago",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1494,
+    "popolazione_femminile": 1431,
+    "popolazione_totale": 2925
+  },
+  {
+    "codice_istat": "097012",
+    "comune": "Calco",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2731,
+    "popolazione_femminile": 2745,
+    "popolazione_totale": 5476
+  },
+  {
+    "codice_istat": "097013",
+    "comune": "Calolziocorte",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6695,
+    "popolazione_femminile": 6898,
+    "popolazione_totale": 13593
+  },
+  {
+    "codice_istat": "097014",
+    "comune": "Carenno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 691,
+    "popolazione_femminile": 699,
+    "popolazione_totale": 1390
+  },
+  {
+    "codice_istat": "097015",
+    "comune": "Casargo",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 833
+  },
+  {
+    "codice_istat": "097016",
+    "comune": "Casatenovo",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6502,
+    "popolazione_femminile": 6732,
+    "popolazione_totale": 13234
+  },
+  {
+    "codice_istat": "097017",
+    "comune": "Cassago Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2228,
+    "popolazione_femminile": 2167,
+    "popolazione_totale": 4395
+  },
+  {
+    "codice_istat": "097018",
+    "comune": "Cassina Valsassina",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 280,
+    "popolazione_femminile": 269,
+    "popolazione_totale": 549
+  },
+  {
+    "codice_istat": "097019",
+    "comune": "Castello di Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1321,
+    "popolazione_femminile": 1312,
+    "popolazione_totale": 2633
+  },
+  {
+    "codice_istat": "097020",
+    "comune": "Cernusco Lombardone",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1885,
+    "popolazione_femminile": 1952,
+    "popolazione_totale": 3837
+  },
+  {
+    "codice_istat": "097021",
+    "comune": "Cesana Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1158,
+    "popolazione_femminile": 1169,
+    "popolazione_totale": 2327
+  },
+  {
+    "codice_istat": "097022",
+    "comune": "Civate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1853,
+    "popolazione_femminile": 1856,
+    "popolazione_totale": 3709
+  },
+  {
+    "codice_istat": "097023",
+    "comune": "Colico",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4112,
+    "popolazione_femminile": 4076,
+    "popolazione_totale": 8188
+  },
+  {
+    "codice_istat": "097024",
+    "comune": "Colle Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 964,
+    "popolazione_femminile": 896,
+    "popolazione_totale": 1860
+  },
+  {
+    "codice_istat": "097025",
+    "comune": "Cortenova",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 572,
+    "popolazione_femminile": 601,
+    "popolazione_totale": 1173
+  },
+  {
+    "codice_istat": "097026",
+    "comune": "Costa Masnaga",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2390,
+    "popolazione_femminile": 2348,
+    "popolazione_totale": 4738
+  },
+  {
+    "codice_istat": "097027",
+    "comune": "Crandola Valsassina",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 139,
+    "popolazione_femminile": 122,
+    "popolazione_totale": 261
+  },
+  {
+    "codice_istat": "097028",
+    "comune": "Cremella",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 837,
+    "popolazione_femminile": 852,
+    "popolazione_totale": 1689
+  },
+  {
+    "codice_istat": "097029",
+    "comune": "Cremeno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1001,
+    "popolazione_femminile": 838,
+    "popolazione_totale": 1839
+  },
+  {
+    "codice_istat": "097030",
+    "comune": "Dervio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1241,
+    "popolazione_femminile": 1277,
+    "popolazione_totale": 2518
+  },
+  {
+    "codice_istat": "097031",
+    "comune": "Dolzago",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1249,
+    "popolazione_femminile": 1295,
+    "popolazione_totale": 2544
+  },
+  {
+    "codice_istat": "097032",
+    "comune": "Dorio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 155,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 325
+  },
+  {
+    "codice_istat": "097033",
+    "comune": "Ello",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 574,
+    "popolazione_femminile": 613,
+    "popolazione_totale": 1187
+  },
+  {
+    "codice_istat": "097034",
+    "comune": "Erve",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 319,
+    "popolazione_femminile": 325,
+    "popolazione_totale": 644
+  },
+  {
+    "codice_istat": "097035",
+    "comune": "Esino Lario",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 384,
+    "popolazione_femminile": 367,
+    "popolazione_totale": 751
+  },
+  {
+    "codice_istat": "097036",
+    "comune": "Galbiate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4131,
+    "popolazione_femminile": 4295,
+    "popolazione_totale": 8426
+  },
+  {
+    "codice_istat": "097037",
+    "comune": "Garbagnate Monastero",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1298,
+    "popolazione_femminile": 1205,
+    "popolazione_totale": 2503
+  },
+  {
+    "codice_istat": "097038",
+    "comune": "Garlate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1320,
+    "popolazione_femminile": 1341,
+    "popolazione_totale": 2661
+  },
+  {
+    "codice_istat": "097039",
+    "comune": "Imbersago",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1272,
+    "popolazione_femminile": 1293,
+    "popolazione_totale": 2565
+  },
+  {
+    "codice_istat": "097040",
+    "comune": "Introbio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 992,
+    "popolazione_femminile": 956,
+    "popolazione_totale": 1948
+  },
+  {
+    "codice_istat": "097092",
+    "comune": "La Valletta Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2339,
+    "popolazione_femminile": 2298,
+    "popolazione_totale": 4637
+  },
+  {
+    "codice_istat": "097042",
+    "comune": "Lecco",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 22798,
+    "popolazione_femminile": 24528,
+    "popolazione_totale": 47326,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "097043",
+    "comune": "Lierna",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1071,
+    "popolazione_femminile": 1040,
+    "popolazione_totale": 2111
+  },
+  {
+    "codice_istat": "097044",
+    "comune": "Lomagna",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2559,
+    "popolazione_femminile": 2559,
+    "popolazione_totale": 5118
+  },
+  {
+    "codice_istat": "097045",
+    "comune": "Malgrate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2028,
+    "popolazione_femminile": 2118,
+    "popolazione_totale": 4146
+  },
+  {
+    "codice_istat": "097046",
+    "comune": "Mandello del Lario",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4823,
+    "popolazione_femminile": 5033,
+    "popolazione_totale": 9856
+  },
+  {
+    "codice_istat": "097047",
+    "comune": "Margno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "097048",
+    "comune": "Merate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7218,
+    "popolazione_femminile": 7813,
+    "popolazione_totale": 15031
+  },
+  {
+    "codice_istat": "097049",
+    "comune": "Missaglia",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4498,
+    "popolazione_femminile": 4512,
+    "popolazione_totale": 9010
+  },
+  {
+    "codice_istat": "097050",
+    "comune": "Moggio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 492
+  },
+  {
+    "codice_istat": "097051",
+    "comune": "Molteno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1785,
+    "popolazione_femminile": 1743,
+    "popolazione_totale": 3528
+  },
+  {
+    "codice_istat": "097052",
+    "comune": "Monte Marenzo",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 883,
+    "popolazione_femminile": 892,
+    "popolazione_totale": 1775
+  },
+  {
+    "codice_istat": "097053",
+    "comune": "Montevecchia",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1356,
+    "popolazione_femminile": 1324,
+    "popolazione_totale": 2680
+  },
+  {
+    "codice_istat": "097054",
+    "comune": "Monticello Brianza",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2060,
+    "popolazione_femminile": 2124,
+    "popolazione_totale": 4184
+  },
+  {
+    "codice_istat": "097055",
+    "comune": "Morterone",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 18,
+    "popolazione_femminile": 12,
+    "popolazione_totale": 30
+  },
+  {
+    "codice_istat": "097056",
+    "comune": "Nibionno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1797,
+    "popolazione_femminile": 1791,
+    "popolazione_totale": 3588
+  },
+  {
+    "codice_istat": "097057",
+    "comune": "Oggiono",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4582,
+    "popolazione_femminile": 4636,
+    "popolazione_totale": 9218
+  },
+  {
+    "codice_istat": "097058",
+    "comune": "Olgiate Molgora",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3228,
+    "popolazione_femminile": 3186,
+    "popolazione_totale": 6414
+  },
+  {
+    "codice_istat": "097059",
+    "comune": "Olginate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3470,
+    "popolazione_femminile": 3455,
+    "popolazione_totale": 6925
+  },
+  {
+    "codice_istat": "097060",
+    "comune": "Oliveto Lario",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 595,
+    "popolazione_femminile": 553,
+    "popolazione_totale": 1148
+  },
+  {
+    "codice_istat": "097061",
+    "comune": "Osnago",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2337,
+    "popolazione_femminile": 2494,
+    "popolazione_totale": 4831
+  },
+  {
+    "codice_istat": "097062",
+    "comune": "Paderno d'Adda",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1919,
+    "popolazione_femminile": 1972,
+    "popolazione_totale": 3891
+  },
+  {
+    "codice_istat": "097063",
+    "comune": "Pagnona",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 159,
+    "popolazione_femminile": 150,
+    "popolazione_totale": 309
+  },
+  {
+    "codice_istat": "097064",
+    "comune": "Parlasco",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 72,
+    "popolazione_femminile": 63,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "097065",
+    "comune": "Pasturo",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1008,
+    "popolazione_femminile": 951,
+    "popolazione_totale": 1959
+  },
+  {
+    "codice_istat": "097067",
+    "comune": "Perledo",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 407,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 830
+  },
+  {
+    "codice_istat": "097068",
+    "comune": "Pescate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1083,
+    "popolazione_femminile": 1051,
+    "popolazione_totale": 2134
+  },
+  {
+    "codice_istat": "097069",
+    "comune": "Premana",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1101,
+    "popolazione_femminile": 1049,
+    "popolazione_totale": 2150
+  },
+  {
+    "codice_istat": "097070",
+    "comune": "Primaluna",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1139,
+    "popolazione_femminile": 1135,
+    "popolazione_totale": 2274
+  },
+  {
+    "codice_istat": "097071",
+    "comune": "Robbiate",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3251,
+    "popolazione_femminile": 3190,
+    "popolazione_totale": 6441
+  },
+  {
+    "codice_istat": "097072",
+    "comune": "Rogeno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1572,
+    "popolazione_femminile": 1478,
+    "popolazione_totale": 3050
+  },
+  {
+    "codice_istat": "097074",
+    "comune": "Santa Maria Hoè",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1057,
+    "popolazione_femminile": 1022,
+    "popolazione_totale": 2079
+  },
+  {
+    "codice_istat": "097075",
+    "comune": "Sirone",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1167,
+    "popolazione_femminile": 1166,
+    "popolazione_totale": 2333
+  },
+  {
+    "codice_istat": "097076",
+    "comune": "Sirtori",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1405,
+    "popolazione_femminile": 1385,
+    "popolazione_totale": 2790
+  },
+  {
+    "codice_istat": "097077",
+    "comune": "Sueglio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 83,
+    "popolazione_femminile": 74,
+    "popolazione_totale": 157
+  },
+  {
+    "codice_istat": "097078",
+    "comune": "Suello",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 835,
+    "popolazione_femminile": 869,
+    "popolazione_totale": 1704
+  },
+  {
+    "codice_istat": "097079",
+    "comune": "Taceno",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 312,
+    "popolazione_femminile": 283,
+    "popolazione_totale": 595
+  },
+  {
+    "codice_istat": "097082",
+    "comune": "Valgreghentino",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1693,
+    "popolazione_femminile": 1664,
+    "popolazione_totale": 3357
+  },
+  {
+    "codice_istat": "097083",
+    "comune": "Valmadrera",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5551,
+    "popolazione_femminile": 5682,
+    "popolazione_totale": 11233
+  },
+  {
+    "codice_istat": "097093",
+    "comune": "Valvarrone",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 239,
+    "popolazione_totale": 499
+  },
+  {
+    "codice_istat": "097084",
+    "comune": "Varenna",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 322,
+    "popolazione_femminile": 324,
+    "popolazione_totale": 646
+  },
+  {
+    "codice_istat": "097086",
+    "comune": "Vercurago",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1272,
+    "popolazione_femminile": 1399,
+    "popolazione_totale": 2671
+  },
+  {
+    "codice_istat": "097091",
+    "comune": "Verderio",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2755,
+    "popolazione_femminile": 2761,
+    "popolazione_totale": 5516
+  },
+  {
+    "codice_istat": "097090",
+    "comune": "Viganò",
+    "provincia": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1058,
+    "popolazione_femminile": 1050,
+    "popolazione_totale": 2108
+  }
+]

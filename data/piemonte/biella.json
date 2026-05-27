@@ -1,0 +1,743 @@
+[
+  {
+    "codice_istat": "096001",
+    "comune": "Ailoche",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 149,
+    "popolazione_totale": 289
+  },
+  {
+    "codice_istat": "096002",
+    "comune": "Andorno Micca",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1487,
+    "popolazione_femminile": 1527,
+    "popolazione_totale": 3014
+  },
+  {
+    "codice_istat": "096003",
+    "comune": "Benna",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 568,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1157
+  },
+  {
+    "codice_istat": "096004",
+    "comune": "Biella",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 20754,
+    "popolazione_femminile": 22602,
+    "popolazione_totale": 43356,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "096005",
+    "comune": "Bioglio",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 455,
+    "popolazione_femminile": 433,
+    "popolazione_totale": 888
+  },
+  {
+    "codice_istat": "096006",
+    "comune": "Borriana",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 440,
+    "popolazione_totale": 855
+  },
+  {
+    "codice_istat": "096007",
+    "comune": "Brusnengo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 892,
+    "popolazione_femminile": 953,
+    "popolazione_totale": 1845
+  },
+  {
+    "codice_istat": "096008",
+    "comune": "Callabiana",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 72,
+    "popolazione_totale": 145
+  },
+  {
+    "codice_istat": "096009",
+    "comune": "Camandona",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 166,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 321
+  },
+  {
+    "codice_istat": "096010",
+    "comune": "Camburzano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 546,
+    "popolazione_femminile": 581,
+    "popolazione_totale": 1127
+  },
+  {
+    "codice_istat": "096086",
+    "comune": "Campiglia Cervo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 488
+  },
+  {
+    "codice_istat": "096012",
+    "comune": "Candelo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3484,
+    "popolazione_femminile": 3712,
+    "popolazione_totale": 7196
+  },
+  {
+    "codice_istat": "096013",
+    "comune": "Caprile",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 91,
+    "popolazione_totale": 191
+  },
+  {
+    "codice_istat": "096014",
+    "comune": "Casapinta",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 167,
+    "popolazione_femminile": 198,
+    "popolazione_totale": 365
+  },
+  {
+    "codice_istat": "096015",
+    "comune": "Castelletto Cervo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 392,
+    "popolazione_femminile": 366,
+    "popolazione_totale": 758
+  },
+  {
+    "codice_istat": "096016",
+    "comune": "Cavaglià",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1757,
+    "popolazione_femminile": 1707,
+    "popolazione_totale": 3464
+  },
+  {
+    "codice_istat": "096018",
+    "comune": "Cerrione",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1350,
+    "popolazione_femminile": 1400,
+    "popolazione_totale": 2750
+  },
+  {
+    "codice_istat": "096019",
+    "comune": "Coggiola",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 782,
+    "popolazione_femminile": 835,
+    "popolazione_totale": 1617
+  },
+  {
+    "codice_istat": "096020",
+    "comune": "Cossato",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 6671,
+    "popolazione_femminile": 7162,
+    "popolazione_totale": 13833
+  },
+  {
+    "codice_istat": "096021",
+    "comune": "Crevacuore",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 681,
+    "popolazione_femminile": 692,
+    "popolazione_totale": 1373
+  },
+  {
+    "codice_istat": "096023",
+    "comune": "Curino",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 218,
+    "popolazione_femminile": 248,
+    "popolazione_totale": 466
+  },
+  {
+    "codice_istat": "096024",
+    "comune": "Donato",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 681
+  },
+  {
+    "codice_istat": "096025",
+    "comune": "Dorzano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 272,
+    "popolazione_femminile": 256,
+    "popolazione_totale": 528
+  },
+  {
+    "codice_istat": "096026",
+    "comune": "Gaglianico",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1814,
+    "popolazione_femminile": 1989,
+    "popolazione_totale": 3803
+  },
+  {
+    "codice_istat": "096027",
+    "comune": "Gifflenga",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 55,
+    "popolazione_femminile": 49,
+    "popolazione_totale": 104
+  },
+  {
+    "codice_istat": "096028",
+    "comune": "Graglia",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 695,
+    "popolazione_femminile": 745,
+    "popolazione_totale": 1440
+  },
+  {
+    "codice_istat": "096085",
+    "comune": "Lessona",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1253,
+    "popolazione_femminile": 1337,
+    "popolazione_totale": 2590
+  },
+  {
+    "codice_istat": "096030",
+    "comune": "Magnano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 180,
+    "popolazione_femminile": 159,
+    "popolazione_totale": 339
+  },
+  {
+    "codice_istat": "096031",
+    "comune": "Massazza",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 322,
+    "popolazione_femminile": 259,
+    "popolazione_totale": 581
+  },
+  {
+    "codice_istat": "096032",
+    "comune": "Masserano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 943,
+    "popolazione_femminile": 952,
+    "popolazione_totale": 1895
+  },
+  {
+    "codice_istat": "096033",
+    "comune": "Mezzana Mortigliengo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 237,
+    "popolazione_femminile": 238,
+    "popolazione_totale": 475
+  },
+  {
+    "codice_istat": "096034",
+    "comune": "Miagliano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 284,
+    "popolazione_totale": 535
+  },
+  {
+    "codice_istat": "096035",
+    "comune": "Mongrando",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1729,
+    "popolazione_femminile": 1826,
+    "popolazione_totale": 3555
+  },
+  {
+    "codice_istat": "096037",
+    "comune": "Mottalciata",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 642,
+    "popolazione_femminile": 630,
+    "popolazione_totale": 1272
+  },
+  {
+    "codice_istat": "096038",
+    "comune": "Muzzano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 256,
+    "popolazione_femminile": 295,
+    "popolazione_totale": 551
+  },
+  {
+    "codice_istat": "096039",
+    "comune": "Netro",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 452,
+    "popolazione_femminile": 443,
+    "popolazione_totale": 895
+  },
+  {
+    "codice_istat": "096040",
+    "comune": "Occhieppo Inferiore",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1816,
+    "popolazione_femminile": 1977,
+    "popolazione_totale": 3793
+  },
+  {
+    "codice_istat": "096041",
+    "comune": "Occhieppo Superiore",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1214,
+    "popolazione_femminile": 1317,
+    "popolazione_totale": 2531
+  },
+  {
+    "codice_istat": "096042",
+    "comune": "Pettinengo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 730,
+    "popolazione_femminile": 713,
+    "popolazione_totale": 1443
+  },
+  {
+    "codice_istat": "096043",
+    "comune": "Piatto",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 239,
+    "popolazione_femminile": 231,
+    "popolazione_totale": 470
+  },
+  {
+    "codice_istat": "096044",
+    "comune": "Piedicavallo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 89,
+    "popolazione_femminile": 79,
+    "popolazione_totale": 168
+  },
+  {
+    "codice_istat": "096046",
+    "comune": "Pollone",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 943,
+    "popolazione_femminile": 1004,
+    "popolazione_totale": 1947
+  },
+  {
+    "codice_istat": "096047",
+    "comune": "Ponderano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1736,
+    "popolazione_femminile": 1872,
+    "popolazione_totale": 3608
+  },
+  {
+    "codice_istat": "096048",
+    "comune": "Portula",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 530,
+    "popolazione_totale": 1077
+  },
+  {
+    "codice_istat": "096049",
+    "comune": "Pralungo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1126,
+    "popolazione_femminile": 1167,
+    "popolazione_totale": 2293
+  },
+  {
+    "codice_istat": "096050",
+    "comune": "Pray",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 950,
+    "popolazione_femminile": 1049,
+    "popolazione_totale": 1999
+  },
+  {
+    "codice_istat": "096087",
+    "comune": "Quaregna Cerreto",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1012,
+    "popolazione_femminile": 1033,
+    "popolazione_totale": 2045
+  },
+  {
+    "codice_istat": "096053",
+    "comune": "Ronco Biellese",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 713,
+    "popolazione_femminile": 696,
+    "popolazione_totale": 1409
+  },
+  {
+    "codice_istat": "096054",
+    "comune": "Roppolo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 386,
+    "popolazione_femminile": 419,
+    "popolazione_totale": 805
+  },
+  {
+    "codice_istat": "096055",
+    "comune": "Rosazza",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 45,
+    "popolazione_femminile": 50,
+    "popolazione_totale": 95
+  },
+  {
+    "codice_istat": "096056",
+    "comune": "Sagliano Micca",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 769,
+    "popolazione_femminile": 825,
+    "popolazione_totale": 1594
+  },
+  {
+    "codice_istat": "096057",
+    "comune": "Sala Biellese",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 265,
+    "popolazione_femminile": 266,
+    "popolazione_totale": 531
+  },
+  {
+    "codice_istat": "096058",
+    "comune": "Salussola",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 947,
+    "popolazione_femminile": 888,
+    "popolazione_totale": 1835
+  },
+  {
+    "codice_istat": "096059",
+    "comune": "Sandigliano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1231,
+    "popolazione_femminile": 1332,
+    "popolazione_totale": 2563
+  },
+  {
+    "codice_istat": "096063",
+    "comune": "Sordevolo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 623,
+    "popolazione_femminile": 637,
+    "popolazione_totale": 1260
+  },
+  {
+    "codice_istat": "096064",
+    "comune": "Sostegno",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 353,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 732
+  },
+  {
+    "codice_istat": "096065",
+    "comune": "Strona",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 479,
+    "popolazione_totale": 941
+  },
+  {
+    "codice_istat": "096066",
+    "comune": "Tavigliano",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 884
+  },
+  {
+    "codice_istat": "096067",
+    "comune": "Ternengo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 130,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 264
+  },
+  {
+    "codice_istat": "096068",
+    "comune": "Tollegno",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1122,
+    "popolazione_femminile": 1220,
+    "popolazione_totale": 2342
+  },
+  {
+    "codice_istat": "096069",
+    "comune": "Torrazzo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 93,
+    "popolazione_totale": 192
+  },
+  {
+    "codice_istat": "096071",
+    "comune": "Valdengo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1148,
+    "popolazione_femminile": 1193,
+    "popolazione_totale": 2341
+  },
+  {
+    "codice_istat": "096088",
+    "comune": "Valdilana",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4829,
+    "popolazione_femminile": 5051,
+    "popolazione_totale": 9880
+  },
+  {
+    "codice_istat": "096072",
+    "comune": "Vallanzengo",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 88,
+    "popolazione_femminile": 101,
+    "popolazione_totale": 189
+  },
+  {
+    "codice_istat": "096074",
+    "comune": "Valle San Nicolao",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 400,
+    "popolazione_totale": 815
+  },
+  {
+    "codice_istat": "096075",
+    "comune": "Veglio",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 214,
+    "popolazione_femminile": 207,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "096076",
+    "comune": "Verrone",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 578,
+    "popolazione_femminile": 582,
+    "popolazione_totale": 1160
+  },
+  {
+    "codice_istat": "096077",
+    "comune": "Vigliano Biellese",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3626,
+    "popolazione_femminile": 3951,
+    "popolazione_totale": 7577
+  },
+  {
+    "codice_istat": "096078",
+    "comune": "Villa del Bosco",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 145,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 312
+  },
+  {
+    "codice_istat": "096079",
+    "comune": "Villanova Biellese",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 173
+  },
+  {
+    "codice_istat": "096080",
+    "comune": "Viverone",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 629,
+    "popolazione_femminile": 689,
+    "popolazione_totale": 1318
+  },
+  {
+    "codice_istat": "096081",
+    "comune": "Zimone",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 194,
+    "popolazione_femminile": 183,
+    "popolazione_totale": 377
+  },
+  {
+    "codice_istat": "096082",
+    "comune": "Zubiena",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 581,
+    "popolazione_femminile": 557,
+    "popolazione_totale": 1138
+  },
+  {
+    "codice_istat": "096083",
+    "comune": "Zumaglia",
+    "provincia": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 497,
+    "popolazione_totale": 959
+  }
+]

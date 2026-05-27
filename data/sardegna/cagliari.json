@@ -1,0 +1,703 @@
+[
+  {
+    "codice_istat": "118001",
+    "comune": "Armungia",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 209,
+    "popolazione_femminile": 186,
+    "popolazione_totale": 395
+  },
+  {
+    "codice_istat": "118002",
+    "comune": "Assemini",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 12507,
+    "popolazione_femminile": 13068,
+    "popolazione_totale": 25575
+  },
+  {
+    "codice_istat": "118003",
+    "comune": "Ballao",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 359,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 706
+  },
+  {
+    "codice_istat": "118004",
+    "comune": "Barrali",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 566,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1087
+  },
+  {
+    "codice_istat": "118005",
+    "comune": "Burcei",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1286,
+    "popolazione_femminile": 1285,
+    "popolazione_totale": 2571
+  },
+  {
+    "codice_istat": "118006",
+    "comune": "Cagliari",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 68229,
+    "popolazione_femminile": 77752,
+    "popolazione_totale": 145981,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "118007",
+    "comune": "Capoterra",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 11463,
+    "popolazione_femminile": 11552,
+    "popolazione_totale": 23015
+  },
+  {
+    "codice_istat": "118008",
+    "comune": "Castiadas",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 890,
+    "popolazione_femminile": 850,
+    "popolazione_totale": 1740
+  },
+  {
+    "codice_istat": "118009",
+    "comune": "Decimomannu",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4197,
+    "popolazione_femminile": 4178,
+    "popolazione_totale": 8375
+  },
+  {
+    "codice_istat": "118010",
+    "comune": "Decimoputzu",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2131,
+    "popolazione_femminile": 2034,
+    "popolazione_totale": 4165
+  },
+  {
+    "codice_istat": "118011",
+    "comune": "Dolianova",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4693,
+    "popolazione_femminile": 4664,
+    "popolazione_totale": 9357
+  },
+  {
+    "codice_istat": "118012",
+    "comune": "Domus de Maria",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 817,
+    "popolazione_femminile": 813,
+    "popolazione_totale": 1630
+  },
+  {
+    "codice_istat": "118013",
+    "comune": "Donori",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 960,
+    "popolazione_femminile": 952,
+    "popolazione_totale": 1912
+  },
+  {
+    "codice_istat": "118014",
+    "comune": "Elmas",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4679,
+    "popolazione_femminile": 4801,
+    "popolazione_totale": 9480
+  },
+  {
+    "codice_istat": "118015",
+    "comune": "Escalaplano",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1089,
+    "popolazione_femminile": 928,
+    "popolazione_totale": 2017
+  },
+  {
+    "codice_istat": "118016",
+    "comune": "Escolca",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 255,
+    "popolazione_femminile": 276,
+    "popolazione_totale": 531
+  },
+  {
+    "codice_istat": "118017",
+    "comune": "Esterzili",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 273,
+    "popolazione_totale": 536
+  },
+  {
+    "codice_istat": "118018",
+    "comune": "Genoni",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 356,
+    "popolazione_femminile": 360,
+    "popolazione_totale": 716
+  },
+  {
+    "codice_istat": "118019",
+    "comune": "Gergei",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 560,
+    "popolazione_femminile": 535,
+    "popolazione_totale": 1095
+  },
+  {
+    "codice_istat": "118020",
+    "comune": "Gesico",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 359,
+    "popolazione_femminile": 339,
+    "popolazione_totale": 698
+  },
+  {
+    "codice_istat": "118021",
+    "comune": "Goni",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 246,
+    "popolazione_femminile": 188,
+    "popolazione_totale": 434
+  },
+  {
+    "codice_istat": "118022",
+    "comune": "Guamaggiore",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 435,
+    "popolazione_femminile": 437,
+    "popolazione_totale": 872
+  },
+  {
+    "codice_istat": "118023",
+    "comune": "Guasila",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1198,
+    "popolazione_femminile": 1213,
+    "popolazione_totale": 2411
+  },
+  {
+    "codice_istat": "118024",
+    "comune": "Isili",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1220,
+    "popolazione_femminile": 1209,
+    "popolazione_totale": 2429
+  },
+  {
+    "codice_istat": "118025",
+    "comune": "Mandas",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 988,
+    "popolazione_femminile": 950,
+    "popolazione_totale": 1938
+  },
+  {
+    "codice_istat": "118026",
+    "comune": "Maracalagonis",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4018,
+    "popolazione_femminile": 3867,
+    "popolazione_totale": 7885
+  },
+  {
+    "codice_istat": "118027",
+    "comune": "Monastir",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2655,
+    "popolazione_femminile": 2229,
+    "popolazione_totale": 4884
+  },
+  {
+    "codice_istat": "118028",
+    "comune": "Monserrato",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 8850,
+    "popolazione_femminile": 9774,
+    "popolazione_totale": 18624
+  },
+  {
+    "codice_istat": "118029",
+    "comune": "Muravera",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2424,
+    "popolazione_femminile": 2549,
+    "popolazione_totale": 4973
+  },
+  {
+    "codice_istat": "118030",
+    "comune": "Nuragus",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 402,
+    "popolazione_totale": 795
+  },
+  {
+    "codice_istat": "118031",
+    "comune": "Nurallao",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 557,
+    "popolazione_femminile": 532,
+    "popolazione_totale": 1089
+  },
+  {
+    "codice_istat": "118032",
+    "comune": "Nuraminis",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1165,
+    "popolazione_femminile": 1172,
+    "popolazione_totale": 2337
+  },
+  {
+    "codice_istat": "118033",
+    "comune": "Nurri",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 993,
+    "popolazione_femminile": 995,
+    "popolazione_totale": 1988
+  },
+  {
+    "codice_istat": "118034",
+    "comune": "Orroli",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 969,
+    "popolazione_femminile": 940,
+    "popolazione_totale": 1909
+  },
+  {
+    "codice_istat": "118035",
+    "comune": "Ortacesus",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 445,
+    "popolazione_femminile": 414,
+    "popolazione_totale": 859
+  },
+  {
+    "codice_istat": "118036",
+    "comune": "Pimentel",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 557,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1078
+  },
+  {
+    "codice_istat": "118037",
+    "comune": "Pula",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3544,
+    "popolazione_femminile": 3504,
+    "popolazione_totale": 7048
+  },
+  {
+    "codice_istat": "118038",
+    "comune": "Quartu Sant'Elena",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 33159,
+    "popolazione_femminile": 34710,
+    "popolazione_totale": 67869
+  },
+  {
+    "codice_istat": "118039",
+    "comune": "Quartucciu",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 6194,
+    "popolazione_femminile": 6529,
+    "popolazione_totale": 12723
+  },
+  {
+    "codice_istat": "118040",
+    "comune": "Sadali",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 378,
+    "popolazione_femminile": 394,
+    "popolazione_totale": 772
+  },
+  {
+    "codice_istat": "118041",
+    "comune": "Samatzai",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 750,
+    "popolazione_femminile": 752,
+    "popolazione_totale": 1502
+  },
+  {
+    "codice_istat": "118042",
+    "comune": "San Basilio",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 550,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1067
+  },
+  {
+    "codice_istat": "118043",
+    "comune": "San Nicolò Gerrei",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 341,
+    "popolazione_totale": 709
+  },
+  {
+    "codice_istat": "118044",
+    "comune": "San Sperate",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4318,
+    "popolazione_femminile": 4307,
+    "popolazione_totale": 8625
+  },
+  {
+    "codice_istat": "118045",
+    "comune": "San Vito",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1709,
+    "popolazione_femminile": 1700,
+    "popolazione_totale": 3409
+  },
+  {
+    "codice_istat": "118046",
+    "comune": "Sant'Andrea Frius",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 858,
+    "popolazione_femminile": 801,
+    "popolazione_totale": 1659
+  },
+  {
+    "codice_istat": "118047",
+    "comune": "Sarroch",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2490,
+    "popolazione_femminile": 2490,
+    "popolazione_totale": 4980
+  },
+  {
+    "codice_istat": "118048",
+    "comune": "Selargius",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 13599,
+    "popolazione_femminile": 14673,
+    "popolazione_totale": 28272
+  },
+  {
+    "codice_istat": "118049",
+    "comune": "Selegas",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 616,
+    "popolazione_femminile": 637,
+    "popolazione_totale": 1253
+  },
+  {
+    "codice_istat": "118050",
+    "comune": "Senorbì",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2407,
+    "popolazione_femminile": 2403,
+    "popolazione_totale": 4810
+  },
+  {
+    "codice_istat": "118051",
+    "comune": "Serdiana",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1322,
+    "popolazione_femminile": 1321,
+    "popolazione_totale": 2643
+  },
+  {
+    "codice_istat": "118052",
+    "comune": "Serri",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 292,
+    "popolazione_femminile": 296,
+    "popolazione_totale": 588
+  },
+  {
+    "codice_istat": "118053",
+    "comune": "Sestu",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 10358,
+    "popolazione_femminile": 10272,
+    "popolazione_totale": 20630
+  },
+  {
+    "codice_istat": "118054",
+    "comune": "Settimo San Pietro",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3456,
+    "popolazione_femminile": 3512,
+    "popolazione_totale": 6968
+  },
+  {
+    "codice_istat": "118056",
+    "comune": "Siliqua",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1732,
+    "popolazione_femminile": 1736,
+    "popolazione_totale": 3468
+  },
+  {
+    "codice_istat": "118057",
+    "comune": "Silius",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 455,
+    "popolazione_totale": 987
+  },
+  {
+    "codice_istat": "118058",
+    "comune": "Sinnai",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 8750,
+    "popolazione_femminile": 8697,
+    "popolazione_totale": 17447
+  },
+  {
+    "codice_istat": "118059",
+    "comune": "Siurgus Donigala",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 907,
+    "popolazione_femminile": 913,
+    "popolazione_totale": 1820
+  },
+  {
+    "codice_istat": "118060",
+    "comune": "Soleminis",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 958,
+    "popolazione_femminile": 944,
+    "popolazione_totale": 1902
+  },
+  {
+    "codice_istat": "118061",
+    "comune": "Suelli",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 533,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1049
+  },
+  {
+    "codice_istat": "118063",
+    "comune": "Ussana",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1986,
+    "popolazione_femminile": 2011,
+    "popolazione_totale": 3997
+  },
+  {
+    "codice_istat": "118064",
+    "comune": "Uta",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4554,
+    "popolazione_femminile": 4345,
+    "popolazione_totale": 8899
+  },
+  {
+    "codice_istat": "118065",
+    "comune": "Vallermosa",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 898,
+    "popolazione_femminile": 884,
+    "popolazione_totale": 1782
+  },
+  {
+    "codice_istat": "118066",
+    "comune": "Villa San Pietro",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1056,
+    "popolazione_femminile": 1039,
+    "popolazione_totale": 2095
+  },
+  {
+    "codice_istat": "118067",
+    "comune": "Villanova Tulo",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 471,
+    "popolazione_totale": 977
+  },
+  {
+    "codice_istat": "118068",
+    "comune": "Villaputzu",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2142,
+    "popolazione_femminile": 2222,
+    "popolazione_totale": 4364
+  },
+  {
+    "codice_istat": "118069",
+    "comune": "Villasalto",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 440,
+    "popolazione_femminile": 436,
+    "popolazione_totale": 876
+  },
+  {
+    "codice_istat": "118070",
+    "comune": "Villasimius",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1916,
+    "popolazione_femminile": 1846,
+    "popolazione_totale": 3762
+  },
+  {
+    "codice_istat": "118071",
+    "comune": "Villasor",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3247,
+    "popolazione_femminile": 3233,
+    "popolazione_totale": 6480
+  },
+  {
+    "codice_istat": "118072",
+    "comune": "Villaspeciosa",
+    "provincia": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1358,
+    "popolazione_femminile": 1342,
+    "popolazione_totale": 2700
+  }
+]

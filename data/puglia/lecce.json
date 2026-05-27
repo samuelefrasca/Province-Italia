@@ -1,0 +1,963 @@
+[
+  {
+    "codice_istat": "075002",
+    "comune": "Alessano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2919,
+    "popolazione_femminile": 3063,
+    "popolazione_totale": 5982
+  },
+  {
+    "codice_istat": "075003",
+    "comune": "Alezio",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2684,
+    "popolazione_femminile": 2960,
+    "popolazione_totale": 5644
+  },
+  {
+    "codice_istat": "075004",
+    "comune": "Alliste",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3055,
+    "popolazione_femminile": 3289,
+    "popolazione_totale": 6344
+  },
+  {
+    "codice_istat": "075005",
+    "comune": "Andrano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2135,
+    "popolazione_femminile": 2271,
+    "popolazione_totale": 4406
+  },
+  {
+    "codice_istat": "075006",
+    "comune": "Aradeo",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4237,
+    "popolazione_femminile": 4561,
+    "popolazione_totale": 8798
+  },
+  {
+    "codice_istat": "075007",
+    "comune": "Arnesano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1982,
+    "popolazione_femminile": 1921,
+    "popolazione_totale": 3903
+  },
+  {
+    "codice_istat": "075008",
+    "comune": "Bagnolo del Salento",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 844,
+    "popolazione_femminile": 854,
+    "popolazione_totale": 1698
+  },
+  {
+    "codice_istat": "075009",
+    "comune": "Botrugno",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1235,
+    "popolazione_femminile": 1335,
+    "popolazione_totale": 2570
+  },
+  {
+    "codice_istat": "075010",
+    "comune": "Calimera",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3155,
+    "popolazione_femminile": 3478,
+    "popolazione_totale": 6633
+  },
+  {
+    "codice_istat": "075011",
+    "comune": "Campi Salentina",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4625,
+    "popolazione_femminile": 4990,
+    "popolazione_totale": 9615
+  },
+  {
+    "codice_istat": "075012",
+    "comune": "Cannole",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 791,
+    "popolazione_femminile": 777,
+    "popolazione_totale": 1568
+  },
+  {
+    "codice_istat": "075013",
+    "comune": "Caprarica di Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1066,
+    "popolazione_femminile": 1177,
+    "popolazione_totale": 2243
+  },
+  {
+    "codice_istat": "075014",
+    "comune": "Carmiano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5762,
+    "popolazione_femminile": 5884,
+    "popolazione_totale": 11646
+  },
+  {
+    "codice_istat": "075015",
+    "comune": "Carpignano Salentino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1796,
+    "popolazione_femminile": 1819,
+    "popolazione_totale": 3615
+  },
+  {
+    "codice_istat": "075016",
+    "comune": "Casarano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 9048,
+    "popolazione_femminile": 9892,
+    "popolazione_totale": 18940
+  },
+  {
+    "codice_istat": "075017",
+    "comune": "Castri di Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1313,
+    "popolazione_femminile": 1381,
+    "popolazione_totale": 2694
+  },
+  {
+    "codice_istat": "075018",
+    "comune": "Castrignano de' Greci",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1784,
+    "popolazione_femminile": 1848,
+    "popolazione_totale": 3632
+  },
+  {
+    "codice_istat": "075019",
+    "comune": "Castrignano del Capo",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2454,
+    "popolazione_femminile": 2601,
+    "popolazione_totale": 5055
+  },
+  {
+    "codice_istat": "075096",
+    "comune": "Castro",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1110,
+    "popolazione_femminile": 1164,
+    "popolazione_totale": 2274
+  },
+  {
+    "codice_istat": "075020",
+    "comune": "Cavallino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6322,
+    "popolazione_femminile": 6671,
+    "popolazione_totale": 12993
+  },
+  {
+    "codice_istat": "075021",
+    "comune": "Collepasso",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2656,
+    "popolazione_femminile": 2796,
+    "popolazione_totale": 5452
+  },
+  {
+    "codice_istat": "075022",
+    "comune": "Copertino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 11111,
+    "popolazione_femminile": 11587,
+    "popolazione_totale": 22698
+  },
+  {
+    "codice_istat": "075023",
+    "comune": "Corigliano d'Otranto",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2642,
+    "popolazione_femminile": 2877,
+    "popolazione_totale": 5519
+  },
+  {
+    "codice_istat": "075024",
+    "comune": "Corsano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2493,
+    "popolazione_femminile": 2556,
+    "popolazione_totale": 5049
+  },
+  {
+    "codice_istat": "075025",
+    "comune": "Cursi",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1876,
+    "popolazione_femminile": 1893,
+    "popolazione_totale": 3769
+  },
+  {
+    "codice_istat": "075026",
+    "comune": "Cutrofiano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4161,
+    "popolazione_femminile": 4477,
+    "popolazione_totale": 8638
+  },
+  {
+    "codice_istat": "075027",
+    "comune": "Diso",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1322,
+    "popolazione_femminile": 1470,
+    "popolazione_totale": 2792
+  },
+  {
+    "codice_istat": "075028",
+    "comune": "Gagliano del Capo",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2324,
+    "popolazione_femminile": 2455,
+    "popolazione_totale": 4779
+  },
+  {
+    "codice_istat": "075029",
+    "comune": "Galatina",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 12117,
+    "popolazione_femminile": 13056,
+    "popolazione_totale": 25173
+  },
+  {
+    "codice_istat": "075030",
+    "comune": "Galatone",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 7182,
+    "popolazione_femminile": 7673,
+    "popolazione_totale": 14855
+  },
+  {
+    "codice_istat": "075031",
+    "comune": "Gallipoli",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 9154,
+    "popolazione_femminile": 9672,
+    "popolazione_totale": 18826
+  },
+  {
+    "codice_istat": "075032",
+    "comune": "Giuggianello",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 545,
+    "popolazione_femminile": 573,
+    "popolazione_totale": 1118
+  },
+  {
+    "codice_istat": "075033",
+    "comune": "Giurdignano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 970,
+    "popolazione_femminile": 966,
+    "popolazione_totale": 1936
+  },
+  {
+    "codice_istat": "075034",
+    "comune": "Guagnano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2517,
+    "popolazione_femminile": 2762,
+    "popolazione_totale": 5279
+  },
+  {
+    "codice_istat": "075035",
+    "comune": "Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 45124,
+    "popolazione_femminile": 49263,
+    "popolazione_totale": 94387,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "075036",
+    "comune": "Lequile",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4187,
+    "popolazione_femminile": 4413,
+    "popolazione_totale": 8600
+  },
+  {
+    "codice_istat": "075037",
+    "comune": "Leverano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6481,
+    "popolazione_femminile": 6853,
+    "popolazione_totale": 13334
+  },
+  {
+    "codice_istat": "075038",
+    "comune": "Lizzanello",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5965,
+    "popolazione_femminile": 6064,
+    "popolazione_totale": 12029
+  },
+  {
+    "codice_istat": "075039",
+    "comune": "Maglie",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6168,
+    "popolazione_femminile": 6893,
+    "popolazione_totale": 13061
+  },
+  {
+    "codice_istat": "075040",
+    "comune": "Martano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4028,
+    "popolazione_femminile": 4369,
+    "popolazione_totale": 8397
+  },
+  {
+    "codice_istat": "075041",
+    "comune": "Martignano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 748,
+    "popolazione_femminile": 777,
+    "popolazione_totale": 1525
+  },
+  {
+    "codice_istat": "075042",
+    "comune": "Matino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5231,
+    "popolazione_femminile": 5523,
+    "popolazione_totale": 10754
+  },
+  {
+    "codice_istat": "075043",
+    "comune": "Melendugno",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4986,
+    "popolazione_femminile": 5107,
+    "popolazione_totale": 10093
+  },
+  {
+    "codice_istat": "075044",
+    "comune": "Melissano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3163,
+    "popolazione_femminile": 3374,
+    "popolazione_totale": 6537
+  },
+  {
+    "codice_istat": "075045",
+    "comune": "Melpignano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1079,
+    "popolazione_femminile": 1075,
+    "popolazione_totale": 2154
+  },
+  {
+    "codice_istat": "075046",
+    "comune": "Miggiano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1505,
+    "popolazione_femminile": 1717,
+    "popolazione_totale": 3222
+  },
+  {
+    "codice_istat": "075047",
+    "comune": "Minervino di Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1600,
+    "popolazione_femminile": 1792,
+    "popolazione_totale": 3392
+  },
+  {
+    "codice_istat": "075048",
+    "comune": "Monteroni di Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6402,
+    "popolazione_femminile": 6745,
+    "popolazione_totale": 13147
+  },
+  {
+    "codice_istat": "075049",
+    "comune": "Montesano Salentino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1257,
+    "popolazione_femminile": 1333,
+    "popolazione_totale": 2590
+  },
+  {
+    "codice_istat": "075050",
+    "comune": "Morciano di Leuca",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1419,
+    "popolazione_femminile": 1611,
+    "popolazione_totale": 3030
+  },
+  {
+    "codice_istat": "075051",
+    "comune": "Muro Leccese",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2211,
+    "popolazione_femminile": 2363,
+    "popolazione_totale": 4574
+  },
+  {
+    "codice_istat": "075052",
+    "comune": "Nardò",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 14714,
+    "popolazione_femminile": 16070,
+    "popolazione_totale": 30784
+  },
+  {
+    "codice_istat": "075053",
+    "comune": "Neviano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2302,
+    "popolazione_femminile": 2453,
+    "popolazione_totale": 4755
+  },
+  {
+    "codice_istat": "075054",
+    "comune": "Nociglia",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 980,
+    "popolazione_femminile": 1113,
+    "popolazione_totale": 2093
+  },
+  {
+    "codice_istat": "075055",
+    "comune": "Novoli",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3601,
+    "popolazione_femminile": 3825,
+    "popolazione_totale": 7426
+  },
+  {
+    "codice_istat": "075056",
+    "comune": "Ortelle",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1054,
+    "popolazione_femminile": 1140,
+    "popolazione_totale": 2194
+  },
+  {
+    "codice_istat": "075057",
+    "comune": "Otranto",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2681,
+    "popolazione_femminile": 2906,
+    "popolazione_totale": 5587
+  },
+  {
+    "codice_istat": "075058",
+    "comune": "Palmariggi",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 657,
+    "popolazione_femminile": 689,
+    "popolazione_totale": 1346
+  },
+  {
+    "codice_istat": "075059",
+    "comune": "Parabita",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4137,
+    "popolazione_femminile": 4549,
+    "popolazione_totale": 8686
+  },
+  {
+    "codice_istat": "075060",
+    "comune": "Patù",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 811,
+    "popolazione_femminile": 833,
+    "popolazione_totale": 1644
+  },
+  {
+    "codice_istat": "075061",
+    "comune": "Poggiardo",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2760,
+    "popolazione_femminile": 2985,
+    "popolazione_totale": 5745
+  },
+  {
+    "codice_istat": "075097",
+    "comune": "Porto Cesareo",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3261,
+    "popolazione_femminile": 3223,
+    "popolazione_totale": 6484
+  },
+  {
+    "codice_istat": "075098",
+    "comune": "Presicce-Acquarica",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4359,
+    "popolazione_femminile": 4681,
+    "popolazione_totale": 9040
+  },
+  {
+    "codice_istat": "075063",
+    "comune": "Racale",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5171,
+    "popolazione_femminile": 5499,
+    "popolazione_totale": 10670
+  },
+  {
+    "codice_istat": "075064",
+    "comune": "Ruffano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 4437,
+    "popolazione_femminile": 4780,
+    "popolazione_totale": 9217
+  },
+  {
+    "codice_istat": "075065",
+    "comune": "Salice Salentino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3654,
+    "popolazione_femminile": 3895,
+    "popolazione_totale": 7549
+  },
+  {
+    "codice_istat": "075066",
+    "comune": "Salve",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2192,
+    "popolazione_femminile": 2388,
+    "popolazione_totale": 4580
+  },
+  {
+    "codice_istat": "075095",
+    "comune": "San Cassiano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 981,
+    "popolazione_femminile": 955,
+    "popolazione_totale": 1936
+  },
+  {
+    "codice_istat": "075068",
+    "comune": "San Cesario di Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3709,
+    "popolazione_femminile": 4078,
+    "popolazione_totale": 7787
+  },
+  {
+    "codice_istat": "075069",
+    "comune": "San Donato di Lecce",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2518,
+    "popolazione_femminile": 2832,
+    "popolazione_totale": 5350
+  },
+  {
+    "codice_istat": "075071",
+    "comune": "San Pietro in Lama",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1596,
+    "popolazione_femminile": 1748,
+    "popolazione_totale": 3344
+  },
+  {
+    "codice_istat": "075067",
+    "comune": "Sanarica",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 713,
+    "popolazione_femminile": 762,
+    "popolazione_totale": 1475
+  },
+  {
+    "codice_istat": "075070",
+    "comune": "Sannicola",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2652,
+    "popolazione_femminile": 2888,
+    "popolazione_totale": 5540
+  },
+  {
+    "codice_istat": "075072",
+    "comune": "Santa Cesarea Terme",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1298,
+    "popolazione_femminile": 1466,
+    "popolazione_totale": 2764
+  },
+  {
+    "codice_istat": "075073",
+    "comune": "Scorrano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3174,
+    "popolazione_femminile": 3368,
+    "popolazione_totale": 6542
+  },
+  {
+    "codice_istat": "075074",
+    "comune": "Seclì",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 852,
+    "popolazione_femminile": 932,
+    "popolazione_totale": 1784
+  },
+  {
+    "codice_istat": "075075",
+    "comune": "Sogliano Cavour",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1895,
+    "popolazione_femminile": 1915,
+    "popolazione_totale": 3810
+  },
+  {
+    "codice_istat": "075076",
+    "comune": "Soleto",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2455,
+    "popolazione_femminile": 2631,
+    "popolazione_totale": 5086
+  },
+  {
+    "codice_istat": "075077",
+    "comune": "Specchia",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2151,
+    "popolazione_femminile": 2302,
+    "popolazione_totale": 4453
+  },
+  {
+    "codice_istat": "075078",
+    "comune": "Spongano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1639,
+    "popolazione_femminile": 1760,
+    "popolazione_totale": 3399
+  },
+  {
+    "codice_istat": "075079",
+    "comune": "Squinzano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6396,
+    "popolazione_femminile": 6839,
+    "popolazione_totale": 13235
+  },
+  {
+    "codice_istat": "075080",
+    "comune": "Sternatia",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 970,
+    "popolazione_femminile": 1102,
+    "popolazione_totale": 2072
+  },
+  {
+    "codice_istat": "075081",
+    "comune": "Supersano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2020,
+    "popolazione_femminile": 2016,
+    "popolazione_totale": 4036
+  },
+  {
+    "codice_istat": "075082",
+    "comune": "Surano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 759,
+    "popolazione_totale": 1474
+  },
+  {
+    "codice_istat": "075083",
+    "comune": "Surbo",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 7046,
+    "popolazione_femminile": 7435,
+    "popolazione_totale": 14481
+  },
+  {
+    "codice_istat": "075084",
+    "comune": "Taurisano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5342,
+    "popolazione_femminile": 5717,
+    "popolazione_totale": 11059
+  },
+  {
+    "codice_istat": "075085",
+    "comune": "Taviano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5441,
+    "popolazione_femminile": 5922,
+    "popolazione_totale": 11363
+  },
+  {
+    "codice_istat": "075086",
+    "comune": "Tiggiano",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 1431,
+    "popolazione_femminile": 1394,
+    "popolazione_totale": 2825
+  },
+  {
+    "codice_istat": "075087",
+    "comune": "Trepuzzi",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6603,
+    "popolazione_femminile": 7161,
+    "popolazione_totale": 13764
+  },
+  {
+    "codice_istat": "075088",
+    "comune": "Tricase",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 8205,
+    "popolazione_femminile": 8733,
+    "popolazione_totale": 16938
+  },
+  {
+    "codice_istat": "075089",
+    "comune": "Tuglie",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2457,
+    "popolazione_femminile": 2561,
+    "popolazione_totale": 5018
+  },
+  {
+    "codice_istat": "075090",
+    "comune": "Ugento",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 5780,
+    "popolazione_femminile": 6143,
+    "popolazione_totale": 11923
+  },
+  {
+    "codice_istat": "075091",
+    "comune": "Uggiano la Chiesa",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 2070,
+    "popolazione_femminile": 2252,
+    "popolazione_totale": 4322
+  },
+  {
+    "codice_istat": "075092",
+    "comune": "Veglie",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 6319,
+    "popolazione_femminile": 6734,
+    "popolazione_totale": 13053
+  },
+  {
+    "codice_istat": "075093",
+    "comune": "Vernole",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 3110,
+    "popolazione_femminile": 3412,
+    "popolazione_totale": 6522
+  },
+  {
+    "codice_istat": "075094",
+    "comune": "Zollino",
+    "provincia": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 941,
+    "popolazione_totale": 1810
+  }
+]

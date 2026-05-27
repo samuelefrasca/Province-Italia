@@ -1,0 +1,433 @@
+[
+  {
+    "codice_istat": "084001",
+    "comune": "Agrigento",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 27032,
+    "popolazione_femminile": 28086,
+    "popolazione_totale": 55118,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "084002",
+    "comune": "Alessandria della Rocca",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1104,
+    "popolazione_femminile": 1197,
+    "popolazione_totale": 2301
+  },
+  {
+    "codice_istat": "084003",
+    "comune": "Aragona",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4241,
+    "popolazione_femminile": 4428,
+    "popolazione_totale": 8669
+  },
+  {
+    "codice_istat": "084004",
+    "comune": "Bivona",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1451,
+    "popolazione_femminile": 1549,
+    "popolazione_totale": 3000
+  },
+  {
+    "codice_istat": "084005",
+    "comune": "Burgio",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1182,
+    "popolazione_femminile": 1227,
+    "popolazione_totale": 2409
+  },
+  {
+    "codice_istat": "084006",
+    "comune": "Calamonaci",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 553,
+    "popolazione_femminile": 574,
+    "popolazione_totale": 1127
+  },
+  {
+    "codice_istat": "084007",
+    "comune": "Caltabellotta",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1474,
+    "popolazione_femminile": 1591,
+    "popolazione_totale": 3065
+  },
+  {
+    "codice_istat": "084008",
+    "comune": "Camastra",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1006,
+    "popolazione_femminile": 967,
+    "popolazione_totale": 1973
+  },
+  {
+    "codice_istat": "084009",
+    "comune": "Cammarata",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2889,
+    "popolazione_femminile": 2912,
+    "popolazione_totale": 5801
+  },
+  {
+    "codice_istat": "084010",
+    "comune": "Campobello di Licata",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4335,
+    "popolazione_femminile": 4538,
+    "popolazione_totale": 8873
+  },
+  {
+    "codice_istat": "084011",
+    "comune": "Canicattì",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 16691,
+    "popolazione_femminile": 17558,
+    "popolazione_totale": 34249
+  },
+  {
+    "codice_istat": "084012",
+    "comune": "Casteltermini",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3425,
+    "popolazione_femminile": 3610,
+    "popolazione_totale": 7035
+  },
+  {
+    "codice_istat": "084013",
+    "comune": "Castrofilippo",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1230,
+    "popolazione_femminile": 1327,
+    "popolazione_totale": 2557
+  },
+  {
+    "codice_istat": "084014",
+    "comune": "Cattolica Eraclea",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1610,
+    "popolazione_femminile": 1622,
+    "popolazione_totale": 3232
+  },
+  {
+    "codice_istat": "084015",
+    "comune": "Cianciana",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1411,
+    "popolazione_femminile": 1560,
+    "popolazione_totale": 2971
+  },
+  {
+    "codice_istat": "084016",
+    "comune": "Comitini",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 469,
+    "popolazione_femminile": 450,
+    "popolazione_totale": 919
+  },
+  {
+    "codice_istat": "084017",
+    "comune": "Favara",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 15178,
+    "popolazione_femminile": 15989,
+    "popolazione_totale": 31167
+  },
+  {
+    "codice_istat": "084018",
+    "comune": "Grotte",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2379,
+    "popolazione_femminile": 2665,
+    "popolazione_totale": 5044
+  },
+  {
+    "codice_istat": "084019",
+    "comune": "Joppolo Giancaxio",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 558,
+    "popolazione_totale": 1064
+  },
+  {
+    "codice_istat": "084020",
+    "comune": "Lampedusa e Linosa",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3392,
+    "popolazione_femminile": 3093,
+    "popolazione_totale": 6485
+  },
+  {
+    "codice_istat": "084021",
+    "comune": "Licata",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 17056,
+    "popolazione_femminile": 17147,
+    "popolazione_totale": 34203
+  },
+  {
+    "codice_istat": "084022",
+    "comune": "Lucca Sicula",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 842,
+    "popolazione_femminile": 858,
+    "popolazione_totale": 1700
+  },
+  {
+    "codice_istat": "084023",
+    "comune": "Menfi",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5689,
+    "popolazione_femminile": 6038,
+    "popolazione_totale": 11727
+  },
+  {
+    "codice_istat": "084024",
+    "comune": "Montallegro",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1155,
+    "popolazione_femminile": 1187,
+    "popolazione_totale": 2342
+  },
+  {
+    "codice_istat": "084025",
+    "comune": "Montevago",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1301,
+    "popolazione_femminile": 1378,
+    "popolazione_totale": 2679
+  },
+  {
+    "codice_istat": "084026",
+    "comune": "Naro",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3313,
+    "popolazione_femminile": 3420,
+    "popolazione_totale": 6733
+  },
+  {
+    "codice_istat": "084027",
+    "comune": "Palma di Montechiaro",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 10231,
+    "popolazione_femminile": 11071,
+    "popolazione_totale": 21302
+  },
+  {
+    "codice_istat": "084028",
+    "comune": "Porto Empedocle",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 7544,
+    "popolazione_femminile": 7886,
+    "popolazione_totale": 15430
+  },
+  {
+    "codice_istat": "084029",
+    "comune": "Racalmuto",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3782,
+    "popolazione_femminile": 3719,
+    "popolazione_totale": 7501
+  },
+  {
+    "codice_istat": "084030",
+    "comune": "Raffadali",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5724,
+    "popolazione_femminile": 6045,
+    "popolazione_totale": 11769
+  },
+  {
+    "codice_istat": "084031",
+    "comune": "Ravanusa",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4911,
+    "popolazione_femminile": 5213,
+    "popolazione_totale": 10124
+  },
+  {
+    "codice_istat": "084032",
+    "comune": "Realmonte",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2149,
+    "popolazione_femminile": 2219,
+    "popolazione_totale": 4368
+  },
+  {
+    "codice_istat": "084033",
+    "comune": "Ribera",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 8609,
+    "popolazione_femminile": 9135,
+    "popolazione_totale": 17744
+  },
+  {
+    "codice_istat": "084034",
+    "comune": "Sambuca di Sicilia",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2583,
+    "popolazione_femminile": 2619,
+    "popolazione_totale": 5202
+  },
+  {
+    "codice_istat": "084035",
+    "comune": "San Biagio Platani",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1300,
+    "popolazione_femminile": 1444,
+    "popolazione_totale": 2744
+  },
+  {
+    "codice_istat": "084036",
+    "comune": "San Giovanni Gemini",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3684,
+    "popolazione_femminile": 3699,
+    "popolazione_totale": 7383
+  },
+  {
+    "codice_istat": "084039",
+    "comune": "Sant'Angelo Muxaro",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 539,
+    "popolazione_femminile": 580,
+    "popolazione_totale": 1119
+  },
+  {
+    "codice_istat": "084037",
+    "comune": "Santa Elisabetta",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1117,
+    "popolazione_femminile": 1091,
+    "popolazione_totale": 2208
+  },
+  {
+    "codice_istat": "084038",
+    "comune": "Santa Margherita di Belice",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2910,
+    "popolazione_femminile": 3071,
+    "popolazione_totale": 5981
+  },
+  {
+    "codice_istat": "084040",
+    "comune": "Santo Stefano Quisquina",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1873,
+    "popolazione_femminile": 1981,
+    "popolazione_totale": 3854
+  },
+  {
+    "codice_istat": "084041",
+    "comune": "Sciacca",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 18633,
+    "popolazione_femminile": 19754,
+    "popolazione_totale": 38387
+  },
+  {
+    "codice_istat": "084042",
+    "comune": "Siculiana",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2126,
+    "popolazione_femminile": 2061,
+    "popolazione_totale": 4187
+  },
+  {
+    "codice_istat": "084043",
+    "comune": "Villafranca Sicula",
+    "provincia": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 665,
+    "popolazione_totale": 1295
+  }
+]

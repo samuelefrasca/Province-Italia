@@ -1,0 +1,1083 @@
+[
+  {
+    "codice_istat": "083107",
+    "comune": "Acquedolci",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2669,
+    "popolazione_femminile": 2863,
+    "popolazione_totale": 5532
+  },
+  {
+    "codice_istat": "083001",
+    "comune": "Alcara li Fusi",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 746,
+    "popolazione_femminile": 843,
+    "popolazione_totale": 1589
+  },
+  {
+    "codice_istat": "083002",
+    "comune": "Alì",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 301,
+    "popolazione_totale": 596
+  },
+  {
+    "codice_istat": "083003",
+    "comune": "Alì Terme",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1125,
+    "popolazione_femminile": 1192,
+    "popolazione_totale": 2317
+  },
+  {
+    "codice_istat": "083004",
+    "comune": "Antillo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 390,
+    "popolazione_femminile": 383,
+    "popolazione_totale": 773
+  },
+  {
+    "codice_istat": "083005",
+    "comune": "Barcellona Pozzo di Gotto",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 19490,
+    "popolazione_femminile": 20266,
+    "popolazione_totale": 39756
+  },
+  {
+    "codice_istat": "083006",
+    "comune": "Basicò",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 290,
+    "popolazione_femminile": 324,
+    "popolazione_totale": 614
+  },
+  {
+    "codice_istat": "083007",
+    "comune": "Brolo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2713,
+    "popolazione_femminile": 2999,
+    "popolazione_totale": 5712
+  },
+  {
+    "codice_istat": "083008",
+    "comune": "Capizzi",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1320,
+    "popolazione_femminile": 1387,
+    "popolazione_totale": 2707
+  },
+  {
+    "codice_istat": "083009",
+    "comune": "Capo d'Orlando",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6137,
+    "popolazione_femminile": 6928,
+    "popolazione_totale": 13065
+  },
+  {
+    "codice_istat": "083010",
+    "comune": "Capri Leone",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2126,
+    "popolazione_femminile": 2275,
+    "popolazione_totale": 4401
+  },
+  {
+    "codice_istat": "083011",
+    "comune": "Caronia",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1429,
+    "popolazione_femminile": 1488,
+    "popolazione_totale": 2917
+  },
+  {
+    "codice_istat": "083012",
+    "comune": "Casalvecchio Siculo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 364,
+    "popolazione_femminile": 311,
+    "popolazione_totale": 675
+  },
+  {
+    "codice_istat": "083013",
+    "comune": "Castel di Lucio",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 683,
+    "popolazione_femminile": 672,
+    "popolazione_totale": 1355
+  },
+  {
+    "codice_istat": "083014",
+    "comune": "Castell'Umberto",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1318,
+    "popolazione_femminile": 1413,
+    "popolazione_totale": 2731
+  },
+  {
+    "codice_istat": "083015",
+    "comune": "Castelmola",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 542,
+    "popolazione_femminile": 529,
+    "popolazione_totale": 1071
+  },
+  {
+    "codice_istat": "083016",
+    "comune": "Castroreale",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1111,
+    "popolazione_femminile": 1120,
+    "popolazione_totale": 2231
+  },
+  {
+    "codice_istat": "083017",
+    "comune": "Cesarò",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1025,
+    "popolazione_femminile": 1035,
+    "popolazione_totale": 2060
+  },
+  {
+    "codice_istat": "083018",
+    "comune": "Condrò",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 241,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 501
+  },
+  {
+    "codice_istat": "083019",
+    "comune": "Falcone",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1377,
+    "popolazione_femminile": 1449,
+    "popolazione_totale": 2826
+  },
+  {
+    "codice_istat": "083020",
+    "comune": "Ficarra",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 620,
+    "popolazione_femminile": 647,
+    "popolazione_totale": 1267
+  },
+  {
+    "codice_istat": "083021",
+    "comune": "Fiumedinisi",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 607,
+    "popolazione_femminile": 643,
+    "popolazione_totale": 1250
+  },
+  {
+    "codice_istat": "083022",
+    "comune": "Floresta",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 227,
+    "popolazione_femminile": 231,
+    "popolazione_totale": 458
+  },
+  {
+    "codice_istat": "083023",
+    "comune": "Fondachelli-Fantina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 631,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 1058
+  },
+  {
+    "codice_istat": "083024",
+    "comune": "Forza d'Agrò",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 456,
+    "popolazione_femminile": 446,
+    "popolazione_totale": 902
+  },
+  {
+    "codice_istat": "083025",
+    "comune": "Francavilla di Sicilia",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1735,
+    "popolazione_femminile": 1763,
+    "popolazione_totale": 3498
+  },
+  {
+    "codice_istat": "083026",
+    "comune": "Frazzanò",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 250,
+    "popolazione_femminile": 274,
+    "popolazione_totale": 524
+  },
+  {
+    "codice_istat": "083027",
+    "comune": "Furci Siculo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1569,
+    "popolazione_femminile": 1676,
+    "popolazione_totale": 3245
+  },
+  {
+    "codice_istat": "083028",
+    "comune": "Furnari",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2110,
+    "popolazione_femminile": 2136,
+    "popolazione_totale": 4246
+  },
+  {
+    "codice_istat": "083029",
+    "comune": "Gaggi",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1506,
+    "popolazione_femminile": 1588,
+    "popolazione_totale": 3094
+  },
+  {
+    "codice_istat": "083030",
+    "comune": "Galati Mamertino",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 964,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2108
+  },
+  {
+    "codice_istat": "083031",
+    "comune": "Gallodoro",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 159,
+    "popolazione_femminile": 161,
+    "popolazione_totale": 320
+  },
+  {
+    "codice_istat": "083032",
+    "comune": "Giardini-Naxos",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4519,
+    "popolazione_femminile": 4918,
+    "popolazione_totale": 9437
+  },
+  {
+    "codice_istat": "083033",
+    "comune": "Gioiosa Marea",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3269,
+    "popolazione_femminile": 3417,
+    "popolazione_totale": 6686
+  },
+  {
+    "codice_istat": "083034",
+    "comune": "Graniti",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 732,
+    "popolazione_femminile": 702,
+    "popolazione_totale": 1434
+  },
+  {
+    "codice_istat": "083035",
+    "comune": "Gualtieri Sicaminò",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 711,
+    "popolazione_femminile": 797,
+    "popolazione_totale": 1508
+  },
+  {
+    "codice_istat": "083036",
+    "comune": "Itala",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 714,
+    "popolazione_femminile": 777,
+    "popolazione_totale": 1491
+  },
+  {
+    "codice_istat": "083037",
+    "comune": "Leni",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 342,
+    "popolazione_femminile": 327,
+    "popolazione_totale": 669
+  },
+  {
+    "codice_istat": "083038",
+    "comune": "Letojanni",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1433,
+    "popolazione_femminile": 1546,
+    "popolazione_totale": 2979
+  },
+  {
+    "codice_istat": "083039",
+    "comune": "Librizzi",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 744,
+    "popolazione_femminile": 791,
+    "popolazione_totale": 1535
+  },
+  {
+    "codice_istat": "083040",
+    "comune": "Limina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 325,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 703
+  },
+  {
+    "codice_istat": "083041",
+    "comune": "Lipari",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6542,
+    "popolazione_femminile": 6252,
+    "popolazione_totale": 12794
+  },
+  {
+    "codice_istat": "083042",
+    "comune": "Longi",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 604,
+    "popolazione_femminile": 647,
+    "popolazione_totale": 1251
+  },
+  {
+    "codice_istat": "083043",
+    "comune": "Malfa",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 521,
+    "popolazione_femminile": 482,
+    "popolazione_totale": 1003
+  },
+  {
+    "codice_istat": "083044",
+    "comune": "Malvagna",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 270,
+    "popolazione_femminile": 305,
+    "popolazione_totale": 575
+  },
+  {
+    "codice_istat": "083045",
+    "comune": "Mandanici",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 221,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 468
+  },
+  {
+    "codice_istat": "083046",
+    "comune": "Mazzarrà Sant'Andrea",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 716,
+    "popolazione_femminile": 689,
+    "popolazione_totale": 1405
+  },
+  {
+    "codice_istat": "083047",
+    "comune": "Merì",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1187,
+    "popolazione_femminile": 1207,
+    "popolazione_totale": 2394
+  },
+  {
+    "codice_istat": "083048",
+    "comune": "Messina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 104268,
+    "popolazione_femminile": 112190,
+    "popolazione_totale": 216458,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "083049",
+    "comune": "Milazzo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 14586,
+    "popolazione_femminile": 15193,
+    "popolazione_totale": 29779
+  },
+  {
+    "codice_istat": "083050",
+    "comune": "Militello Rosmarino",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 578,
+    "popolazione_femminile": 590,
+    "popolazione_totale": 1168
+  },
+  {
+    "codice_istat": "083051",
+    "comune": "Mirto",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 409,
+    "popolazione_femminile": 443,
+    "popolazione_totale": 852
+  },
+  {
+    "codice_istat": "083052",
+    "comune": "Mistretta",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1956,
+    "popolazione_femminile": 2194,
+    "popolazione_totale": 4150
+  },
+  {
+    "codice_istat": "083053",
+    "comune": "Moio Alcantara",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 342,
+    "popolazione_totale": 679
+  },
+  {
+    "codice_istat": "083054",
+    "comune": "Monforte San Giorgio",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1169,
+    "popolazione_femminile": 1221,
+    "popolazione_totale": 2390
+  },
+  {
+    "codice_istat": "083055",
+    "comune": "Mongiuffi Melia",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 254,
+    "popolazione_totale": 506
+  },
+  {
+    "codice_istat": "083056",
+    "comune": "Montagnareale",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 667,
+    "popolazione_femminile": 675,
+    "popolazione_totale": 1342
+  },
+  {
+    "codice_istat": "083057",
+    "comune": "Montalbano Elicona",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1045,
+    "popolazione_femminile": 1027,
+    "popolazione_totale": 2072
+  },
+  {
+    "codice_istat": "083058",
+    "comune": "Motta Camastra",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 762
+  },
+  {
+    "codice_istat": "083059",
+    "comune": "Motta d'Affermo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 646
+  },
+  {
+    "codice_istat": "083060",
+    "comune": "Naso",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1633,
+    "popolazione_femminile": 1711,
+    "popolazione_totale": 3344
+  },
+  {
+    "codice_istat": "083061",
+    "comune": "Nizza di Sicilia",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1729,
+    "popolazione_femminile": 1759,
+    "popolazione_totale": 3488
+  },
+  {
+    "codice_istat": "083062",
+    "comune": "Novara di Sicilia",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 511,
+    "popolazione_femminile": 534,
+    "popolazione_totale": 1045
+  },
+  {
+    "codice_istat": "083063",
+    "comune": "Oliveri",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1095,
+    "popolazione_femminile": 1131,
+    "popolazione_totale": 2226
+  },
+  {
+    "codice_istat": "083064",
+    "comune": "Pace del Mela",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2907,
+    "popolazione_femminile": 3031,
+    "popolazione_totale": 5938
+  },
+  {
+    "codice_istat": "083065",
+    "comune": "Pagliara",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 531,
+    "popolazione_femminile": 569,
+    "popolazione_totale": 1100
+  },
+  {
+    "codice_istat": "083066",
+    "comune": "Patti",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6064,
+    "popolazione_femminile": 6657,
+    "popolazione_totale": 12721
+  },
+  {
+    "codice_istat": "083067",
+    "comune": "Pettineo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 601,
+    "popolazione_femminile": 621,
+    "popolazione_totale": 1222
+  },
+  {
+    "codice_istat": "083068",
+    "comune": "Piraino",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1848,
+    "popolazione_femminile": 1876,
+    "popolazione_totale": 3724
+  },
+  {
+    "codice_istat": "083069",
+    "comune": "Raccuja",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 411,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 839
+  },
+  {
+    "codice_istat": "083070",
+    "comune": "Reitano",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 350,
+    "popolazione_femminile": 355,
+    "popolazione_totale": 705
+  },
+  {
+    "codice_istat": "083071",
+    "comune": "Roccafiorita",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 77,
+    "popolazione_femminile": 77,
+    "popolazione_totale": 154
+  },
+  {
+    "codice_istat": "083072",
+    "comune": "Roccalumera",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1984,
+    "popolazione_femminile": 2159,
+    "popolazione_totale": 4143
+  },
+  {
+    "codice_istat": "083073",
+    "comune": "Roccavaldina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 466,
+    "popolazione_femminile": 499,
+    "popolazione_totale": 965
+  },
+  {
+    "codice_istat": "083074",
+    "comune": "Roccella Valdemone",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 270,
+    "popolazione_totale": 532
+  },
+  {
+    "codice_istat": "083075",
+    "comune": "Rodì Milici",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 953,
+    "popolazione_femminile": 985,
+    "popolazione_totale": 1938
+  },
+  {
+    "codice_istat": "083076",
+    "comune": "Rometta",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3181,
+    "popolazione_femminile": 3316,
+    "popolazione_totale": 6497
+  },
+  {
+    "codice_istat": "083077",
+    "comune": "San Filippo del Mela",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3258,
+    "popolazione_femminile": 3359,
+    "popolazione_totale": 6617
+  },
+  {
+    "codice_istat": "083078",
+    "comune": "San Fratello",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1570,
+    "popolazione_femminile": 1589,
+    "popolazione_totale": 3159
+  },
+  {
+    "codice_istat": "083079",
+    "comune": "San Marco d'Alunzio",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 855,
+    "popolazione_femminile": 920,
+    "popolazione_totale": 1775
+  },
+  {
+    "codice_istat": "083080",
+    "comune": "San Pier Niceto",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1243,
+    "popolazione_femminile": 1275,
+    "popolazione_totale": 2518
+  },
+  {
+    "codice_istat": "083081",
+    "comune": "San Piero Patti",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1222,
+    "popolazione_femminile": 1313,
+    "popolazione_totale": 2535
+  },
+  {
+    "codice_istat": "083082",
+    "comune": "San Salvatore di Fitalia",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1103
+  },
+  {
+    "codice_istat": "083090",
+    "comune": "San Teodoro",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 559,
+    "popolazione_femminile": 626,
+    "popolazione_totale": 1185
+  },
+  {
+    "codice_istat": "083084",
+    "comune": "Sant'Agata di Militello",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5770,
+    "popolazione_femminile": 6363,
+    "popolazione_totale": 12133
+  },
+  {
+    "codice_istat": "083085",
+    "comune": "Sant'Alessio Siculo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 803,
+    "popolazione_totale": 1542
+  },
+  {
+    "codice_istat": "083088",
+    "comune": "Sant'Angelo di Brolo",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1290,
+    "popolazione_femminile": 1335,
+    "popolazione_totale": 2625
+  },
+  {
+    "codice_istat": "083083",
+    "comune": "Santa Domenica Vittoria",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 432,
+    "popolazione_totale": 861
+  },
+  {
+    "codice_istat": "083086",
+    "comune": "Santa Lucia del Mela",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2167,
+    "popolazione_femminile": 2175,
+    "popolazione_totale": 4342
+  },
+  {
+    "codice_istat": "083087",
+    "comune": "Santa Marina Salina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 419,
+    "popolazione_totale": 877
+  },
+  {
+    "codice_istat": "083089",
+    "comune": "Santa Teresa di Riva",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4395,
+    "popolazione_femminile": 4738,
+    "popolazione_totale": 9133
+  },
+  {
+    "codice_istat": "083091",
+    "comune": "Santo Stefano di Camastra",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2070,
+    "popolazione_femminile": 2255,
+    "popolazione_totale": 4325
+  },
+  {
+    "codice_istat": "083092",
+    "comune": "Saponara",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1793,
+    "popolazione_femminile": 1827,
+    "popolazione_totale": 3620
+  },
+  {
+    "codice_istat": "083093",
+    "comune": "Savoca",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 834,
+    "popolazione_femminile": 915,
+    "popolazione_totale": 1749
+  },
+  {
+    "codice_istat": "083094",
+    "comune": "Scaletta Zanclea",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 897,
+    "popolazione_femminile": 964,
+    "popolazione_totale": 1861
+  },
+  {
+    "codice_istat": "083095",
+    "comune": "Sinagra",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1204,
+    "popolazione_femminile": 1214,
+    "popolazione_totale": 2418
+  },
+  {
+    "codice_istat": "083096",
+    "comune": "Spadafora",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2241,
+    "popolazione_femminile": 2361,
+    "popolazione_totale": 4602
+  },
+  {
+    "codice_istat": "083097",
+    "comune": "Taormina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5134,
+    "popolazione_femminile": 5342,
+    "popolazione_totale": 10476
+  },
+  {
+    "codice_istat": "083106",
+    "comune": "Terme Vigliatore",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3632,
+    "popolazione_femminile": 3731,
+    "popolazione_totale": 7363
+  },
+  {
+    "codice_istat": "083098",
+    "comune": "Torregrotta",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3415,
+    "popolazione_femminile": 3868,
+    "popolazione_totale": 7283
+  },
+  {
+    "codice_istat": "083108",
+    "comune": "Torrenova",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2185,
+    "popolazione_femminile": 2298,
+    "popolazione_totale": 4483
+  },
+  {
+    "codice_istat": "083099",
+    "comune": "Tortorici",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2693,
+    "popolazione_femminile": 2739,
+    "popolazione_totale": 5432
+  },
+  {
+    "codice_istat": "083100",
+    "comune": "Tripi-Abakainon",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 334,
+    "popolazione_femminile": 370,
+    "popolazione_totale": 704
+  },
+  {
+    "codice_istat": "083101",
+    "comune": "Tusa",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1242,
+    "popolazione_femminile": 1238,
+    "popolazione_totale": 2480
+  },
+  {
+    "codice_istat": "083102",
+    "comune": "Ucria",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 402,
+    "popolazione_femminile": 439,
+    "popolazione_totale": 841
+  },
+  {
+    "codice_istat": "083103",
+    "comune": "Valdina",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 617,
+    "popolazione_femminile": 629,
+    "popolazione_totale": 1246
+  },
+  {
+    "codice_istat": "083104",
+    "comune": "Venetico",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1872,
+    "popolazione_femminile": 2089,
+    "popolazione_totale": 3961
+  },
+  {
+    "codice_istat": "083105",
+    "comune": "Villafranca Tirrena",
+    "provincia": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3621,
+    "popolazione_femminile": 4088,
+    "popolazione_totale": 7709
+  }
+]

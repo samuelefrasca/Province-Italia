@@ -1,0 +1,533 @@
+[
+  {
+    "codice_istat": "114001",
+    "comune": "Aritzo",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 755,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1272
+  },
+  {
+    "codice_istat": "114002",
+    "comune": "Atzara",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 495,
+    "popolazione_femminile": 479,
+    "popolazione_totale": 974
+  },
+  {
+    "codice_istat": "114003",
+    "comune": "Austis",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 357,
+    "popolazione_femminile": 354,
+    "popolazione_totale": 711
+  },
+  {
+    "codice_istat": "114004",
+    "comune": "Belvì",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 279,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 529
+  },
+  {
+    "codice_istat": "114005",
+    "comune": "Birori",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 233,
+    "popolazione_femminile": 248,
+    "popolazione_totale": 481
+  },
+  {
+    "codice_istat": "114006",
+    "comune": "Bitti",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1190,
+    "popolazione_femminile": 1286,
+    "popolazione_totale": 2476
+  },
+  {
+    "codice_istat": "114007",
+    "comune": "Bolotana",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1042,
+    "popolazione_femminile": 1202,
+    "popolazione_totale": 2244
+  },
+  {
+    "codice_istat": "114008",
+    "comune": "Borore",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 940,
+    "popolazione_femminile": 962,
+    "popolazione_totale": 1902
+  },
+  {
+    "codice_istat": "114009",
+    "comune": "Bortigali",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 578,
+    "popolazione_femminile": 640,
+    "popolazione_totale": 1218
+  },
+  {
+    "codice_istat": "114010",
+    "comune": "Desulo",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 994,
+    "popolazione_femminile": 1001,
+    "popolazione_totale": 1995
+  },
+  {
+    "codice_istat": "114011",
+    "comune": "Dorgali",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4122,
+    "popolazione_femminile": 4116,
+    "popolazione_totale": 8238
+  },
+  {
+    "codice_istat": "114012",
+    "comune": "Dualchi",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 291,
+    "popolazione_totale": 559
+  },
+  {
+    "codice_istat": "114013",
+    "comune": "Fonni",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1727,
+    "popolazione_femminile": 1825,
+    "popolazione_totale": 3552
+  },
+  {
+    "codice_istat": "114014",
+    "comune": "Gadoni",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 307,
+    "popolazione_femminile": 331,
+    "popolazione_totale": 638
+  },
+  {
+    "codice_istat": "114015",
+    "comune": "Galtellì",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1171,
+    "popolazione_femminile": 1206,
+    "popolazione_totale": 2377
+  },
+  {
+    "codice_istat": "114016",
+    "comune": "Gavoi",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1180,
+    "popolazione_femminile": 1224,
+    "popolazione_totale": 2404
+  },
+  {
+    "codice_istat": "114017",
+    "comune": "Irgoli",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1098,
+    "popolazione_femminile": 1096,
+    "popolazione_totale": 2194
+  },
+  {
+    "codice_istat": "114018",
+    "comune": "Lei",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 226,
+    "popolazione_femminile": 207,
+    "popolazione_totale": 433
+  },
+  {
+    "codice_istat": "114019",
+    "comune": "Loculi",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 219,
+    "popolazione_totale": 476
+  },
+  {
+    "codice_istat": "114020",
+    "comune": "Lodè",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 733,
+    "popolazione_femminile": 722,
+    "popolazione_totale": 1455
+  },
+  {
+    "codice_istat": "114021",
+    "comune": "Lodine",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 145,
+    "popolazione_femminile": 147,
+    "popolazione_totale": 292
+  },
+  {
+    "codice_istat": "114022",
+    "comune": "Lula",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 609,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1198
+  },
+  {
+    "codice_istat": "114023",
+    "comune": "Macomer",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4407,
+    "popolazione_femminile": 4541,
+    "popolazione_totale": 8948
+  },
+  {
+    "codice_istat": "114024",
+    "comune": "Mamoiada",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1159,
+    "popolazione_femminile": 1190,
+    "popolazione_totale": 2349
+  },
+  {
+    "codice_istat": "114025",
+    "comune": "Meana Sardo",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 762,
+    "popolazione_femminile": 756,
+    "popolazione_totale": 1518
+  },
+  {
+    "codice_istat": "114026",
+    "comune": "Noragugume",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 128,
+    "popolazione_femminile": 141,
+    "popolazione_totale": 269
+  },
+  {
+    "codice_istat": "114027",
+    "comune": "Nuoro",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 15684,
+    "popolazione_femminile": 17034,
+    "popolazione_totale": 32718,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "114028",
+    "comune": "Oliena",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3166,
+    "popolazione_femminile": 3239,
+    "popolazione_totale": 6405
+  },
+  {
+    "codice_istat": "114029",
+    "comune": "Ollolai",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 563,
+    "popolazione_femminile": 566,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "114030",
+    "comune": "Olzai",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 369,
+    "popolazione_totale": 752
+  },
+  {
+    "codice_istat": "114031",
+    "comune": "Onanì",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 164,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 337
+  },
+  {
+    "codice_istat": "114032",
+    "comune": "Onifai",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 341,
+    "popolazione_femminile": 387,
+    "popolazione_totale": 728
+  },
+  {
+    "codice_istat": "114033",
+    "comune": "Oniferi",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 417,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 823
+  },
+  {
+    "codice_istat": "114034",
+    "comune": "Orani",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1280,
+    "popolazione_femminile": 1296,
+    "popolazione_totale": 2576
+  },
+  {
+    "codice_istat": "114035",
+    "comune": "Orgosolo",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1891,
+    "popolazione_femminile": 1912,
+    "popolazione_totale": 3803
+  },
+  {
+    "codice_istat": "114036",
+    "comune": "Orosei",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3450,
+    "popolazione_femminile": 3388,
+    "popolazione_totale": 6838
+  },
+  {
+    "codice_istat": "114037",
+    "comune": "Orotelli",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 909,
+    "popolazione_femminile": 915,
+    "popolazione_totale": 1824
+  },
+  {
+    "codice_istat": "114038",
+    "comune": "Ortueri",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 488,
+    "popolazione_femminile": 473,
+    "popolazione_totale": 961
+  },
+  {
+    "codice_istat": "114039",
+    "comune": "Orune",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1011,
+    "popolazione_femminile": 1011,
+    "popolazione_totale": 2022
+  },
+  {
+    "codice_istat": "114040",
+    "comune": "Osidda",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 103,
+    "popolazione_femminile": 106,
+    "popolazione_totale": 209
+  },
+  {
+    "codice_istat": "114041",
+    "comune": "Ottana",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1073,
+    "popolazione_femminile": 1074,
+    "popolazione_totale": 2147
+  },
+  {
+    "codice_istat": "114042",
+    "comune": "Ovodda",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 720,
+    "popolazione_femminile": 709,
+    "popolazione_totale": 1429
+  },
+  {
+    "codice_istat": "114043",
+    "comune": "Posada",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1561,
+    "popolazione_femminile": 1518,
+    "popolazione_totale": 3079
+  },
+  {
+    "codice_istat": "114044",
+    "comune": "Sarule",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 702,
+    "popolazione_femminile": 748,
+    "popolazione_totale": 1450
+  },
+  {
+    "codice_istat": "114045",
+    "comune": "Seulo",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 404,
+    "popolazione_femminile": 341,
+    "popolazione_totale": 745
+  },
+  {
+    "codice_istat": "114046",
+    "comune": "Silanus",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 927,
+    "popolazione_femminile": 964,
+    "popolazione_totale": 1891
+  },
+  {
+    "codice_istat": "114047",
+    "comune": "Sindia",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 748,
+    "popolazione_femminile": 810,
+    "popolazione_totale": 1558
+  },
+  {
+    "codice_istat": "114048",
+    "comune": "Siniscola",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 5622,
+    "popolazione_femminile": 5517,
+    "popolazione_totale": 11139
+  },
+  {
+    "codice_istat": "114049",
+    "comune": "Sorgono",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 723,
+    "popolazione_femminile": 711,
+    "popolazione_totale": 1434
+  },
+  {
+    "codice_istat": "114050",
+    "comune": "Teti",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 561
+  },
+  {
+    "codice_istat": "114051",
+    "comune": "Tiana",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 210,
+    "popolazione_femminile": 208,
+    "popolazione_totale": 418
+  },
+  {
+    "codice_istat": "114052",
+    "comune": "Tonara",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 957,
+    "popolazione_femminile": 849,
+    "popolazione_totale": 1806
+  },
+  {
+    "codice_istat": "114053",
+    "comune": "Torpè",
+    "provincia": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1432,
+    "popolazione_femminile": 1325,
+    "popolazione_totale": 2757
+  }
+]

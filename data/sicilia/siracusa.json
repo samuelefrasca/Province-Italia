@@ -1,0 +1,213 @@
+[
+  {
+    "codice_istat": "089001",
+    "comune": "Augusta",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 17260,
+    "popolazione_femminile": 17437,
+    "popolazione_totale": 34697
+  },
+  {
+    "codice_istat": "089002",
+    "comune": "Avola",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 15133,
+    "popolazione_femminile": 15550,
+    "popolazione_totale": 30683
+  },
+  {
+    "codice_istat": "089003",
+    "comune": "Buccheri",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 788,
+    "popolazione_femminile": 904,
+    "popolazione_totale": 1692
+  },
+  {
+    "codice_istat": "089004",
+    "comune": "Buscemi",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 935
+  },
+  {
+    "codice_istat": "089005",
+    "comune": "Canicattini Bagni",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3122,
+    "popolazione_femminile": 3360,
+    "popolazione_totale": 6482
+  },
+  {
+    "codice_istat": "089006",
+    "comune": "Carlentini",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 8204,
+    "popolazione_femminile": 8679,
+    "popolazione_totale": 16883
+  },
+  {
+    "codice_istat": "089007",
+    "comune": "Cassaro",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 356,
+    "popolazione_totale": 721
+  },
+  {
+    "codice_istat": "089008",
+    "comune": "Ferla",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1098,
+    "popolazione_femminile": 1121,
+    "popolazione_totale": 2219
+  },
+  {
+    "codice_istat": "089009",
+    "comune": "Floridia",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 10285,
+    "popolazione_femminile": 10712,
+    "popolazione_totale": 20997
+  },
+  {
+    "codice_istat": "089010",
+    "comune": "Francofonte",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5649,
+    "popolazione_femminile": 5835,
+    "popolazione_totale": 11484
+  },
+  {
+    "codice_istat": "089011",
+    "comune": "Lentini",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 10220,
+    "popolazione_femminile": 10802,
+    "popolazione_totale": 21022
+  },
+  {
+    "codice_istat": "089012",
+    "comune": "Melilli",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6648,
+    "popolazione_femminile": 6479,
+    "popolazione_totale": 13127
+  },
+  {
+    "codice_istat": "089013",
+    "comune": "Noto",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 12496,
+    "popolazione_femminile": 12160,
+    "popolazione_totale": 24656
+  },
+  {
+    "codice_istat": "089014",
+    "comune": "Pachino",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 11521,
+    "popolazione_femminile": 10834,
+    "popolazione_totale": 22355
+  },
+  {
+    "codice_istat": "089015",
+    "comune": "Palazzolo Acreide",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3859,
+    "popolazione_femminile": 4053,
+    "popolazione_totale": 7912
+  },
+  {
+    "codice_istat": "089020",
+    "comune": "Portopalo di Capo Passero",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1975,
+    "popolazione_femminile": 1915,
+    "popolazione_totale": 3890
+  },
+  {
+    "codice_istat": "089021",
+    "comune": "Priolo Gargallo",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5421,
+    "popolazione_femminile": 5617,
+    "popolazione_totale": 11038
+  },
+  {
+    "codice_istat": "089016",
+    "comune": "Rosolini",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 10311,
+    "popolazione_femminile": 10344,
+    "popolazione_totale": 20655
+  },
+  {
+    "codice_istat": "089017",
+    "comune": "Siracusa",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 56764,
+    "popolazione_femminile": 58751,
+    "popolazione_totale": 115515,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "089018",
+    "comune": "Solarino",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3694,
+    "popolazione_femminile": 3816,
+    "popolazione_totale": 7510
+  },
+  {
+    "codice_istat": "089019",
+    "comune": "Sortino",
+    "provincia": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3947,
+    "popolazione_femminile": 4030,
+    "popolazione_totale": 7977
+  }
+]

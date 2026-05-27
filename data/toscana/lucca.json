@@ -1,0 +1,333 @@
+[
+  {
+    "codice_istat": "046001",
+    "comune": "Altopascio",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 8042,
+    "popolazione_femminile": 8144,
+    "popolazione_totale": 16186
+  },
+  {
+    "codice_istat": "046002",
+    "comune": "Bagni di Lucca",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 2741,
+    "popolazione_femminile": 2735,
+    "popolazione_totale": 5476
+  },
+  {
+    "codice_istat": "046003",
+    "comune": "Barga",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 4619,
+    "popolazione_femminile": 4674,
+    "popolazione_totale": 9293
+  },
+  {
+    "codice_istat": "046004",
+    "comune": "Borgo a Mozzano",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 3297,
+    "popolazione_femminile": 3386,
+    "popolazione_totale": 6683
+  },
+  {
+    "codice_istat": "046005",
+    "comune": "Camaiore",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 15373,
+    "popolazione_femminile": 16390,
+    "popolazione_totale": 31763
+  },
+  {
+    "codice_istat": "046006",
+    "comune": "Camporgiano",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 980,
+    "popolazione_femminile": 1002,
+    "popolazione_totale": 1982
+  },
+  {
+    "codice_istat": "046007",
+    "comune": "Capannori",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 23252,
+    "popolazione_femminile": 23487,
+    "popolazione_totale": 46739
+  },
+  {
+    "codice_istat": "046008",
+    "comune": "Careggine",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 487
+  },
+  {
+    "codice_istat": "046009",
+    "comune": "Castelnuovo di Garfagnana",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 2700,
+    "popolazione_femminile": 2905,
+    "popolazione_totale": 5605
+  },
+  {
+    "codice_istat": "046010",
+    "comune": "Castiglione di Garfagnana",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 843,
+    "popolazione_femminile": 842,
+    "popolazione_totale": 1685
+  },
+  {
+    "codice_istat": "046011",
+    "comune": "Coreglia Antelminelli",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 2549,
+    "popolazione_femminile": 2526,
+    "popolazione_totale": 5075
+  },
+  {
+    "codice_istat": "046036",
+    "comune": "Fabbriche di Vergemoli",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 357,
+    "popolazione_femminile": 338,
+    "popolazione_totale": 695
+  },
+  {
+    "codice_istat": "046013",
+    "comune": "Forte dei Marmi",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 3009,
+    "popolazione_femminile": 3541,
+    "popolazione_totale": 6550
+  },
+  {
+    "codice_istat": "046014",
+    "comune": "Fosciandora",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 291,
+    "popolazione_totale": 553
+  },
+  {
+    "codice_istat": "046015",
+    "comune": "Gallicano",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 1827,
+    "popolazione_femminile": 1765,
+    "popolazione_totale": 3592
+  },
+  {
+    "codice_istat": "046017",
+    "comune": "Lucca",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 42924,
+    "popolazione_femminile": 45540,
+    "popolazione_totale": 88464,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "046018",
+    "comune": "Massarosa",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 10736,
+    "popolazione_femminile": 11046,
+    "popolazione_totale": 21782
+  },
+  {
+    "codice_istat": "046019",
+    "comune": "Minucciano",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 836,
+    "popolazione_femminile": 877,
+    "popolazione_totale": 1713
+  },
+  {
+    "codice_istat": "046020",
+    "comune": "Molazzana",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 473,
+    "popolazione_femminile": 480,
+    "popolazione_totale": 953
+  },
+  {
+    "codice_istat": "046021",
+    "comune": "Montecarlo",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 2109,
+    "popolazione_femminile": 2234,
+    "popolazione_totale": 4343
+  },
+  {
+    "codice_istat": "046022",
+    "comune": "Pescaglia",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 1580,
+    "popolazione_femminile": 1574,
+    "popolazione_totale": 3154
+  },
+  {
+    "codice_istat": "046023",
+    "comune": "Piazza al Serchio",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 977,
+    "popolazione_femminile": 1054,
+    "popolazione_totale": 2031
+  },
+  {
+    "codice_istat": "046024",
+    "comune": "Pietrasanta",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 10736,
+    "popolazione_femminile": 11942,
+    "popolazione_totale": 22678
+  },
+  {
+    "codice_istat": "046025",
+    "comune": "Pieve Fosciana",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 1089,
+    "popolazione_femminile": 1095,
+    "popolazione_totale": 2184
+  },
+  {
+    "codice_istat": "046026",
+    "comune": "Porcari",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 4402,
+    "popolazione_femminile": 4506,
+    "popolazione_totale": 8908
+  },
+  {
+    "codice_istat": "046027",
+    "comune": "San Romano in Garfagnana",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 640,
+    "popolazione_femminile": 655,
+    "popolazione_totale": 1295
+  },
+  {
+    "codice_istat": "046028",
+    "comune": "Seravezza",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 5856,
+    "popolazione_femminile": 6428,
+    "popolazione_totale": 12284
+  },
+  {
+    "codice_istat": "046037",
+    "comune": "Sillano Giuncugnano",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 466,
+    "popolazione_femminile": 499,
+    "popolazione_totale": 965
+  },
+  {
+    "codice_istat": "046030",
+    "comune": "Stazzema",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 1405,
+    "popolazione_femminile": 1378,
+    "popolazione_totale": 2783
+  },
+  {
+    "codice_istat": "046031",
+    "comune": "Vagli Sotto",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 412,
+    "popolazione_femminile": 349,
+    "popolazione_totale": 761
+  },
+  {
+    "codice_istat": "046033",
+    "comune": "Viareggio",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 29180,
+    "popolazione_femminile": 31500,
+    "popolazione_totale": 60680
+  },
+  {
+    "codice_istat": "046034",
+    "comune": "Villa Basilica",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 733,
+    "popolazione_femminile": 727,
+    "popolazione_totale": 1460
+  },
+  {
+    "codice_istat": "046035",
+    "comune": "Villa Collemandina",
+    "provincia": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "popolazione_maschile": 584,
+    "popolazione_femminile": 571,
+    "popolazione_totale": 1155
+  }
+]

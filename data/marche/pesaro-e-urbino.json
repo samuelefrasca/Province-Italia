@@ -1,0 +1,504 @@
+[
+  {
+    "codice_istat": "041001",
+    "comune": "Acqualagna",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2067,
+    "popolazione_femminile": 2086,
+    "popolazione_totale": 4153
+  },
+  {
+    "codice_istat": "041002",
+    "comune": "Apecchio",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 820,
+    "popolazione_femminile": 843,
+    "popolazione_totale": 1663
+  },
+  {
+    "codice_istat": "041005",
+    "comune": "Belforte all'Isauro",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 369,
+    "popolazione_femminile": 359,
+    "popolazione_totale": 728
+  },
+  {
+    "codice_istat": "041006",
+    "comune": "Borgo Pace",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 520
+  },
+  {
+    "codice_istat": "041007",
+    "comune": "Cagli",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 3889,
+    "popolazione_femminile": 3989,
+    "popolazione_totale": 7878
+  },
+  {
+    "codice_istat": "041008",
+    "comune": "Cantiano",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 999,
+    "popolazione_femminile": 963,
+    "popolazione_totale": 1962
+  },
+  {
+    "codice_istat": "041009",
+    "comune": "Carpegna",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 874,
+    "popolazione_femminile": 800,
+    "popolazione_totale": 1674
+  },
+  {
+    "codice_istat": "041010",
+    "comune": "Cartoceto",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 3953,
+    "popolazione_femminile": 4002,
+    "popolazione_totale": 7955
+  },
+  {
+    "codice_istat": "041069",
+    "comune": "Colli al Metauro",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 6220,
+    "popolazione_femminile": 6129,
+    "popolazione_totale": 12349
+  },
+  {
+    "codice_istat": "041013",
+    "comune": "Fano",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 29002,
+    "popolazione_femminile": 30869,
+    "popolazione_totale": 59871
+  },
+  {
+    "codice_istat": "041014",
+    "comune": "Fermignano",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 4099,
+    "popolazione_femminile": 4169,
+    "popolazione_totale": 8268
+  },
+  {
+    "codice_istat": "041015",
+    "comune": "Fossombrone",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 4495,
+    "popolazione_femminile": 4533,
+    "popolazione_totale": 9028
+  },
+  {
+    "codice_istat": "041016",
+    "comune": "Fratte Rosa",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 427,
+    "popolazione_femminile": 400,
+    "popolazione_totale": 827
+  },
+  {
+    "codice_istat": "041017",
+    "comune": "Frontino",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 146,
+    "popolazione_femminile": 144,
+    "popolazione_totale": 290
+  },
+  {
+    "codice_istat": "041018",
+    "comune": "Frontone",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 580,
+    "popolazione_femminile": 612,
+    "popolazione_totale": 1192
+  },
+  {
+    "codice_istat": "041019",
+    "comune": "Gabicce Mare",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2648,
+    "popolazione_femminile": 2763,
+    "popolazione_totale": 5411
+  },
+  {
+    "codice_istat": "041020",
+    "comune": "Gradara",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2475,
+    "popolazione_femminile": 2424,
+    "popolazione_totale": 4899
+  },
+  {
+    "codice_istat": "041021",
+    "comune": "Isola del Piano",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 248,
+    "popolazione_totale": 517
+  },
+  {
+    "codice_istat": "041022",
+    "comune": "Lunano",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 751,
+    "popolazione_femminile": 661,
+    "popolazione_totale": 1412
+  },
+  {
+    "codice_istat": "041023",
+    "comune": "Macerata Feltria",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 888,
+    "popolazione_femminile": 992,
+    "popolazione_totale": 1880
+  },
+  {
+    "codice_istat": "041025",
+    "comune": "Mercatello sul Metauro",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 653,
+    "popolazione_femminile": 667,
+    "popolazione_totale": 1320
+  },
+  {
+    "codice_istat": "041026",
+    "comune": "Mercatino Conca",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 538,
+    "popolazione_totale": 1078
+  },
+  {
+    "codice_istat": "041027",
+    "comune": "Mombaroccio",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1066,
+    "popolazione_femminile": 1090,
+    "popolazione_totale": 2156
+  },
+  {
+    "codice_istat": "041028",
+    "comune": "Mondavio",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1759,
+    "popolazione_femminile": 1833,
+    "popolazione_totale": 3592
+  },
+  {
+    "codice_istat": "041029",
+    "comune": "Mondolfo",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 7186,
+    "popolazione_femminile": 7220,
+    "popolazione_totale": 14406
+  },
+  {
+    "codice_istat": "041031",
+    "comune": "Monte Cerignone",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 265,
+    "popolazione_femminile": 303,
+    "popolazione_totale": 568
+  },
+  {
+    "codice_istat": "041035",
+    "comune": "Monte Grimano Terme",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 571,
+    "popolazione_femminile": 566,
+    "popolazione_totale": 1137
+  },
+  {
+    "codice_istat": "041038",
+    "comune": "Monte Porzio",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1444,
+    "popolazione_femminile": 1408,
+    "popolazione_totale": 2852
+  },
+  {
+    "codice_istat": "041030",
+    "comune": "Montecalvo in Foglia",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1379,
+    "popolazione_femminile": 1400,
+    "popolazione_totale": 2779
+  },
+  {
+    "codice_istat": "041034",
+    "comune": "Montefelcino",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1220,
+    "popolazione_femminile": 1207,
+    "popolazione_totale": 2427
+  },
+  {
+    "codice_istat": "041036",
+    "comune": "Montelabbate",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 3600,
+    "popolazione_femminile": 3466,
+    "popolazione_totale": 7066
+  },
+  {
+    "codice_istat": "041041",
+    "comune": "Peglio",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 362,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 690
+  },
+  {
+    "codice_istat": "041043",
+    "comune": "Pergola",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2853,
+    "popolazione_femminile": 2892,
+    "popolazione_totale": 5745
+  },
+  {
+    "codice_istat": "041044",
+    "comune": "Pesaro",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 46110,
+    "popolazione_femminile": 49160,
+    "popolazione_totale": 95270,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "041045",
+    "comune": "Petriano",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1414,
+    "popolazione_femminile": 1400,
+    "popolazione_totale": 2814
+  },
+  {
+    "codice_istat": "041047",
+    "comune": "Piandimeleto",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1072,
+    "popolazione_femminile": 980,
+    "popolazione_totale": 2052
+  },
+  {
+    "codice_istat": "041048",
+    "comune": "Pietrarubbia",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 371,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 652
+  },
+  {
+    "codice_istat": "041049",
+    "comune": "Piobbico",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 890,
+    "popolazione_femminile": 918,
+    "popolazione_totale": 1808
+  },
+  {
+    "codice_istat": "041051",
+    "comune": "San Costanzo",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2367,
+    "popolazione_femminile": 2281,
+    "popolazione_totale": 4648
+  },
+  {
+    "codice_istat": "041054",
+    "comune": "San Lorenzo in Campo",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1545,
+    "popolazione_femminile": 1612,
+    "popolazione_totale": 3157
+  },
+  {
+    "codice_istat": "041057",
+    "comune": "Sant'Angelo in Vado",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 1965,
+    "popolazione_femminile": 1940,
+    "popolazione_totale": 3905
+  },
+  {
+    "codice_istat": "041058",
+    "comune": "Sant'Ippolito",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 763,
+    "popolazione_femminile": 743,
+    "popolazione_totale": 1506
+  },
+  {
+    "codice_istat": "041071",
+    "comune": "Sassocorvaro Auditore",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2494,
+    "popolazione_femminile": 2381,
+    "popolazione_totale": 4875
+  },
+  {
+    "codice_istat": "041061",
+    "comune": "Serra Sant'Abbondio",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 431,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 846
+  },
+  {
+    "codice_istat": "041064",
+    "comune": "Tavoleto",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 414,
+    "popolazione_femminile": 417,
+    "popolazione_totale": 831
+  },
+  {
+    "codice_istat": "041065",
+    "comune": "Tavullia",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 4045,
+    "popolazione_femminile": 3973,
+    "popolazione_totale": 8018
+  },
+  {
+    "codice_istat": "041070",
+    "comune": "Terre Roveresche",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 2636,
+    "popolazione_femminile": 2546,
+    "popolazione_totale": 5182
+  },
+  {
+    "codice_istat": "041066",
+    "comune": "Urbania",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 3400,
+    "popolazione_femminile": 3488,
+    "popolazione_totale": 6888
+  },
+  {
+    "codice_istat": "041067",
+    "comune": "Urbino",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 6942,
+    "popolazione_femminile": 6926,
+    "popolazione_totale": 13868,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "041068",
+    "comune": "Vallefoglia",
+    "provincia": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "popolazione_maschile": 7623,
+    "popolazione_femminile": 7320,
+    "popolazione_totale": 14943
+  }
+]

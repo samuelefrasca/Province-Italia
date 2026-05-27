@@ -1,0 +1,443 @@
+[
+  {
+    "codice_istat": "027001",
+    "comune": "Annone Veneto",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 2028,
+    "popolazione_femminile": 1889,
+    "popolazione_totale": 3917
+  },
+  {
+    "codice_istat": "027002",
+    "comune": "Campagna Lupia",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3503,
+    "popolazione_femminile": 3613,
+    "popolazione_totale": 7116
+  },
+  {
+    "codice_istat": "027003",
+    "comune": "Campolongo Maggiore",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 5348,
+    "popolazione_femminile": 5350,
+    "popolazione_totale": 10698
+  },
+  {
+    "codice_istat": "027004",
+    "comune": "Camponogara",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 6346,
+    "popolazione_femminile": 6633,
+    "popolazione_totale": 12979
+  },
+  {
+    "codice_istat": "027005",
+    "comune": "Caorle",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 5311,
+    "popolazione_femminile": 5667,
+    "popolazione_totale": 10978
+  },
+  {
+    "codice_istat": "027044",
+    "comune": "Cavallino-Treporti",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 6389,
+    "popolazione_femminile": 6716,
+    "popolazione_totale": 13105
+  },
+  {
+    "codice_istat": "027006",
+    "comune": "Cavarzere",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 6335,
+    "popolazione_femminile": 6395,
+    "popolazione_totale": 12730
+  },
+  {
+    "codice_istat": "027007",
+    "comune": "Ceggia",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3130,
+    "popolazione_femminile": 3120,
+    "popolazione_totale": 6250
+  },
+  {
+    "codice_istat": "027008",
+    "comune": "Chioggia",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 23269,
+    "popolazione_femminile": 23682,
+    "popolazione_totale": 46951
+  },
+  {
+    "codice_istat": "027009",
+    "comune": "Cinto Caomaggiore",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 1560,
+    "popolazione_femminile": 1612,
+    "popolazione_totale": 3172
+  },
+  {
+    "codice_istat": "027010",
+    "comune": "Cona",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 1393,
+    "popolazione_femminile": 1374,
+    "popolazione_totale": 2767
+  },
+  {
+    "codice_istat": "027011",
+    "comune": "Concordia Sagittaria",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 5003,
+    "popolazione_femminile": 5209,
+    "popolazione_totale": 10212
+  },
+  {
+    "codice_istat": "027012",
+    "comune": "Dolo",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 7314,
+    "popolazione_femminile": 7679,
+    "popolazione_totale": 14993
+  },
+  {
+    "codice_istat": "027013",
+    "comune": "Eraclea",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 5852,
+    "popolazione_femminile": 5968,
+    "popolazione_totale": 11820
+  },
+  {
+    "codice_istat": "027014",
+    "comune": "Fiesso d'Artico",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 4272,
+    "popolazione_femminile": 4430,
+    "popolazione_totale": 8702
+  },
+  {
+    "codice_istat": "027015",
+    "comune": "Fossalta di Piave",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 2085,
+    "popolazione_femminile": 2166,
+    "popolazione_totale": 4251
+  },
+  {
+    "codice_istat": "027016",
+    "comune": "Fossalta di Portogruaro",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 2782,
+    "popolazione_femminile": 2965,
+    "popolazione_totale": 5747
+  },
+  {
+    "codice_istat": "027017",
+    "comune": "Fossò",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3489,
+    "popolazione_femminile": 3629,
+    "popolazione_totale": 7118
+  },
+  {
+    "codice_istat": "027018",
+    "comune": "Gruaro",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 1312,
+    "popolazione_femminile": 1388,
+    "popolazione_totale": 2700
+  },
+  {
+    "codice_istat": "027019",
+    "comune": "Jesolo",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 13154,
+    "popolazione_femminile": 13966,
+    "popolazione_totale": 27120
+  },
+  {
+    "codice_istat": "027020",
+    "comune": "Marcon",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 8824,
+    "popolazione_femminile": 8840,
+    "popolazione_totale": 17664
+  },
+  {
+    "codice_istat": "027021",
+    "comune": "Martellago",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 10352,
+    "popolazione_femminile": 10832,
+    "popolazione_totale": 21184
+  },
+  {
+    "codice_istat": "027022",
+    "comune": "Meolo",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3112,
+    "popolazione_femminile": 3043,
+    "popolazione_totale": 6155
+  },
+  {
+    "codice_istat": "027023",
+    "comune": "Mira",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 18433,
+    "popolazione_femminile": 19032,
+    "popolazione_totale": 37465
+  },
+  {
+    "codice_istat": "027024",
+    "comune": "Mirano",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 13239,
+    "popolazione_femminile": 13875,
+    "popolazione_totale": 27114
+  },
+  {
+    "codice_istat": "027025",
+    "comune": "Musile di Piave",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 5719,
+    "popolazione_femminile": 5688,
+    "popolazione_totale": 11407
+  },
+  {
+    "codice_istat": "027026",
+    "comune": "Noale",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 7896,
+    "popolazione_femminile": 8329,
+    "popolazione_totale": 16225
+  },
+  {
+    "codice_istat": "027027",
+    "comune": "Noventa di Piave",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3483,
+    "popolazione_femminile": 3532,
+    "popolazione_totale": 7015
+  },
+  {
+    "codice_istat": "027028",
+    "comune": "Pianiga",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 6087,
+    "popolazione_femminile": 6218,
+    "popolazione_totale": 12305
+  },
+  {
+    "codice_istat": "027029",
+    "comune": "Portogruaro",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 11701,
+    "popolazione_femminile": 12600,
+    "popolazione_totale": 24301
+  },
+  {
+    "codice_istat": "027030",
+    "comune": "Pramaggiore",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 2346,
+    "popolazione_femminile": 2375,
+    "popolazione_totale": 4721
+  },
+  {
+    "codice_istat": "027031",
+    "comune": "Quarto d'Altino",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3922,
+    "popolazione_femminile": 4090,
+    "popolazione_totale": 8012
+  },
+  {
+    "codice_istat": "027032",
+    "comune": "Salzano",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 6317,
+    "popolazione_femminile": 6451,
+    "popolazione_totale": 12768
+  },
+  {
+    "codice_istat": "027033",
+    "comune": "San Donà di Piave",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 20408,
+    "popolazione_femminile": 21853,
+    "popolazione_totale": 42261
+  },
+  {
+    "codice_istat": "027034",
+    "comune": "San Michele al Tagliamento",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 5534,
+    "popolazione_femminile": 5795,
+    "popolazione_totale": 11329
+  },
+  {
+    "codice_istat": "027036",
+    "comune": "San Stino di Livenza",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 6325,
+    "popolazione_femminile": 6401,
+    "popolazione_totale": 12726
+  },
+  {
+    "codice_istat": "027035",
+    "comune": "Santa Maria di Sala",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 8703,
+    "popolazione_femminile": 8785,
+    "popolazione_totale": 17488
+  },
+  {
+    "codice_istat": "027037",
+    "comune": "Scorzè",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 9478,
+    "popolazione_femminile": 9518,
+    "popolazione_totale": 18996
+  },
+  {
+    "codice_istat": "027038",
+    "comune": "Spinea",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 13503,
+    "popolazione_femminile": 14430,
+    "popolazione_totale": 27933
+  },
+  {
+    "codice_istat": "027039",
+    "comune": "Stra",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 3699,
+    "popolazione_femminile": 3807,
+    "popolazione_totale": 7506
+  },
+  {
+    "codice_istat": "027040",
+    "comune": "Teglio Veneto",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 1133,
+    "popolazione_femminile": 1091,
+    "popolazione_totale": 2224
+  },
+  {
+    "codice_istat": "027041",
+    "comune": "Torre di Mosto",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 2368,
+    "popolazione_femminile": 2385,
+    "popolazione_totale": 4753
+  },
+  {
+    "codice_istat": "027042",
+    "comune": "Venezia",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 121434,
+    "popolazione_femminile": 127951,
+    "popolazione_totale": 249385,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "027043",
+    "comune": "Vigonovo",
+    "provincia": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "popolazione_maschile": 4833,
+    "popolazione_femminile": 4981,
+    "popolazione_totale": 9814
+  }
+]

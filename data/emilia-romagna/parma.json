@@ -1,0 +1,443 @@
+[
+  {
+    "codice_istat": "034001",
+    "comune": "Albareto",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1016,
+    "popolazione_femminile": 1022,
+    "popolazione_totale": 2038
+  },
+  {
+    "codice_istat": "034002",
+    "comune": "Bardi",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 993,
+    "popolazione_femminile": 954,
+    "popolazione_totale": 1947
+  },
+  {
+    "codice_istat": "034003",
+    "comune": "Bedonia",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1536,
+    "popolazione_femminile": 1567,
+    "popolazione_totale": 3103
+  },
+  {
+    "codice_istat": "034004",
+    "comune": "Berceto",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1019,
+    "popolazione_femminile": 898,
+    "popolazione_totale": 1917
+  },
+  {
+    "codice_istat": "034005",
+    "comune": "Bore",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 619
+  },
+  {
+    "codice_istat": "034006",
+    "comune": "Borgo Val di Taro",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3334,
+    "popolazione_femminile": 3402,
+    "popolazione_totale": 6736
+  },
+  {
+    "codice_istat": "034007",
+    "comune": "Busseto",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3470,
+    "popolazione_femminile": 3432,
+    "popolazione_totale": 6902
+  },
+  {
+    "codice_istat": "034008",
+    "comune": "Calestano",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1143,
+    "popolazione_femminile": 1040,
+    "popolazione_totale": 2183
+  },
+  {
+    "codice_istat": "034009",
+    "comune": "Collecchio",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7366,
+    "popolazione_femminile": 7545,
+    "popolazione_totale": 14911
+  },
+  {
+    "codice_istat": "034010",
+    "comune": "Colorno",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4628,
+    "popolazione_femminile": 4546,
+    "popolazione_totale": 9174
+  },
+  {
+    "codice_istat": "034011",
+    "comune": "Compiano",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 527,
+    "popolazione_femminile": 520,
+    "popolazione_totale": 1047
+  },
+  {
+    "codice_istat": "034012",
+    "comune": "Corniglio",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 933,
+    "popolazione_femminile": 846,
+    "popolazione_totale": 1779
+  },
+  {
+    "codice_istat": "034013",
+    "comune": "Felino",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4635,
+    "popolazione_femminile": 4643,
+    "popolazione_totale": 9278
+  },
+  {
+    "codice_istat": "034014",
+    "comune": "Fidenza",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 13478,
+    "popolazione_femminile": 14095,
+    "popolazione_totale": 27573
+  },
+  {
+    "codice_istat": "034015",
+    "comune": "Fontanellato",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3610,
+    "popolazione_femminile": 3485,
+    "popolazione_totale": 7095
+  },
+  {
+    "codice_istat": "034016",
+    "comune": "Fontevivo",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2782,
+    "popolazione_femminile": 2747,
+    "popolazione_totale": 5529
+  },
+  {
+    "codice_istat": "034017",
+    "comune": "Fornovo di Taro",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2985,
+    "popolazione_femminile": 3054,
+    "popolazione_totale": 6039
+  },
+  {
+    "codice_istat": "034018",
+    "comune": "Langhirano",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5533,
+    "popolazione_femminile": 5431,
+    "popolazione_totale": 10964
+  },
+  {
+    "codice_istat": "034019",
+    "comune": "Lesignano de' Bagni",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2624,
+    "popolazione_femminile": 2518,
+    "popolazione_totale": 5142
+  },
+  {
+    "codice_istat": "034020",
+    "comune": "Medesano",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5367,
+    "popolazione_femminile": 5395,
+    "popolazione_totale": 10762
+  },
+  {
+    "codice_istat": "034022",
+    "comune": "Monchio delle Corti",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 453,
+    "popolazione_femminile": 383,
+    "popolazione_totale": 836
+  },
+  {
+    "codice_istat": "034023",
+    "comune": "Montechiarugolo",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5714,
+    "popolazione_femminile": 5730,
+    "popolazione_totale": 11444
+  },
+  {
+    "codice_istat": "034024",
+    "comune": "Neviano degli Arduini",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1776,
+    "popolazione_femminile": 1689,
+    "popolazione_totale": 3465
+  },
+  {
+    "codice_istat": "034025",
+    "comune": "Noceto",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6572,
+    "popolazione_femminile": 6795,
+    "popolazione_totale": 13367
+  },
+  {
+    "codice_istat": "034026",
+    "comune": "Palanzano",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 529,
+    "popolazione_femminile": 470,
+    "popolazione_totale": 999
+  },
+  {
+    "codice_istat": "034027",
+    "comune": "Parma",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 97267,
+    "popolazione_femminile": 102183,
+    "popolazione_totale": 199450,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "034028",
+    "comune": "Pellegrino Parmense",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 466,
+    "popolazione_totale": 967
+  },
+  {
+    "codice_istat": "034050",
+    "comune": "Polesine Zibello",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1565,
+    "popolazione_femminile": 1572,
+    "popolazione_totale": 3137
+  },
+  {
+    "codice_istat": "034030",
+    "comune": "Roccabianca",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1462,
+    "popolazione_femminile": 1476,
+    "popolazione_totale": 2938
+  },
+  {
+    "codice_istat": "034031",
+    "comune": "Sala Baganza",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3120,
+    "popolazione_femminile": 2985,
+    "popolazione_totale": 6105
+  },
+  {
+    "codice_istat": "034032",
+    "comune": "Salsomaggiore Terme",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 10394,
+    "popolazione_femminile": 10246,
+    "popolazione_totale": 20640
+  },
+  {
+    "codice_istat": "034033",
+    "comune": "San Secondo Parmense",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2955,
+    "popolazione_femminile": 2966,
+    "popolazione_totale": 5921
+  },
+  {
+    "codice_istat": "034049",
+    "comune": "Sissa Trecasali",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4001,
+    "popolazione_femminile": 3994,
+    "popolazione_totale": 7995
+  },
+  {
+    "codice_istat": "034035",
+    "comune": "Solignano",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 795,
+    "popolazione_totale": 1664
+  },
+  {
+    "codice_istat": "034036",
+    "comune": "Soragna",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2417,
+    "popolazione_femminile": 2380,
+    "popolazione_totale": 4797
+  },
+  {
+    "codice_istat": "034051",
+    "comune": "Sorbolo Mezzani",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6568,
+    "popolazione_femminile": 6607,
+    "popolazione_totale": 13175
+  },
+  {
+    "codice_istat": "034038",
+    "comune": "Terenzo",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 584,
+    "popolazione_femminile": 554,
+    "popolazione_totale": 1138
+  },
+  {
+    "codice_istat": "034039",
+    "comune": "Tizzano Val Parma",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1147,
+    "popolazione_femminile": 1079,
+    "popolazione_totale": 2226
+  },
+  {
+    "codice_istat": "034040",
+    "comune": "Tornolo",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 447,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 846
+  },
+  {
+    "codice_istat": "034041",
+    "comune": "Torrile",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3913,
+    "popolazione_femminile": 3796,
+    "popolazione_totale": 7709
+  },
+  {
+    "codice_istat": "034042",
+    "comune": "Traversetolo",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4767,
+    "popolazione_femminile": 4920,
+    "popolazione_totale": 9687
+  },
+  {
+    "codice_istat": "034044",
+    "comune": "Valmozzola",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 273,
+    "popolazione_femminile": 254,
+    "popolazione_totale": 527
+  },
+  {
+    "codice_istat": "034045",
+    "comune": "Varano de' Melegari",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1297,
+    "popolazione_femminile": 1292,
+    "popolazione_totale": 2589
+  },
+  {
+    "codice_istat": "034046",
+    "comune": "Varsi",
+    "provincia": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 581,
+    "popolazione_femminile": 568,
+    "popolazione_totale": 1149
+  }
+]

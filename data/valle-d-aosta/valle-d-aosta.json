@@ -1,0 +1,743 @@
+[
+  {
+    "codice_istat": "007001",
+    "comune": "Allein",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 197
+  },
+  {
+    "codice_istat": "007002",
+    "comune": "Antey-Saint-André",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 276,
+    "popolazione_femminile": 276,
+    "popolazione_totale": 552
+  },
+  {
+    "codice_istat": "007003",
+    "comune": "Aosta",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 15694,
+    "popolazione_femminile": 17433,
+    "popolazione_totale": 33127,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "007004",
+    "comune": "Arnad",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 584,
+    "popolazione_femminile": 631,
+    "popolazione_totale": 1215
+  },
+  {
+    "codice_istat": "007005",
+    "comune": "Arvier",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 406,
+    "popolazione_femminile": 413,
+    "popolazione_totale": 819
+  },
+  {
+    "codice_istat": "007006",
+    "comune": "Avise",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 143,
+    "popolazione_femminile": 151,
+    "popolazione_totale": 294
+  },
+  {
+    "codice_istat": "007007",
+    "comune": "Ayas",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 701,
+    "popolazione_femminile": 669,
+    "popolazione_totale": 1370
+  },
+  {
+    "codice_istat": "007008",
+    "comune": "Aymavilles",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1026,
+    "popolazione_femminile": 1067,
+    "popolazione_totale": 2093
+  },
+  {
+    "codice_istat": "007009",
+    "comune": "Bard",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 40,
+    "popolazione_femminile": 59,
+    "popolazione_totale": 99
+  },
+  {
+    "codice_istat": "007010",
+    "comune": "Bionaz",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 113,
+    "popolazione_femminile": 99,
+    "popolazione_totale": 212
+  },
+  {
+    "codice_istat": "007011",
+    "comune": "Brissogne",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 500,
+    "popolazione_femminile": 479,
+    "popolazione_totale": 979
+  },
+  {
+    "codice_istat": "007012",
+    "comune": "Brusson",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 413,
+    "popolazione_totale": 823
+  },
+  {
+    "codice_istat": "007013",
+    "comune": "Challand-Saint-Anselme",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 390,
+    "popolazione_femminile": 365,
+    "popolazione_totale": 755
+  },
+  {
+    "codice_istat": "007014",
+    "comune": "Challand-Saint-Victor",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 577
+  },
+  {
+    "codice_istat": "007015",
+    "comune": "Chambave",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 428,
+    "popolazione_femminile": 452,
+    "popolazione_totale": 880
+  },
+  {
+    "codice_istat": "007016",
+    "comune": "Chamois",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 64,
+    "popolazione_femminile": 49,
+    "popolazione_totale": 113
+  },
+  {
+    "codice_istat": "007017",
+    "comune": "Champdepraz",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 338,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 702
+  },
+  {
+    "codice_istat": "007018",
+    "comune": "Champorcher",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 183,
+    "popolazione_femminile": 177,
+    "popolazione_totale": 360
+  },
+  {
+    "codice_istat": "007019",
+    "comune": "Charvensod",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1180,
+    "popolazione_femminile": 1231,
+    "popolazione_totale": 2411
+  },
+  {
+    "codice_istat": "007020",
+    "comune": "Châtillon",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 2107,
+    "popolazione_femminile": 2192,
+    "popolazione_totale": 4299
+  },
+  {
+    "codice_istat": "007021",
+    "comune": "Cogne",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 663,
+    "popolazione_femminile": 666,
+    "popolazione_totale": 1329
+  },
+  {
+    "codice_istat": "007022",
+    "comune": "Courmayeur",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1266,
+    "popolazione_femminile": 1228,
+    "popolazione_totale": 2494
+  },
+  {
+    "codice_istat": "007023",
+    "comune": "Donnas",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1162,
+    "popolazione_femminile": 1232,
+    "popolazione_totale": 2394
+  },
+  {
+    "codice_istat": "007024",
+    "comune": "Doues",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 509
+  },
+  {
+    "codice_istat": "007025",
+    "comune": "Emarèse",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 115,
+    "popolazione_femminile": 117,
+    "popolazione_totale": 232
+  },
+  {
+    "codice_istat": "007026",
+    "comune": "Etroubles",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 226,
+    "popolazione_totale": 484
+  },
+  {
+    "codice_istat": "007027",
+    "comune": "Fénis",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 862,
+    "popolazione_femminile": 917,
+    "popolazione_totale": 1779
+  },
+  {
+    "codice_istat": "007028",
+    "comune": "Fontainemore",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 228,
+    "popolazione_femminile": 209,
+    "popolazione_totale": 437
+  },
+  {
+    "codice_istat": "007029",
+    "comune": "Gaby",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 203,
+    "popolazione_femminile": 201,
+    "popolazione_totale": 404
+  },
+  {
+    "codice_istat": "007030",
+    "comune": "Gignod",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 841,
+    "popolazione_femminile": 838,
+    "popolazione_totale": 1679
+  },
+  {
+    "codice_istat": "007031",
+    "comune": "Gressan",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1616,
+    "popolazione_femminile": 1707,
+    "popolazione_totale": 3323
+  },
+  {
+    "codice_istat": "007032",
+    "comune": "Gressoney-La-Trinité",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 154,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 321
+  },
+  {
+    "codice_istat": "007033",
+    "comune": "Gressoney-Saint-Jean",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 388,
+    "popolazione_femminile": 381,
+    "popolazione_totale": 769
+  },
+  {
+    "codice_istat": "007034",
+    "comune": "Hône",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 561,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1164
+  },
+  {
+    "codice_istat": "007035",
+    "comune": "Introd",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 327,
+    "popolazione_femminile": 315,
+    "popolazione_totale": 642
+  },
+  {
+    "codice_istat": "007036",
+    "comune": "Issime",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 187,
+    "popolazione_femminile": 185,
+    "popolazione_totale": 372
+  },
+  {
+    "codice_istat": "007037",
+    "comune": "Issogne",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 646,
+    "popolazione_femminile": 637,
+    "popolazione_totale": 1283
+  },
+  {
+    "codice_istat": "007038",
+    "comune": "Jovençan",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 362,
+    "popolazione_femminile": 339,
+    "popolazione_totale": 701
+  },
+  {
+    "codice_istat": "007039",
+    "comune": "La Magdeleine",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 60,
+    "popolazione_femminile": 47,
+    "popolazione_totale": 107
+  },
+  {
+    "codice_istat": "007040",
+    "comune": "La Salle",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1030,
+    "popolazione_femminile": 1005,
+    "popolazione_totale": 2035
+  },
+  {
+    "codice_istat": "007041",
+    "comune": "La Thuile",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 391,
+    "popolazione_femminile": 355,
+    "popolazione_totale": 746
+  },
+  {
+    "codice_istat": "007042",
+    "comune": "Lillianes",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 194,
+    "popolazione_femminile": 216,
+    "popolazione_totale": 410
+  },
+  {
+    "codice_istat": "007043",
+    "comune": "Montjovet",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 893,
+    "popolazione_femminile": 869,
+    "popolazione_totale": 1762
+  },
+  {
+    "codice_istat": "007044",
+    "comune": "Morgex",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1004,
+    "popolazione_femminile": 1062,
+    "popolazione_totale": 2066
+  },
+  {
+    "codice_istat": "007045",
+    "comune": "Nus",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1453,
+    "popolazione_femminile": 1463,
+    "popolazione_totale": 2916
+  },
+  {
+    "codice_istat": "007046",
+    "comune": "Ollomont",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 83,
+    "popolazione_totale": 169
+  },
+  {
+    "codice_istat": "007047",
+    "comune": "Oyace",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 105,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 207
+  },
+  {
+    "codice_istat": "007048",
+    "comune": "Perloz",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 211,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "007049",
+    "comune": "Pollein",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 735,
+    "popolazione_femminile": 711,
+    "popolazione_totale": 1446
+  },
+  {
+    "codice_istat": "007052",
+    "comune": "Pont-Saint-Martin",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1705,
+    "popolazione_femminile": 1812,
+    "popolazione_totale": 3517
+  },
+  {
+    "codice_istat": "007050",
+    "comune": "Pontboset",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 96,
+    "popolazione_femminile": 81,
+    "popolazione_totale": 177
+  },
+  {
+    "codice_istat": "007051",
+    "comune": "Pontey",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 391,
+    "popolazione_femminile": 380,
+    "popolazione_totale": 771
+  },
+  {
+    "codice_istat": "007053",
+    "comune": "Pré-Saint-Didier",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 513,
+    "popolazione_femminile": 442,
+    "popolazione_totale": 955
+  },
+  {
+    "codice_istat": "007054",
+    "comune": "Quart",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 2064,
+    "popolazione_femminile": 2087,
+    "popolazione_totale": 4151
+  },
+  {
+    "codice_istat": "007055",
+    "comune": "Rhêmes-Notre-Dame",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 40,
+    "popolazione_femminile": 34,
+    "popolazione_totale": 74
+  },
+  {
+    "codice_istat": "007056",
+    "comune": "Rhêmes-Saint-Georges",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 89,
+    "popolazione_femminile": 76,
+    "popolazione_totale": 165
+  },
+  {
+    "codice_istat": "007057",
+    "comune": "Roisan",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 498,
+    "popolazione_femminile": 486,
+    "popolazione_totale": 984
+  },
+  {
+    "codice_istat": "007058",
+    "comune": "Saint-Christophe",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1732,
+    "popolazione_femminile": 1704,
+    "popolazione_totale": 3436
+  },
+  {
+    "codice_istat": "007059",
+    "comune": "Saint-Denis",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 195,
+    "popolazione_femminile": 177,
+    "popolazione_totale": 372
+  },
+  {
+    "codice_istat": "007060",
+    "comune": "Saint-Marcel",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 626,
+    "popolazione_femminile": 657,
+    "popolazione_totale": 1283
+  },
+  {
+    "codice_istat": "007061",
+    "comune": "Saint-Nicolas",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 181,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 336
+  },
+  {
+    "codice_istat": "007062",
+    "comune": "Saint-Oyen",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 81,
+    "popolazione_femminile": 107,
+    "popolazione_totale": 188
+  },
+  {
+    "codice_istat": "007063",
+    "comune": "Saint-Pierre",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1601,
+    "popolazione_femminile": 1641,
+    "popolazione_totale": 3242
+  },
+  {
+    "codice_istat": "007064",
+    "comune": "Saint-Rhémy-en-Bosses",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 199,
+    "popolazione_femminile": 154,
+    "popolazione_totale": 353
+  },
+  {
+    "codice_istat": "007065",
+    "comune": "Saint-Vincent",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 2173,
+    "popolazione_femminile": 2259,
+    "popolazione_totale": 4432
+  },
+  {
+    "codice_istat": "007066",
+    "comune": "Sarre",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 2359,
+    "popolazione_femminile": 2467,
+    "popolazione_totale": 4826
+  },
+  {
+    "codice_istat": "007067",
+    "comune": "Torgnon",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 577
+  },
+  {
+    "codice_istat": "007068",
+    "comune": "Valgrisenche",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 108,
+    "popolazione_femminile": 85,
+    "popolazione_totale": 193
+  },
+  {
+    "codice_istat": "007069",
+    "comune": "Valpelline",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 306,
+    "popolazione_femminile": 271,
+    "popolazione_totale": 577
+  },
+  {
+    "codice_istat": "007070",
+    "comune": "Valsavarenche",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 78,
+    "popolazione_femminile": 76,
+    "popolazione_totale": 154
+  },
+  {
+    "codice_istat": "007071",
+    "comune": "Valtournenche",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1182,
+    "popolazione_femminile": 1043,
+    "popolazione_totale": 2225
+  },
+  {
+    "codice_istat": "007072",
+    "comune": "Verrayes",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 640,
+    "popolazione_femminile": 623,
+    "popolazione_totale": 1263
+  },
+  {
+    "codice_istat": "007073",
+    "comune": "Verrès",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 1249,
+    "popolazione_femminile": 1286,
+    "popolazione_totale": 2535
+  },
+  {
+    "codice_istat": "007074",
+    "comune": "Villeneuve",
+    "provincia": "Valle d'Aosta",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta",
+    "popolazione_maschile": 688,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1272
+  }
+]

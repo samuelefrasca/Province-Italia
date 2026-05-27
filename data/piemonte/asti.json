@@ -1,0 +1,1173 @@
+[
+  {
+    "codice_istat": "005001",
+    "comune": "Agliano Terme",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 785,
+    "popolazione_femminile": 760,
+    "popolazione_totale": 1545
+  },
+  {
+    "codice_istat": "005002",
+    "comune": "Albugnano",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 525
+  },
+  {
+    "codice_istat": "005003",
+    "comune": "Antignano",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 478,
+    "popolazione_totale": 957
+  },
+  {
+    "codice_istat": "005004",
+    "comune": "Aramengo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 270,
+    "popolazione_totale": 574
+  },
+  {
+    "codice_istat": "005005",
+    "comune": "Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 35386,
+    "popolazione_femminile": 38218,
+    "popolazione_totale": 73604,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "005006",
+    "comune": "Azzano d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 184,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 383
+  },
+  {
+    "codice_istat": "005007",
+    "comune": "Baldichieri d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 551,
+    "popolazione_femminile": 553,
+    "popolazione_totale": 1104
+  },
+  {
+    "codice_istat": "005008",
+    "comune": "Belveglio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 144,
+    "popolazione_femminile": 148,
+    "popolazione_totale": 292
+  },
+  {
+    "codice_istat": "005009",
+    "comune": "Berzano di San Pietro",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 224,
+    "popolazione_femminile": 180,
+    "popolazione_totale": 404
+  },
+  {
+    "codice_istat": "005010",
+    "comune": "Bruno",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 146,
+    "popolazione_femminile": 159,
+    "popolazione_totale": 305
+  },
+  {
+    "codice_istat": "005011",
+    "comune": "Bubbio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 387,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 793
+  },
+  {
+    "codice_istat": "005012",
+    "comune": "Buttigliera d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1272,
+    "popolazione_femminile": 1233,
+    "popolazione_totale": 2505
+  },
+  {
+    "codice_istat": "005013",
+    "comune": "Calamandrana",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 813,
+    "popolazione_femminile": 830,
+    "popolazione_totale": 1643
+  },
+  {
+    "codice_istat": "005014",
+    "comune": "Calliano Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 629,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1235
+  },
+  {
+    "codice_istat": "005015",
+    "comune": "Calosso",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 574,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1102
+  },
+  {
+    "codice_istat": "005016",
+    "comune": "Camerano Casasco",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 213,
+    "popolazione_femminile": 208,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "005017",
+    "comune": "Canelli",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4924,
+    "popolazione_femminile": 5090,
+    "popolazione_totale": 10014
+  },
+  {
+    "codice_istat": "005018",
+    "comune": "Cantarana",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 493,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 974
+  },
+  {
+    "codice_istat": "005019",
+    "comune": "Capriglio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 133,
+    "popolazione_totale": 295
+  },
+  {
+    "codice_istat": "005020",
+    "comune": "Casorzo Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 282,
+    "popolazione_femminile": 299,
+    "popolazione_totale": 581
+  },
+  {
+    "codice_istat": "005021",
+    "comune": "Cassinasco",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 257,
+    "popolazione_totale": 559
+  },
+  {
+    "codice_istat": "005022",
+    "comune": "Castagnole delle Lanze",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1793,
+    "popolazione_femminile": 1867,
+    "popolazione_totale": 3660
+  },
+  {
+    "codice_istat": "005023",
+    "comune": "Castagnole Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 557,
+    "popolazione_femminile": 572,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "005024",
+    "comune": "Castel Boglione",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 313,
+    "popolazione_femminile": 278,
+    "popolazione_totale": 591
+  },
+  {
+    "codice_istat": "005032",
+    "comune": "Castel Rocchero",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 356
+  },
+  {
+    "codice_istat": "005025",
+    "comune": "Castell'Alfero",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1276,
+    "popolazione_femminile": 1312,
+    "popolazione_totale": 2588
+  },
+  {
+    "codice_istat": "005026",
+    "comune": "Castellero",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 134,
+    "popolazione_femminile": 147,
+    "popolazione_totale": 281
+  },
+  {
+    "codice_istat": "005027",
+    "comune": "Castelletto Molina",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 76,
+    "popolazione_totale": 137
+  },
+  {
+    "codice_istat": "005028",
+    "comune": "Castello di Annone",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 961,
+    "popolazione_femminile": 866,
+    "popolazione_totale": 1827
+  },
+  {
+    "codice_istat": "005029",
+    "comune": "Castelnuovo Belbo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 394,
+    "popolazione_femminile": 421,
+    "popolazione_totale": 815
+  },
+  {
+    "codice_istat": "005030",
+    "comune": "Castelnuovo Calcea",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 348,
+    "popolazione_femminile": 332,
+    "popolazione_totale": 680
+  },
+  {
+    "codice_istat": "005031",
+    "comune": "Castelnuovo Don Bosco",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1520,
+    "popolazione_femminile": 1575,
+    "popolazione_totale": 3095
+  },
+  {
+    "codice_istat": "005033",
+    "comune": "Cellarengo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 363,
+    "popolazione_totale": 731
+  },
+  {
+    "codice_istat": "005034",
+    "comune": "Celle Enomondo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 208,
+    "popolazione_femminile": 222,
+    "popolazione_totale": 430
+  },
+  {
+    "codice_istat": "005035",
+    "comune": "Cerreto d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 108,
+    "popolazione_femminile": 109,
+    "popolazione_totale": 217
+  },
+  {
+    "codice_istat": "005036",
+    "comune": "Cerro Tanaro",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 292,
+    "popolazione_totale": 594
+  },
+  {
+    "codice_istat": "005037",
+    "comune": "Cessole",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 161,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 327
+  },
+  {
+    "codice_istat": "005038",
+    "comune": "Chiusano d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 123,
+    "popolazione_femminile": 119,
+    "popolazione_totale": 242
+  },
+  {
+    "codice_istat": "005039",
+    "comune": "Cinaglio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 206,
+    "popolazione_femminile": 198,
+    "popolazione_totale": 404
+  },
+  {
+    "codice_istat": "005040",
+    "comune": "Cisterna d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 638,
+    "popolazione_femminile": 583,
+    "popolazione_totale": 1221
+  },
+  {
+    "codice_istat": "005041",
+    "comune": "Coazzolo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 136,
+    "popolazione_totale": 285
+  },
+  {
+    "codice_istat": "005042",
+    "comune": "Cocconato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 703,
+    "popolazione_femminile": 712,
+    "popolazione_totale": 1415
+  },
+  {
+    "codice_istat": "005044",
+    "comune": "Corsione",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 92,
+    "popolazione_totale": 191
+  },
+  {
+    "codice_istat": "005045",
+    "comune": "Cortandone",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 151,
+    "popolazione_femminile": 156,
+    "popolazione_totale": 307
+  },
+  {
+    "codice_istat": "005046",
+    "comune": "Cortanze",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 132,
+    "popolazione_femminile": 130,
+    "popolazione_totale": 262
+  },
+  {
+    "codice_istat": "005047",
+    "comune": "Cortazzone",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 303,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 596
+  },
+  {
+    "codice_istat": "005048",
+    "comune": "Cortiglione",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 254,
+    "popolazione_femminile": 253,
+    "popolazione_totale": 507
+  },
+  {
+    "codice_istat": "005049",
+    "comune": "Cossombrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 254,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 506
+  },
+  {
+    "codice_istat": "005050",
+    "comune": "Costigliole d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2855,
+    "popolazione_femminile": 2809,
+    "popolazione_totale": 5664
+  },
+  {
+    "codice_istat": "005051",
+    "comune": "Cunico",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 220,
+    "popolazione_femminile": 207,
+    "popolazione_totale": 427
+  },
+  {
+    "codice_istat": "005052",
+    "comune": "Dusino San Michele",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 573,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1081
+  },
+  {
+    "codice_istat": "005053",
+    "comune": "Ferrere",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 757,
+    "popolazione_femminile": 754,
+    "popolazione_totale": 1511
+  },
+  {
+    "codice_istat": "005054",
+    "comune": "Fontanile",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 245,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 473
+  },
+  {
+    "codice_istat": "005055",
+    "comune": "Frinco",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 357,
+    "popolazione_femminile": 365,
+    "popolazione_totale": 722
+  },
+  {
+    "codice_istat": "005056",
+    "comune": "Grana Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 244,
+    "popolazione_femminile": 263,
+    "popolazione_totale": 507
+  },
+  {
+    "codice_istat": "005057",
+    "comune": "Grazzano Badoglio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 251,
+    "popolazione_totale": 511
+  },
+  {
+    "codice_istat": "005058",
+    "comune": "Incisa Scapaccino",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1016,
+    "popolazione_femminile": 990,
+    "popolazione_totale": 2006
+  },
+  {
+    "codice_istat": "005059",
+    "comune": "Isola d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 937,
+    "popolazione_femminile": 960,
+    "popolazione_totale": 1897
+  },
+  {
+    "codice_istat": "005060",
+    "comune": "Loazzolo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 159,
+    "popolazione_femminile": 137,
+    "popolazione_totale": 296
+  },
+  {
+    "codice_istat": "005061",
+    "comune": "Maranzana",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 94,
+    "popolazione_totale": 204
+  },
+  {
+    "codice_istat": "005062",
+    "comune": "Maretto",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 172,
+    "popolazione_totale": 370
+  },
+  {
+    "codice_istat": "005063",
+    "comune": "Moasca",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 280,
+    "popolazione_femminile": 242,
+    "popolazione_totale": 522
+  },
+  {
+    "codice_istat": "005064",
+    "comune": "Mombaldone",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 103,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 190
+  },
+  {
+    "codice_istat": "005065",
+    "comune": "Mombaruzzo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 471,
+    "popolazione_femminile": 421,
+    "popolazione_totale": 892
+  },
+  {
+    "codice_istat": "005066",
+    "comune": "Mombercelli",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1006,
+    "popolazione_femminile": 1032,
+    "popolazione_totale": 2038
+  },
+  {
+    "codice_istat": "005067",
+    "comune": "Monale",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 486,
+    "popolazione_femminile": 504,
+    "popolazione_totale": 990
+  },
+  {
+    "codice_istat": "005068",
+    "comune": "Monastero Bormida",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 386,
+    "popolazione_femminile": 434,
+    "popolazione_totale": 820
+  },
+  {
+    "codice_istat": "005069",
+    "comune": "Moncalvo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1314,
+    "popolazione_femminile": 1448,
+    "popolazione_totale": 2762
+  },
+  {
+    "codice_istat": "005070",
+    "comune": "Moncucco Torinese",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 441,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 869
+  },
+  {
+    "codice_istat": "005071",
+    "comune": "Mongardino",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 412,
+    "popolazione_femminile": 422,
+    "popolazione_totale": 834
+  },
+  {
+    "codice_istat": "005072",
+    "comune": "Montabone",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 301
+  },
+  {
+    "codice_istat": "005073",
+    "comune": "Montafia",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 474,
+    "popolazione_femminile": 458,
+    "popolazione_totale": 932
+  },
+  {
+    "codice_istat": "005074",
+    "comune": "Montaldo Scarampi",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 348,
+    "popolazione_totale": 708
+  },
+  {
+    "codice_istat": "005075",
+    "comune": "Montechiaro d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 608,
+    "popolazione_totale": 1221
+  },
+  {
+    "codice_istat": "005076",
+    "comune": "Montegrosso d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1194,
+    "popolazione_femminile": 1126,
+    "popolazione_totale": 2320
+  },
+  {
+    "codice_istat": "005077",
+    "comune": "Montemagno Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 502,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1030
+  },
+  {
+    "codice_istat": "005121",
+    "comune": "Montiglio Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 746,
+    "popolazione_femminile": 751,
+    "popolazione_totale": 1497
+  },
+  {
+    "codice_istat": "005122",
+    "comune": "Moransengo-Tonengo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 206,
+    "popolazione_femminile": 214,
+    "popolazione_totale": 420
+  },
+  {
+    "codice_istat": "005080",
+    "comune": "Nizza Monferrato",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4965,
+    "popolazione_femminile": 5203,
+    "popolazione_totale": 10168
+  },
+  {
+    "codice_istat": "005081",
+    "comune": "Olmo Gentile",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 35,
+    "popolazione_femminile": 32,
+    "popolazione_totale": 67
+  },
+  {
+    "codice_istat": "005082",
+    "comune": "Passerano Marmorito",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 193,
+    "popolazione_totale": 446
+  },
+  {
+    "codice_istat": "005083",
+    "comune": "Penango",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 212,
+    "popolazione_femminile": 205,
+    "popolazione_totale": 417
+  },
+  {
+    "codice_istat": "005084",
+    "comune": "Piea",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 236,
+    "popolazione_femminile": 253,
+    "popolazione_totale": 489
+  },
+  {
+    "codice_istat": "005085",
+    "comune": "Pino d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 91,
+    "popolazione_totale": 217
+  },
+  {
+    "codice_istat": "005086",
+    "comune": "Piovà Massaia",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 266,
+    "popolazione_femminile": 291,
+    "popolazione_totale": 557
+  },
+  {
+    "codice_istat": "005087",
+    "comune": "Portacomaro",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 922,
+    "popolazione_femminile": 969,
+    "popolazione_totale": 1891
+  },
+  {
+    "codice_istat": "005088",
+    "comune": "Quaranti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 75,
+    "popolazione_femminile": 69,
+    "popolazione_totale": 144
+  },
+  {
+    "codice_istat": "005089",
+    "comune": "Refrancore",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 742,
+    "popolazione_femminile": 793,
+    "popolazione_totale": 1535
+  },
+  {
+    "codice_istat": "005090",
+    "comune": "Revigliasco d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 380,
+    "popolazione_femminile": 372,
+    "popolazione_totale": 752
+  },
+  {
+    "codice_istat": "005091",
+    "comune": "Roatto",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 179,
+    "popolazione_femminile": 171,
+    "popolazione_totale": 350
+  },
+  {
+    "codice_istat": "005092",
+    "comune": "Robella",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 244,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 440
+  },
+  {
+    "codice_istat": "005093",
+    "comune": "Rocca d'Arazzo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 467,
+    "popolazione_femminile": 468,
+    "popolazione_totale": 935
+  },
+  {
+    "codice_istat": "005094",
+    "comune": "Roccaverano",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 360
+  },
+  {
+    "codice_istat": "005095",
+    "comune": "Rocchetta Palafea",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 167,
+    "popolazione_femminile": 153,
+    "popolazione_totale": 320
+  },
+  {
+    "codice_istat": "005096",
+    "comune": "Rocchetta Tanaro",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 681,
+    "popolazione_femminile": 676,
+    "popolazione_totale": 1357
+  },
+  {
+    "codice_istat": "005097",
+    "comune": "San Damiano d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3942,
+    "popolazione_femminile": 4098,
+    "popolazione_totale": 8040
+  },
+  {
+    "codice_istat": "005098",
+    "comune": "San Giorgio Scarampi",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 47,
+    "popolazione_femminile": 51,
+    "popolazione_totale": 98
+  },
+  {
+    "codice_istat": "005099",
+    "comune": "San Martino Alfieri",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 339,
+    "popolazione_femminile": 322,
+    "popolazione_totale": 661
+  },
+  {
+    "codice_istat": "005100",
+    "comune": "San Marzano Oliveto",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 454,
+    "popolazione_totale": 930
+  },
+  {
+    "codice_istat": "005101",
+    "comune": "San Paolo Solbrito",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 576,
+    "popolazione_femminile": 587,
+    "popolazione_totale": 1163
+  },
+  {
+    "codice_istat": "005103",
+    "comune": "Scurzolengo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 254,
+    "popolazione_totale": 522
+  },
+  {
+    "codice_istat": "005104",
+    "comune": "Serole",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 48,
+    "popolazione_femminile": 48,
+    "popolazione_totale": 96
+  },
+  {
+    "codice_istat": "005105",
+    "comune": "Sessame",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 112,
+    "popolazione_totale": 222
+  },
+  {
+    "codice_istat": "005106",
+    "comune": "Settime",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 264,
+    "popolazione_totale": 531
+  },
+  {
+    "codice_istat": "005107",
+    "comune": "Soglio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 67,
+    "popolazione_totale": 128
+  },
+  {
+    "codice_istat": "005108",
+    "comune": "Tigliole",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 890,
+    "popolazione_femminile": 849,
+    "popolazione_totale": 1739
+  },
+  {
+    "codice_istat": "005109",
+    "comune": "Tonco",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 394,
+    "popolazione_femminile": 368,
+    "popolazione_totale": 762
+  },
+  {
+    "codice_istat": "005111",
+    "comune": "Vaglio Serra",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 131,
+    "popolazione_femminile": 129,
+    "popolazione_totale": 260
+  },
+  {
+    "codice_istat": "005112",
+    "comune": "Valfenera",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1228,
+    "popolazione_femminile": 1217,
+    "popolazione_totale": 2445
+  },
+  {
+    "codice_istat": "005113",
+    "comune": "Vesime",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 310,
+    "popolazione_femminile": 272,
+    "popolazione_totale": 582
+  },
+  {
+    "codice_istat": "005114",
+    "comune": "Viale",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 117,
+    "popolazione_femminile": 110,
+    "popolazione_totale": 227
+  },
+  {
+    "codice_istat": "005115",
+    "comune": "Viarigi",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 401,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 807
+  },
+  {
+    "codice_istat": "005116",
+    "comune": "Vigliano d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 389,
+    "popolazione_totale": 792
+  },
+  {
+    "codice_istat": "005119",
+    "comune": "Villa San Secondo",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 388
+  },
+  {
+    "codice_istat": "005117",
+    "comune": "Villafranca d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1497,
+    "popolazione_femminile": 1462,
+    "popolazione_totale": 2959
+  },
+  {
+    "codice_istat": "005118",
+    "comune": "Villanova d'Asti",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2721,
+    "popolazione_femminile": 2786,
+    "popolazione_totale": 5507
+  },
+  {
+    "codice_istat": "005120",
+    "comune": "Vinchio",
+    "provincia": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "popolazione_maschile": 278,
+    "popolazione_femminile": 253,
+    "popolazione_totale": 531
+  }
+]

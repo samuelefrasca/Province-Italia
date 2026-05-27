@@ -1,0 +1,203 @@
+[
+  {
+    "codice_istat": "047023",
+    "comune": "Abetone Cutigliano",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 911,
+    "popolazione_femminile": 923,
+    "popolazione_totale": 1834
+  },
+  {
+    "codice_istat": "047002",
+    "comune": "Agliana",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 8857,
+    "popolazione_femminile": 9127,
+    "popolazione_totale": 17984
+  },
+  {
+    "codice_istat": "047003",
+    "comune": "Buggiano",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 4245,
+    "popolazione_femminile": 4493,
+    "popolazione_totale": 8738
+  },
+  {
+    "codice_istat": "047022",
+    "comune": "Chiesina Uzzanese",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 2284,
+    "popolazione_femminile": 2335,
+    "popolazione_totale": 4619
+  },
+  {
+    "codice_istat": "047005",
+    "comune": "Lamporecchio",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 3605,
+    "popolazione_femminile": 3755,
+    "popolazione_totale": 7360
+  },
+  {
+    "codice_istat": "047006",
+    "comune": "Larciano",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 3100,
+    "popolazione_femminile": 3241,
+    "popolazione_totale": 6341
+  },
+  {
+    "codice_istat": "047007",
+    "comune": "Marliana",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 1737,
+    "popolazione_femminile": 1616,
+    "popolazione_totale": 3353
+  },
+  {
+    "codice_istat": "047008",
+    "comune": "Massa e Cozzile",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 3703,
+    "popolazione_femminile": 4049,
+    "popolazione_totale": 7752
+  },
+  {
+    "codice_istat": "047009",
+    "comune": "Monsummano Terme",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 10131,
+    "popolazione_femminile": 10732,
+    "popolazione_totale": 20863
+  },
+  {
+    "codice_istat": "047010",
+    "comune": "Montale",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 5146,
+    "popolazione_femminile": 5317,
+    "popolazione_totale": 10463
+  },
+  {
+    "codice_istat": "047011",
+    "comune": "Montecatini-Terme",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 10500,
+    "popolazione_femminile": 11305,
+    "popolazione_totale": 21805
+  },
+  {
+    "codice_istat": "047012",
+    "comune": "Pescia",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 9359,
+    "popolazione_femminile": 9854,
+    "popolazione_totale": 19213
+  },
+  {
+    "codice_istat": "047013",
+    "comune": "Pieve a Nievole",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 4497,
+    "popolazione_femminile": 4738,
+    "popolazione_totale": 9235
+  },
+  {
+    "codice_istat": "047014",
+    "comune": "Pistoia",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 43088,
+    "popolazione_femminile": 46006,
+    "popolazione_totale": 89094,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "047016",
+    "comune": "Ponte Buggianese",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 4371,
+    "popolazione_femminile": 4522,
+    "popolazione_totale": 8893
+  },
+  {
+    "codice_istat": "047017",
+    "comune": "Quarrata",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 13283,
+    "popolazione_femminile": 13745,
+    "popolazione_totale": 27028
+  },
+  {
+    "codice_istat": "047018",
+    "comune": "Sambuca Pistoiese",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 744,
+    "popolazione_femminile": 662,
+    "popolazione_totale": 1406
+  },
+  {
+    "codice_istat": "047024",
+    "comune": "San Marcello Piteglio",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 3562,
+    "popolazione_femminile": 3848,
+    "popolazione_totale": 7410
+  },
+  {
+    "codice_istat": "047020",
+    "comune": "Serravalle Pistoiese",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 5840,
+    "popolazione_femminile": 5990,
+    "popolazione_totale": 11830
+  },
+  {
+    "codice_istat": "047021",
+    "comune": "Uzzano",
+    "provincia": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "popolazione_maschile": 2743,
+    "popolazione_femminile": 2903,
+    "popolazione_totale": 5646
+  }
+]

@@ -1,0 +1,1183 @@
+[
+  {
+    "codice_istat": "064001",
+    "comune": "Aiello del Sabato",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2005,
+    "popolazione_femminile": 2040,
+    "popolazione_totale": 4045
+  },
+  {
+    "codice_istat": "064002",
+    "comune": "Altavilla Irpina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1890,
+    "popolazione_femminile": 1913,
+    "popolazione_totale": 3803
+  },
+  {
+    "codice_istat": "064003",
+    "comune": "Andretta",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 806,
+    "popolazione_femminile": 824,
+    "popolazione_totale": 1630
+  },
+  {
+    "codice_istat": "064004",
+    "comune": "Aquilonia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1381
+  },
+  {
+    "codice_istat": "064005",
+    "comune": "Ariano Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 10090,
+    "popolazione_femminile": 10567,
+    "popolazione_totale": 20657
+  },
+  {
+    "codice_istat": "064006",
+    "comune": "Atripalda",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 4919,
+    "popolazione_femminile": 5263,
+    "popolazione_totale": 10182
+  },
+  {
+    "codice_istat": "064007",
+    "comune": "Avella",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 3610,
+    "popolazione_femminile": 3807,
+    "popolazione_totale": 7417
+  },
+  {
+    "codice_istat": "064008",
+    "comune": "Avellino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 24576,
+    "popolazione_femminile": 27243,
+    "popolazione_totale": 51819,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "064009",
+    "comune": "Bagnoli Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1524,
+    "popolazione_femminile": 1466,
+    "popolazione_totale": 2990
+  },
+  {
+    "codice_istat": "064010",
+    "comune": "Baiano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2097,
+    "popolazione_femminile": 2274,
+    "popolazione_totale": 4371
+  },
+  {
+    "codice_istat": "064011",
+    "comune": "Bisaccia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1740,
+    "popolazione_femminile": 1684,
+    "popolazione_totale": 3424
+  },
+  {
+    "codice_istat": "064012",
+    "comune": "Bonito",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1084,
+    "popolazione_femminile": 1085,
+    "popolazione_totale": 2169
+  },
+  {
+    "codice_istat": "064013",
+    "comune": "Cairano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 142,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 281
+  },
+  {
+    "codice_istat": "064014",
+    "comune": "Calabritto",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1039,
+    "popolazione_femminile": 1057,
+    "popolazione_totale": 2096
+  },
+  {
+    "codice_istat": "064015",
+    "comune": "Calitri",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2004,
+    "popolazione_femminile": 2086,
+    "popolazione_totale": 4090
+  },
+  {
+    "codice_istat": "064016",
+    "comune": "Candida",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 564,
+    "popolazione_femminile": 519,
+    "popolazione_totale": 1083
+  },
+  {
+    "codice_istat": "064017",
+    "comune": "Caposele",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1572,
+    "popolazione_femminile": 1613,
+    "popolazione_totale": 3185
+  },
+  {
+    "codice_istat": "064018",
+    "comune": "Capriglia Irpina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1095,
+    "popolazione_femminile": 1089,
+    "popolazione_totale": 2184
+  },
+  {
+    "codice_istat": "064019",
+    "comune": "Carife",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 610,
+    "popolazione_femminile": 632,
+    "popolazione_totale": 1242
+  },
+  {
+    "codice_istat": "064020",
+    "comune": "Casalbore",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 743,
+    "popolazione_femminile": 771,
+    "popolazione_totale": 1514
+  },
+  {
+    "codice_istat": "064021",
+    "comune": "Cassano Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 485,
+    "popolazione_femminile": 474,
+    "popolazione_totale": 959
+  },
+  {
+    "codice_istat": "064022",
+    "comune": "Castel Baronia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 514,
+    "popolazione_femminile": 533,
+    "popolazione_totale": 1047
+  },
+  {
+    "codice_istat": "064023",
+    "comune": "Castelfranci",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 810,
+    "popolazione_femminile": 856,
+    "popolazione_totale": 1666
+  },
+  {
+    "codice_istat": "064024",
+    "comune": "Castelvetere sul Calore",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 733,
+    "popolazione_femminile": 721,
+    "popolazione_totale": 1454
+  },
+  {
+    "codice_istat": "064025",
+    "comune": "Cervinara",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 4268,
+    "popolazione_femminile": 4450,
+    "popolazione_totale": 8718
+  },
+  {
+    "codice_istat": "064026",
+    "comune": "Cesinali",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1255,
+    "popolazione_femminile": 1257,
+    "popolazione_totale": 2512
+  },
+  {
+    "codice_istat": "064027",
+    "comune": "Chianche",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 240,
+    "popolazione_femminile": 218,
+    "popolazione_totale": 458
+  },
+  {
+    "codice_istat": "064028",
+    "comune": "Chiusano di San Domenico",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1008,
+    "popolazione_femminile": 1047,
+    "popolazione_totale": 2055
+  },
+  {
+    "codice_istat": "064029",
+    "comune": "Contrada",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1637,
+    "popolazione_femminile": 1450,
+    "popolazione_totale": 3087
+  },
+  {
+    "codice_istat": "064030",
+    "comune": "Conza della Campania",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 629,
+    "popolazione_femminile": 640,
+    "popolazione_totale": 1269
+  },
+  {
+    "codice_istat": "064031",
+    "comune": "Domicella",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 901,
+    "popolazione_femminile": 893,
+    "popolazione_totale": 1794
+  },
+  {
+    "codice_istat": "064032",
+    "comune": "Flumeri",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1213,
+    "popolazione_femminile": 1249,
+    "popolazione_totale": 2462
+  },
+  {
+    "codice_istat": "064033",
+    "comune": "Fontanarosa",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1404,
+    "popolazione_femminile": 1428,
+    "popolazione_totale": 2832
+  },
+  {
+    "codice_istat": "064034",
+    "comune": "Forino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2680,
+    "popolazione_femminile": 2538,
+    "popolazione_totale": 5218
+  },
+  {
+    "codice_istat": "064035",
+    "comune": "Frigento",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1702,
+    "popolazione_femminile": 1694,
+    "popolazione_totale": 3396
+  },
+  {
+    "codice_istat": "064036",
+    "comune": "Gesualdo",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1578,
+    "popolazione_femminile": 1616,
+    "popolazione_totale": 3194
+  },
+  {
+    "codice_istat": "064037",
+    "comune": "Greci",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 300,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 594
+  },
+  {
+    "codice_istat": "064038",
+    "comune": "Grottaminarda",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 3751,
+    "popolazione_femminile": 3813,
+    "popolazione_totale": 7564
+  },
+  {
+    "codice_istat": "064039",
+    "comune": "Grottolella",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 914,
+    "popolazione_femminile": 897,
+    "popolazione_totale": 1811
+  },
+  {
+    "codice_istat": "064040",
+    "comune": "Guardia Lombardi",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 748,
+    "popolazione_totale": 1446
+  },
+  {
+    "codice_istat": "064041",
+    "comune": "Lacedonia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1021,
+    "popolazione_femminile": 990,
+    "popolazione_totale": 2011
+  },
+  {
+    "codice_istat": "064042",
+    "comune": "Lapio",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 736,
+    "popolazione_femminile": 685,
+    "popolazione_totale": 1421
+  },
+  {
+    "codice_istat": "064043",
+    "comune": "Lauro",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1557,
+    "popolazione_femminile": 1686,
+    "popolazione_totale": 3243
+  },
+  {
+    "codice_istat": "064044",
+    "comune": "Lioni",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2862,
+    "popolazione_femminile": 3000,
+    "popolazione_totale": 5862
+  },
+  {
+    "codice_istat": "064045",
+    "comune": "Luogosano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 556,
+    "popolazione_femminile": 506,
+    "popolazione_totale": 1062
+  },
+  {
+    "codice_istat": "064046",
+    "comune": "Manocalzati",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1531,
+    "popolazione_femminile": 1460,
+    "popolazione_totale": 2991
+  },
+  {
+    "codice_istat": "064047",
+    "comune": "Marzano di Nola",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 817,
+    "popolazione_femminile": 839,
+    "popolazione_totale": 1656
+  },
+  {
+    "codice_istat": "064048",
+    "comune": "Melito Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 896,
+    "popolazione_femminile": 863,
+    "popolazione_totale": 1759
+  },
+  {
+    "codice_istat": "064049",
+    "comune": "Mercogliano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 5568,
+    "popolazione_femminile": 5848,
+    "popolazione_totale": 11416
+  },
+  {
+    "codice_istat": "064050",
+    "comune": "Mirabella Eclano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 3255,
+    "popolazione_femminile": 3291,
+    "popolazione_totale": 6546
+  },
+  {
+    "codice_istat": "064051",
+    "comune": "Montaguto",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 333
+  },
+  {
+    "codice_istat": "064052",
+    "comune": "Montecalvo Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1572,
+    "popolazione_femminile": 1654,
+    "popolazione_totale": 3226
+  },
+  {
+    "codice_istat": "064053",
+    "comune": "Montefalcione",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1497,
+    "popolazione_femminile": 1545,
+    "popolazione_totale": 3042
+  },
+  {
+    "codice_istat": "064054",
+    "comune": "Monteforte Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 5776,
+    "popolazione_femminile": 5576,
+    "popolazione_totale": 11352
+  },
+  {
+    "codice_istat": "064055",
+    "comune": "Montefredane",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1073,
+    "popolazione_femminile": 1080,
+    "popolazione_totale": 2153
+  },
+  {
+    "codice_istat": "064056",
+    "comune": "Montefusco",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 584,
+    "popolazione_femminile": 599,
+    "popolazione_totale": 1183
+  },
+  {
+    "codice_istat": "064057",
+    "comune": "Montella",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 3479,
+    "popolazione_femminile": 3658,
+    "popolazione_totale": 7137
+  },
+  {
+    "codice_istat": "064058",
+    "comune": "Montemarano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1269,
+    "popolazione_femminile": 1251,
+    "popolazione_totale": 2520
+  },
+  {
+    "codice_istat": "064059",
+    "comune": "Montemiletto",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2520,
+    "popolazione_femminile": 2493,
+    "popolazione_totale": 5013
+  },
+  {
+    "codice_istat": "064060",
+    "comune": "Monteverde",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 328,
+    "popolazione_femminile": 332,
+    "popolazione_totale": 660
+  },
+  {
+    "codice_istat": "064121",
+    "comune": "Montoro",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 9734,
+    "popolazione_femminile": 9779,
+    "popolazione_totale": 19513
+  },
+  {
+    "codice_istat": "064063",
+    "comune": "Morra De Sanctis",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 516,
+    "popolazione_femminile": 567,
+    "popolazione_totale": 1083
+  },
+  {
+    "codice_istat": "064064",
+    "comune": "Moschiano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 751,
+    "popolazione_femminile": 784,
+    "popolazione_totale": 1535
+  },
+  {
+    "codice_istat": "064065",
+    "comune": "Mugnano del Cardinale",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2619,
+    "popolazione_femminile": 2496,
+    "popolazione_totale": 5115
+  },
+  {
+    "codice_istat": "064066",
+    "comune": "Nusco",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1860,
+    "popolazione_femminile": 1923,
+    "popolazione_totale": 3783
+  },
+  {
+    "codice_istat": "064067",
+    "comune": "Ospedaletto d'Alpinolo",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 973,
+    "popolazione_femminile": 990,
+    "popolazione_totale": 1963
+  },
+  {
+    "codice_istat": "064068",
+    "comune": "Pago del Vallo di Lauro",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 822,
+    "popolazione_femminile": 862,
+    "popolazione_totale": 1684
+  },
+  {
+    "codice_istat": "064069",
+    "comune": "Parolise",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 298,
+    "popolazione_femminile": 314,
+    "popolazione_totale": 612
+  },
+  {
+    "codice_istat": "064070",
+    "comune": "Paternopoli",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1041,
+    "popolazione_femminile": 1027,
+    "popolazione_totale": 2068
+  },
+  {
+    "codice_istat": "064071",
+    "comune": "Petruro Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 152,
+    "popolazione_femminile": 145,
+    "popolazione_totale": 297
+  },
+  {
+    "codice_istat": "064072",
+    "comune": "Pietradefusi",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 994,
+    "popolazione_femminile": 925,
+    "popolazione_totale": 1919
+  },
+  {
+    "codice_istat": "064073",
+    "comune": "Pietrastornina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 750,
+    "popolazione_femminile": 713,
+    "popolazione_totale": 1463
+  },
+  {
+    "codice_istat": "064074",
+    "comune": "Prata di Principato Ultra",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1342,
+    "popolazione_femminile": 1313,
+    "popolazione_totale": 2655
+  },
+  {
+    "codice_istat": "064075",
+    "comune": "Pratola Serra",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1784,
+    "popolazione_femminile": 1777,
+    "popolazione_totale": 3561
+  },
+  {
+    "codice_istat": "064076",
+    "comune": "Quadrelle",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 913,
+    "popolazione_femminile": 951,
+    "popolazione_totale": 1864
+  },
+  {
+    "codice_istat": "064077",
+    "comune": "Quindici",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 888,
+    "popolazione_totale": 1757
+  },
+  {
+    "codice_istat": "064079",
+    "comune": "Rocca San Felice",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 382,
+    "popolazione_totale": 765
+  },
+  {
+    "codice_istat": "064078",
+    "comune": "Roccabascerana",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1209,
+    "popolazione_femminile": 1134,
+    "popolazione_totale": 2343
+  },
+  {
+    "codice_istat": "064080",
+    "comune": "Rotondi",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1717,
+    "popolazione_femminile": 1612,
+    "popolazione_totale": 3329
+  },
+  {
+    "codice_istat": "064081",
+    "comune": "Salza Irpina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 362,
+    "popolazione_totale": 727
+  },
+  {
+    "codice_istat": "064082",
+    "comune": "San Mango sul Calore",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 511,
+    "popolazione_totale": 1104
+  },
+  {
+    "codice_istat": "064083",
+    "comune": "San Martino Valle Caudina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 2359,
+    "popolazione_femminile": 2374,
+    "popolazione_totale": 4733
+  },
+  {
+    "codice_istat": "064084",
+    "comune": "San Michele di Serino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1201,
+    "popolazione_femminile": 1190,
+    "popolazione_totale": 2391
+  },
+  {
+    "codice_istat": "064085",
+    "comune": "San Nicola Baronia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 361,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 737
+  },
+  {
+    "codice_istat": "064086",
+    "comune": "San Potito Ultra",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 686,
+    "popolazione_femminile": 771,
+    "popolazione_totale": 1457
+  },
+  {
+    "codice_istat": "064087",
+    "comune": "San Sossio Baronia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 714,
+    "popolazione_femminile": 748,
+    "popolazione_totale": 1462
+  },
+  {
+    "codice_istat": "064089",
+    "comune": "Sant'Andrea di Conza",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 658,
+    "popolazione_femminile": 683,
+    "popolazione_totale": 1341
+  },
+  {
+    "codice_istat": "064091",
+    "comune": "Sant'Angelo a Scala",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 385,
+    "popolazione_femminile": 287,
+    "popolazione_totale": 672
+  },
+  {
+    "codice_istat": "064090",
+    "comune": "Sant'Angelo all'Esca",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 342,
+    "popolazione_femminile": 346,
+    "popolazione_totale": 688
+  },
+  {
+    "codice_istat": "064092",
+    "comune": "Sant'Angelo dei Lombardi",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1932,
+    "popolazione_femminile": 1851,
+    "popolazione_totale": 3783
+  },
+  {
+    "codice_istat": "064088",
+    "comune": "Santa Lucia di Serino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 654,
+    "popolazione_femminile": 688,
+    "popolazione_totale": 1342
+  },
+  {
+    "codice_istat": "064093",
+    "comune": "Santa Paolina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 559,
+    "popolazione_femminile": 566,
+    "popolazione_totale": 1125
+  },
+  {
+    "codice_istat": "064095",
+    "comune": "Santo Stefano del Sole",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1022,
+    "popolazione_femminile": 1024,
+    "popolazione_totale": 2046
+  },
+  {
+    "codice_istat": "064096",
+    "comune": "Savignano Irpino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 515,
+    "popolazione_femminile": 495,
+    "popolazione_totale": 1010
+  },
+  {
+    "codice_istat": "064097",
+    "comune": "Scampitella",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 505,
+    "popolazione_totale": 981
+  },
+  {
+    "codice_istat": "064098",
+    "comune": "Senerchia",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 391,
+    "popolazione_femminile": 317,
+    "popolazione_totale": 708
+  },
+  {
+    "codice_istat": "064099",
+    "comune": "Serino",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 3288,
+    "popolazione_femminile": 3275,
+    "popolazione_totale": 6563
+  },
+  {
+    "codice_istat": "064100",
+    "comune": "Sirignano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1440,
+    "popolazione_femminile": 1501,
+    "popolazione_totale": 2941
+  },
+  {
+    "codice_istat": "064101",
+    "comune": "Solofra",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 5904,
+    "popolazione_femminile": 6017,
+    "popolazione_totale": 11921
+  },
+  {
+    "codice_istat": "064102",
+    "comune": "Sorbo Serpico",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 265,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 512
+  },
+  {
+    "codice_istat": "064103",
+    "comune": "Sperone",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1770,
+    "popolazione_femminile": 1857,
+    "popolazione_totale": 3627
+  },
+  {
+    "codice_istat": "064104",
+    "comune": "Sturno",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1324,
+    "popolazione_femminile": 1380,
+    "popolazione_totale": 2704
+  },
+  {
+    "codice_istat": "064105",
+    "comune": "Summonte",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 735,
+    "popolazione_femminile": 734,
+    "popolazione_totale": 1469
+  },
+  {
+    "codice_istat": "064106",
+    "comune": "Taurano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 685,
+    "popolazione_femminile": 720,
+    "popolazione_totale": 1405
+  },
+  {
+    "codice_istat": "064107",
+    "comune": "Taurasi",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1012,
+    "popolazione_femminile": 1044,
+    "popolazione_totale": 2056
+  },
+  {
+    "codice_istat": "064108",
+    "comune": "Teora",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 709,
+    "popolazione_femminile": 715,
+    "popolazione_totale": 1424
+  },
+  {
+    "codice_istat": "064109",
+    "comune": "Torella dei Lombardi",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 947,
+    "popolazione_femminile": 998,
+    "popolazione_totale": 1945
+  },
+  {
+    "codice_istat": "064110",
+    "comune": "Torre Le Nocelle",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 608,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1223
+  },
+  {
+    "codice_istat": "064111",
+    "comune": "Torrioni",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 193,
+    "popolazione_totale": 461
+  },
+  {
+    "codice_istat": "064112",
+    "comune": "Trevico",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 385,
+    "popolazione_femminile": 404,
+    "popolazione_totale": 789
+  },
+  {
+    "codice_istat": "064113",
+    "comune": "Tufo",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 757
+  },
+  {
+    "codice_istat": "064114",
+    "comune": "Vallata",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1174,
+    "popolazione_femminile": 1231,
+    "popolazione_totale": 2405
+  },
+  {
+    "codice_istat": "064115",
+    "comune": "Vallesaccarda",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 582,
+    "popolazione_femminile": 613,
+    "popolazione_totale": 1195
+  },
+  {
+    "codice_istat": "064116",
+    "comune": "Venticano",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1136,
+    "popolazione_femminile": 1148,
+    "popolazione_totale": 2284
+  },
+  {
+    "codice_istat": "064117",
+    "comune": "Villamaina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 425,
+    "popolazione_femminile": 471,
+    "popolazione_totale": 896
+  },
+  {
+    "codice_istat": "064118",
+    "comune": "Villanova del Battista",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 701,
+    "popolazione_femminile": 738,
+    "popolazione_totale": 1439
+  },
+  {
+    "codice_istat": "064119",
+    "comune": "Volturara Irpina",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 1389,
+    "popolazione_femminile": 1489,
+    "popolazione_totale": 2878
+  },
+  {
+    "codice_istat": "064120",
+    "comune": "Zungoli",
+    "provincia": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 469,
+    "popolazione_totale": 898
+  }
+]

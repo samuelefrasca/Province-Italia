@@ -1,0 +1,1583 @@
+[
+  {
+    "codice_istat": "065001",
+    "comune": "Acerno",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1229,
+    "popolazione_femminile": 1189,
+    "popolazione_totale": 2418
+  },
+  {
+    "codice_istat": "065002",
+    "comune": "Agropoli",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 10561,
+    "popolazione_femminile": 10857,
+    "popolazione_totale": 21418
+  },
+  {
+    "codice_istat": "065003",
+    "comune": "Albanella",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3206,
+    "popolazione_femminile": 3133,
+    "popolazione_totale": 6339
+  },
+  {
+    "codice_istat": "065004",
+    "comune": "Alfano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 891
+  },
+  {
+    "codice_istat": "065005",
+    "comune": "Altavilla Silentina",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3536,
+    "popolazione_femminile": 3522,
+    "popolazione_totale": 7058
+  },
+  {
+    "codice_istat": "065006",
+    "comune": "Amalfi",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2243,
+    "popolazione_femminile": 2329,
+    "popolazione_totale": 4572
+  },
+  {
+    "codice_istat": "065007",
+    "comune": "Angri",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 16840,
+    "popolazione_femminile": 17513,
+    "popolazione_totale": 34353
+  },
+  {
+    "codice_istat": "065008",
+    "comune": "Aquara",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 624,
+    "popolazione_totale": 1237
+  },
+  {
+    "codice_istat": "065009",
+    "comune": "Ascea",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3008,
+    "popolazione_femminile": 2906,
+    "popolazione_totale": 5914
+  },
+  {
+    "codice_istat": "065010",
+    "comune": "Atena Lucana",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1212,
+    "popolazione_femminile": 1188,
+    "popolazione_totale": 2400
+  },
+  {
+    "codice_istat": "065011",
+    "comune": "Atrani",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 361,
+    "popolazione_femminile": 390,
+    "popolazione_totale": 751
+  },
+  {
+    "codice_istat": "065012",
+    "comune": "Auletta",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1056,
+    "popolazione_femminile": 1050,
+    "popolazione_totale": 2106
+  },
+  {
+    "codice_istat": "065013",
+    "comune": "Baronissi",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 8272,
+    "popolazione_femminile": 8516,
+    "popolazione_totale": 16788
+  },
+  {
+    "codice_istat": "065014",
+    "comune": "Battipaglia",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 24515,
+    "popolazione_femminile": 24989,
+    "popolazione_totale": 49504
+  },
+  {
+    "codice_istat": "065158",
+    "comune": "Bellizzi",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 6591,
+    "popolazione_femminile": 6739,
+    "popolazione_totale": 13330
+  },
+  {
+    "codice_istat": "065015",
+    "comune": "Bellosguardo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 322,
+    "popolazione_totale": 639
+  },
+  {
+    "codice_istat": "065016",
+    "comune": "Bracigliano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2713,
+    "popolazione_femminile": 2630,
+    "popolazione_totale": 5343
+  },
+  {
+    "codice_istat": "065017",
+    "comune": "Buccino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2221,
+    "popolazione_femminile": 2241,
+    "popolazione_totale": 4462
+  },
+  {
+    "codice_istat": "065018",
+    "comune": "Buonabitacolo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1189,
+    "popolazione_femminile": 1265,
+    "popolazione_totale": 2454
+  },
+  {
+    "codice_istat": "065019",
+    "comune": "Caggiano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1266,
+    "popolazione_femminile": 1220,
+    "popolazione_totale": 2486
+  },
+  {
+    "codice_istat": "065020",
+    "comune": "Calvanico",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 707,
+    "popolazione_femminile": 700,
+    "popolazione_totale": 1407
+  },
+  {
+    "codice_istat": "065021",
+    "comune": "Camerota",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3344,
+    "popolazione_femminile": 3397,
+    "popolazione_totale": 6741
+  },
+  {
+    "codice_istat": "065022",
+    "comune": "Campagna",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 8867,
+    "popolazione_femminile": 8327,
+    "popolazione_totale": 17194
+  },
+  {
+    "codice_istat": "065023",
+    "comune": "Campora",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 151,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 297
+  },
+  {
+    "codice_istat": "065024",
+    "comune": "Cannalonga",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 463,
+    "popolazione_totale": 939
+  },
+  {
+    "codice_istat": "065025",
+    "comune": "Capaccio Paestum",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 11518,
+    "popolazione_femminile": 10945,
+    "popolazione_totale": 22463
+  },
+  {
+    "codice_istat": "065028",
+    "comune": "Casal Velino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2699,
+    "popolazione_femminile": 2669,
+    "popolazione_totale": 5368
+  },
+  {
+    "codice_istat": "065026",
+    "comune": "Casalbuono",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 509,
+    "popolazione_femminile": 504,
+    "popolazione_totale": 1013
+  },
+  {
+    "codice_istat": "065027",
+    "comune": "Casaletto Spartano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 589,
+    "popolazione_femminile": 633,
+    "popolazione_totale": 1222
+  },
+  {
+    "codice_istat": "065029",
+    "comune": "Caselle in Pittari",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 913,
+    "popolazione_femminile": 947,
+    "popolazione_totale": 1860
+  },
+  {
+    "codice_istat": "065034",
+    "comune": "Castel San Giorgio",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 6828,
+    "popolazione_femminile": 6930,
+    "popolazione_totale": 13758
+  },
+  {
+    "codice_istat": "065035",
+    "comune": "Castel San Lorenzo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1077,
+    "popolazione_femminile": 1105,
+    "popolazione_totale": 2182
+  },
+  {
+    "codice_istat": "065030",
+    "comune": "Castelcivita",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 720,
+    "popolazione_femminile": 650,
+    "popolazione_totale": 1370
+  },
+  {
+    "codice_istat": "065031",
+    "comune": "Castellabate",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 4352,
+    "popolazione_femminile": 4320,
+    "popolazione_totale": 8672
+  },
+  {
+    "codice_istat": "065032",
+    "comune": "Castelnuovo Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1387,
+    "popolazione_femminile": 1462,
+    "popolazione_totale": 2849
+  },
+  {
+    "codice_istat": "065033",
+    "comune": "Castelnuovo di Conza",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 292,
+    "popolazione_femminile": 265,
+    "popolazione_totale": 557
+  },
+  {
+    "codice_istat": "065036",
+    "comune": "Castiglione del Genovesi",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 673,
+    "popolazione_femminile": 607,
+    "popolazione_totale": 1280
+  },
+  {
+    "codice_istat": "065037",
+    "comune": "Cava de' Tirreni",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 23941,
+    "popolazione_femminile": 25389,
+    "popolazione_totale": 49330
+  },
+  {
+    "codice_istat": "065038",
+    "comune": "Celle di Bulgheria",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 814,
+    "popolazione_femminile": 863,
+    "popolazione_totale": 1677
+  },
+  {
+    "codice_istat": "065039",
+    "comune": "Centola",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2603,
+    "popolazione_femminile": 2417,
+    "popolazione_totale": 5020
+  },
+  {
+    "codice_istat": "065040",
+    "comune": "Ceraso",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1085,
+    "popolazione_femminile": 1110,
+    "popolazione_totale": 2195
+  },
+  {
+    "codice_istat": "065041",
+    "comune": "Cetara",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 943,
+    "popolazione_femminile": 943,
+    "popolazione_totale": 1886
+  },
+  {
+    "codice_istat": "065042",
+    "comune": "Cicerale",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 573,
+    "popolazione_femminile": 605,
+    "popolazione_totale": 1178
+  },
+  {
+    "codice_istat": "065043",
+    "comune": "Colliano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1661,
+    "popolazione_femminile": 1726,
+    "popolazione_totale": 3387
+  },
+  {
+    "codice_istat": "065044",
+    "comune": "Conca dei Marini",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 336,
+    "popolazione_femminile": 299,
+    "popolazione_totale": 635
+  },
+  {
+    "codice_istat": "065045",
+    "comune": "Controne",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 757
+  },
+  {
+    "codice_istat": "065046",
+    "comune": "Contursi Terme",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1577,
+    "popolazione_femminile": 1581,
+    "popolazione_totale": 3158
+  },
+  {
+    "codice_istat": "065047",
+    "comune": "Corbara",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1229,
+    "popolazione_femminile": 1289,
+    "popolazione_totale": 2518
+  },
+  {
+    "codice_istat": "065048",
+    "comune": "Corleto Monforte",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 229,
+    "popolazione_femminile": 233,
+    "popolazione_totale": 462
+  },
+  {
+    "codice_istat": "065049",
+    "comune": "Cuccaro Vetere",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 226,
+    "popolazione_femminile": 284,
+    "popolazione_totale": 510
+  },
+  {
+    "codice_istat": "065050",
+    "comune": "Eboli",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 19286,
+    "popolazione_femminile": 18370,
+    "popolazione_totale": 37656
+  },
+  {
+    "codice_istat": "065051",
+    "comune": "Felitto",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 556,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1140
+  },
+  {
+    "codice_istat": "065052",
+    "comune": "Fisciano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 7135,
+    "popolazione_femminile": 7102,
+    "popolazione_totale": 14237
+  },
+  {
+    "codice_istat": "065053",
+    "comune": "Furore",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 359,
+    "popolazione_femminile": 319,
+    "popolazione_totale": 678
+  },
+  {
+    "codice_istat": "065054",
+    "comune": "Futani",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 489,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1048
+  },
+  {
+    "codice_istat": "065055",
+    "comune": "Giffoni Sei Casali",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2485,
+    "popolazione_femminile": 2466,
+    "popolazione_totale": 4951
+  },
+  {
+    "codice_istat": "065056",
+    "comune": "Giffoni Valle Piana",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 5669,
+    "popolazione_femminile": 5792,
+    "popolazione_totale": 11461
+  },
+  {
+    "codice_istat": "065057",
+    "comune": "Gioi",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 503,
+    "popolazione_femminile": 555,
+    "popolazione_totale": 1058
+  },
+  {
+    "codice_istat": "065058",
+    "comune": "Giungano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 661,
+    "popolazione_totale": 1305
+  },
+  {
+    "codice_istat": "065059",
+    "comune": "Ispani",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 495,
+    "popolazione_totale": 971
+  },
+  {
+    "codice_istat": "065060",
+    "comune": "Laureana Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 616,
+    "popolazione_totale": 1255
+  },
+  {
+    "codice_istat": "065061",
+    "comune": "Laurino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1200
+  },
+  {
+    "codice_istat": "065062",
+    "comune": "Laurito",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 323,
+    "popolazione_femminile": 324,
+    "popolazione_totale": 647
+  },
+  {
+    "codice_istat": "065063",
+    "comune": "Laviano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 616,
+    "popolazione_femminile": 645,
+    "popolazione_totale": 1261
+  },
+  {
+    "codice_istat": "065064",
+    "comune": "Lustra",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 511,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 1005
+  },
+  {
+    "codice_istat": "065065",
+    "comune": "Magliano Vetere",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 287,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 573
+  },
+  {
+    "codice_istat": "065066",
+    "comune": "Maiori",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2562,
+    "popolazione_femminile": 2649,
+    "popolazione_totale": 5211
+  },
+  {
+    "codice_istat": "065067",
+    "comune": "Mercato San Severino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 10399,
+    "popolazione_femminile": 10910,
+    "popolazione_totale": 21309
+  },
+  {
+    "codice_istat": "065068",
+    "comune": "Minori",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1247,
+    "popolazione_femminile": 1281,
+    "popolazione_totale": 2528
+  },
+  {
+    "codice_istat": "065069",
+    "comune": "Moio della Civitella",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 883,
+    "popolazione_femminile": 927,
+    "popolazione_totale": 1810
+  },
+  {
+    "codice_istat": "065070",
+    "comune": "Montano Antilia",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 796,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1644
+  },
+  {
+    "codice_istat": "065075",
+    "comune": "Monte San Giacomo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 669,
+    "popolazione_femminile": 685,
+    "popolazione_totale": 1354
+  },
+  {
+    "codice_istat": "065071",
+    "comune": "Montecorice",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1310,
+    "popolazione_femminile": 1282,
+    "popolazione_totale": 2592
+  },
+  {
+    "codice_istat": "065072",
+    "comune": "Montecorvino Pugliano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 5614,
+    "popolazione_femminile": 5598,
+    "popolazione_totale": 11212
+  },
+  {
+    "codice_istat": "065073",
+    "comune": "Montecorvino Rovella",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 6172,
+    "popolazione_femminile": 6136,
+    "popolazione_totale": 12308
+  },
+  {
+    "codice_istat": "065074",
+    "comune": "Monteforte Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 263,
+    "popolazione_totale": 531
+  },
+  {
+    "codice_istat": "065076",
+    "comune": "Montesano sulla Marcellana",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3141,
+    "popolazione_femminile": 3140,
+    "popolazione_totale": 6281
+  },
+  {
+    "codice_istat": "065077",
+    "comune": "Morigerati",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 278,
+    "popolazione_femminile": 299,
+    "popolazione_totale": 577
+  },
+  {
+    "codice_istat": "065078",
+    "comune": "Nocera Inferiore",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 21081,
+    "popolazione_femminile": 22210,
+    "popolazione_totale": 43291
+  },
+  {
+    "codice_istat": "065079",
+    "comune": "Nocera Superiore",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 11444,
+    "popolazione_femminile": 11952,
+    "popolazione_totale": 23396
+  },
+  {
+    "codice_istat": "065080",
+    "comune": "Novi Velia",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1175,
+    "popolazione_femminile": 1153,
+    "popolazione_totale": 2328
+  },
+  {
+    "codice_istat": "065081",
+    "comune": "Ogliastro Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1184,
+    "popolazione_femminile": 1123,
+    "popolazione_totale": 2307
+  },
+  {
+    "codice_istat": "065082",
+    "comune": "Olevano sul Tusciano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3268,
+    "popolazione_femminile": 3303,
+    "popolazione_totale": 6571
+  },
+  {
+    "codice_istat": "065083",
+    "comune": "Oliveto Citra",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1758,
+    "popolazione_femminile": 1843,
+    "popolazione_totale": 3601
+  },
+  {
+    "codice_istat": "065084",
+    "comune": "Omignano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 809,
+    "popolazione_totale": 1636
+  },
+  {
+    "codice_istat": "065085",
+    "comune": "Orria",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 441,
+    "popolazione_femminile": 446,
+    "popolazione_totale": 887
+  },
+  {
+    "codice_istat": "065086",
+    "comune": "Ottati",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 279,
+    "popolazione_femminile": 285,
+    "popolazione_totale": 564
+  },
+  {
+    "codice_istat": "065087",
+    "comune": "Padula",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2331,
+    "popolazione_femminile": 2444,
+    "popolazione_totale": 4775
+  },
+  {
+    "codice_istat": "065088",
+    "comune": "Pagani",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 17086,
+    "popolazione_femminile": 18031,
+    "popolazione_totale": 35117
+  },
+  {
+    "codice_istat": "065089",
+    "comune": "Palomonte",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1904,
+    "popolazione_femminile": 1868,
+    "popolazione_totale": 3772
+  },
+  {
+    "codice_istat": "065090",
+    "comune": "Pellezzano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 5316,
+    "popolazione_femminile": 5508,
+    "popolazione_totale": 10824
+  },
+  {
+    "codice_istat": "065091",
+    "comune": "Perdifumo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 873,
+    "popolazione_femminile": 929,
+    "popolazione_totale": 1802
+  },
+  {
+    "codice_istat": "065092",
+    "comune": "Perito",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 387,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 763
+  },
+  {
+    "codice_istat": "065093",
+    "comune": "Pertosa",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 316,
+    "popolazione_femminile": 316,
+    "popolazione_totale": 632
+  },
+  {
+    "codice_istat": "065094",
+    "comune": "Petina",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 490,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 984
+  },
+  {
+    "codice_istat": "065095",
+    "comune": "Piaggine",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 513,
+    "popolazione_femminile": 543,
+    "popolazione_totale": 1056
+  },
+  {
+    "codice_istat": "065096",
+    "comune": "Pisciotta",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1212,
+    "popolazione_femminile": 1204,
+    "popolazione_totale": 2416
+  },
+  {
+    "codice_istat": "065097",
+    "comune": "Polla",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2500,
+    "popolazione_femminile": 2584,
+    "popolazione_totale": 5084
+  },
+  {
+    "codice_istat": "065098",
+    "comune": "Pollica",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1017,
+    "popolazione_femminile": 1031,
+    "popolazione_totale": 2048
+  },
+  {
+    "codice_istat": "065099",
+    "comune": "Pontecagnano Faiano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 13109,
+    "popolazione_femminile": 13225,
+    "popolazione_totale": 26334
+  },
+  {
+    "codice_istat": "065100",
+    "comune": "Positano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1776,
+    "popolazione_femminile": 1867,
+    "popolazione_totale": 3643
+  },
+  {
+    "codice_istat": "065101",
+    "comune": "Postiglione",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1040,
+    "popolazione_femminile": 979,
+    "popolazione_totale": 2019
+  },
+  {
+    "codice_istat": "065102",
+    "comune": "Praiano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 933,
+    "popolazione_femminile": 987,
+    "popolazione_totale": 1920
+  },
+  {
+    "codice_istat": "065103",
+    "comune": "Prignano Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 562,
+    "popolazione_totale": 1111
+  },
+  {
+    "codice_istat": "065104",
+    "comune": "Ravello",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1140,
+    "popolazione_femminile": 1195,
+    "popolazione_totale": 2335
+  },
+  {
+    "codice_istat": "065105",
+    "comune": "Ricigliano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 522,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1039
+  },
+  {
+    "codice_istat": "065106",
+    "comune": "Roccadaspide",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3378,
+    "popolazione_femminile": 3522,
+    "popolazione_totale": 6900
+  },
+  {
+    "codice_istat": "065107",
+    "comune": "Roccagloriosa",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 774,
+    "popolazione_femminile": 761,
+    "popolazione_totale": 1535
+  },
+  {
+    "codice_istat": "065108",
+    "comune": "Roccapiemonte",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 4262,
+    "popolazione_femminile": 4414,
+    "popolazione_totale": 8676
+  },
+  {
+    "codice_istat": "065109",
+    "comune": "Rofrano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 638,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1222
+  },
+  {
+    "codice_istat": "065110",
+    "comune": "Romagnano al Monte",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 182,
+    "popolazione_femminile": 187,
+    "popolazione_totale": 369
+  },
+  {
+    "codice_istat": "065111",
+    "comune": "Roscigno",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 283,
+    "popolazione_femminile": 287,
+    "popolazione_totale": 570
+  },
+  {
+    "codice_istat": "065112",
+    "comune": "Rutino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 387,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 744
+  },
+  {
+    "codice_istat": "065113",
+    "comune": "Sacco",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 394
+  },
+  {
+    "codice_istat": "065114",
+    "comune": "Sala Consilina",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 5959,
+    "popolazione_femminile": 6144,
+    "popolazione_totale": 12103
+  },
+  {
+    "codice_istat": "065115",
+    "comune": "Salento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 849,
+    "popolazione_femminile": 885,
+    "popolazione_totale": 1734
+  },
+  {
+    "codice_istat": "065116",
+    "comune": "Salerno",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 59113,
+    "popolazione_femminile": 66210,
+    "popolazione_totale": 125323,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "065117",
+    "comune": "Salvitelle",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 222,
+    "popolazione_femminile": 235,
+    "popolazione_totale": 457
+  },
+  {
+    "codice_istat": "065118",
+    "comune": "San Cipriano Picentino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3319,
+    "popolazione_femminile": 3419,
+    "popolazione_totale": 6738
+  },
+  {
+    "codice_istat": "065119",
+    "comune": "San Giovanni a Piro",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1794,
+    "popolazione_femminile": 1797,
+    "popolazione_totale": 3591
+  },
+  {
+    "codice_istat": "065120",
+    "comune": "San Gregorio Magno",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1837,
+    "popolazione_femminile": 1961,
+    "popolazione_totale": 3798
+  },
+  {
+    "codice_istat": "065121",
+    "comune": "San Mango Piemonte",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1301,
+    "popolazione_femminile": 1315,
+    "popolazione_totale": 2616
+  },
+  {
+    "codice_istat": "065122",
+    "comune": "San Marzano sul Sarno",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 5093,
+    "popolazione_femminile": 5116,
+    "popolazione_totale": 10209
+  },
+  {
+    "codice_istat": "065123",
+    "comune": "San Mauro Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 421,
+    "popolazione_femminile": 403,
+    "popolazione_totale": 824
+  },
+  {
+    "codice_istat": "065124",
+    "comune": "San Mauro la Bruca",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 251,
+    "popolazione_femminile": 249,
+    "popolazione_totale": 500
+  },
+  {
+    "codice_istat": "065125",
+    "comune": "San Pietro al Tanagro",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 824,
+    "popolazione_femminile": 875,
+    "popolazione_totale": 1699
+  },
+  {
+    "codice_istat": "065126",
+    "comune": "San Rufo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 793,
+    "popolazione_femminile": 792,
+    "popolazione_totale": 1585
+  },
+  {
+    "codice_istat": "065132",
+    "comune": "San Valentino Torio",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 5491,
+    "popolazione_femminile": 5503,
+    "popolazione_totale": 10994
+  },
+  {
+    "codice_istat": "065128",
+    "comune": "Sant'Angelo a Fasanella",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 498
+  },
+  {
+    "codice_istat": "065129",
+    "comune": "Sant'Arsenio",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1277,
+    "popolazione_femminile": 1362,
+    "popolazione_totale": 2639
+  },
+  {
+    "codice_istat": "065130",
+    "comune": "Sant'Egidio del Monte Albino",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3784,
+    "popolazione_femminile": 3899,
+    "popolazione_totale": 7683
+  },
+  {
+    "codice_istat": "065127",
+    "comune": "Santa Marina",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1597,
+    "popolazione_femminile": 1623,
+    "popolazione_totale": 3220
+  },
+  {
+    "codice_istat": "065131",
+    "comune": "Santomenna",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 190,
+    "popolazione_femminile": 178,
+    "popolazione_totale": 368
+  },
+  {
+    "codice_istat": "065133",
+    "comune": "Sanza",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1166,
+    "popolazione_femminile": 1147,
+    "popolazione_totale": 2313
+  },
+  {
+    "codice_istat": "065134",
+    "comune": "Sapri",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2961,
+    "popolazione_femminile": 3300,
+    "popolazione_totale": 6261
+  },
+  {
+    "codice_istat": "065135",
+    "comune": "Sarno",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 15367,
+    "popolazione_femminile": 15570,
+    "popolazione_totale": 30937
+  },
+  {
+    "codice_istat": "065136",
+    "comune": "Sassano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2278,
+    "popolazione_femminile": 2402,
+    "popolazione_totale": 4680
+  },
+  {
+    "codice_istat": "065137",
+    "comune": "Scafati",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 23270,
+    "popolazione_femminile": 24304,
+    "popolazione_totale": 47574
+  },
+  {
+    "codice_istat": "065138",
+    "comune": "Scala",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 781,
+    "popolazione_femminile": 726,
+    "popolazione_totale": 1507
+  },
+  {
+    "codice_istat": "065139",
+    "comune": "Serramezzana",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 138,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 272
+  },
+  {
+    "codice_istat": "065140",
+    "comune": "Serre",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1869,
+    "popolazione_femminile": 1802,
+    "popolazione_totale": 3671
+  },
+  {
+    "codice_istat": "065141",
+    "comune": "Sessa Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 580,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "065142",
+    "comune": "Siano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 4545,
+    "popolazione_femminile": 4681,
+    "popolazione_totale": 9226
+  },
+  {
+    "codice_istat": "065143",
+    "comune": "Sicignano degli Alburni",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1539,
+    "popolazione_femminile": 1518,
+    "popolazione_totale": 3057
+  },
+  {
+    "codice_istat": "065144",
+    "comune": "Stella Cilento",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 308,
+    "popolazione_totale": 612
+  },
+  {
+    "codice_istat": "065145",
+    "comune": "Stio",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 369,
+    "popolazione_femminile": 390,
+    "popolazione_totale": 759
+  },
+  {
+    "codice_istat": "065146",
+    "comune": "Teggiano",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3329,
+    "popolazione_femminile": 3638,
+    "popolazione_totale": 6967
+  },
+  {
+    "codice_istat": "065147",
+    "comune": "Torchiara",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 940,
+    "popolazione_femminile": 968,
+    "popolazione_totale": 1908
+  },
+  {
+    "codice_istat": "065148",
+    "comune": "Torraca",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 608,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1214
+  },
+  {
+    "codice_istat": "065149",
+    "comune": "Torre Orsaia",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 946,
+    "popolazione_femminile": 982,
+    "popolazione_totale": 1928
+  },
+  {
+    "codice_istat": "065150",
+    "comune": "Tortorella",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 226,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 462
+  },
+  {
+    "codice_istat": "065151",
+    "comune": "Tramonti",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 2096,
+    "popolazione_femminile": 2113,
+    "popolazione_totale": 4209
+  },
+  {
+    "codice_istat": "065152",
+    "comune": "Trentinara",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 779,
+    "popolazione_femminile": 794,
+    "popolazione_totale": 1573
+  },
+  {
+    "codice_istat": "065153",
+    "comune": "Valle dell'Angelo",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 112,
+    "popolazione_femminile": 105,
+    "popolazione_totale": 217
+  },
+  {
+    "codice_istat": "065154",
+    "comune": "Vallo della Lucania",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3669,
+    "popolazione_femminile": 4110,
+    "popolazione_totale": 7779
+  },
+  {
+    "codice_istat": "065155",
+    "comune": "Valva",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 770,
+    "popolazione_femminile": 769,
+    "popolazione_totale": 1539
+  },
+  {
+    "codice_istat": "065156",
+    "comune": "Vibonati",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 1625,
+    "popolazione_femminile": 1610,
+    "popolazione_totale": 3235
+  },
+  {
+    "codice_istat": "065157",
+    "comune": "Vietri sul Mare",
+    "provincia": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "popolazione_maschile": 3410,
+    "popolazione_femminile": 3468,
+    "popolazione_totale": 6878
+  }
+]

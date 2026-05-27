@@ -1,0 +1,583 @@
+[
+  {
+    "codice_istat": "087001",
+    "comune": "Aci Bonaccorsi",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1689,
+    "popolazione_femminile": 1870,
+    "popolazione_totale": 3559
+  },
+  {
+    "codice_istat": "087002",
+    "comune": "Aci Castello",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 8419,
+    "popolazione_femminile": 9063,
+    "popolazione_totale": 17482
+  },
+  {
+    "codice_istat": "087003",
+    "comune": "Aci Catena",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 13429,
+    "popolazione_femminile": 13920,
+    "popolazione_totale": 27349
+  },
+  {
+    "codice_istat": "087005",
+    "comune": "Aci Sant'Antonio",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 8953,
+    "popolazione_femminile": 9138,
+    "popolazione_totale": 18091
+  },
+  {
+    "codice_istat": "087004",
+    "comune": "Acireale",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 24648,
+    "popolazione_femminile": 25880,
+    "popolazione_totale": 50528
+  },
+  {
+    "codice_istat": "087006",
+    "comune": "Adrano",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 16276,
+    "popolazione_femminile": 17230,
+    "popolazione_totale": 33506
+  },
+  {
+    "codice_istat": "087007",
+    "comune": "Belpasso",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 14064,
+    "popolazione_femminile": 14257,
+    "popolazione_totale": 28321
+  },
+  {
+    "codice_istat": "087008",
+    "comune": "Biancavilla",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 11160,
+    "popolazione_femminile": 11757,
+    "popolazione_totale": 22917
+  },
+  {
+    "codice_istat": "087009",
+    "comune": "Bronte",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 8767,
+    "popolazione_femminile": 9334,
+    "popolazione_totale": 18101
+  },
+  {
+    "codice_istat": "087010",
+    "comune": "Calatabiano",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2550,
+    "popolazione_femminile": 2595,
+    "popolazione_totale": 5145
+  },
+  {
+    "codice_istat": "087011",
+    "comune": "Caltagirone",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 17428,
+    "popolazione_femminile": 17945,
+    "popolazione_totale": 35373
+  },
+  {
+    "codice_istat": "087012",
+    "comune": "Camporotondo Etneo",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2624,
+    "popolazione_femminile": 2584,
+    "popolazione_totale": 5208
+  },
+  {
+    "codice_istat": "087013",
+    "comune": "Castel di Iudica",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2053,
+    "popolazione_femminile": 2110,
+    "popolazione_totale": 4163
+  },
+  {
+    "codice_istat": "087014",
+    "comune": "Castiglione di Sicilia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1391,
+    "popolazione_femminile": 1441,
+    "popolazione_totale": 2832
+  },
+  {
+    "codice_istat": "087015",
+    "comune": "Catania",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 143549,
+    "popolazione_femminile": 153435,
+    "popolazione_totale": 296984,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "087016",
+    "comune": "Fiumefreddo di Sicilia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4256,
+    "popolazione_femminile": 4709,
+    "popolazione_totale": 8965
+  },
+  {
+    "codice_istat": "087017",
+    "comune": "Giarre",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 12849,
+    "popolazione_femminile": 13617,
+    "popolazione_totale": 26466
+  },
+  {
+    "codice_istat": "087018",
+    "comune": "Grammichele",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5949,
+    "popolazione_femminile": 6178,
+    "popolazione_totale": 12127
+  },
+  {
+    "codice_istat": "087019",
+    "comune": "Gravina di Catania",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 12047,
+    "popolazione_femminile": 13283,
+    "popolazione_totale": 25330
+  },
+  {
+    "codice_istat": "087020",
+    "comune": "Licodia Eubea",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1385,
+    "popolazione_femminile": 1377,
+    "popolazione_totale": 2762
+  },
+  {
+    "codice_istat": "087021",
+    "comune": "Linguaglossa",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2398,
+    "popolazione_femminile": 2589,
+    "popolazione_totale": 4987
+  },
+  {
+    "codice_istat": "087022",
+    "comune": "Maletto",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1708,
+    "popolazione_femminile": 1814,
+    "popolazione_totale": 3522
+  },
+  {
+    "codice_istat": "087057",
+    "comune": "Maniace",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1872,
+    "popolazione_femminile": 1867,
+    "popolazione_totale": 3739
+  },
+  {
+    "codice_istat": "087023",
+    "comune": "Mascali",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 7155,
+    "popolazione_femminile": 7331,
+    "popolazione_totale": 14486
+  },
+  {
+    "codice_istat": "087024",
+    "comune": "Mascalucia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 15615,
+    "popolazione_femminile": 16509,
+    "popolazione_totale": 32124
+  },
+  {
+    "codice_istat": "087056",
+    "comune": "Mazzarrone",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2020,
+    "popolazione_femminile": 1990,
+    "popolazione_totale": 4010
+  },
+  {
+    "codice_istat": "087025",
+    "comune": "Militello in Val di Catania",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3293,
+    "popolazione_femminile": 3312,
+    "popolazione_totale": 6605
+  },
+  {
+    "codice_istat": "087026",
+    "comune": "Milo",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 522,
+    "popolazione_femminile": 495,
+    "popolazione_totale": 1017
+  },
+  {
+    "codice_istat": "087027",
+    "comune": "Mineo",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2116,
+    "popolazione_femminile": 2229,
+    "popolazione_totale": 4345
+  },
+  {
+    "codice_istat": "087028",
+    "comune": "Mirabella Imbaccari",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1952,
+    "popolazione_femminile": 2180,
+    "popolazione_totale": 4132
+  },
+  {
+    "codice_istat": "087029",
+    "comune": "Misterbianco",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 23715,
+    "popolazione_femminile": 24905,
+    "popolazione_totale": 48620
+  },
+  {
+    "codice_istat": "087030",
+    "comune": "Motta Sant'Anastasia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5968,
+    "popolazione_femminile": 6171,
+    "popolazione_totale": 12139
+  },
+  {
+    "codice_istat": "087031",
+    "comune": "Nicolosi",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3841,
+    "popolazione_femminile": 3879,
+    "popolazione_totale": 7720
+  },
+  {
+    "codice_istat": "087032",
+    "comune": "Palagonia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 7576,
+    "popolazione_femminile": 7793,
+    "popolazione_totale": 15369
+  },
+  {
+    "codice_istat": "087033",
+    "comune": "Paternò",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 21725,
+    "popolazione_femminile": 22777,
+    "popolazione_totale": 44502
+  },
+  {
+    "codice_istat": "087034",
+    "comune": "Pedara",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 7735,
+    "popolazione_femminile": 7787,
+    "popolazione_totale": 15522
+  },
+  {
+    "codice_istat": "087035",
+    "comune": "Piedimonte Etneo",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1924,
+    "popolazione_femminile": 1941,
+    "popolazione_totale": 3865
+  },
+  {
+    "codice_istat": "087036",
+    "comune": "Raddusa",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1373,
+    "popolazione_femminile": 1378,
+    "popolazione_totale": 2751
+  },
+  {
+    "codice_istat": "087058",
+    "comune": "Ragalna",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2255,
+    "popolazione_femminile": 2141,
+    "popolazione_totale": 4396
+  },
+  {
+    "codice_istat": "087037",
+    "comune": "Ramacca",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5028,
+    "popolazione_femminile": 5001,
+    "popolazione_totale": 10029
+  },
+  {
+    "codice_istat": "087038",
+    "comune": "Randazzo",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4791,
+    "popolazione_femminile": 5168,
+    "popolazione_totale": 9959
+  },
+  {
+    "codice_istat": "087039",
+    "comune": "Riposto",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6818,
+    "popolazione_femminile": 7083,
+    "popolazione_totale": 13901
+  },
+  {
+    "codice_istat": "087040",
+    "comune": "San Cono",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1198,
+    "popolazione_femminile": 1165,
+    "popolazione_totale": 2363
+  },
+  {
+    "codice_istat": "087041",
+    "comune": "San Giovanni la Punta",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 11806,
+    "popolazione_femminile": 12652,
+    "popolazione_totale": 24458
+  },
+  {
+    "codice_istat": "087042",
+    "comune": "San Gregorio di Catania",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5517,
+    "popolazione_femminile": 6001,
+    "popolazione_totale": 11518
+  },
+  {
+    "codice_istat": "087043",
+    "comune": "San Michele di Ganzaria",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1372,
+    "popolazione_femminile": 1435,
+    "popolazione_totale": 2807
+  },
+  {
+    "codice_istat": "087044",
+    "comune": "San Pietro Clarenza",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4155,
+    "popolazione_femminile": 4217,
+    "popolazione_totale": 8372
+  },
+  {
+    "codice_istat": "087045",
+    "comune": "Sant'Agata li Battiati",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4287,
+    "popolazione_femminile": 4930,
+    "popolazione_totale": 9217
+  },
+  {
+    "codice_istat": "087046",
+    "comune": "Sant'Alfio",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 732,
+    "popolazione_femminile": 789,
+    "popolazione_totale": 1521
+  },
+  {
+    "codice_istat": "087047",
+    "comune": "Santa Maria di Licodia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3775,
+    "popolazione_femminile": 3900,
+    "popolazione_totale": 7675
+  },
+  {
+    "codice_istat": "087048",
+    "comune": "Santa Venerina",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4150,
+    "popolazione_femminile": 4337,
+    "popolazione_totale": 8487
+  },
+  {
+    "codice_istat": "087049",
+    "comune": "Scordia",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 7967,
+    "popolazione_femminile": 7918,
+    "popolazione_totale": 15885
+  },
+  {
+    "codice_istat": "087050",
+    "comune": "Trecastagni",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5626,
+    "popolazione_femminile": 5770,
+    "popolazione_totale": 11396
+  },
+  {
+    "codice_istat": "087051",
+    "comune": "Tremestieri Etneo",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 9116,
+    "popolazione_femminile": 10056,
+    "popolazione_totale": 19172
+  },
+  {
+    "codice_istat": "087052",
+    "comune": "Valverde",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3860,
+    "popolazione_femminile": 3950,
+    "popolazione_totale": 7810
+  },
+  {
+    "codice_istat": "087053",
+    "comune": "Viagrande",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4359,
+    "popolazione_femminile": 4584,
+    "popolazione_totale": 8943
+  },
+  {
+    "codice_istat": "087054",
+    "comune": "Vizzini",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2704,
+    "popolazione_femminile": 2932,
+    "popolazione_totale": 5636
+  },
+  {
+    "codice_istat": "087055",
+    "comune": "Zafferana Etnea",
+    "provincia": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4694,
+    "popolazione_femminile": 4647,
+    "popolazione_totale": 9341
+  }
+]

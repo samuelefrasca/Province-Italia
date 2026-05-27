@@ -1,0 +1,1003 @@
+[
+  {
+    "codice_istat": "076001",
+    "comune": "Abriola",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 579,
+    "popolazione_femminile": 616,
+    "popolazione_totale": 1195
+  },
+  {
+    "codice_istat": "076002",
+    "comune": "Acerenza",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1008,
+    "popolazione_femminile": 999,
+    "popolazione_totale": 2007
+  },
+  {
+    "codice_istat": "076003",
+    "comune": "Albano di Lucania",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 654,
+    "popolazione_femminile": 621,
+    "popolazione_totale": 1275
+  },
+  {
+    "codice_istat": "076004",
+    "comune": "Anzi",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 701,
+    "popolazione_femminile": 744,
+    "popolazione_totale": 1445
+  },
+  {
+    "codice_istat": "076005",
+    "comune": "Armento",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 264,
+    "popolazione_femminile": 271,
+    "popolazione_totale": 535
+  },
+  {
+    "codice_istat": "076006",
+    "comune": "Atella",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1788,
+    "popolazione_femminile": 1786,
+    "popolazione_totale": 3574
+  },
+  {
+    "codice_istat": "076007",
+    "comune": "Avigliano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 5069,
+    "popolazione_femminile": 5249,
+    "popolazione_totale": 10318
+  },
+  {
+    "codice_istat": "076008",
+    "comune": "Balvano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 859,
+    "popolazione_femminile": 791,
+    "popolazione_totale": 1650
+  },
+  {
+    "codice_istat": "076009",
+    "comune": "Banzi",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 571,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1131
+  },
+  {
+    "codice_istat": "076010",
+    "comune": "Baragiano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1237,
+    "popolazione_femminile": 1240,
+    "popolazione_totale": 2477
+  },
+  {
+    "codice_istat": "076011",
+    "comune": "Barile",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1228,
+    "popolazione_femminile": 1263,
+    "popolazione_totale": 2491
+  },
+  {
+    "codice_istat": "076012",
+    "comune": "Bella",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2267,
+    "popolazione_femminile": 2263,
+    "popolazione_totale": 4530
+  },
+  {
+    "codice_istat": "076013",
+    "comune": "Brienza",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1960,
+    "popolazione_femminile": 1884,
+    "popolazione_totale": 3844
+  },
+  {
+    "codice_istat": "076014",
+    "comune": "Brindisi Montagna",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 757
+  },
+  {
+    "codice_istat": "076015",
+    "comune": "Calvello",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 815,
+    "popolazione_femminile": 894,
+    "popolazione_totale": 1709
+  },
+  {
+    "codice_istat": "076016",
+    "comune": "Calvera",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 179,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 347
+  },
+  {
+    "codice_istat": "076017",
+    "comune": "Campomaggiore",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 338,
+    "popolazione_femminile": 351,
+    "popolazione_totale": 689
+  },
+  {
+    "codice_istat": "076018",
+    "comune": "Cancellara",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 552,
+    "popolazione_totale": 1088
+  },
+  {
+    "codice_istat": "076019",
+    "comune": "Carbone",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 237,
+    "popolazione_totale": 475
+  },
+  {
+    "codice_istat": "076021",
+    "comune": "Castelgrande",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 373,
+    "popolazione_totale": 783
+  },
+  {
+    "codice_istat": "076022",
+    "comune": "Castelluccio Inferiore",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 918,
+    "popolazione_femminile": 936,
+    "popolazione_totale": 1854
+  },
+  {
+    "codice_istat": "076023",
+    "comune": "Castelluccio Superiore",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 361,
+    "popolazione_femminile": 342,
+    "popolazione_totale": 703
+  },
+  {
+    "codice_istat": "076024",
+    "comune": "Castelmezzano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 333,
+    "popolazione_femminile": 351,
+    "popolazione_totale": 684
+  },
+  {
+    "codice_istat": "076025",
+    "comune": "Castelsaraceno",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 576,
+    "popolazione_totale": 1112
+  },
+  {
+    "codice_istat": "076026",
+    "comune": "Castronuovo di Sant'Andrea",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 440,
+    "popolazione_totale": 833
+  },
+  {
+    "codice_istat": "076027",
+    "comune": "Cersosimo",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 249,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 496
+  },
+  {
+    "codice_istat": "076028",
+    "comune": "Chiaromonte",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 824,
+    "popolazione_femminile": 861,
+    "popolazione_totale": 1685
+  },
+  {
+    "codice_istat": "076029",
+    "comune": "Corleto Perticara",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1169,
+    "popolazione_femminile": 1134,
+    "popolazione_totale": 2303
+  },
+  {
+    "codice_istat": "076030",
+    "comune": "Episcopia",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 579,
+    "popolazione_femminile": 609,
+    "popolazione_totale": 1188
+  },
+  {
+    "codice_istat": "076031",
+    "comune": "Fardella",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 291,
+    "popolazione_femminile": 277,
+    "popolazione_totale": 568
+  },
+  {
+    "codice_istat": "076032",
+    "comune": "Filiano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1311,
+    "popolazione_femminile": 1298,
+    "popolazione_totale": 2609
+  },
+  {
+    "codice_istat": "076033",
+    "comune": "Forenza",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 885,
+    "popolazione_femminile": 841,
+    "popolazione_totale": 1726
+  },
+  {
+    "codice_istat": "076034",
+    "comune": "Francavilla in Sinni",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1901,
+    "popolazione_femminile": 1922,
+    "popolazione_totale": 3823
+  },
+  {
+    "codice_istat": "076035",
+    "comune": "Gallicchio",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 392,
+    "popolazione_femminile": 355,
+    "popolazione_totale": 747
+  },
+  {
+    "codice_istat": "076036",
+    "comune": "Genzano di Lucania",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2498,
+    "popolazione_femminile": 2538,
+    "popolazione_totale": 5036
+  },
+  {
+    "codice_istat": "076099",
+    "comune": "Ginestra",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 330,
+    "popolazione_femminile": 325,
+    "popolazione_totale": 655
+  },
+  {
+    "codice_istat": "076037",
+    "comune": "Grumento Nova",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 757,
+    "popolazione_femminile": 757,
+    "popolazione_totale": 1514
+  },
+  {
+    "codice_istat": "076038",
+    "comune": "Guardia Perticara",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 250,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 502
+  },
+  {
+    "codice_istat": "076039",
+    "comune": "Lagonegro",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2381,
+    "popolazione_femminile": 2524,
+    "popolazione_totale": 4905
+  },
+  {
+    "codice_istat": "076040",
+    "comune": "Latronico",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1993,
+    "popolazione_femminile": 1957,
+    "popolazione_totale": 3950
+  },
+  {
+    "codice_istat": "076041",
+    "comune": "Laurenzana",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 750,
+    "popolazione_femminile": 778,
+    "popolazione_totale": 1528
+  },
+  {
+    "codice_istat": "076042",
+    "comune": "Lauria",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 5634,
+    "popolazione_femminile": 6017,
+    "popolazione_totale": 11651
+  },
+  {
+    "codice_istat": "076043",
+    "comune": "Lavello",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 6618,
+    "popolazione_femminile": 6202,
+    "popolazione_totale": 12820
+  },
+  {
+    "codice_istat": "076044",
+    "comune": "Maratea",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2218,
+    "popolazione_femminile": 2296,
+    "popolazione_totale": 4514
+  },
+  {
+    "codice_istat": "076045",
+    "comune": "Marsico Nuovo",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1795,
+    "popolazione_femminile": 1885,
+    "popolazione_totale": 3680
+  },
+  {
+    "codice_istat": "076046",
+    "comune": "Marsicovetere",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2806,
+    "popolazione_femminile": 2874,
+    "popolazione_totale": 5680
+  },
+  {
+    "codice_istat": "076047",
+    "comune": "Maschito",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 705,
+    "popolazione_femminile": 693,
+    "popolazione_totale": 1398
+  },
+  {
+    "codice_istat": "076048",
+    "comune": "Melfi",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 8327,
+    "popolazione_femminile": 8477,
+    "popolazione_totale": 16804
+  },
+  {
+    "codice_istat": "076049",
+    "comune": "Missanello",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 239,
+    "popolazione_totale": 464
+  },
+  {
+    "codice_istat": "076050",
+    "comune": "Moliterno",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1661,
+    "popolazione_femminile": 1826,
+    "popolazione_totale": 3487
+  },
+  {
+    "codice_istat": "076051",
+    "comune": "Montemilone",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 701,
+    "popolazione_femminile": 670,
+    "popolazione_totale": 1371
+  },
+  {
+    "codice_istat": "076052",
+    "comune": "Montemurro",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 515,
+    "popolazione_totale": 1021
+  },
+  {
+    "codice_istat": "076053",
+    "comune": "Muro Lucano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2461,
+    "popolazione_femminile": 2367,
+    "popolazione_totale": 4828
+  },
+  {
+    "codice_istat": "076054",
+    "comune": "Nemoli",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 661,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1367
+  },
+  {
+    "codice_istat": "076055",
+    "comune": "Noepoli",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 341,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 717
+  },
+  {
+    "codice_istat": "076056",
+    "comune": "Oppido Lucano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1727,
+    "popolazione_femminile": 1741,
+    "popolazione_totale": 3468
+  },
+  {
+    "codice_istat": "076057",
+    "comune": "Palazzo San Gervasio",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2160,
+    "popolazione_femminile": 2089,
+    "popolazione_totale": 4249
+  },
+  {
+    "codice_istat": "076100",
+    "comune": "Paterno",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1439,
+    "popolazione_femminile": 1512,
+    "popolazione_totale": 2951
+  },
+  {
+    "codice_istat": "076058",
+    "comune": "Pescopagano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 796,
+    "popolazione_femminile": 801,
+    "popolazione_totale": 1597
+  },
+  {
+    "codice_istat": "076059",
+    "comune": "Picerno",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2791,
+    "popolazione_femminile": 2790,
+    "popolazione_totale": 5581
+  },
+  {
+    "codice_istat": "076060",
+    "comune": "Pietragalla",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1883,
+    "popolazione_femminile": 1859,
+    "popolazione_totale": 3742
+  },
+  {
+    "codice_istat": "076061",
+    "comune": "Pietrapertosa",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 430,
+    "popolazione_totale": 848
+  },
+  {
+    "codice_istat": "076062",
+    "comune": "Pignola",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3352,
+    "popolazione_femminile": 3403,
+    "popolazione_totale": 6755
+  },
+  {
+    "codice_istat": "076063",
+    "comune": "Potenza",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 30604,
+    "popolazione_femminile": 32799,
+    "popolazione_totale": 63403,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "076064",
+    "comune": "Rapolla",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2070,
+    "popolazione_femminile": 2010,
+    "popolazione_totale": 4080
+  },
+  {
+    "codice_istat": "076065",
+    "comune": "Rapone",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 424,
+    "popolazione_totale": 827
+  },
+  {
+    "codice_istat": "076066",
+    "comune": "Rionero in Vulture",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 6145,
+    "popolazione_femminile": 6180,
+    "popolazione_totale": 12325
+  },
+  {
+    "codice_istat": "076067",
+    "comune": "Ripacandida",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 786,
+    "popolazione_femminile": 742,
+    "popolazione_totale": 1528
+  },
+  {
+    "codice_istat": "076068",
+    "comune": "Rivello",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1191,
+    "popolazione_femminile": 1226,
+    "popolazione_totale": 2417
+  },
+  {
+    "codice_istat": "076069",
+    "comune": "Roccanova",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 600,
+    "popolazione_femminile": 635,
+    "popolazione_totale": 1235
+  },
+  {
+    "codice_istat": "076070",
+    "comune": "Rotonda",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1542,
+    "popolazione_femminile": 1558,
+    "popolazione_totale": 3100
+  },
+  {
+    "codice_istat": "076071",
+    "comune": "Ruoti",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1588,
+    "popolazione_femminile": 1576,
+    "popolazione_totale": 3164
+  },
+  {
+    "codice_istat": "076072",
+    "comune": "Ruvo del Monte",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 466,
+    "popolazione_femminile": 469,
+    "popolazione_totale": 935
+  },
+  {
+    "codice_istat": "076073",
+    "comune": "San Chirico Nuovo",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 548,
+    "popolazione_femminile": 528,
+    "popolazione_totale": 1076
+  },
+  {
+    "codice_istat": "076074",
+    "comune": "San Chirico Raparo",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 450,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 865
+  },
+  {
+    "codice_istat": "076075",
+    "comune": "San Costantino Albanese",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 569
+  },
+  {
+    "codice_istat": "076076",
+    "comune": "San Fele",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1250,
+    "popolazione_femminile": 1243,
+    "popolazione_totale": 2493
+  },
+  {
+    "codice_istat": "076077",
+    "comune": "San Martino d'Agri",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 297,
+    "popolazione_totale": 615
+  },
+  {
+    "codice_istat": "076020",
+    "comune": "San Paolo Albanese",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 90,
+    "popolazione_femminile": 107,
+    "popolazione_totale": 197
+  },
+  {
+    "codice_istat": "076078",
+    "comune": "San Severino Lucano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 658,
+    "popolazione_femminile": 655,
+    "popolazione_totale": 1313
+  },
+  {
+    "codice_istat": "076079",
+    "comune": "Sant'Angelo Le Fratte",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 651,
+    "popolazione_femminile": 642,
+    "popolazione_totale": 1293
+  },
+  {
+    "codice_istat": "076080",
+    "comune": "Sant'Arcangelo",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 2989,
+    "popolazione_femminile": 2933,
+    "popolazione_totale": 5922
+  },
+  {
+    "codice_istat": "076081",
+    "comune": "Sarconi",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 738,
+    "popolazione_femminile": 683,
+    "popolazione_totale": 1421
+  },
+  {
+    "codice_istat": "076082",
+    "comune": "Sasso di Castalda",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 349,
+    "popolazione_totale": 721
+  },
+  {
+    "codice_istat": "076083",
+    "comune": "Satriano di Lucania",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1174,
+    "popolazione_femminile": 1071,
+    "popolazione_totale": 2245
+  },
+  {
+    "codice_istat": "076084",
+    "comune": "Savoia di Lucania",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 499,
+    "popolazione_femminile": 460,
+    "popolazione_totale": 959
+  },
+  {
+    "codice_istat": "076085",
+    "comune": "Senise",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3198,
+    "popolazione_femminile": 3162,
+    "popolazione_totale": 6360
+  },
+  {
+    "codice_istat": "076086",
+    "comune": "Spinoso",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 635,
+    "popolazione_femminile": 624,
+    "popolazione_totale": 1259
+  },
+  {
+    "codice_istat": "076087",
+    "comune": "Teana",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 237,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 499
+  },
+  {
+    "codice_istat": "076088",
+    "comune": "Terranova di Pollino",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 461,
+    "popolazione_femminile": 490,
+    "popolazione_totale": 951
+  },
+  {
+    "codice_istat": "076089",
+    "comune": "Tito",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 3470,
+    "popolazione_femminile": 3532,
+    "popolazione_totale": 7002
+  },
+  {
+    "codice_istat": "076090",
+    "comune": "Tolve",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1431,
+    "popolazione_femminile": 1412,
+    "popolazione_totale": 2843
+  },
+  {
+    "codice_istat": "076091",
+    "comune": "Tramutola",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1383,
+    "popolazione_femminile": 1429,
+    "popolazione_totale": 2812
+  },
+  {
+    "codice_istat": "076092",
+    "comune": "Trecchina",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 968,
+    "popolazione_femminile": 1086,
+    "popolazione_totale": 2054
+  },
+  {
+    "codice_istat": "076093",
+    "comune": "Trivigno",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 282,
+    "popolazione_femminile": 311,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "076094",
+    "comune": "Vaglio Basilicata",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 845,
+    "popolazione_femminile": 909,
+    "popolazione_totale": 1754
+  },
+  {
+    "codice_istat": "076095",
+    "comune": "Venosa",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 5274,
+    "popolazione_femminile": 5286,
+    "popolazione_totale": 10560
+  },
+  {
+    "codice_istat": "076096",
+    "comune": "Vietri di Potenza",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1289,
+    "popolazione_femminile": 1325,
+    "popolazione_totale": 2614
+  },
+  {
+    "codice_istat": "076097",
+    "comune": "Viggianello",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1293,
+    "popolazione_femminile": 1284,
+    "popolazione_totale": 2577
+  },
+  {
+    "codice_istat": "076098",
+    "comune": "Viggiano",
+    "provincia": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "popolazione_maschile": 1635,
+    "popolazione_femminile": 1577,
+    "popolazione_totale": 3212
+  }
+]

@@ -1,0 +1,823 @@
+[
+  {
+    "codice_istat": "082001",
+    "comune": "Alia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1526,
+    "popolazione_femminile": 1612,
+    "popolazione_totale": 3138
+  },
+  {
+    "codice_istat": "082002",
+    "comune": "Alimena",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 849,
+    "popolazione_femminile": 973,
+    "popolazione_totale": 1822
+  },
+  {
+    "codice_istat": "082003",
+    "comune": "Aliminusa",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 504,
+    "popolazione_totale": 1005
+  },
+  {
+    "codice_istat": "082004",
+    "comune": "Altavilla Milicia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4550,
+    "popolazione_femminile": 4505,
+    "popolazione_totale": 9055
+  },
+  {
+    "codice_istat": "082005",
+    "comune": "Altofonte",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 4746,
+    "popolazione_femminile": 4996,
+    "popolazione_totale": 9742
+  },
+  {
+    "codice_istat": "082006",
+    "comune": "Bagheria",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 25946,
+    "popolazione_femminile": 27206,
+    "popolazione_totale": 53152
+  },
+  {
+    "codice_istat": "082007",
+    "comune": "Balestrate",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3046,
+    "popolazione_femminile": 3333,
+    "popolazione_totale": 6379
+  },
+  {
+    "codice_istat": "082008",
+    "comune": "Baucina",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 912,
+    "popolazione_femminile": 926,
+    "popolazione_totale": 1838
+  },
+  {
+    "codice_istat": "082009",
+    "comune": "Belmonte Mezzagno",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5222,
+    "popolazione_femminile": 5456,
+    "popolazione_totale": 10678
+  },
+  {
+    "codice_istat": "082010",
+    "comune": "Bisacquino",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1950,
+    "popolazione_femminile": 1988,
+    "popolazione_totale": 3938
+  },
+  {
+    "codice_istat": "082082",
+    "comune": "Blufi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 394,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 822
+  },
+  {
+    "codice_istat": "082011",
+    "comune": "Bolognetta",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2012,
+    "popolazione_femminile": 2062,
+    "popolazione_totale": 4074
+  },
+  {
+    "codice_istat": "082012",
+    "comune": "Bompietro",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 544,
+    "popolazione_femminile": 596,
+    "popolazione_totale": 1140
+  },
+  {
+    "codice_istat": "082013",
+    "comune": "Borgetto",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3550,
+    "popolazione_femminile": 3617,
+    "popolazione_totale": 7167
+  },
+  {
+    "codice_istat": "082014",
+    "comune": "Caccamo",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3713,
+    "popolazione_femminile": 3816,
+    "popolazione_totale": 7529
+  },
+  {
+    "codice_istat": "082015",
+    "comune": "Caltavuturo",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1629,
+    "popolazione_femminile": 1694,
+    "popolazione_totale": 3323
+  },
+  {
+    "codice_istat": "082016",
+    "comune": "Campofelice di Fitalia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 194,
+    "popolazione_totale": 411
+  },
+  {
+    "codice_istat": "082017",
+    "comune": "Campofelice di Roccella",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3881,
+    "popolazione_femminile": 3989,
+    "popolazione_totale": 7870
+  },
+  {
+    "codice_istat": "082018",
+    "comune": "Campofiorito",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 554,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1113
+  },
+  {
+    "codice_istat": "082019",
+    "comune": "Camporeale",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1404,
+    "popolazione_femminile": 1438,
+    "popolazione_totale": 2842
+  },
+  {
+    "codice_istat": "082020",
+    "comune": "Capaci",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5663,
+    "popolazione_femminile": 5819,
+    "popolazione_totale": 11482
+  },
+  {
+    "codice_istat": "082021",
+    "comune": "Carini",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 20510,
+    "popolazione_femminile": 20624,
+    "popolazione_totale": 41134
+  },
+  {
+    "codice_istat": "082022",
+    "comune": "Castelbuono",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3847,
+    "popolazione_femminile": 4024,
+    "popolazione_totale": 7871
+  },
+  {
+    "codice_istat": "082023",
+    "comune": "Casteldaccia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5805,
+    "popolazione_femminile": 5973,
+    "popolazione_totale": 11778
+  },
+  {
+    "codice_istat": "082024",
+    "comune": "Castellana Sicula",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1373,
+    "popolazione_femminile": 1512,
+    "popolazione_totale": 2885
+  },
+  {
+    "codice_istat": "082025",
+    "comune": "Castronovo di Sicilia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1316,
+    "popolazione_femminile": 1413,
+    "popolazione_totale": 2729
+  },
+  {
+    "codice_istat": "082026",
+    "comune": "Cefalà Diana",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 486,
+    "popolazione_totale": 962
+  },
+  {
+    "codice_istat": "082027",
+    "comune": "Cefalù",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6705,
+    "popolazione_femminile": 7141,
+    "popolazione_totale": 13846
+  },
+  {
+    "codice_istat": "082028",
+    "comune": "Cerda",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2344,
+    "popolazione_femminile": 2427,
+    "popolazione_totale": 4771
+  },
+  {
+    "codice_istat": "082029",
+    "comune": "Chiusa Sclafani",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1130,
+    "popolazione_femminile": 1248,
+    "popolazione_totale": 2378
+  },
+  {
+    "codice_istat": "082030",
+    "comune": "Ciminna",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1595,
+    "popolazione_femminile": 1724,
+    "popolazione_totale": 3319
+  },
+  {
+    "codice_istat": "082031",
+    "comune": "Cinisi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5984,
+    "popolazione_femminile": 6217,
+    "popolazione_totale": 12201
+  },
+  {
+    "codice_istat": "082032",
+    "comune": "Collesano",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1736,
+    "popolazione_femminile": 1873,
+    "popolazione_totale": 3609
+  },
+  {
+    "codice_istat": "082033",
+    "comune": "Contessa Entellina",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 706,
+    "popolazione_femminile": 731,
+    "popolazione_totale": 1437
+  },
+  {
+    "codice_istat": "082034",
+    "comune": "Corleone",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5046,
+    "popolazione_femminile": 5116,
+    "popolazione_totale": 10162
+  },
+  {
+    "codice_istat": "082035",
+    "comune": "Ficarazzi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6310,
+    "popolazione_femminile": 6603,
+    "popolazione_totale": 12913
+  },
+  {
+    "codice_istat": "082036",
+    "comune": "Gangi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2838,
+    "popolazione_femminile": 3080,
+    "popolazione_totale": 5918
+  },
+  {
+    "codice_istat": "082037",
+    "comune": "Geraci Siculo",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 809,
+    "popolazione_totale": 1636
+  },
+  {
+    "codice_istat": "082038",
+    "comune": "Giardinello",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1131,
+    "popolazione_femminile": 1098,
+    "popolazione_totale": 2229
+  },
+  {
+    "codice_istat": "082039",
+    "comune": "Giuliana",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 823,
+    "popolazione_femminile": 803,
+    "popolazione_totale": 1626
+  },
+  {
+    "codice_istat": "082040",
+    "comune": "Godrano",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 493,
+    "popolazione_femminile": 488,
+    "popolazione_totale": 981
+  },
+  {
+    "codice_istat": "082041",
+    "comune": "Gratteri",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 421,
+    "popolazione_femminile": 432,
+    "popolazione_totale": 853
+  },
+  {
+    "codice_istat": "082042",
+    "comune": "Isnello",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 752,
+    "popolazione_femminile": 641,
+    "popolazione_totale": 1393
+  },
+  {
+    "codice_istat": "082043",
+    "comune": "Isola delle Femmine",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3390,
+    "popolazione_femminile": 3573,
+    "popolazione_totale": 6963
+  },
+  {
+    "codice_istat": "082044",
+    "comune": "Lascari",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1870,
+    "popolazione_femminile": 1899,
+    "popolazione_totale": 3769
+  },
+  {
+    "codice_istat": "082045",
+    "comune": "Lercara Friddi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2858,
+    "popolazione_femminile": 3184,
+    "popolazione_totale": 6042
+  },
+  {
+    "codice_istat": "082046",
+    "comune": "Marineo",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2903,
+    "popolazione_femminile": 3041,
+    "popolazione_totale": 5944
+  },
+  {
+    "codice_istat": "082047",
+    "comune": "Mezzojuso",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1226,
+    "popolazione_femminile": 1273,
+    "popolazione_totale": 2499
+  },
+  {
+    "codice_istat": "082048",
+    "comune": "Misilmeri",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 14466,
+    "popolazione_femminile": 14731,
+    "popolazione_totale": 29197
+  },
+  {
+    "codice_istat": "082049",
+    "comune": "Monreale",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 19163,
+    "popolazione_femminile": 19681,
+    "popolazione_totale": 38844
+  },
+  {
+    "codice_istat": "082050",
+    "comune": "Montelepre",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2729,
+    "popolazione_femminile": 2924,
+    "popolazione_totale": 5653
+  },
+  {
+    "codice_istat": "082051",
+    "comune": "Montemaggiore Belsito",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1296,
+    "popolazione_femminile": 1449,
+    "popolazione_totale": 2745
+  },
+  {
+    "codice_istat": "082052",
+    "comune": "Palazzo Adriano",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 837,
+    "popolazione_femminile": 857,
+    "popolazione_totale": 1694
+  },
+  {
+    "codice_istat": "082053",
+    "comune": "Palermo",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 299720,
+    "popolazione_femminile": 326553,
+    "popolazione_totale": 626273,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "082054",
+    "comune": "Partinico",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 15369,
+    "popolazione_femminile": 15560,
+    "popolazione_totale": 30929
+  },
+  {
+    "codice_istat": "082055",
+    "comune": "Petralia Soprana",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1380,
+    "popolazione_femminile": 1427,
+    "popolazione_totale": 2807
+  },
+  {
+    "codice_istat": "082056",
+    "comune": "Petralia Sottana",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1097,
+    "popolazione_femminile": 1252,
+    "popolazione_totale": 2349
+  },
+  {
+    "codice_istat": "082057",
+    "comune": "Piana degli Albanesi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2517,
+    "popolazione_femminile": 2654,
+    "popolazione_totale": 5171
+  },
+  {
+    "codice_istat": "082058",
+    "comune": "Polizzi Generosa",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1337,
+    "popolazione_femminile": 1408,
+    "popolazione_totale": 2745
+  },
+  {
+    "codice_istat": "082059",
+    "comune": "Pollina",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1385,
+    "popolazione_femminile": 1422,
+    "popolazione_totale": 2807
+  },
+  {
+    "codice_istat": "082060",
+    "comune": "Prizzi",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1927,
+    "popolazione_femminile": 2072,
+    "popolazione_totale": 3999
+  },
+  {
+    "codice_istat": "082061",
+    "comune": "Roccamena",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 622,
+    "popolazione_femminile": 661,
+    "popolazione_totale": 1283
+  },
+  {
+    "codice_istat": "082062",
+    "comune": "Roccapalumba",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1039,
+    "popolazione_femminile": 1080,
+    "popolazione_totale": 2119
+  },
+  {
+    "codice_istat": "082063",
+    "comune": "San Cipirello",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2321,
+    "popolazione_femminile": 2466,
+    "popolazione_totale": 4787
+  },
+  {
+    "codice_istat": "082064",
+    "comune": "San Giuseppe Jato",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3838,
+    "popolazione_femminile": 4048,
+    "popolazione_totale": 7886
+  },
+  {
+    "codice_istat": "082065",
+    "comune": "San Mauro Castelverde",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 638,
+    "popolazione_femminile": 641,
+    "popolazione_totale": 1279
+  },
+  {
+    "codice_istat": "082066",
+    "comune": "Santa Cristina Gela",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 518,
+    "popolazione_femminile": 488,
+    "popolazione_totale": 1006
+  },
+  {
+    "codice_istat": "082067",
+    "comune": "Santa Flavia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5399,
+    "popolazione_femminile": 5584,
+    "popolazione_totale": 10983
+  },
+  {
+    "codice_istat": "082068",
+    "comune": "Sciara",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1192,
+    "popolazione_femminile": 1232,
+    "popolazione_totale": 2424
+  },
+  {
+    "codice_istat": "082081",
+    "comune": "Scillato",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 264,
+    "popolazione_femminile": 300,
+    "popolazione_totale": 564
+  },
+  {
+    "codice_istat": "082069",
+    "comune": "Sclafani Bagni",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 174,
+    "popolazione_totale": 344
+  },
+  {
+    "codice_istat": "082070",
+    "comune": "Termini Imerese",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 12018,
+    "popolazione_femminile": 12607,
+    "popolazione_totale": 24625
+  },
+  {
+    "codice_istat": "082071",
+    "comune": "Terrasini",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6490,
+    "popolazione_femminile": 6636,
+    "popolazione_totale": 13126
+  },
+  {
+    "codice_istat": "082072",
+    "comune": "Torretta",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2185,
+    "popolazione_femminile": 2255,
+    "popolazione_totale": 4440
+  },
+  {
+    "codice_istat": "082073",
+    "comune": "Trabia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5483,
+    "popolazione_femminile": 5361,
+    "popolazione_totale": 10844
+  },
+  {
+    "codice_istat": "082074",
+    "comune": "Trappeto",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1538,
+    "popolazione_femminile": 1605,
+    "popolazione_totale": 3143
+  },
+  {
+    "codice_istat": "082075",
+    "comune": "Ustica",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 674,
+    "popolazione_femminile": 649,
+    "popolazione_totale": 1323
+  },
+  {
+    "codice_istat": "082076",
+    "comune": "Valledolmo",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1460,
+    "popolazione_femminile": 1591,
+    "popolazione_totale": 3051
+  },
+  {
+    "codice_istat": "082077",
+    "comune": "Ventimiglia di Sicilia",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 830,
+    "popolazione_femminile": 878,
+    "popolazione_totale": 1708
+  },
+  {
+    "codice_istat": "082078",
+    "comune": "Vicari",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1128,
+    "popolazione_femminile": 1219,
+    "popolazione_totale": 2347
+  },
+  {
+    "codice_istat": "082079",
+    "comune": "Villabate",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 9457,
+    "popolazione_femminile": 9923,
+    "popolazione_totale": 19380
+  },
+  {
+    "codice_istat": "082080",
+    "comune": "Villafrati",
+    "provincia": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1490,
+    "popolazione_femminile": 1574,
+    "popolazione_totale": 3064
+  }
+]

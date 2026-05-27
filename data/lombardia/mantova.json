@@ -1,0 +1,643 @@
+[
+  {
+    "codice_istat": "020001",
+    "comune": "Acquanegra sul Chiese",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1363,
+    "popolazione_femminile": 1359,
+    "popolazione_totale": 2722
+  },
+  {
+    "codice_istat": "020002",
+    "comune": "Asola",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4863,
+    "popolazione_femminile": 5007,
+    "popolazione_totale": 9870
+  },
+  {
+    "codice_istat": "020003",
+    "comune": "Bagnolo San Vito",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2929,
+    "popolazione_femminile": 2926,
+    "popolazione_totale": 5855
+  },
+  {
+    "codice_istat": "020072",
+    "comune": "Borgo Mantovano",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2651,
+    "popolazione_femminile": 2728,
+    "popolazione_totale": 5379
+  },
+  {
+    "codice_istat": "020071",
+    "comune": "Borgo Virgilio",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7473,
+    "popolazione_femminile": 7579,
+    "popolazione_totale": 15052
+  },
+  {
+    "codice_istat": "020073",
+    "comune": "Borgocarbonara",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 941,
+    "popolazione_femminile": 931,
+    "popolazione_totale": 1872
+  },
+  {
+    "codice_istat": "020007",
+    "comune": "Bozzolo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2043,
+    "popolazione_femminile": 2038,
+    "popolazione_totale": 4081
+  },
+  {
+    "codice_istat": "020008",
+    "comune": "Canneto sull'Oglio",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2273,
+    "popolazione_femminile": 2172,
+    "popolazione_totale": 4445
+  },
+  {
+    "codice_istat": "020010",
+    "comune": "Casalmoro",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1128,
+    "popolazione_femminile": 1088,
+    "popolazione_totale": 2216
+  },
+  {
+    "codice_istat": "020011",
+    "comune": "Casaloldo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1312,
+    "popolazione_femminile": 1312,
+    "popolazione_totale": 2624
+  },
+  {
+    "codice_istat": "020012",
+    "comune": "Casalromano",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 759,
+    "popolazione_femminile": 739,
+    "popolazione_totale": 1498
+  },
+  {
+    "codice_istat": "020014",
+    "comune": "Castel d'Ario",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2318,
+    "popolazione_femminile": 2345,
+    "popolazione_totale": 4663
+  },
+  {
+    "codice_istat": "020015",
+    "comune": "Castel Goffredo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6432,
+    "popolazione_femminile": 6300,
+    "popolazione_totale": 12732
+  },
+  {
+    "codice_istat": "020013",
+    "comune": "Castelbelforte",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1719,
+    "popolazione_femminile": 1662,
+    "popolazione_totale": 3381
+  },
+  {
+    "codice_istat": "020016",
+    "comune": "Castellucchio",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2600,
+    "popolazione_femminile": 2561,
+    "popolazione_totale": 5161
+  },
+  {
+    "codice_istat": "020017",
+    "comune": "Castiglione delle Stiviere",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 11968,
+    "popolazione_femminile": 11982,
+    "popolazione_totale": 23950
+  },
+  {
+    "codice_istat": "020018",
+    "comune": "Cavriana",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1806,
+    "popolazione_femminile": 1848,
+    "popolazione_totale": 3654
+  },
+  {
+    "codice_istat": "020019",
+    "comune": "Ceresara",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1259,
+    "popolazione_femminile": 1206,
+    "popolazione_totale": 2465
+  },
+  {
+    "codice_istat": "020020",
+    "comune": "Commessaggio",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1022
+  },
+  {
+    "codice_istat": "020021",
+    "comune": "Curtatone",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7203,
+    "popolazione_femminile": 7488,
+    "popolazione_totale": 14691
+  },
+  {
+    "codice_istat": "020022",
+    "comune": "Dosolo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1566,
+    "popolazione_femminile": 1589,
+    "popolazione_totale": 3155
+  },
+  {
+    "codice_istat": "020024",
+    "comune": "Gazoldo degli Ippoliti",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1560,
+    "popolazione_femminile": 1486,
+    "popolazione_totale": 3046
+  },
+  {
+    "codice_istat": "020025",
+    "comune": "Gazzuolo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1016,
+    "popolazione_femminile": 1019,
+    "popolazione_totale": 2035
+  },
+  {
+    "codice_istat": "020026",
+    "comune": "Goito",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5101,
+    "popolazione_femminile": 5034,
+    "popolazione_totale": 10135
+  },
+  {
+    "codice_istat": "020027",
+    "comune": "Gonzaga",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4386,
+    "popolazione_femminile": 4188,
+    "popolazione_totale": 8574
+  },
+  {
+    "codice_istat": "020028",
+    "comune": "Guidizzolo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3042,
+    "popolazione_femminile": 3003,
+    "popolazione_totale": 6045
+  },
+  {
+    "codice_istat": "020029",
+    "comune": "Magnacavallo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 684,
+    "popolazione_totale": 1399
+  },
+  {
+    "codice_istat": "020030",
+    "comune": "Mantova",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 24151,
+    "popolazione_femminile": 26064,
+    "popolazione_totale": 50215,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "020031",
+    "comune": "Marcaria",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3150,
+    "popolazione_femminile": 3188,
+    "popolazione_totale": 6338
+  },
+  {
+    "codice_istat": "020032",
+    "comune": "Mariana Mantovana",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 385,
+    "popolazione_femminile": 409,
+    "popolazione_totale": 794
+  },
+  {
+    "codice_istat": "020033",
+    "comune": "Marmirolo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3790,
+    "popolazione_femminile": 3863,
+    "popolazione_totale": 7653
+  },
+  {
+    "codice_istat": "020034",
+    "comune": "Medole",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2159,
+    "popolazione_femminile": 2084,
+    "popolazione_totale": 4243
+  },
+  {
+    "codice_istat": "020035",
+    "comune": "Moglia",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2709,
+    "popolazione_femminile": 2685,
+    "popolazione_totale": 5394
+  },
+  {
+    "codice_istat": "020036",
+    "comune": "Monzambano",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2380,
+    "popolazione_femminile": 2425,
+    "popolazione_totale": 4805
+  },
+  {
+    "codice_istat": "020037",
+    "comune": "Motteggiana",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1263,
+    "popolazione_femminile": 1145,
+    "popolazione_totale": 2408
+  },
+  {
+    "codice_istat": "020038",
+    "comune": "Ostiglia",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3474,
+    "popolazione_femminile": 3375,
+    "popolazione_totale": 6849
+  },
+  {
+    "codice_istat": "020039",
+    "comune": "Pegognaga",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3466,
+    "popolazione_femminile": 3506,
+    "popolazione_totale": 6972
+  },
+  {
+    "codice_istat": "020041",
+    "comune": "Piubega",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 891,
+    "popolazione_femminile": 856,
+    "popolazione_totale": 1747
+  },
+  {
+    "codice_istat": "020042",
+    "comune": "Poggio Rusco",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3166,
+    "popolazione_femminile": 3089,
+    "popolazione_totale": 6255
+  },
+  {
+    "codice_istat": "020043",
+    "comune": "Pomponesco",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 847,
+    "popolazione_femminile": 910,
+    "popolazione_totale": 1757
+  },
+  {
+    "codice_istat": "020044",
+    "comune": "Ponti sul Mincio",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1112,
+    "popolazione_femminile": 1165,
+    "popolazione_totale": 2277
+  },
+  {
+    "codice_istat": "020045",
+    "comune": "Porto Mantovano",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8264,
+    "popolazione_femminile": 8451,
+    "popolazione_totale": 16715
+  },
+  {
+    "codice_istat": "020046",
+    "comune": "Quingentole",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 515,
+    "popolazione_totale": 1016
+  },
+  {
+    "codice_istat": "020047",
+    "comune": "Quistello",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2629,
+    "popolazione_femminile": 2652,
+    "popolazione_totale": 5281
+  },
+  {
+    "codice_istat": "020048",
+    "comune": "Redondesco",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 589,
+    "popolazione_femminile": 599,
+    "popolazione_totale": 1188
+  },
+  {
+    "codice_istat": "020050",
+    "comune": "Rivarolo Mantovano",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1142,
+    "popolazione_femminile": 1160,
+    "popolazione_totale": 2302
+  },
+  {
+    "codice_istat": "020051",
+    "comune": "Rodigo",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2562,
+    "popolazione_femminile": 2612,
+    "popolazione_totale": 5174
+  },
+  {
+    "codice_istat": "020052",
+    "comune": "Roncoferraro",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3422,
+    "popolazione_femminile": 3513,
+    "popolazione_totale": 6935
+  },
+  {
+    "codice_istat": "020053",
+    "comune": "Roverbella",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4331,
+    "popolazione_femminile": 4383,
+    "popolazione_totale": 8714
+  },
+  {
+    "codice_istat": "020054",
+    "comune": "Sabbioneta",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2033,
+    "popolazione_femminile": 2043,
+    "popolazione_totale": 4076
+  },
+  {
+    "codice_istat": "020055",
+    "comune": "San Benedetto Po",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3416,
+    "popolazione_femminile": 3376,
+    "popolazione_totale": 6792
+  },
+  {
+    "codice_istat": "020056",
+    "comune": "San Giacomo delle Segnate",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 760,
+    "popolazione_femminile": 748,
+    "popolazione_totale": 1508
+  },
+  {
+    "codice_istat": "020057",
+    "comune": "San Giorgio Bigarello",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5937,
+    "popolazione_femminile": 6021,
+    "popolazione_totale": 11958
+  },
+  {
+    "codice_istat": "020058",
+    "comune": "San Giovanni del Dosso",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 632,
+    "popolazione_femminile": 612,
+    "popolazione_totale": 1244
+  },
+  {
+    "codice_istat": "020059",
+    "comune": "San Martino dall'Argine",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 807,
+    "popolazione_femminile": 797,
+    "popolazione_totale": 1604
+  },
+  {
+    "codice_istat": "020060",
+    "comune": "Schivenoglia",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 601,
+    "popolazione_femminile": 534,
+    "popolazione_totale": 1135
+  },
+  {
+    "codice_istat": "020061",
+    "comune": "Sermide e Felonica",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3578,
+    "popolazione_femminile": 3462,
+    "popolazione_totale": 7040
+  },
+  {
+    "codice_istat": "020062",
+    "comune": "Serravalle a Po",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 745,
+    "popolazione_femminile": 729,
+    "popolazione_totale": 1474
+  },
+  {
+    "codice_istat": "020063",
+    "comune": "Solferino",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1307,
+    "popolazione_femminile": 1332,
+    "popolazione_totale": 2639
+  },
+  {
+    "codice_istat": "020064",
+    "comune": "Sustinente",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 996,
+    "popolazione_femminile": 990,
+    "popolazione_totale": 1986
+  },
+  {
+    "codice_istat": "020065",
+    "comune": "Suzzara",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10730,
+    "popolazione_femminile": 10588,
+    "popolazione_totale": 21318
+  },
+  {
+    "codice_istat": "020066",
+    "comune": "Viadana",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10000,
+    "popolazione_femminile": 9787,
+    "popolazione_totale": 19787
+  },
+  {
+    "codice_istat": "020068",
+    "comune": "Villimpenta",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1090,
+    "popolazione_femminile": 1062,
+    "popolazione_totale": 2152
+  },
+  {
+    "codice_istat": "020070",
+    "comune": "Volta Mantovana",
+    "provincia": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3557,
+    "popolazione_femminile": 3691,
+    "popolazione_totale": 7248
+  }
+]

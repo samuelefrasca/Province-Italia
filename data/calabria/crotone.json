@@ -1,0 +1,273 @@
+[
+  {
+    "codice_istat": "101001",
+    "comune": "Belvedere di Spinello",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 920,
+    "popolazione_femminile": 958,
+    "popolazione_totale": 1878
+  },
+  {
+    "codice_istat": "101002",
+    "comune": "Caccuri",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 751,
+    "popolazione_femminile": 746,
+    "popolazione_totale": 1497
+  },
+  {
+    "codice_istat": "101003",
+    "comune": "Carfizzi",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 277,
+    "popolazione_femminile": 257,
+    "popolazione_totale": 534
+  },
+  {
+    "codice_istat": "101004",
+    "comune": "Casabona",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 1033,
+    "popolazione_femminile": 1130,
+    "popolazione_totale": 2163
+  },
+  {
+    "codice_istat": "101005",
+    "comune": "Castelsilano",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 450,
+    "popolazione_femminile": 452,
+    "popolazione_totale": 902
+  },
+  {
+    "codice_istat": "101006",
+    "comune": "Cerenzia",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 484,
+    "popolazione_femminile": 499,
+    "popolazione_totale": 983
+  },
+  {
+    "codice_istat": "101007",
+    "comune": "Cirò",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 1096,
+    "popolazione_femminile": 1225,
+    "popolazione_totale": 2321
+  },
+  {
+    "codice_istat": "101008",
+    "comune": "Cirò Marina",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 6943,
+    "popolazione_femminile": 7290,
+    "popolazione_totale": 14233
+  },
+  {
+    "codice_istat": "101009",
+    "comune": "Cotronei",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 2501,
+    "popolazione_femminile": 2567,
+    "popolazione_totale": 5068
+  },
+  {
+    "codice_istat": "101010",
+    "comune": "Crotone",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 28661,
+    "popolazione_femminile": 29475,
+    "popolazione_totale": 58136,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "101011",
+    "comune": "Crucoli",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 1311,
+    "popolazione_femminile": 1441,
+    "popolazione_totale": 2752
+  },
+  {
+    "codice_istat": "101012",
+    "comune": "Cutro",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 4548,
+    "popolazione_femminile": 4617,
+    "popolazione_totale": 9165
+  },
+  {
+    "codice_istat": "101013",
+    "comune": "Isola di Capo Rizzuto",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 10255,
+    "popolazione_femminile": 8730,
+    "popolazione_totale": 18985
+  },
+  {
+    "codice_istat": "101014",
+    "comune": "Melissa",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 1626,
+    "popolazione_femminile": 1671,
+    "popolazione_totale": 3297
+  },
+  {
+    "codice_istat": "101015",
+    "comune": "Mesoraca",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 2793,
+    "popolazione_femminile": 2908,
+    "popolazione_totale": 5701
+  },
+  {
+    "codice_istat": "101016",
+    "comune": "Pallagorio",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 434,
+    "popolazione_femminile": 448,
+    "popolazione_totale": 882
+  },
+  {
+    "codice_istat": "101017",
+    "comune": "Petilia Policastro",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 4223,
+    "popolazione_femminile": 4207,
+    "popolazione_totale": 8430
+  },
+  {
+    "codice_istat": "101019",
+    "comune": "Rocca di Neto",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 2623,
+    "popolazione_femminile": 2663,
+    "popolazione_totale": 5286
+  },
+  {
+    "codice_istat": "101018",
+    "comune": "Roccabernarda",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 1500,
+    "popolazione_femminile": 1545,
+    "popolazione_totale": 3045
+  },
+  {
+    "codice_istat": "101020",
+    "comune": "San Mauro Marchesato",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 906,
+    "popolazione_femminile": 962,
+    "popolazione_totale": 1868
+  },
+  {
+    "codice_istat": "101021",
+    "comune": "San Nicola dell'Alto",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 330,
+    "popolazione_femminile": 315,
+    "popolazione_totale": 645
+  },
+  {
+    "codice_istat": "101022",
+    "comune": "Santa Severina",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 907,
+    "popolazione_femminile": 922,
+    "popolazione_totale": 1829
+  },
+  {
+    "codice_istat": "101023",
+    "comune": "Savelli",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 519,
+    "popolazione_femminile": 486,
+    "popolazione_totale": 1005
+  },
+  {
+    "codice_istat": "101024",
+    "comune": "Scandale",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 1404,
+    "popolazione_femminile": 1452,
+    "popolazione_totale": 2856
+  },
+  {
+    "codice_istat": "101025",
+    "comune": "Strongoli",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 2990,
+    "popolazione_femminile": 3123,
+    "popolazione_totale": 6113
+  },
+  {
+    "codice_istat": "101026",
+    "comune": "Umbriatico",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 345,
+    "popolazione_totale": 685
+  },
+  {
+    "codice_istat": "101027",
+    "comune": "Verzino",
+    "provincia": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "popolazione_maschile": 725,
+    "popolazione_femminile": 781,
+    "popolazione_totale": 1506
+  }
+]

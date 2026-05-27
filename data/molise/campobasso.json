@@ -1,0 +1,843 @@
+[
+  {
+    "codice_istat": "070001",
+    "comune": "Acquaviva Collecroce",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 265,
+    "popolazione_totale": 536
+  },
+  {
+    "codice_istat": "070002",
+    "comune": "Baranello",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1217,
+    "popolazione_femminile": 1207,
+    "popolazione_totale": 2424
+  },
+  {
+    "codice_istat": "070003",
+    "comune": "Bojano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 3705,
+    "popolazione_femminile": 3791,
+    "popolazione_totale": 7496
+  },
+  {
+    "codice_istat": "070004",
+    "comune": "Bonefro",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 561,
+    "popolazione_femminile": 567,
+    "popolazione_totale": 1128
+  },
+  {
+    "codice_istat": "070005",
+    "comune": "Busso",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 568,
+    "popolazione_femminile": 574,
+    "popolazione_totale": 1142
+  },
+  {
+    "codice_istat": "070006",
+    "comune": "Campobasso",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 23098,
+    "popolazione_femminile": 24301,
+    "popolazione_totale": 47399,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "070007",
+    "comune": "Campochiaro",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 272,
+    "popolazione_femminile": 284,
+    "popolazione_totale": 556
+  },
+  {
+    "codice_istat": "070008",
+    "comune": "Campodipietra",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1182,
+    "popolazione_femminile": 1221,
+    "popolazione_totale": 2403
+  },
+  {
+    "codice_istat": "070009",
+    "comune": "Campolieto",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 400,
+    "popolazione_totale": 793
+  },
+  {
+    "codice_istat": "070010",
+    "comune": "Campomarino",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 4101,
+    "popolazione_femminile": 3873,
+    "popolazione_totale": 7974
+  },
+  {
+    "codice_istat": "070011",
+    "comune": "Casacalenda",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 952,
+    "popolazione_femminile": 872,
+    "popolazione_totale": 1824
+  },
+  {
+    "codice_istat": "070012",
+    "comune": "Casalciprano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 210,
+    "popolazione_femminile": 214,
+    "popolazione_totale": 424
+  },
+  {
+    "codice_istat": "070013",
+    "comune": "Castelbottaccio",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 106,
+    "popolazione_femminile": 117,
+    "popolazione_totale": 223
+  },
+  {
+    "codice_istat": "070014",
+    "comune": "Castellino del Biferno",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 213,
+    "popolazione_femminile": 204,
+    "popolazione_totale": 417
+  },
+  {
+    "codice_istat": "070015",
+    "comune": "Castelmauro",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 524,
+    "popolazione_femminile": 551,
+    "popolazione_totale": 1075
+  },
+  {
+    "codice_istat": "070016",
+    "comune": "Castropignano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 408,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 839
+  },
+  {
+    "codice_istat": "070017",
+    "comune": "Cercemaggiore",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1792,
+    "popolazione_femminile": 1737,
+    "popolazione_totale": 3529
+  },
+  {
+    "codice_istat": "070018",
+    "comune": "Cercepiccola",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 342,
+    "popolazione_totale": 660
+  },
+  {
+    "codice_istat": "070019",
+    "comune": "Civitacampomarano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 129,
+    "popolazione_femminile": 148,
+    "popolazione_totale": 277
+  },
+  {
+    "codice_istat": "070020",
+    "comune": "Colle d'Anchise",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 352,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 709
+  },
+  {
+    "codice_istat": "070021",
+    "comune": "Colletorto",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 806,
+    "popolazione_femminile": 812,
+    "popolazione_totale": 1618
+  },
+  {
+    "codice_istat": "070022",
+    "comune": "Duronia",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 378
+  },
+  {
+    "codice_istat": "070023",
+    "comune": "Ferrazzano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1680,
+    "popolazione_femminile": 1710,
+    "popolazione_totale": 3390
+  },
+  {
+    "codice_istat": "070024",
+    "comune": "Fossalto",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 542,
+    "popolazione_femminile": 557,
+    "popolazione_totale": 1099
+  },
+  {
+    "codice_istat": "070025",
+    "comune": "Gambatesa",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 608,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1233
+  },
+  {
+    "codice_istat": "070026",
+    "comune": "Gildone",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 350,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 707
+  },
+  {
+    "codice_istat": "070027",
+    "comune": "Guardialfiera",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 475,
+    "popolazione_femminile": 467,
+    "popolazione_totale": 942
+  },
+  {
+    "codice_istat": "070028",
+    "comune": "Guardiaregia",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 348,
+    "popolazione_femminile": 311,
+    "popolazione_totale": 659
+  },
+  {
+    "codice_istat": "070029",
+    "comune": "Guglionesi",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 2491,
+    "popolazione_femminile": 2383,
+    "popolazione_totale": 4874
+  },
+  {
+    "codice_istat": "070030",
+    "comune": "Jelsi",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 779,
+    "popolazione_femminile": 751,
+    "popolazione_totale": 1530
+  },
+  {
+    "codice_istat": "070031",
+    "comune": "Larino",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 3148,
+    "popolazione_femminile": 3109,
+    "popolazione_totale": 6257
+  },
+  {
+    "codice_istat": "070032",
+    "comune": "Limosano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 359,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 661
+  },
+  {
+    "codice_istat": "070033",
+    "comune": "Lucito",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 310,
+    "popolazione_femminile": 306,
+    "popolazione_totale": 616
+  },
+  {
+    "codice_istat": "070034",
+    "comune": "Lupara",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 391
+  },
+  {
+    "codice_istat": "070035",
+    "comune": "Macchia Valfortore",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 222,
+    "popolazione_femminile": 217,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "070036",
+    "comune": "Mafalda",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 539,
+    "popolazione_femminile": 535,
+    "popolazione_totale": 1074
+  },
+  {
+    "codice_istat": "070037",
+    "comune": "Matrice",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 509,
+    "popolazione_femminile": 510,
+    "popolazione_totale": 1019
+  },
+  {
+    "codice_istat": "070038",
+    "comune": "Mirabello Sannitico",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1015,
+    "popolazione_femminile": 1019,
+    "popolazione_totale": 2034
+  },
+  {
+    "codice_istat": "070039",
+    "comune": "Molise",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 81,
+    "popolazione_femminile": 63,
+    "popolazione_totale": 144
+  },
+  {
+    "codice_istat": "070040",
+    "comune": "Monacilioni",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 207,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "070041",
+    "comune": "Montagano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 476,
+    "popolazione_femminile": 475,
+    "popolazione_totale": 951
+  },
+  {
+    "codice_istat": "070042",
+    "comune": "Montecilfone",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 619,
+    "popolazione_femminile": 601,
+    "popolazione_totale": 1220
+  },
+  {
+    "codice_istat": "070043",
+    "comune": "Montefalcone nel Sannio",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 670,
+    "popolazione_femminile": 643,
+    "popolazione_totale": 1313
+  },
+  {
+    "codice_istat": "070044",
+    "comune": "Montelongo",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 146,
+    "popolazione_femminile": 130,
+    "popolazione_totale": 276
+  },
+  {
+    "codice_istat": "070045",
+    "comune": "Montemitro",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 136,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 282
+  },
+  {
+    "codice_istat": "070046",
+    "comune": "Montenero di Bisaccia",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 3093,
+    "popolazione_femminile": 3093,
+    "popolazione_totale": 6186
+  },
+  {
+    "codice_istat": "070047",
+    "comune": "Montorio nei Frentani",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 174,
+    "popolazione_totale": 342
+  },
+  {
+    "codice_istat": "070048",
+    "comune": "Morrone del Sannio",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 255,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 505
+  },
+  {
+    "codice_istat": "070049",
+    "comune": "Oratino",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 871,
+    "popolazione_femminile": 807,
+    "popolazione_totale": 1678
+  },
+  {
+    "codice_istat": "070050",
+    "comune": "Palata",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 717,
+    "popolazione_femminile": 738,
+    "popolazione_totale": 1455
+  },
+  {
+    "codice_istat": "070051",
+    "comune": "Petacciato",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1793,
+    "popolazione_femminile": 1760,
+    "popolazione_totale": 3553
+  },
+  {
+    "codice_istat": "070052",
+    "comune": "Petrella Tifernina",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 480,
+    "popolazione_femminile": 510,
+    "popolazione_totale": 990
+  },
+  {
+    "codice_istat": "070053",
+    "comune": "Pietracatella",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 603,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1192
+  },
+  {
+    "codice_istat": "070054",
+    "comune": "Pietracupa",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 94,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 181
+  },
+  {
+    "codice_istat": "070055",
+    "comune": "Portocannone",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1178,
+    "popolazione_femminile": 1145,
+    "popolazione_totale": 2323
+  },
+  {
+    "codice_istat": "070056",
+    "comune": "Provvidenti",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 48,
+    "popolazione_femminile": 49,
+    "popolazione_totale": 97
+  },
+  {
+    "codice_istat": "070057",
+    "comune": "Riccia",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 2301,
+    "popolazione_femminile": 2345,
+    "popolazione_totale": 4646
+  },
+  {
+    "codice_istat": "070058",
+    "comune": "Ripabottoni",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 214,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 410
+  },
+  {
+    "codice_istat": "070059",
+    "comune": "Ripalimosani",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1554,
+    "popolazione_femminile": 1416,
+    "popolazione_totale": 2970
+  },
+  {
+    "codice_istat": "070060",
+    "comune": "Roccavivara",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 272,
+    "popolazione_femminile": 295,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "070061",
+    "comune": "Rotello",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 527,
+    "popolazione_totale": 1123
+  },
+  {
+    "codice_istat": "070062",
+    "comune": "Salcito",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 639
+  },
+  {
+    "codice_istat": "070063",
+    "comune": "San Biase",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 60,
+    "popolazione_femminile": 57,
+    "popolazione_totale": 117
+  },
+  {
+    "codice_istat": "070064",
+    "comune": "San Felice del Molise",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 265,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 525
+  },
+  {
+    "codice_istat": "070065",
+    "comune": "San Giacomo degli Schiavoni",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 681,
+    "popolazione_femminile": 694,
+    "popolazione_totale": 1375
+  },
+  {
+    "codice_istat": "070066",
+    "comune": "San Giovanni in Galdo",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 248,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 495
+  },
+  {
+    "codice_istat": "070067",
+    "comune": "San Giuliano del Sannio",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 455,
+    "popolazione_totale": 956
+  },
+  {
+    "codice_istat": "070068",
+    "comune": "San Giuliano di Puglia",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 459,
+    "popolazione_femminile": 498,
+    "popolazione_totale": 957
+  },
+  {
+    "codice_istat": "070069",
+    "comune": "San Martino in Pensilis",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 2144,
+    "popolazione_femminile": 2221,
+    "popolazione_totale": 4365
+  },
+  {
+    "codice_istat": "070070",
+    "comune": "San Massimo",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 457,
+    "popolazione_femminile": 368,
+    "popolazione_totale": 825
+  },
+  {
+    "codice_istat": "070071",
+    "comune": "San Polo Matese",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 227,
+    "popolazione_totale": 487
+  },
+  {
+    "codice_istat": "070073",
+    "comune": "Sant'Angelo Limosano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 149,
+    "popolazione_totale": 298
+  },
+  {
+    "codice_istat": "070074",
+    "comune": "Sant'Elia a Pianisi",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 717,
+    "popolazione_femminile": 763,
+    "popolazione_totale": 1480
+  },
+  {
+    "codice_istat": "070072",
+    "comune": "Santa Croce di Magliano",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1846,
+    "popolazione_femminile": 1974,
+    "popolazione_totale": 3820
+  },
+  {
+    "codice_istat": "070075",
+    "comune": "Sepino",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 956,
+    "popolazione_femminile": 859,
+    "popolazione_totale": 1815
+  },
+  {
+    "codice_istat": "070076",
+    "comune": "Spinete",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 571,
+    "popolazione_femminile": 557,
+    "popolazione_totale": 1128
+  },
+  {
+    "codice_istat": "070077",
+    "comune": "Tavenna",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 254,
+    "popolazione_femminile": 291,
+    "popolazione_totale": 545
+  },
+  {
+    "codice_istat": "070078",
+    "comune": "Termoli",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 15342,
+    "popolazione_femminile": 16412,
+    "popolazione_totale": 31754
+  },
+  {
+    "codice_istat": "070079",
+    "comune": "Torella del Sannio",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 343,
+    "popolazione_femminile": 333,
+    "popolazione_totale": 676
+  },
+  {
+    "codice_istat": "070080",
+    "comune": "Toro",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 604,
+    "popolazione_femminile": 605,
+    "popolazione_totale": 1209
+  },
+  {
+    "codice_istat": "070081",
+    "comune": "Trivento",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 2143,
+    "popolazione_femminile": 2155,
+    "popolazione_totale": 4298
+  },
+  {
+    "codice_istat": "070082",
+    "comune": "Tufara",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 376,
+    "popolazione_femminile": 372,
+    "popolazione_totale": 748
+  },
+  {
+    "codice_istat": "070083",
+    "comune": "Ururi",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1125,
+    "popolazione_femminile": 1196,
+    "popolazione_totale": 2321
+  },
+  {
+    "codice_istat": "070084",
+    "comune": "Vinchiaturo",
+    "provincia": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "popolazione_maschile": 1652,
+    "popolazione_femminile": 1646,
+    "popolazione_totale": 3298
+  }
+]

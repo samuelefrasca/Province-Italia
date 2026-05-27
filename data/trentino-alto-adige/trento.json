@@ -1,0 +1,1663 @@
+[
+  {
+    "codice_istat": "022001",
+    "comune": "Ala",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 4496,
+    "popolazione_femminile": 4402,
+    "popolazione_totale": 8898
+  },
+  {
+    "codice_istat": "022002",
+    "comune": "Albiano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 788,
+    "popolazione_femminile": 761,
+    "popolazione_totale": 1549
+  },
+  {
+    "codice_istat": "022003",
+    "comune": "Aldeno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1665,
+    "popolazione_femminile": 1695,
+    "popolazione_totale": 3360
+  },
+  {
+    "codice_istat": "022235",
+    "comune": "Altavalle",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 837,
+    "popolazione_femminile": 808,
+    "popolazione_totale": 1645
+  },
+  {
+    "codice_istat": "022236",
+    "comune": "Altopiano della Vigolana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2600,
+    "popolazione_femminile": 2601,
+    "popolazione_totale": 5201
+  },
+  {
+    "codice_istat": "022237",
+    "comune": "Amblar-Don",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 281,
+    "popolazione_femminile": 273,
+    "popolazione_totale": 554
+  },
+  {
+    "codice_istat": "022005",
+    "comune": "Andalo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 644,
+    "popolazione_totale": 1237
+  },
+  {
+    "codice_istat": "022006",
+    "comune": "Arco",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 8676,
+    "popolazione_femminile": 9071,
+    "popolazione_totale": 17747
+  },
+  {
+    "codice_istat": "022007",
+    "comune": "Avio",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2052,
+    "popolazione_femminile": 2066,
+    "popolazione_totale": 4118
+  },
+  {
+    "codice_istat": "022009",
+    "comune": "Baselga di Pinè",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2673,
+    "popolazione_femminile": 2653,
+    "popolazione_totale": 5326
+  },
+  {
+    "codice_istat": "022011",
+    "comune": "Bedollo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 756,
+    "popolazione_femminile": 744,
+    "popolazione_totale": 1500
+  },
+  {
+    "codice_istat": "022013",
+    "comune": "Besenello",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1428,
+    "popolazione_femminile": 1406,
+    "popolazione_totale": 2834
+  },
+  {
+    "codice_istat": "022015",
+    "comune": "Bieno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 246,
+    "popolazione_totale": 481
+  },
+  {
+    "codice_istat": "022017",
+    "comune": "Bleggio Superiore",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 788,
+    "popolazione_femminile": 757,
+    "popolazione_totale": 1545
+  },
+  {
+    "codice_istat": "022018",
+    "comune": "Bocenago",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 211,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 410
+  },
+  {
+    "codice_istat": "022021",
+    "comune": "Bondone",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 316,
+    "popolazione_femminile": 311,
+    "popolazione_totale": 627
+  },
+  {
+    "codice_istat": "022238",
+    "comune": "Borgo Chiese",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 971,
+    "popolazione_femminile": 955,
+    "popolazione_totale": 1926
+  },
+  {
+    "codice_istat": "022252",
+    "comune": "Borgo d'Anaunia",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1333,
+    "popolazione_femminile": 1268,
+    "popolazione_totale": 2601
+  },
+  {
+    "codice_istat": "022239",
+    "comune": "Borgo Lares",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 378,
+    "popolazione_femminile": 356,
+    "popolazione_totale": 734
+  },
+  {
+    "codice_istat": "022022",
+    "comune": "Borgo Valsugana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3628,
+    "popolazione_femminile": 3624,
+    "popolazione_totale": 7252
+  },
+  {
+    "codice_istat": "022025",
+    "comune": "Brentonico",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2102,
+    "popolazione_femminile": 2082,
+    "popolazione_totale": 4184
+  },
+  {
+    "codice_istat": "022026",
+    "comune": "Bresimo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 120,
+    "popolazione_femminile": 120,
+    "popolazione_totale": 240
+  },
+  {
+    "codice_istat": "022029",
+    "comune": "Caderzone Terme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 357,
+    "popolazione_femminile": 335,
+    "popolazione_totale": 692
+  },
+  {
+    "codice_istat": "022032",
+    "comune": "Calceranica al Lago",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 696,
+    "popolazione_femminile": 701,
+    "popolazione_totale": 1397
+  },
+  {
+    "codice_istat": "022033",
+    "comune": "Caldes",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 558,
+    "popolazione_femminile": 564,
+    "popolazione_totale": 1122
+  },
+  {
+    "codice_istat": "022034",
+    "comune": "Caldonazzo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1946,
+    "popolazione_femminile": 2064,
+    "popolazione_totale": 4010
+  },
+  {
+    "codice_istat": "022035",
+    "comune": "Calliano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1048,
+    "popolazione_femminile": 1009,
+    "popolazione_totale": 2057
+  },
+  {
+    "codice_istat": "022036",
+    "comune": "Campitello di Fassa",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 324,
+    "popolazione_femminile": 337,
+    "popolazione_totale": 661
+  },
+  {
+    "codice_istat": "022037",
+    "comune": "Campodenno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 804,
+    "popolazione_femminile": 728,
+    "popolazione_totale": 1532
+  },
+  {
+    "codice_istat": "022038",
+    "comune": "Canal San Bovo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 766,
+    "popolazione_totale": 1484
+  },
+  {
+    "codice_istat": "022039",
+    "comune": "Canazei",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 904,
+    "popolazione_femminile": 999,
+    "popolazione_totale": 1903
+  },
+  {
+    "codice_istat": "022040",
+    "comune": "Capriana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 308,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 598
+  },
+  {
+    "codice_istat": "022042",
+    "comune": "Carisolo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 439,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 895
+  },
+  {
+    "codice_istat": "022043",
+    "comune": "Carzano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 259,
+    "popolazione_femminile": 259,
+    "popolazione_totale": 518
+  },
+  {
+    "codice_istat": "022045",
+    "comune": "Castel Condino",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 107,
+    "popolazione_femminile": 104,
+    "popolazione_totale": 211
+  },
+  {
+    "codice_istat": "022240",
+    "comune": "Castel Ivano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1652,
+    "popolazione_femminile": 1657,
+    "popolazione_totale": 3309
+  },
+  {
+    "codice_istat": "022048",
+    "comune": "Castello Tesino",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 561,
+    "popolazione_totale": 1157
+  },
+  {
+    "codice_istat": "022047",
+    "comune": "Castello-Molina di Fiemme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1165,
+    "popolazione_femminile": 1162,
+    "popolazione_totale": 2327
+  },
+  {
+    "codice_istat": "022049",
+    "comune": "Castelnuovo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 546,
+    "popolazione_femminile": 542,
+    "popolazione_totale": 1088
+  },
+  {
+    "codice_istat": "022050",
+    "comune": "Cavalese",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1957,
+    "popolazione_femminile": 2069,
+    "popolazione_totale": 4026
+  },
+  {
+    "codice_istat": "022051",
+    "comune": "Cavareno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 592,
+    "popolazione_femminile": 563,
+    "popolazione_totale": 1155
+  },
+  {
+    "codice_istat": "022052",
+    "comune": "Cavedago",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 292,
+    "popolazione_totale": 609
+  },
+  {
+    "codice_istat": "022053",
+    "comune": "Cavedine",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1563,
+    "popolazione_femminile": 1540,
+    "popolazione_totale": 3103
+  },
+  {
+    "codice_istat": "022054",
+    "comune": "Cavizzana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 111,
+    "popolazione_femminile": 120,
+    "popolazione_totale": 231
+  },
+  {
+    "codice_istat": "022241",
+    "comune": "Cembra Lisignago",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1216,
+    "popolazione_femminile": 1158,
+    "popolazione_totale": 2374
+  },
+  {
+    "codice_istat": "022058",
+    "comune": "Cimone",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 743
+  },
+  {
+    "codice_istat": "022059",
+    "comune": "Cinte Tesino",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 174,
+    "popolazione_totale": 352
+  },
+  {
+    "codice_istat": "022060",
+    "comune": "Cis",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 154,
+    "popolazione_totale": 294
+  },
+  {
+    "codice_istat": "022061",
+    "comune": "Civezzano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2090,
+    "popolazione_femminile": 2087,
+    "popolazione_totale": 4177
+  },
+  {
+    "codice_istat": "022062",
+    "comune": "Cles",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3636,
+    "popolazione_femminile": 3844,
+    "popolazione_totale": 7480
+  },
+  {
+    "codice_istat": "022228",
+    "comune": "Comano Terme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1525,
+    "popolazione_femminile": 1534,
+    "popolazione_totale": 3059
+  },
+  {
+    "codice_istat": "022064",
+    "comune": "Commezzadura",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 499,
+    "popolazione_femminile": 506,
+    "popolazione_totale": 1005
+  },
+  {
+    "codice_istat": "022242",
+    "comune": "Contà",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 699,
+    "popolazione_femminile": 724,
+    "popolazione_totale": 1423
+  },
+  {
+    "codice_istat": "022068",
+    "comune": "Croviana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 343,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 677
+  },
+  {
+    "codice_istat": "022071",
+    "comune": "Dambel",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 206,
+    "popolazione_femminile": 185,
+    "popolazione_totale": 391
+  },
+  {
+    "codice_istat": "022074",
+    "comune": "Denno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 647,
+    "popolazione_femminile": 599,
+    "popolazione_totale": 1246
+  },
+  {
+    "codice_istat": "022233",
+    "comune": "Dimaro Folgarida",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1044,
+    "popolazione_femminile": 1086,
+    "popolazione_totale": 2130
+  },
+  {
+    "codice_istat": "022078",
+    "comune": "Drena",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 312,
+    "popolazione_femminile": 297,
+    "popolazione_totale": 609
+  },
+  {
+    "codice_istat": "022079",
+    "comune": "Dro",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2530,
+    "popolazione_femminile": 2558,
+    "popolazione_totale": 5088
+  },
+  {
+    "codice_istat": "022081",
+    "comune": "Fai della Paganella",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 469,
+    "popolazione_femminile": 472,
+    "popolazione_totale": 941
+  },
+  {
+    "codice_istat": "022083",
+    "comune": "Fiavè",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 542,
+    "popolazione_femminile": 561,
+    "popolazione_totale": 1103
+  },
+  {
+    "codice_istat": "022085",
+    "comune": "Fierozzo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 246,
+    "popolazione_femminile": 208,
+    "popolazione_totale": 454
+  },
+  {
+    "codice_istat": "022087",
+    "comune": "Folgaria",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1571,
+    "popolazione_femminile": 1598,
+    "popolazione_totale": 3169
+  },
+  {
+    "codice_istat": "022089",
+    "comune": "Fornace",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 706,
+    "popolazione_femminile": 657,
+    "popolazione_totale": 1363
+  },
+  {
+    "codice_istat": "022090",
+    "comune": "Frassilongo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 174,
+    "popolazione_femminile": 162,
+    "popolazione_totale": 336
+  },
+  {
+    "codice_istat": "022091",
+    "comune": "Garniga Terme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 226,
+    "popolazione_femminile": 201,
+    "popolazione_totale": 427
+  },
+  {
+    "codice_istat": "022092",
+    "comune": "Giovo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1294,
+    "popolazione_femminile": 1224,
+    "popolazione_totale": 2518
+  },
+  {
+    "codice_istat": "022093",
+    "comune": "Giustino",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 373,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 752
+  },
+  {
+    "codice_istat": "022095",
+    "comune": "Grigno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1009,
+    "popolazione_femminile": 1021,
+    "popolazione_totale": 2030
+  },
+  {
+    "codice_istat": "022097",
+    "comune": "Imer",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1152
+  },
+  {
+    "codice_istat": "022098",
+    "comune": "Isera",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1399,
+    "popolazione_femminile": 1417,
+    "popolazione_totale": 2816
+  },
+  {
+    "codice_istat": "022102",
+    "comune": "Lavarone",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 610,
+    "popolazione_femminile": 595,
+    "popolazione_totale": 1205
+  },
+  {
+    "codice_istat": "022103",
+    "comune": "Lavis",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 4583,
+    "popolazione_femminile": 4625,
+    "popolazione_totale": 9208
+  },
+  {
+    "codice_istat": "022229",
+    "comune": "Ledro",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2693,
+    "popolazione_femminile": 2785,
+    "popolazione_totale": 5478
+  },
+  {
+    "codice_istat": "022104",
+    "comune": "Levico Terme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 4085,
+    "popolazione_femminile": 4249,
+    "popolazione_totale": 8334
+  },
+  {
+    "codice_istat": "022106",
+    "comune": "Livo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 395,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 774
+  },
+  {
+    "codice_istat": "022108",
+    "comune": "Lona-Lases",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 452,
+    "popolazione_femminile": 430,
+    "popolazione_totale": 882
+  },
+  {
+    "codice_istat": "022109",
+    "comune": "Luserna",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 130,
+    "popolazione_femminile": 133,
+    "popolazione_totale": 263
+  },
+  {
+    "codice_istat": "022243",
+    "comune": "Madruzzo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1522,
+    "popolazione_femminile": 1484,
+    "popolazione_totale": 3006
+  },
+  {
+    "codice_istat": "022110",
+    "comune": "Malé",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1120,
+    "popolazione_femminile": 1176,
+    "popolazione_totale": 2296
+  },
+  {
+    "codice_istat": "022112",
+    "comune": "Massimeno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 71,
+    "popolazione_femminile": 63,
+    "popolazione_totale": 134
+  },
+  {
+    "codice_istat": "022113",
+    "comune": "Mazzin",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 297,
+    "popolazione_femminile": 319,
+    "popolazione_totale": 616
+  },
+  {
+    "codice_istat": "022114",
+    "comune": "Mezzana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 454,
+    "popolazione_totale": 883
+  },
+  {
+    "codice_istat": "022115",
+    "comune": "Mezzano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 803,
+    "popolazione_femminile": 781,
+    "popolazione_totale": 1584
+  },
+  {
+    "codice_istat": "022116",
+    "comune": "Mezzocorona",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2679,
+    "popolazione_femminile": 2783,
+    "popolazione_totale": 5462
+  },
+  {
+    "codice_istat": "022117",
+    "comune": "Mezzolombardo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3882,
+    "popolazione_femminile": 3917,
+    "popolazione_totale": 7799
+  },
+  {
+    "codice_istat": "022118",
+    "comune": "Moena",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1233,
+    "popolazione_femminile": 1318,
+    "popolazione_totale": 2551
+  },
+  {
+    "codice_istat": "022120",
+    "comune": "Molveno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 525,
+    "popolazione_femminile": 575,
+    "popolazione_totale": 1100
+  },
+  {
+    "codice_istat": "022123",
+    "comune": "Mori",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 5172,
+    "popolazione_femminile": 5156,
+    "popolazione_totale": 10328
+  },
+  {
+    "codice_istat": "022124",
+    "comune": "Nago-Torbole",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1372,
+    "popolazione_femminile": 1360,
+    "popolazione_totale": 2732
+  },
+  {
+    "codice_istat": "022127",
+    "comune": "Nogaredo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1068,
+    "popolazione_femminile": 1036,
+    "popolazione_totale": 2104
+  },
+  {
+    "codice_istat": "022128",
+    "comune": "Nomi",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 665,
+    "popolazione_femminile": 695,
+    "popolazione_totale": 1360
+  },
+  {
+    "codice_istat": "022129",
+    "comune": "Novaledo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 563,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1151
+  },
+  {
+    "codice_istat": "022253",
+    "comune": "Novella",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1829,
+    "popolazione_femminile": 1752,
+    "popolazione_totale": 3581
+  },
+  {
+    "codice_istat": "022130",
+    "comune": "Ospedaletto",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 407,
+    "popolazione_femminile": 385,
+    "popolazione_totale": 792
+  },
+  {
+    "codice_istat": "022131",
+    "comune": "Ossana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 826
+  },
+  {
+    "codice_istat": "022133",
+    "comune": "Palù del Fersina",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 85,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 173
+  },
+  {
+    "codice_istat": "022134",
+    "comune": "Panchià",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 819
+  },
+  {
+    "codice_istat": "022136",
+    "comune": "Peio",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 934,
+    "popolazione_femminile": 861,
+    "popolazione_totale": 1795
+  },
+  {
+    "codice_istat": "022137",
+    "comune": "Pellizzano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 364,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 740
+  },
+  {
+    "codice_istat": "022138",
+    "comune": "Pelugo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 184,
+    "popolazione_femminile": 204,
+    "popolazione_totale": 388
+  },
+  {
+    "codice_istat": "022139",
+    "comune": "Pergine Valsugana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 10556,
+    "popolazione_femminile": 11079,
+    "popolazione_totale": 21635
+  },
+  {
+    "codice_istat": "022234",
+    "comune": "Pieve di Bono-Prezzo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 738,
+    "popolazione_femminile": 723,
+    "popolazione_totale": 1461
+  },
+  {
+    "codice_istat": "022142",
+    "comune": "Pieve Tesino",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 338,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 666
+  },
+  {
+    "codice_istat": "022143",
+    "comune": "Pinzolo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1496,
+    "popolazione_femminile": 1580,
+    "popolazione_totale": 3076
+  },
+  {
+    "codice_istat": "022144",
+    "comune": "Pomarolo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1234,
+    "popolazione_femminile": 1182,
+    "popolazione_totale": 2416
+  },
+  {
+    "codice_istat": "022244",
+    "comune": "Porte di Rendena",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 911,
+    "popolazione_femminile": 903,
+    "popolazione_totale": 1814
+  },
+  {
+    "codice_istat": "022230",
+    "comune": "Predaia",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3560,
+    "popolazione_femminile": 3494,
+    "popolazione_totale": 7054
+  },
+  {
+    "codice_istat": "022147",
+    "comune": "Predazzo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2220,
+    "popolazione_femminile": 2290,
+    "popolazione_totale": 4510
+  },
+  {
+    "codice_istat": "022245",
+    "comune": "Primiero San Martino di Castrozza",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2433,
+    "popolazione_femminile": 2531,
+    "popolazione_totale": 4964
+  },
+  {
+    "codice_istat": "022150",
+    "comune": "Rabbi",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 706,
+    "popolazione_femminile": 668,
+    "popolazione_totale": 1374
+  },
+  {
+    "codice_istat": "022153",
+    "comune": "Riva del Garda",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 8550,
+    "popolazione_femminile": 9208,
+    "popolazione_totale": 17758
+  },
+  {
+    "codice_istat": "022155",
+    "comune": "Romeno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 786,
+    "popolazione_femminile": 743,
+    "popolazione_totale": 1529
+  },
+  {
+    "codice_istat": "022156",
+    "comune": "Roncegno Terme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1498,
+    "popolazione_femminile": 1522,
+    "popolazione_totale": 3020
+  },
+  {
+    "codice_istat": "022157",
+    "comune": "Ronchi Valsugana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 237,
+    "popolazione_femminile": 213,
+    "popolazione_totale": 450
+  },
+  {
+    "codice_istat": "022135",
+    "comune": "Ronzo-Chienis",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 534,
+    "popolazione_femminile": 470,
+    "popolazione_totale": 1004
+  },
+  {
+    "codice_istat": "022159",
+    "comune": "Ronzone",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 515
+  },
+  {
+    "codice_istat": "022160",
+    "comune": "Roverè della Luna",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 857,
+    "popolazione_femminile": 801,
+    "popolazione_totale": 1658
+  },
+  {
+    "codice_istat": "022161",
+    "comune": "Rovereto",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 19516,
+    "popolazione_femminile": 20997,
+    "popolazione_totale": 40513
+  },
+  {
+    "codice_istat": "022162",
+    "comune": "Ruffrè-Mendola",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 182,
+    "popolazione_totale": 399
+  },
+  {
+    "codice_istat": "022163",
+    "comune": "Rumo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 399,
+    "popolazione_femminile": 384,
+    "popolazione_totale": 783
+  },
+  {
+    "codice_istat": "022164",
+    "comune": "Sagron Mis",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 88,
+    "popolazione_femminile": 83,
+    "popolazione_totale": 171
+  },
+  {
+    "codice_istat": "022165",
+    "comune": "Samone",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 272,
+    "popolazione_totale": 540
+  },
+  {
+    "codice_istat": "022250",
+    "comune": "San Giovanni di Fassa-Sèn Jan",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1810,
+    "popolazione_femminile": 1823,
+    "popolazione_totale": 3633
+  },
+  {
+    "codice_istat": "022231",
+    "comune": "San Lorenzo Dorsino",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 780,
+    "popolazione_femminile": 785,
+    "popolazione_totale": 1565
+  },
+  {
+    "codice_istat": "022167",
+    "comune": "San Michele all'Adige",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2066,
+    "popolazione_femminile": 2032,
+    "popolazione_totale": 4098
+  },
+  {
+    "codice_istat": "022168",
+    "comune": "Sant'Orsola Terme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 576,
+    "popolazione_femminile": 565,
+    "popolazione_totale": 1141
+  },
+  {
+    "codice_istat": "022169",
+    "comune": "Sanzeno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 442,
+    "popolazione_totale": 900
+  },
+  {
+    "codice_istat": "022170",
+    "comune": "Sarnonico",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 388,
+    "popolazione_femminile": 395,
+    "popolazione_totale": 783
+  },
+  {
+    "codice_istat": "022171",
+    "comune": "Scurelle",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 688,
+    "popolazione_femminile": 693,
+    "popolazione_totale": 1381
+  },
+  {
+    "codice_istat": "022172",
+    "comune": "Segonzano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 703,
+    "popolazione_femminile": 705,
+    "popolazione_totale": 1408
+  },
+  {
+    "codice_istat": "022246",
+    "comune": "Sella Giudicarie",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1510,
+    "popolazione_femminile": 1475,
+    "popolazione_totale": 2985
+  },
+  {
+    "codice_istat": "022173",
+    "comune": "Sfruz",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 194,
+    "popolazione_totale": 383
+  },
+  {
+    "codice_istat": "022176",
+    "comune": "Soraga di Fassa",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 364,
+    "popolazione_femminile": 350,
+    "popolazione_totale": 714
+  },
+  {
+    "codice_istat": "022177",
+    "comune": "Sover",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 807
+  },
+  {
+    "codice_istat": "022179",
+    "comune": "Spiazzo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 633,
+    "popolazione_femminile": 642,
+    "popolazione_totale": 1275
+  },
+  {
+    "codice_istat": "022180",
+    "comune": "Spormaggiore",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 694,
+    "popolazione_femminile": 599,
+    "popolazione_totale": 1293
+  },
+  {
+    "codice_istat": "022181",
+    "comune": "Sporminore",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 722
+  },
+  {
+    "codice_istat": "022182",
+    "comune": "Stenico",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 626,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1186
+  },
+  {
+    "codice_istat": "022183",
+    "comune": "Storo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2200,
+    "popolazione_femminile": 2295,
+    "popolazione_totale": 4495
+  },
+  {
+    "codice_istat": "022184",
+    "comune": "Strembo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 294,
+    "popolazione_femminile": 277,
+    "popolazione_totale": 571
+  },
+  {
+    "codice_istat": "022188",
+    "comune": "Telve",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 952,
+    "popolazione_femminile": 986,
+    "popolazione_totale": 1938
+  },
+  {
+    "codice_istat": "022189",
+    "comune": "Telve di Sopra",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 324,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 618
+  },
+  {
+    "codice_istat": "022190",
+    "comune": "Tenna",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 527,
+    "popolazione_totale": 1063
+  },
+  {
+    "codice_istat": "022191",
+    "comune": "Tenno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1004,
+    "popolazione_femminile": 1050,
+    "popolazione_totale": 2054
+  },
+  {
+    "codice_istat": "022193",
+    "comune": "Terragnolo",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 703
+  },
+  {
+    "codice_istat": "022251",
+    "comune": "Terre d'Adige",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1602,
+    "popolazione_femminile": 1526,
+    "popolazione_totale": 3128
+  },
+  {
+    "codice_istat": "022195",
+    "comune": "Terzolas",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 314,
+    "popolazione_femminile": 330,
+    "popolazione_totale": 644
+  },
+  {
+    "codice_istat": "022196",
+    "comune": "Tesero",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1515,
+    "popolazione_femminile": 1481,
+    "popolazione_totale": 2996
+  },
+  {
+    "codice_istat": "022199",
+    "comune": "Tione di Trento",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1876,
+    "popolazione_femminile": 1896,
+    "popolazione_totale": 3772
+  },
+  {
+    "codice_istat": "022200",
+    "comune": "Ton",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 682,
+    "popolazione_femminile": 624,
+    "popolazione_totale": 1306
+  },
+  {
+    "codice_istat": "022202",
+    "comune": "Torcegno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 704
+  },
+  {
+    "codice_istat": "022203",
+    "comune": "Trambileno",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 768,
+    "popolazione_femminile": 751,
+    "popolazione_totale": 1519
+  },
+  {
+    "codice_istat": "022247",
+    "comune": "Tre Ville",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 671,
+    "popolazione_femminile": 688,
+    "popolazione_totale": 1359
+  },
+  {
+    "codice_istat": "022205",
+    "comune": "Trento",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 58481,
+    "popolazione_femminile": 60878,
+    "popolazione_totale": 119359,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "022232",
+    "comune": "Valdaone",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 606,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1165
+  },
+  {
+    "codice_istat": "022209",
+    "comune": "Valfloriana",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 242,
+    "popolazione_totale": 477
+  },
+  {
+    "codice_istat": "022210",
+    "comune": "Vallarsa",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 685,
+    "popolazione_totale": 1400
+  },
+  {
+    "codice_istat": "022248",
+    "comune": "Vallelaghi",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2646,
+    "popolazione_femminile": 2581,
+    "popolazione_totale": 5227
+  },
+  {
+    "codice_istat": "022213",
+    "comune": "Vermiglio",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 882,
+    "popolazione_femminile": 885,
+    "popolazione_totale": 1767
+  },
+  {
+    "codice_istat": "022216",
+    "comune": "Vignola-Falesina",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 119,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 217
+  },
+  {
+    "codice_istat": "022222",
+    "comune": "Villa Lagarina",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1957,
+    "popolazione_femminile": 1908,
+    "popolazione_totale": 3865
+  },
+  {
+    "codice_istat": "022249",
+    "comune": "Ville d'Anaunia",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2347,
+    "popolazione_femminile": 2312,
+    "popolazione_totale": 4659
+  },
+  {
+    "codice_istat": "022254",
+    "comune": "Ville di Fiemme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1321,
+    "popolazione_femminile": 1312,
+    "popolazione_totale": 2633
+  },
+  {
+    "codice_istat": "022224",
+    "comune": "Volano",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1583,
+    "popolazione_femminile": 1599,
+    "popolazione_totale": 3182
+  },
+  {
+    "codice_istat": "022226",
+    "comune": "Ziano di Fiemme",
+    "provincia": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 845,
+    "popolazione_femminile": 907,
+    "popolazione_totale": 1752
+  }
+]

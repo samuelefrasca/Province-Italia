@@ -1,0 +1,2473 @@
+[
+  {
+    "codice_istat": "004001",
+    "comune": "Acceglio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 84,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 171
+  },
+  {
+    "codice_istat": "004002",
+    "comune": "Aisone",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 105,
+    "popolazione_femminile": 101,
+    "popolazione_totale": 206
+  },
+  {
+    "codice_istat": "004003",
+    "comune": "Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 14843,
+    "popolazione_femminile": 16142,
+    "popolazione_totale": 30985
+  },
+  {
+    "codice_istat": "004004",
+    "comune": "Albaretto della Torre",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 106,
+    "popolazione_totale": 205
+  },
+  {
+    "codice_istat": "004005",
+    "comune": "Alto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 80,
+    "popolazione_femminile": 72,
+    "popolazione_totale": 152
+  },
+  {
+    "codice_istat": "004006",
+    "comune": "Argentera",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 38,
+    "popolazione_femminile": 38,
+    "popolazione_totale": 76
+  },
+  {
+    "codice_istat": "004007",
+    "comune": "Arguello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 96,
+    "popolazione_femminile": 94,
+    "popolazione_totale": 190
+  },
+  {
+    "codice_istat": "004008",
+    "comune": "Bagnasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 458,
+    "popolazione_femminile": 471,
+    "popolazione_totale": 929
+  },
+  {
+    "codice_istat": "004009",
+    "comune": "Bagnolo Piemonte",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2812,
+    "popolazione_femminile": 2873,
+    "popolazione_totale": 5685
+  },
+  {
+    "codice_istat": "004010",
+    "comune": "Baldissero d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 531,
+    "popolazione_femminile": 512,
+    "popolazione_totale": 1043
+  },
+  {
+    "codice_istat": "004011",
+    "comune": "Barbaresco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 300,
+    "popolazione_femminile": 300,
+    "popolazione_totale": 600
+  },
+  {
+    "codice_istat": "004012",
+    "comune": "Barge",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3806,
+    "popolazione_femminile": 3704,
+    "popolazione_totale": 7510
+  },
+  {
+    "codice_istat": "004013",
+    "comune": "Barolo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 292,
+    "popolazione_femminile": 321,
+    "popolazione_totale": 613
+  },
+  {
+    "codice_istat": "004014",
+    "comune": "Bastia Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 317,
+    "popolazione_totale": 628
+  },
+  {
+    "codice_istat": "004015",
+    "comune": "Battifollo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 94,
+    "popolazione_totale": 256
+  },
+  {
+    "codice_istat": "004016",
+    "comune": "Beinette",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1780,
+    "popolazione_femminile": 1760,
+    "popolazione_totale": 3540
+  },
+  {
+    "codice_istat": "004017",
+    "comune": "Bellino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 52,
+    "popolazione_femminile": 47,
+    "popolazione_totale": 99
+  },
+  {
+    "codice_istat": "004018",
+    "comune": "Belvedere Langhe",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 333
+  },
+  {
+    "codice_istat": "004019",
+    "comune": "Bene Vagienna",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1842,
+    "popolazione_femminile": 1803,
+    "popolazione_totale": 3645
+  },
+  {
+    "codice_istat": "004020",
+    "comune": "Benevello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 221,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 457
+  },
+  {
+    "codice_istat": "004021",
+    "comune": "Bergolo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 26,
+    "popolazione_femminile": 25,
+    "popolazione_totale": 51
+  },
+  {
+    "codice_istat": "004022",
+    "comune": "Bernezzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2138,
+    "popolazione_femminile": 2138,
+    "popolazione_totale": 4276
+  },
+  {
+    "codice_istat": "004023",
+    "comune": "Bonvicino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 49,
+    "popolazione_femminile": 53,
+    "popolazione_totale": 102
+  },
+  {
+    "codice_istat": "004025",
+    "comune": "Borgo San Dalmazzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 6230,
+    "popolazione_femminile": 6388,
+    "popolazione_totale": 12618
+  },
+  {
+    "codice_istat": "004024",
+    "comune": "Borgomale",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 173,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 372
+  },
+  {
+    "codice_istat": "004026",
+    "comune": "Bosia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 81,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 168
+  },
+  {
+    "codice_istat": "004027",
+    "comune": "Bossolasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 316,
+    "popolazione_femminile": 348,
+    "popolazione_totale": 664
+  },
+  {
+    "codice_istat": "004028",
+    "comune": "Boves",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4771,
+    "popolazione_femminile": 4841,
+    "popolazione_totale": 9612
+  },
+  {
+    "codice_istat": "004029",
+    "comune": "Bra",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 14538,
+    "popolazione_femminile": 15292,
+    "popolazione_totale": 29830
+  },
+  {
+    "codice_istat": "004030",
+    "comune": "Briaglia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 165,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "004031",
+    "comune": "Briga Alta",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 25,
+    "popolazione_femminile": 16,
+    "popolazione_totale": 41
+  },
+  {
+    "codice_istat": "004032",
+    "comune": "Brondello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 144,
+    "popolazione_femminile": 116,
+    "popolazione_totale": 260
+  },
+  {
+    "codice_istat": "004033",
+    "comune": "Brossasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 488,
+    "popolazione_femminile": 491,
+    "popolazione_totale": 979
+  },
+  {
+    "codice_istat": "004034",
+    "comune": "Busca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5164,
+    "popolazione_femminile": 5064,
+    "popolazione_totale": 10228
+  },
+  {
+    "codice_istat": "004035",
+    "comune": "Camerana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 277,
+    "popolazione_femminile": 274,
+    "popolazione_totale": 551
+  },
+  {
+    "codice_istat": "004037",
+    "comune": "Canale",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2681,
+    "popolazione_femminile": 2723,
+    "popolazione_totale": 5404
+  },
+  {
+    "codice_istat": "004038",
+    "comune": "Canosio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 39,
+    "popolazione_femminile": 37,
+    "popolazione_totale": 76
+  },
+  {
+    "codice_istat": "004039",
+    "comune": "Caprauna",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 44,
+    "popolazione_femminile": 34,
+    "popolazione_totale": 78
+  },
+  {
+    "codice_istat": "004040",
+    "comune": "Caraglio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3447,
+    "popolazione_femminile": 3395,
+    "popolazione_totale": 6842
+  },
+  {
+    "codice_istat": "004041",
+    "comune": "Caramagna Piemonte",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1505,
+    "popolazione_femminile": 1508,
+    "popolazione_totale": 3013
+  },
+  {
+    "codice_istat": "004042",
+    "comune": "Cardè",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 579,
+    "popolazione_femminile": 595,
+    "popolazione_totale": 1174
+  },
+  {
+    "codice_istat": "004043",
+    "comune": "Carrù",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2284,
+    "popolazione_femminile": 2210,
+    "popolazione_totale": 4494
+  },
+  {
+    "codice_istat": "004044",
+    "comune": "Cartignano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 79,
+    "popolazione_femminile": 82,
+    "popolazione_totale": 161
+  },
+  {
+    "codice_istat": "004045",
+    "comune": "Casalgrasso",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 748,
+    "popolazione_femminile": 710,
+    "popolazione_totale": 1458
+  },
+  {
+    "codice_istat": "004046",
+    "comune": "Castagnito",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1147,
+    "popolazione_femminile": 1147,
+    "popolazione_totale": 2294
+  },
+  {
+    "codice_istat": "004047",
+    "comune": "Casteldelfino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 70,
+    "popolazione_femminile": 73,
+    "popolazione_totale": 143
+  },
+  {
+    "codice_istat": "004049",
+    "comune": "Castelletto Stura",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 692,
+    "popolazione_femminile": 685,
+    "popolazione_totale": 1377
+  },
+  {
+    "codice_istat": "004050",
+    "comune": "Castelletto Uzzone",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 143,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 277
+  },
+  {
+    "codice_istat": "004051",
+    "comune": "Castellinaldo d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 463,
+    "popolazione_femminile": 448,
+    "popolazione_totale": 911
+  },
+  {
+    "codice_istat": "004052",
+    "comune": "Castellino Tanaro",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 137,
+    "popolazione_femminile": 136,
+    "popolazione_totale": 273
+  },
+  {
+    "codice_istat": "004053",
+    "comune": "Castelmagno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 34,
+    "popolazione_femminile": 17,
+    "popolazione_totale": 51
+  },
+  {
+    "codice_istat": "004054",
+    "comune": "Castelnuovo di Ceva",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 50,
+    "popolazione_femminile": 52,
+    "popolazione_totale": 102
+  },
+  {
+    "codice_istat": "004055",
+    "comune": "Castiglione Falletto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 334,
+    "popolazione_femminile": 321,
+    "popolazione_totale": 655
+  },
+  {
+    "codice_istat": "004056",
+    "comune": "Castiglione Tinella",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 353,
+    "popolazione_totale": 746
+  },
+  {
+    "codice_istat": "004057",
+    "comune": "Castino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 228,
+    "popolazione_femminile": 203,
+    "popolazione_totale": 431
+  },
+  {
+    "codice_istat": "004058",
+    "comune": "Cavallerleone",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 324,
+    "popolazione_totale": 664
+  },
+  {
+    "codice_istat": "004059",
+    "comune": "Cavallermaggiore",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2689,
+    "popolazione_femminile": 2640,
+    "popolazione_totale": 5329
+  },
+  {
+    "codice_istat": "004060",
+    "comune": "Celle di Macra",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 47,
+    "popolazione_femminile": 36,
+    "popolazione_totale": 83
+  },
+  {
+    "codice_istat": "004061",
+    "comune": "Centallo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3673,
+    "popolazione_femminile": 3312,
+    "popolazione_totale": 6985
+  },
+  {
+    "codice_istat": "004062",
+    "comune": "Ceresole Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 998,
+    "popolazione_femminile": 977,
+    "popolazione_totale": 1975
+  },
+  {
+    "codice_istat": "004063",
+    "comune": "Cerretto Langhe",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 197,
+    "popolazione_femminile": 190,
+    "popolazione_totale": 387
+  },
+  {
+    "codice_istat": "004064",
+    "comune": "Cervasca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2627,
+    "popolazione_femminile": 2563,
+    "popolazione_totale": 5190
+  },
+  {
+    "codice_istat": "004065",
+    "comune": "Cervere",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1145,
+    "popolazione_femminile": 1135,
+    "popolazione_totale": 2280
+  },
+  {
+    "codice_istat": "004066",
+    "comune": "Ceva",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3013,
+    "popolazione_femminile": 2882,
+    "popolazione_totale": 5895
+  },
+  {
+    "codice_istat": "004067",
+    "comune": "Cherasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4874,
+    "popolazione_femminile": 4839,
+    "popolazione_totale": 9713
+  },
+  {
+    "codice_istat": "004068",
+    "comune": "Chiusa di Pesio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1872,
+    "popolazione_femminile": 1844,
+    "popolazione_totale": 3716
+  },
+  {
+    "codice_istat": "004069",
+    "comune": "Cigliè",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 101,
+    "popolazione_femminile": 95,
+    "popolazione_totale": 196
+  },
+  {
+    "codice_istat": "004070",
+    "comune": "Cissone",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 46,
+    "popolazione_femminile": 30,
+    "popolazione_totale": 76
+  },
+  {
+    "codice_istat": "004071",
+    "comune": "Clavesana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 400,
+    "popolazione_totale": 775
+  },
+  {
+    "codice_istat": "004072",
+    "comune": "Corneliano d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1067,
+    "popolazione_femminile": 1100,
+    "popolazione_totale": 2167
+  },
+  {
+    "codice_istat": "004073",
+    "comune": "Cortemilia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1034,
+    "popolazione_femminile": 1070,
+    "popolazione_totale": 2104
+  },
+  {
+    "codice_istat": "004074",
+    "comune": "Cossano Belbo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 438,
+    "popolazione_femminile": 420,
+    "popolazione_totale": 858
+  },
+  {
+    "codice_istat": "004075",
+    "comune": "Costigliole Saluzzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1735,
+    "popolazione_femminile": 1572,
+    "popolazione_totale": 3307
+  },
+  {
+    "codice_istat": "004076",
+    "comune": "Cravanzana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 166,
+    "popolazione_femminile": 178,
+    "popolazione_totale": 344
+  },
+  {
+    "codice_istat": "004077",
+    "comune": "Crissolo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 76,
+    "popolazione_femminile": 56,
+    "popolazione_totale": 132
+  },
+  {
+    "codice_istat": "004078",
+    "comune": "Cuneo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 27258,
+    "popolazione_femminile": 28489,
+    "popolazione_totale": 55747,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "004079",
+    "comune": "Demonte",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 978,
+    "popolazione_femminile": 870,
+    "popolazione_totale": 1848
+  },
+  {
+    "codice_istat": "004080",
+    "comune": "Diano d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1796,
+    "popolazione_femminile": 1751,
+    "popolazione_totale": 3547
+  },
+  {
+    "codice_istat": "004081",
+    "comune": "Dogliani",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2340,
+    "popolazione_femminile": 2265,
+    "popolazione_totale": 4605
+  },
+  {
+    "codice_istat": "004082",
+    "comune": "Dronero",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3537,
+    "popolazione_femminile": 3470,
+    "popolazione_totale": 7007
+  },
+  {
+    "codice_istat": "004083",
+    "comune": "Elva",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 39,
+    "popolazione_femminile": 41,
+    "popolazione_totale": 80
+  },
+  {
+    "codice_istat": "004084",
+    "comune": "Entracque",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 363,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 741
+  },
+  {
+    "codice_istat": "004085",
+    "comune": "Envie",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 996,
+    "popolazione_femminile": 956,
+    "popolazione_totale": 1952
+  },
+  {
+    "codice_istat": "004086",
+    "comune": "Farigliano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 850,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1698
+  },
+  {
+    "codice_istat": "004087",
+    "comune": "Faule",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 239,
+    "popolazione_totale": 474
+  },
+  {
+    "codice_istat": "004088",
+    "comune": "Feisoglio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 139,
+    "popolazione_femminile": 149,
+    "popolazione_totale": 288
+  },
+  {
+    "codice_istat": "004089",
+    "comune": "Fossano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 12121,
+    "popolazione_femminile": 12036,
+    "popolazione_totale": 24157
+  },
+  {
+    "codice_istat": "004090",
+    "comune": "Frabosa Soprana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 432,
+    "popolazione_femminile": 308,
+    "popolazione_totale": 740
+  },
+  {
+    "codice_istat": "004091",
+    "comune": "Frabosa Sottana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 889,
+    "popolazione_femminile": 755,
+    "popolazione_totale": 1644
+  },
+  {
+    "codice_istat": "004092",
+    "comune": "Frassino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 137,
+    "popolazione_femminile": 113,
+    "popolazione_totale": 250
+  },
+  {
+    "codice_istat": "004093",
+    "comune": "Gaiola",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 273,
+    "popolazione_totale": 574
+  },
+  {
+    "codice_istat": "004094",
+    "comune": "Gambasca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 201,
+    "popolazione_femminile": 175,
+    "popolazione_totale": 376
+  },
+  {
+    "codice_istat": "004095",
+    "comune": "Garessio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1388,
+    "popolazione_femminile": 1445,
+    "popolazione_totale": 2833
+  },
+  {
+    "codice_istat": "004096",
+    "comune": "Genola",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1307,
+    "popolazione_femminile": 1257,
+    "popolazione_totale": 2564
+  },
+  {
+    "codice_istat": "004097",
+    "comune": "Gorzegno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 118,
+    "popolazione_femminile": 121,
+    "popolazione_totale": 239
+  },
+  {
+    "codice_istat": "004098",
+    "comune": "Gottasecca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 59,
+    "popolazione_femminile": 57,
+    "popolazione_totale": 116
+  },
+  {
+    "codice_istat": "004099",
+    "comune": "Govone",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1102,
+    "popolazione_femminile": 1131,
+    "popolazione_totale": 2233
+  },
+  {
+    "codice_istat": "004100",
+    "comune": "Grinzane Cavour",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 954,
+    "popolazione_femminile": 984,
+    "popolazione_totale": 1938
+  },
+  {
+    "codice_istat": "004101",
+    "comune": "Guarene",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1758,
+    "popolazione_femminile": 1790,
+    "popolazione_totale": 3548
+  },
+  {
+    "codice_istat": "004102",
+    "comune": "Igliano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 33,
+    "popolazione_femminile": 30,
+    "popolazione_totale": 63
+  },
+  {
+    "codice_istat": "004103",
+    "comune": "Isasca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 37,
+    "popolazione_femminile": 26,
+    "popolazione_totale": 63
+  },
+  {
+    "codice_istat": "004105",
+    "comune": "La Morra",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1336,
+    "popolazione_femminile": 1290,
+    "popolazione_totale": 2626
+  },
+  {
+    "codice_istat": "004104",
+    "comune": "Lagnasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 729,
+    "popolazione_femminile": 655,
+    "popolazione_totale": 1384
+  },
+  {
+    "codice_istat": "004106",
+    "comune": "Lequio Berria",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 234,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 425
+  },
+  {
+    "codice_istat": "004107",
+    "comune": "Lequio Tanaro",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 392,
+    "popolazione_femminile": 338,
+    "popolazione_totale": 730
+  },
+  {
+    "codice_istat": "004108",
+    "comune": "Lesegno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 405,
+    "popolazione_totale": 867
+  },
+  {
+    "codice_istat": "004109",
+    "comune": "Levice",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 90,
+    "popolazione_femminile": 84,
+    "popolazione_totale": 174
+  },
+  {
+    "codice_istat": "004110",
+    "comune": "Limone Piemonte",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 665,
+    "popolazione_femminile": 664,
+    "popolazione_totale": 1329
+  },
+  {
+    "codice_istat": "004111",
+    "comune": "Lisio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 95,
+    "popolazione_totale": 181
+  },
+  {
+    "codice_istat": "004112",
+    "comune": "Macra",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 21,
+    "popolazione_femminile": 21,
+    "popolazione_totale": 42
+  },
+  {
+    "codice_istat": "004113",
+    "comune": "Magliano Alfieri",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1054,
+    "popolazione_femminile": 1115,
+    "popolazione_totale": 2169
+  },
+  {
+    "codice_istat": "004114",
+    "comune": "Magliano Alpi",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1089,
+    "popolazione_femminile": 1077,
+    "popolazione_totale": 2166
+  },
+  {
+    "codice_istat": "004115",
+    "comune": "Mango",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 627,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1233
+  },
+  {
+    "codice_istat": "004116",
+    "comune": "Manta",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1904,
+    "popolazione_femminile": 1966,
+    "popolazione_totale": 3870
+  },
+  {
+    "codice_istat": "004117",
+    "comune": "Marene",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1735,
+    "popolazione_femminile": 1632,
+    "popolazione_totale": 3367
+  },
+  {
+    "codice_istat": "004118",
+    "comune": "Margarita",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 698,
+    "popolazione_totale": 1413
+  },
+  {
+    "codice_istat": "004119",
+    "comune": "Marmora",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 27,
+    "popolazione_femminile": 29,
+    "popolazione_totale": 56
+  },
+  {
+    "codice_istat": "004120",
+    "comune": "Marsaglia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 117,
+    "popolazione_femminile": 105,
+    "popolazione_totale": 222
+  },
+  {
+    "codice_istat": "004121",
+    "comune": "Martiniana Po",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 454,
+    "popolazione_femminile": 357,
+    "popolazione_totale": 811
+  },
+  {
+    "codice_istat": "004122",
+    "comune": "Melle",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 163,
+    "popolazione_femminile": 130,
+    "popolazione_totale": 293
+  },
+  {
+    "codice_istat": "004123",
+    "comune": "Moiola",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 116,
+    "popolazione_femminile": 96,
+    "popolazione_totale": 212
+  },
+  {
+    "codice_istat": "004124",
+    "comune": "Mombarcaro",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 129,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 263
+  },
+  {
+    "codice_istat": "004125",
+    "comune": "Mombasiglio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 272,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 562
+  },
+  {
+    "codice_istat": "004126",
+    "comune": "Monastero di Vasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 619,
+    "popolazione_femminile": 638,
+    "popolazione_totale": 1257
+  },
+  {
+    "codice_istat": "004127",
+    "comune": "Monasterolo Casotto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 43,
+    "popolazione_femminile": 39,
+    "popolazione_totale": 82
+  },
+  {
+    "codice_istat": "004128",
+    "comune": "Monasterolo di Savigliano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 654,
+    "popolazione_femminile": 658,
+    "popolazione_totale": 1312
+  },
+  {
+    "codice_istat": "004129",
+    "comune": "Monchiero",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 299,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 581
+  },
+  {
+    "codice_istat": "004130",
+    "comune": "Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 11126,
+    "popolazione_femminile": 11245,
+    "popolazione_totale": 22371
+  },
+  {
+    "codice_istat": "004131",
+    "comune": "Monesiglio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 298,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "004132",
+    "comune": "Monforte d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 940,
+    "popolazione_femminile": 924,
+    "popolazione_totale": 1864
+  },
+  {
+    "codice_istat": "004133",
+    "comune": "Montà",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2248,
+    "popolazione_femminile": 2401,
+    "popolazione_totale": 4649
+  },
+  {
+    "codice_istat": "004134",
+    "comune": "Montaldo di Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 279,
+    "popolazione_femminile": 271,
+    "popolazione_totale": 550
+  },
+  {
+    "codice_istat": "004135",
+    "comune": "Montaldo Roero",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 451,
+    "popolazione_totale": 894
+  },
+  {
+    "codice_istat": "004136",
+    "comune": "Montanera",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 355,
+    "popolazione_femminile": 327,
+    "popolazione_totale": 682
+  },
+  {
+    "codice_istat": "004137",
+    "comune": "Montelupo Albese",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 239,
+    "popolazione_femminile": 241,
+    "popolazione_totale": 480
+  },
+  {
+    "codice_istat": "004138",
+    "comune": "Montemale di Cuneo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 125,
+    "popolazione_femminile": 119,
+    "popolazione_totale": 244
+  },
+  {
+    "codice_istat": "004139",
+    "comune": "Monterosso Grana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 312,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 548
+  },
+  {
+    "codice_istat": "004140",
+    "comune": "Monteu Roero",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 804,
+    "popolazione_femminile": 778,
+    "popolazione_totale": 1582
+  },
+  {
+    "codice_istat": "004141",
+    "comune": "Montezemolo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 117,
+    "popolazione_femminile": 112,
+    "popolazione_totale": 229
+  },
+  {
+    "codice_istat": "004142",
+    "comune": "Monticello d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1156,
+    "popolazione_femminile": 1177,
+    "popolazione_totale": 2333
+  },
+  {
+    "codice_istat": "004143",
+    "comune": "Moretta",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2020,
+    "popolazione_femminile": 2021,
+    "popolazione_totale": 4041
+  },
+  {
+    "codice_istat": "004144",
+    "comune": "Morozzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1035,
+    "popolazione_femminile": 997,
+    "popolazione_totale": 2032
+  },
+  {
+    "codice_istat": "004145",
+    "comune": "Murazzano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 422,
+    "popolazione_totale": 841
+  },
+  {
+    "codice_istat": "004146",
+    "comune": "Murello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 475,
+    "popolazione_femminile": 461,
+    "popolazione_totale": 936
+  },
+  {
+    "codice_istat": "004147",
+    "comune": "Narzole",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1779,
+    "popolazione_femminile": 1749,
+    "popolazione_totale": 3528
+  },
+  {
+    "codice_istat": "004148",
+    "comune": "Neive",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1565,
+    "popolazione_femminile": 1627,
+    "popolazione_totale": 3192
+  },
+  {
+    "codice_istat": "004149",
+    "comune": "Neviglie",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 184,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 350
+  },
+  {
+    "codice_istat": "004150",
+    "comune": "Niella Belbo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 158,
+    "popolazione_femminile": 154,
+    "popolazione_totale": 312
+  },
+  {
+    "codice_istat": "004151",
+    "comune": "Niella Tanaro",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 499,
+    "popolazione_femminile": 440,
+    "popolazione_totale": 939
+  },
+  {
+    "codice_istat": "004152",
+    "comune": "Novello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 457,
+    "popolazione_femminile": 464,
+    "popolazione_totale": 921
+  },
+  {
+    "codice_istat": "004153",
+    "comune": "Nucetto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 189,
+    "popolazione_totale": 387
+  },
+  {
+    "codice_istat": "004154",
+    "comune": "Oncino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 45,
+    "popolazione_femminile": 37,
+    "popolazione_totale": 82
+  },
+  {
+    "codice_istat": "004155",
+    "comune": "Ormea",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 752,
+    "popolazione_femminile": 694,
+    "popolazione_totale": 1446
+  },
+  {
+    "codice_istat": "004156",
+    "comune": "Ostana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 42,
+    "popolazione_femminile": 36,
+    "popolazione_totale": 78
+  },
+  {
+    "codice_istat": "004157",
+    "comune": "Paesana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1342,
+    "popolazione_femminile": 1321,
+    "popolazione_totale": 2663
+  },
+  {
+    "codice_istat": "004158",
+    "comune": "Pagno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 284,
+    "popolazione_femminile": 285,
+    "popolazione_totale": 569
+  },
+  {
+    "codice_istat": "004159",
+    "comune": "Pamparato",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 114,
+    "popolazione_totale": 263
+  },
+  {
+    "codice_istat": "004160",
+    "comune": "Paroldo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 90,
+    "popolazione_femminile": 92,
+    "popolazione_totale": 182
+  },
+  {
+    "codice_istat": "004161",
+    "comune": "Perletto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 136,
+    "popolazione_femminile": 119,
+    "popolazione_totale": 255
+  },
+  {
+    "codice_istat": "004162",
+    "comune": "Perlo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 45,
+    "popolazione_totale": 106
+  },
+  {
+    "codice_istat": "004163",
+    "comune": "Peveragno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2736,
+    "popolazione_femminile": 2766,
+    "popolazione_totale": 5502
+  },
+  {
+    "codice_istat": "004164",
+    "comune": "Pezzolo Valle Uzzone",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 148,
+    "popolazione_totale": 281
+  },
+  {
+    "codice_istat": "004165",
+    "comune": "Pianfei",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1049,
+    "popolazione_femminile": 1044,
+    "popolazione_totale": 2093
+  },
+  {
+    "codice_istat": "004166",
+    "comune": "Piasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1383,
+    "popolazione_femminile": 1375,
+    "popolazione_totale": 2758
+  },
+  {
+    "codice_istat": "004167",
+    "comune": "Pietraporzio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 34,
+    "popolazione_femminile": 34,
+    "popolazione_totale": 68
+  },
+  {
+    "codice_istat": "004168",
+    "comune": "Piobesi d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 730,
+    "popolazione_totale": 1469
+  },
+  {
+    "codice_istat": "004169",
+    "comune": "Piozzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 510,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 991
+  },
+  {
+    "codice_istat": "004170",
+    "comune": "Pocapaglia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1626,
+    "popolazione_femminile": 1680,
+    "popolazione_totale": 3306
+  },
+  {
+    "codice_istat": "004171",
+    "comune": "Polonghera",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 550,
+    "popolazione_femminile": 569,
+    "popolazione_totale": 1119
+  },
+  {
+    "codice_istat": "004172",
+    "comune": "Pontechianale",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 95,
+    "popolazione_femminile": 92,
+    "popolazione_totale": 187
+  },
+  {
+    "codice_istat": "004173",
+    "comune": "Pradleves",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 139,
+    "popolazione_femminile": 123,
+    "popolazione_totale": 262
+  },
+  {
+    "codice_istat": "004174",
+    "comune": "Prazzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 85,
+    "popolazione_femminile": 81,
+    "popolazione_totale": 166
+  },
+  {
+    "codice_istat": "004175",
+    "comune": "Priero",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 248,
+    "popolazione_femminile": 238,
+    "popolazione_totale": 486
+  },
+  {
+    "codice_istat": "004176",
+    "comune": "Priocca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1003,
+    "popolazione_femminile": 1013,
+    "popolazione_totale": 2016
+  },
+  {
+    "codice_istat": "004177",
+    "comune": "Priola",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 296,
+    "popolazione_femminile": 313,
+    "popolazione_totale": 609
+  },
+  {
+    "codice_istat": "004178",
+    "comune": "Prunetto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 187,
+    "popolazione_femminile": 182,
+    "popolazione_totale": 369
+  },
+  {
+    "codice_istat": "004179",
+    "comune": "Racconigi",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4801,
+    "popolazione_femminile": 4825,
+    "popolazione_totale": 9626
+  },
+  {
+    "codice_istat": "004180",
+    "comune": "Revello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2139,
+    "popolazione_femminile": 2045,
+    "popolazione_totale": 4184
+  },
+  {
+    "codice_istat": "004181",
+    "comune": "Rifreddo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1014
+  },
+  {
+    "codice_istat": "004182",
+    "comune": "Rittana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 47,
+    "popolazione_femminile": 51,
+    "popolazione_totale": 98
+  },
+  {
+    "codice_istat": "004183",
+    "comune": "Roaschia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 40,
+    "popolazione_femminile": 47,
+    "popolazione_totale": 87
+  },
+  {
+    "codice_istat": "004184",
+    "comune": "Roascio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 44,
+    "popolazione_femminile": 39,
+    "popolazione_totale": 83
+  },
+  {
+    "codice_istat": "004185",
+    "comune": "Robilante",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1053,
+    "popolazione_femminile": 1050,
+    "popolazione_totale": 2103
+  },
+  {
+    "codice_istat": "004186",
+    "comune": "Roburent",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 255,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 487
+  },
+  {
+    "codice_istat": "004188",
+    "comune": "Rocca Cigliè",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 63,
+    "popolazione_totale": 124
+  },
+  {
+    "codice_istat": "004189",
+    "comune": "Rocca de' Baldi",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 813,
+    "popolazione_femminile": 802,
+    "popolazione_totale": 1615
+  },
+  {
+    "codice_istat": "004187",
+    "comune": "Roccabruna",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 759,
+    "popolazione_femminile": 760,
+    "popolazione_totale": 1519
+  },
+  {
+    "codice_istat": "004190",
+    "comune": "Roccaforte Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1098,
+    "popolazione_femminile": 1034,
+    "popolazione_totale": 2132
+  },
+  {
+    "codice_istat": "004191",
+    "comune": "Roccasparvera",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 361,
+    "popolazione_totale": 744
+  },
+  {
+    "codice_istat": "004192",
+    "comune": "Roccavione",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1299,
+    "popolazione_femminile": 1311,
+    "popolazione_totale": 2610
+  },
+  {
+    "codice_istat": "004193",
+    "comune": "Rocchetta Belbo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 75,
+    "popolazione_femminile": 75,
+    "popolazione_totale": 150
+  },
+  {
+    "codice_istat": "004194",
+    "comune": "Roddi",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 832,
+    "popolazione_femminile": 759,
+    "popolazione_totale": 1591
+  },
+  {
+    "codice_istat": "004195",
+    "comune": "Roddino",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 210,
+    "popolazione_femminile": 184,
+    "popolazione_totale": 394
+  },
+  {
+    "codice_istat": "004196",
+    "comune": "Rodello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 465,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 959
+  },
+  {
+    "codice_istat": "004197",
+    "comune": "Rossana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 431,
+    "popolazione_femminile": 405,
+    "popolazione_totale": 836
+  },
+  {
+    "codice_istat": "004198",
+    "comune": "Ruffia",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 191,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 357
+  },
+  {
+    "codice_istat": "004199",
+    "comune": "Sale delle Langhe",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 244,
+    "popolazione_femminile": 229,
+    "popolazione_totale": 473
+  },
+  {
+    "codice_istat": "004200",
+    "comune": "Sale San Giovanni",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 77,
+    "popolazione_femminile": 74,
+    "popolazione_totale": 151
+  },
+  {
+    "codice_istat": "004201",
+    "comune": "Saliceto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 556,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1144
+  },
+  {
+    "codice_istat": "004202",
+    "comune": "Salmour",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 326,
+    "popolazione_totale": 719
+  },
+  {
+    "codice_istat": "004203",
+    "comune": "Saluzzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8685,
+    "popolazione_femminile": 8890,
+    "popolazione_totale": 17575
+  },
+  {
+    "codice_istat": "004204",
+    "comune": "Sambuco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 41,
+    "popolazione_femminile": 40,
+    "popolazione_totale": 81
+  },
+  {
+    "codice_istat": "004205",
+    "comune": "Sampeyre",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 486,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 967
+  },
+  {
+    "codice_istat": "004206",
+    "comune": "San Benedetto Belbo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 68,
+    "popolazione_totale": 141
+  },
+  {
+    "codice_istat": "004207",
+    "comune": "San Damiano Macra",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 210,
+    "popolazione_femminile": 192,
+    "popolazione_totale": 402
+  },
+  {
+    "codice_istat": "004210",
+    "comune": "San Michele Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 955,
+    "popolazione_femminile": 941,
+    "popolazione_totale": 1896
+  },
+  {
+    "codice_istat": "004208",
+    "comune": "Sanfrè",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1505,
+    "popolazione_femminile": 1546,
+    "popolazione_totale": 3051
+  },
+  {
+    "codice_istat": "004209",
+    "comune": "Sanfront",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1111,
+    "popolazione_femminile": 1142,
+    "popolazione_totale": 2253
+  },
+  {
+    "codice_istat": "004211",
+    "comune": "Sant'Albano Stura",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1266,
+    "popolazione_femminile": 1154,
+    "popolazione_totale": 2420
+  },
+  {
+    "codice_istat": "004212",
+    "comune": "Santa Vittoria d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1473,
+    "popolazione_femminile": 1455,
+    "popolazione_totale": 2928
+  },
+  {
+    "codice_istat": "004213",
+    "comune": "Santo Stefano Belbo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1842,
+    "popolazione_femminile": 1844,
+    "popolazione_totale": 3686
+  },
+  {
+    "codice_istat": "004214",
+    "comune": "Santo Stefano Roero",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 695,
+    "popolazione_femminile": 651,
+    "popolazione_totale": 1346
+  },
+  {
+    "codice_istat": "004215",
+    "comune": "Savigliano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 10675,
+    "popolazione_femminile": 11086,
+    "popolazione_totale": 21761
+  },
+  {
+    "codice_istat": "004216",
+    "comune": "Scagnello",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 74,
+    "popolazione_femminile": 92,
+    "popolazione_totale": 166
+  },
+  {
+    "codice_istat": "004217",
+    "comune": "Scarnafigi",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1078,
+    "popolazione_femminile": 1009,
+    "popolazione_totale": 2087
+  },
+  {
+    "codice_istat": "004218",
+    "comune": "Serralunga d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 248,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 484
+  },
+  {
+    "codice_istat": "004219",
+    "comune": "Serravalle Langhe",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 172,
+    "popolazione_femminile": 152,
+    "popolazione_totale": 324
+  },
+  {
+    "codice_istat": "004220",
+    "comune": "Sinio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 471
+  },
+  {
+    "codice_istat": "004221",
+    "comune": "Somano",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 160,
+    "popolazione_totale": 322
+  },
+  {
+    "codice_istat": "004222",
+    "comune": "Sommariva del Bosco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3123,
+    "popolazione_femminile": 3149,
+    "popolazione_totale": 6272
+  },
+  {
+    "codice_istat": "004223",
+    "comune": "Sommariva Perno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1310,
+    "popolazione_femminile": 1365,
+    "popolazione_totale": 2675
+  },
+  {
+    "codice_istat": "004224",
+    "comune": "Stroppo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 54,
+    "popolazione_femminile": 48,
+    "popolazione_totale": 102
+  },
+  {
+    "codice_istat": "004225",
+    "comune": "Tarantasca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1142,
+    "popolazione_femminile": 1077,
+    "popolazione_totale": 2219
+  },
+  {
+    "codice_istat": "004226",
+    "comune": "Torre Bormida",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 94,
+    "popolazione_femminile": 96,
+    "popolazione_totale": 190
+  },
+  {
+    "codice_istat": "004227",
+    "comune": "Torre Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 274,
+    "popolazione_femminile": 235,
+    "popolazione_totale": 509
+  },
+  {
+    "codice_istat": "004228",
+    "comune": "Torre San Giorgio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 352,
+    "popolazione_femminile": 346,
+    "popolazione_totale": 698
+  },
+  {
+    "codice_istat": "004229",
+    "comune": "Torresina",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 21,
+    "popolazione_femminile": 27,
+    "popolazione_totale": 48
+  },
+  {
+    "codice_istat": "004230",
+    "comune": "Treiso",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 355,
+    "popolazione_totale": 734
+  },
+  {
+    "codice_istat": "004231",
+    "comune": "Trezzo Tinella",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 156,
+    "popolazione_femminile": 133,
+    "popolazione_totale": 289
+  },
+  {
+    "codice_istat": "004232",
+    "comune": "Trinità",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1143,
+    "popolazione_femminile": 1179,
+    "popolazione_totale": 2322
+  },
+  {
+    "codice_istat": "004233",
+    "comune": "Valdieri",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 456,
+    "popolazione_femminile": 455,
+    "popolazione_totale": 911
+  },
+  {
+    "codice_istat": "004234",
+    "comune": "Valgrana",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 380,
+    "popolazione_totale": 790
+  },
+  {
+    "codice_istat": "004235",
+    "comune": "Valloriate",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 51,
+    "popolazione_femminile": 41,
+    "popolazione_totale": 92
+  },
+  {
+    "codice_istat": "004237",
+    "comune": "Venasca",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 656,
+    "popolazione_femminile": 679,
+    "popolazione_totale": 1335
+  },
+  {
+    "codice_istat": "004238",
+    "comune": "Verduno",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 553
+  },
+  {
+    "codice_istat": "004239",
+    "comune": "Vernante",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 524,
+    "popolazione_femminile": 555,
+    "popolazione_totale": 1079
+  },
+  {
+    "codice_istat": "004240",
+    "comune": "Verzuolo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3285,
+    "popolazione_femminile": 3234,
+    "popolazione_totale": 6519
+  },
+  {
+    "codice_istat": "004241",
+    "comune": "Vezza d'Alba",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1207,
+    "popolazione_femminile": 1170,
+    "popolazione_totale": 2377
+  },
+  {
+    "codice_istat": "004242",
+    "comune": "Vicoforte",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1574,
+    "popolazione_femminile": 1613,
+    "popolazione_totale": 3187
+  },
+  {
+    "codice_istat": "004243",
+    "comune": "Vignolo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1332,
+    "popolazione_femminile": 1358,
+    "popolazione_totale": 2690
+  },
+  {
+    "codice_istat": "004244",
+    "comune": "Villafalletto",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1469,
+    "popolazione_femminile": 1449,
+    "popolazione_totale": 2918
+  },
+  {
+    "codice_istat": "004245",
+    "comune": "Villanova Mondovì",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2986,
+    "popolazione_femminile": 3052,
+    "popolazione_totale": 6038
+  },
+  {
+    "codice_istat": "004246",
+    "comune": "Villanova Solaro",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 382,
+    "popolazione_femminile": 343,
+    "popolazione_totale": 725
+  },
+  {
+    "codice_istat": "004247",
+    "comune": "Villar San Costanzo",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 784,
+    "popolazione_femminile": 764,
+    "popolazione_totale": 1548
+  },
+  {
+    "codice_istat": "004248",
+    "comune": "Vinadio",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 288,
+    "popolazione_femminile": 278,
+    "popolazione_totale": 566
+  },
+  {
+    "codice_istat": "004249",
+    "comune": "Viola",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 207,
+    "popolazione_femminile": 176,
+    "popolazione_totale": 383
+  },
+  {
+    "codice_istat": "004250",
+    "comune": "Vottignasco",
+    "provincia": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 507
+  }
+]

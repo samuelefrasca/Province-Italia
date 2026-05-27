@@ -1,0 +1,203 @@
+[
+  {
+    "codice_istat": "086001",
+    "comune": "Agira",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3726,
+    "popolazione_femminile": 3803,
+    "popolazione_totale": 7529
+  },
+  {
+    "codice_istat": "086002",
+    "comune": "Aidone",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2137,
+    "popolazione_femminile": 2068,
+    "popolazione_totale": 4205
+  },
+  {
+    "codice_istat": "086003",
+    "comune": "Assoro",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2359,
+    "popolazione_femminile": 2390,
+    "popolazione_totale": 4749
+  },
+  {
+    "codice_istat": "086004",
+    "comune": "Barrafranca",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5402,
+    "popolazione_femminile": 6054,
+    "popolazione_totale": 11456
+  },
+  {
+    "codice_istat": "086005",
+    "comune": "Calascibetta",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1930,
+    "popolazione_femminile": 2018,
+    "popolazione_totale": 3948
+  },
+  {
+    "codice_istat": "086006",
+    "comune": "Catenanuova",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2204,
+    "popolazione_femminile": 2254,
+    "popolazione_totale": 4458
+  },
+  {
+    "codice_istat": "086007",
+    "comune": "Centuripe",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2438,
+    "popolazione_femminile": 2543,
+    "popolazione_totale": 4981
+  },
+  {
+    "codice_istat": "086008",
+    "comune": "Cerami",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 913,
+    "popolazione_femminile": 954,
+    "popolazione_totale": 1867
+  },
+  {
+    "codice_istat": "086009",
+    "comune": "Enna",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 11884,
+    "popolazione_femminile": 13000,
+    "popolazione_totale": 24884,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "086010",
+    "comune": "Gagliano Castelferrato",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1504,
+    "popolazione_femminile": 1607,
+    "popolazione_totale": 3111
+  },
+  {
+    "codice_istat": "086011",
+    "comune": "Leonforte",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 5824,
+    "popolazione_femminile": 6199,
+    "popolazione_totale": 12023
+  },
+  {
+    "codice_istat": "086012",
+    "comune": "Nicosia",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 6027,
+    "popolazione_femminile": 6355,
+    "popolazione_totale": 12382
+  },
+  {
+    "codice_istat": "086013",
+    "comune": "Nissoria",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 1403,
+    "popolazione_femminile": 1378,
+    "popolazione_totale": 2781
+  },
+  {
+    "codice_istat": "086014",
+    "comune": "Piazza Armerina",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 10227,
+    "popolazione_femminile": 10331,
+    "popolazione_totale": 20558
+  },
+  {
+    "codice_istat": "086015",
+    "comune": "Pietraperzia",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2951,
+    "popolazione_femminile": 3232,
+    "popolazione_totale": 6183
+  },
+  {
+    "codice_istat": "086016",
+    "comune": "Regalbuto",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3291,
+    "popolazione_femminile": 3265,
+    "popolazione_totale": 6556
+  },
+  {
+    "codice_istat": "086017",
+    "comune": "Sperlinga",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 316,
+    "popolazione_femminile": 323,
+    "popolazione_totale": 639
+  },
+  {
+    "codice_istat": "086018",
+    "comune": "Troina",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3980,
+    "popolazione_femminile": 4221,
+    "popolazione_totale": 8201
+  },
+  {
+    "codice_istat": "086019",
+    "comune": "Valguarnera Caropepe",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 3195,
+    "popolazione_femminile": 3548,
+    "popolazione_totale": 6743
+  },
+  {
+    "codice_istat": "086020",
+    "comune": "Villarosa",
+    "provincia": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "popolazione_maschile": 2063,
+    "popolazione_femminile": 2208,
+    "popolazione_totale": 4271
+  }
+]

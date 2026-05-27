@@ -1,0 +1,473 @@
+[
+  {
+    "codice_istat": "042001",
+    "comune": "Agugliano",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2312,
+    "popolazione_femminile": 2320,
+    "popolazione_totale": 4632
+  },
+  {
+    "codice_istat": "042002",
+    "comune": "Ancona",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 49609,
+    "popolazione_femminile": 50542,
+    "popolazione_totale": 100151,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "042003",
+    "comune": "Arcevia",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2139,
+    "popolazione_femminile": 2106,
+    "popolazione_totale": 4245
+  },
+  {
+    "codice_istat": "042004",
+    "comune": "Barbara",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 640,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1267
+  },
+  {
+    "codice_istat": "042005",
+    "comune": "Belvedere Ostrense",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1019,
+    "popolazione_femminile": 1051,
+    "popolazione_totale": 2070
+  },
+  {
+    "codice_istat": "042006",
+    "comune": "Camerano",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 3417,
+    "popolazione_femminile": 3580,
+    "popolazione_totale": 6997
+  },
+  {
+    "codice_istat": "042007",
+    "comune": "Camerata Picena",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1240,
+    "popolazione_femminile": 1241,
+    "popolazione_totale": 2481
+  },
+  {
+    "codice_istat": "042008",
+    "comune": "Castelbellino",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2371,
+    "popolazione_femminile": 2534,
+    "popolazione_totale": 4905
+  },
+  {
+    "codice_istat": "042010",
+    "comune": "Castelfidardo",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 9033,
+    "popolazione_femminile": 9300,
+    "popolazione_totale": 18333
+  },
+  {
+    "codice_istat": "042011",
+    "comune": "Castelleone di Suasa",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 789,
+    "popolazione_femminile": 753,
+    "popolazione_totale": 1542
+  },
+  {
+    "codice_istat": "042012",
+    "comune": "Castelplanio",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1825,
+    "popolazione_femminile": 1787,
+    "popolazione_totale": 3612
+  },
+  {
+    "codice_istat": "042013",
+    "comune": "Cerreto d'Esi",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1654,
+    "popolazione_femminile": 1679,
+    "popolazione_totale": 3333
+  },
+  {
+    "codice_istat": "042014",
+    "comune": "Chiaravalle",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 6831,
+    "popolazione_femminile": 7348,
+    "popolazione_totale": 14179
+  },
+  {
+    "codice_istat": "042015",
+    "comune": "Corinaldo",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2305,
+    "popolazione_femminile": 2424,
+    "popolazione_totale": 4729
+  },
+  {
+    "codice_istat": "042016",
+    "comune": "Cupramontana",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2130,
+    "popolazione_femminile": 2191,
+    "popolazione_totale": 4321
+  },
+  {
+    "codice_istat": "042017",
+    "comune": "Fabriano",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 13929,
+    "popolazione_femminile": 14540,
+    "popolazione_totale": 28469
+  },
+  {
+    "codice_istat": "042018",
+    "comune": "Falconara Marittima",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 12784,
+    "popolazione_femminile": 13238,
+    "popolazione_totale": 26022
+  },
+  {
+    "codice_istat": "042019",
+    "comune": "Filottrano",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 4384,
+    "popolazione_femminile": 4465,
+    "popolazione_totale": 8849
+  },
+  {
+    "codice_istat": "042020",
+    "comune": "Genga",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 798,
+    "popolazione_femminile": 814,
+    "popolazione_totale": 1612
+  },
+  {
+    "codice_istat": "042021",
+    "comune": "Jesi",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 19230,
+    "popolazione_femminile": 20200,
+    "popolazione_totale": 39430
+  },
+  {
+    "codice_istat": "042022",
+    "comune": "Loreto",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 6355,
+    "popolazione_femminile": 6728,
+    "popolazione_totale": 13083
+  },
+  {
+    "codice_istat": "042023",
+    "comune": "Maiolati Spontini",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2856,
+    "popolazione_femminile": 3071,
+    "popolazione_totale": 5927
+  },
+  {
+    "codice_istat": "042024",
+    "comune": "Mergo",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 491,
+    "popolazione_totale": 970
+  },
+  {
+    "codice_istat": "042025",
+    "comune": "Monsano",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1548,
+    "popolazione_femminile": 1636,
+    "popolazione_totale": 3184
+  },
+  {
+    "codice_istat": "042029",
+    "comune": "Monte Roberto",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1488,
+    "popolazione_femminile": 1504,
+    "popolazione_totale": 2992
+  },
+  {
+    "codice_istat": "042030",
+    "comune": "Monte San Vito",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 3282,
+    "popolazione_femminile": 3398,
+    "popolazione_totale": 6680
+  },
+  {
+    "codice_istat": "042026",
+    "comune": "Montecarotto",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 920,
+    "popolazione_femminile": 929,
+    "popolazione_totale": 1849
+  },
+  {
+    "codice_istat": "042027",
+    "comune": "Montemarciano",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 4890,
+    "popolazione_femminile": 4937,
+    "popolazione_totale": 9827
+  },
+  {
+    "codice_istat": "042031",
+    "comune": "Morro d'Alba",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 891,
+    "popolazione_femminile": 909,
+    "popolazione_totale": 1800
+  },
+  {
+    "codice_istat": "042032",
+    "comune": "Numana",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1887,
+    "popolazione_femminile": 1850,
+    "popolazione_totale": 3737
+  },
+  {
+    "codice_istat": "042033",
+    "comune": "Offagna",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1068,
+    "popolazione_femminile": 1049,
+    "popolazione_totale": 2117
+  },
+  {
+    "codice_istat": "042034",
+    "comune": "Osimo",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 17166,
+    "popolazione_femminile": 17614,
+    "popolazione_totale": 34780
+  },
+  {
+    "codice_istat": "042035",
+    "comune": "Ostra",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 3053,
+    "popolazione_femminile": 3163,
+    "popolazione_totale": 6216
+  },
+  {
+    "codice_istat": "042036",
+    "comune": "Ostra Vetere",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1534,
+    "popolazione_femminile": 1508,
+    "popolazione_totale": 3042
+  },
+  {
+    "codice_istat": "042037",
+    "comune": "Poggio San Marcello",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 351,
+    "popolazione_femminile": 332,
+    "popolazione_totale": 683
+  },
+  {
+    "codice_istat": "042038",
+    "comune": "Polverigi",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 2272,
+    "popolazione_femminile": 2267,
+    "popolazione_totale": 4539
+  },
+  {
+    "codice_istat": "042040",
+    "comune": "Rosora",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 907,
+    "popolazione_femminile": 881,
+    "popolazione_totale": 1788
+  },
+  {
+    "codice_istat": "042041",
+    "comune": "San Marcello",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 997,
+    "popolazione_femminile": 1009,
+    "popolazione_totale": 2006
+  },
+  {
+    "codice_istat": "042042",
+    "comune": "San Paolo di Jesi",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 453,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 909
+  },
+  {
+    "codice_istat": "042043",
+    "comune": "Santa Maria Nuova",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1945,
+    "popolazione_femminile": 1935,
+    "popolazione_totale": 3880
+  },
+  {
+    "codice_istat": "042044",
+    "comune": "Sassoferrato",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 3323,
+    "popolazione_femminile": 3474,
+    "popolazione_totale": 6797
+  },
+  {
+    "codice_istat": "042045",
+    "comune": "Senigallia",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 21111,
+    "popolazione_femminile": 22697,
+    "popolazione_totale": 43808
+  },
+  {
+    "codice_istat": "042046",
+    "comune": "Serra de' Conti",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1726,
+    "popolazione_femminile": 1789,
+    "popolazione_totale": 3515
+  },
+  {
+    "codice_istat": "042047",
+    "comune": "Serra San Quirico",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1202,
+    "popolazione_femminile": 1267,
+    "popolazione_totale": 2469
+  },
+  {
+    "codice_istat": "042048",
+    "comune": "Sirolo",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1945,
+    "popolazione_femminile": 2145,
+    "popolazione_totale": 4090
+  },
+  {
+    "codice_istat": "042049",
+    "comune": "Staffolo",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 1056,
+    "popolazione_femminile": 1093,
+    "popolazione_totale": 2149
+  },
+  {
+    "codice_istat": "042050",
+    "comune": "Trecastelli",
+    "provincia": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "popolazione_maschile": 3795,
+    "popolazione_femminile": 3802,
+    "popolazione_totale": 7597
+  }
+]

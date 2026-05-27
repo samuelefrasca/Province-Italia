@@ -1,0 +1,593 @@
+[
+  {
+    "codice_istat": "054001",
+    "comune": "Assisi",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 13254,
+    "popolazione_femminile": 14146,
+    "popolazione_totale": 27400
+  },
+  {
+    "codice_istat": "054002",
+    "comune": "Bastia Umbra",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 10445,
+    "popolazione_femminile": 11052,
+    "popolazione_totale": 21497
+  },
+  {
+    "codice_istat": "054003",
+    "comune": "Bettona",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2057,
+    "popolazione_femminile": 2190,
+    "popolazione_totale": 4247
+  },
+  {
+    "codice_istat": "054004",
+    "comune": "Bevagna",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2333,
+    "popolazione_femminile": 2403,
+    "popolazione_totale": 4736
+  },
+  {
+    "codice_istat": "054005",
+    "comune": "Campello sul Clitunno",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1138,
+    "popolazione_femminile": 1173,
+    "popolazione_totale": 2311
+  },
+  {
+    "codice_istat": "054006",
+    "comune": "Cannara",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2040,
+    "popolazione_femminile": 2129,
+    "popolazione_totale": 4169
+  },
+  {
+    "codice_istat": "054007",
+    "comune": "Cascia",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1449,
+    "popolazione_femminile": 1481,
+    "popolazione_totale": 2930
+  },
+  {
+    "codice_istat": "054008",
+    "comune": "Castel Ritaldi",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1487,
+    "popolazione_femminile": 1507,
+    "popolazione_totale": 2994
+  },
+  {
+    "codice_istat": "054009",
+    "comune": "Castiglione del Lago",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 7436,
+    "popolazione_femminile": 7766,
+    "popolazione_totale": 15202
+  },
+  {
+    "codice_istat": "054010",
+    "comune": "Cerreto di Spoleto",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 477,
+    "popolazione_femminile": 484,
+    "popolazione_totale": 961
+  },
+  {
+    "codice_istat": "054011",
+    "comune": "Citerna",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1711,
+    "popolazione_femminile": 1672,
+    "popolazione_totale": 3383
+  },
+  {
+    "codice_istat": "054012",
+    "comune": "Città della Pieve",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 3525,
+    "popolazione_femminile": 3852,
+    "popolazione_totale": 7377
+  },
+  {
+    "codice_istat": "054013",
+    "comune": "Città di Castello",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 18349,
+    "popolazione_femminile": 19498,
+    "popolazione_totale": 37847
+  },
+  {
+    "codice_istat": "054014",
+    "comune": "Collazzone",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1623,
+    "popolazione_femminile": 1661,
+    "popolazione_totale": 3284
+  },
+  {
+    "codice_istat": "054015",
+    "comune": "Corciano",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 10529,
+    "popolazione_femminile": 11074,
+    "popolazione_totale": 21603
+  },
+  {
+    "codice_istat": "054016",
+    "comune": "Costacciaro",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 510,
+    "popolazione_femminile": 510,
+    "popolazione_totale": 1020
+  },
+  {
+    "codice_istat": "054017",
+    "comune": "Deruta",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 4735,
+    "popolazione_femminile": 4827,
+    "popolazione_totale": 9562
+  },
+  {
+    "codice_istat": "054018",
+    "comune": "Foligno",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 26648,
+    "popolazione_femminile": 28614,
+    "popolazione_totale": 55262
+  },
+  {
+    "codice_istat": "054019",
+    "comune": "Fossato di Vico",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1294,
+    "popolazione_femminile": 1291,
+    "popolazione_totale": 2585
+  },
+  {
+    "codice_istat": "054020",
+    "comune": "Fratta Todina",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 996,
+    "popolazione_femminile": 917,
+    "popolazione_totale": 1913
+  },
+  {
+    "codice_istat": "054021",
+    "comune": "Giano dell'Umbria",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1828,
+    "popolazione_femminile": 1841,
+    "popolazione_totale": 3669
+  },
+  {
+    "codice_istat": "054022",
+    "comune": "Gualdo Cattaneo",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2895,
+    "popolazione_femminile": 2733,
+    "popolazione_totale": 5628
+  },
+  {
+    "codice_istat": "054023",
+    "comune": "Gualdo Tadino",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 6749,
+    "popolazione_femminile": 7384,
+    "popolazione_totale": 14133
+  },
+  {
+    "codice_istat": "054024",
+    "comune": "Gubbio",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 14744,
+    "popolazione_femminile": 15446,
+    "popolazione_totale": 30190
+  },
+  {
+    "codice_istat": "054025",
+    "comune": "Lisciano Niccone",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 300,
+    "popolazione_totale": 602
+  },
+  {
+    "codice_istat": "054026",
+    "comune": "Magione",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 7197,
+    "popolazione_femminile": 7465,
+    "popolazione_totale": 14662
+  },
+  {
+    "codice_istat": "054027",
+    "comune": "Marsciano",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 8846,
+    "popolazione_femminile": 9116,
+    "popolazione_totale": 17962
+  },
+  {
+    "codice_istat": "054028",
+    "comune": "Massa Martana",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1797,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3553
+  },
+  {
+    "codice_istat": "054029",
+    "comune": "Monte Castello di Vibio",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 680,
+    "popolazione_totale": 1378
+  },
+  {
+    "codice_istat": "054032",
+    "comune": "Monte Santa Maria Tiberina",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 524,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1045
+  },
+  {
+    "codice_istat": "054030",
+    "comune": "Montefalco",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2605,
+    "popolazione_femminile": 2661,
+    "popolazione_totale": 5266
+  },
+  {
+    "codice_istat": "054031",
+    "comune": "Monteleone di Spoleto",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 272,
+    "popolazione_femminile": 263,
+    "popolazione_totale": 535
+  },
+  {
+    "codice_istat": "054033",
+    "comune": "Montone",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 755,
+    "popolazione_femminile": 779,
+    "popolazione_totale": 1534
+  },
+  {
+    "codice_istat": "054034",
+    "comune": "Nocera Umbra",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2741,
+    "popolazione_femminile": 2733,
+    "popolazione_totale": 5474
+  },
+  {
+    "codice_istat": "054035",
+    "comune": "Norcia",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2217,
+    "popolazione_femminile": 2182,
+    "popolazione_totale": 4399
+  },
+  {
+    "codice_istat": "054036",
+    "comune": "Paciano",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 453,
+    "popolazione_femminile": 470,
+    "popolazione_totale": 923
+  },
+  {
+    "codice_istat": "054037",
+    "comune": "Panicale",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2585,
+    "popolazione_femminile": 2732,
+    "popolazione_totale": 5317
+  },
+  {
+    "codice_istat": "054038",
+    "comune": "Passignano sul Trasimeno",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 2750,
+    "popolazione_femminile": 2936,
+    "popolazione_totale": 5686
+  },
+  {
+    "codice_istat": "054039",
+    "comune": "Perugia",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 78351,
+    "popolazione_femminile": 84033,
+    "popolazione_totale": 162384,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "054040",
+    "comune": "Piegaro",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1621,
+    "popolazione_femminile": 1700,
+    "popolazione_totale": 3321
+  },
+  {
+    "codice_istat": "054041",
+    "comune": "Pietralunga",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 983,
+    "popolazione_femminile": 1027,
+    "popolazione_totale": 2010
+  },
+  {
+    "codice_istat": "054042",
+    "comune": "Poggiodomo",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 48,
+    "popolazione_femminile": 33,
+    "popolazione_totale": 81
+  },
+  {
+    "codice_istat": "054043",
+    "comune": "Preci",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 348,
+    "popolazione_femminile": 330,
+    "popolazione_totale": 678
+  },
+  {
+    "codice_istat": "054044",
+    "comune": "San Giustino",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 5430,
+    "popolazione_femminile": 5590,
+    "popolazione_totale": 11020
+  },
+  {
+    "codice_istat": "054045",
+    "comune": "Sant'Anatolia di Narco",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 261,
+    "popolazione_femminile": 229,
+    "popolazione_totale": 490
+  },
+  {
+    "codice_istat": "054046",
+    "comune": "Scheggia e Pascelupo",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 621,
+    "popolazione_femminile": 610,
+    "popolazione_totale": 1231
+  },
+  {
+    "codice_istat": "054047",
+    "comune": "Scheggino",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 205,
+    "popolazione_totale": 422
+  },
+  {
+    "codice_istat": "054048",
+    "comune": "Sellano",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 465,
+    "popolazione_femminile": 453,
+    "popolazione_totale": 918
+  },
+  {
+    "codice_istat": "054049",
+    "comune": "Sigillo",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1097,
+    "popolazione_femminile": 1185,
+    "popolazione_totale": 2282
+  },
+  {
+    "codice_istat": "054050",
+    "comune": "Spello",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 3965,
+    "popolazione_femminile": 4243,
+    "popolazione_totale": 8208
+  },
+  {
+    "codice_istat": "054051",
+    "comune": "Spoleto",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 17431,
+    "popolazione_femminile": 18444,
+    "popolazione_totale": 35875
+  },
+  {
+    "codice_istat": "054052",
+    "comune": "Todi",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 7495,
+    "popolazione_femminile": 7937,
+    "popolazione_totale": 15432
+  },
+  {
+    "codice_istat": "054053",
+    "comune": "Torgiano",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 3265,
+    "popolazione_femminile": 3363,
+    "popolazione_totale": 6628
+  },
+  {
+    "codice_istat": "054054",
+    "comune": "Trevi",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 3916,
+    "popolazione_femminile": 4053,
+    "popolazione_totale": 7969
+  },
+  {
+    "codice_istat": "054055",
+    "comune": "Tuoro sul Trasimeno",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1869,
+    "popolazione_femminile": 1924,
+    "popolazione_totale": 3793
+  },
+  {
+    "codice_istat": "054056",
+    "comune": "Umbertide",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 7956,
+    "popolazione_femminile": 8251,
+    "popolazione_totale": 16207
+  },
+  {
+    "codice_istat": "054057",
+    "comune": "Valfabbrica",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 1554,
+    "popolazione_femminile": 1671,
+    "popolazione_totale": 3225
+  },
+  {
+    "codice_istat": "054058",
+    "comune": "Vallo di Nera",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 317
+  },
+  {
+    "codice_istat": "054059",
+    "comune": "Valtopina",
+    "provincia": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "popolazione_maschile": 619,
+    "popolazione_femminile": 639,
+    "popolazione_totale": 1258
+  }
+]

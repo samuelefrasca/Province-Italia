@@ -1,0 +1,613 @@
+[
+  {
+    "codice_istat": "071001",
+    "comune": "Accadia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1109,
+    "popolazione_femminile": 1095,
+    "popolazione_totale": 2204
+  },
+  {
+    "codice_istat": "071002",
+    "comune": "Alberona",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 417,
+    "popolazione_totale": 836
+  },
+  {
+    "codice_istat": "071003",
+    "comune": "Anzano di Puglia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 511,
+    "popolazione_femminile": 544,
+    "popolazione_totale": 1055
+  },
+  {
+    "codice_istat": "071004",
+    "comune": "Apricena",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 6299,
+    "popolazione_femminile": 6187,
+    "popolazione_totale": 12486
+  },
+  {
+    "codice_istat": "071005",
+    "comune": "Ascoli Satriano",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2874,
+    "popolazione_femminile": 2760,
+    "popolazione_totale": 5634
+  },
+  {
+    "codice_istat": "071006",
+    "comune": "Biccari",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1291,
+    "popolazione_femminile": 1288,
+    "popolazione_totale": 2579
+  },
+  {
+    "codice_istat": "071007",
+    "comune": "Bovino",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1431,
+    "popolazione_femminile": 1431,
+    "popolazione_totale": 2862
+  },
+  {
+    "codice_istat": "071008",
+    "comune": "Cagnano Varano",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 3204,
+    "popolazione_femminile": 3321,
+    "popolazione_totale": 6525
+  },
+  {
+    "codice_istat": "071009",
+    "comune": "Candela",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1393,
+    "popolazione_femminile": 1303,
+    "popolazione_totale": 2696
+  },
+  {
+    "codice_istat": "071010",
+    "comune": "Carapelle",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 3405,
+    "popolazione_femminile": 3463,
+    "popolazione_totale": 6868
+  },
+  {
+    "codice_istat": "071011",
+    "comune": "Carlantino",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 354,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 746
+  },
+  {
+    "codice_istat": "071012",
+    "comune": "Carpino",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1868,
+    "popolazione_femminile": 1830,
+    "popolazione_totale": 3698
+  },
+  {
+    "codice_istat": "071013",
+    "comune": "Casalnuovo Monterotaro",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 704,
+    "popolazione_femminile": 698,
+    "popolazione_totale": 1402
+  },
+  {
+    "codice_istat": "071014",
+    "comune": "Casalvecchio di Puglia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 803,
+    "popolazione_femminile": 817,
+    "popolazione_totale": 1620
+  },
+  {
+    "codice_istat": "071015",
+    "comune": "Castelluccio dei Sauri",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1007,
+    "popolazione_femminile": 951,
+    "popolazione_totale": 1958
+  },
+  {
+    "codice_istat": "071016",
+    "comune": "Castelluccio Valmaggiore",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 574,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1177
+  },
+  {
+    "codice_istat": "071017",
+    "comune": "Castelnuovo della Daunia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 618,
+    "popolazione_femminile": 600,
+    "popolazione_totale": 1218
+  },
+  {
+    "codice_istat": "071018",
+    "comune": "Celenza Valfortore",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 604,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1267
+  },
+  {
+    "codice_istat": "071019",
+    "comune": "Celle di San Vito",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 69,
+    "popolazione_femminile": 74,
+    "popolazione_totale": 143
+  },
+  {
+    "codice_istat": "071020",
+    "comune": "Cerignola",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 28250,
+    "popolazione_femminile": 28461,
+    "popolazione_totale": 56711
+  },
+  {
+    "codice_istat": "071021",
+    "comune": "Chieuti",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 731,
+    "popolazione_femminile": 736,
+    "popolazione_totale": 1467
+  },
+  {
+    "codice_istat": "071022",
+    "comune": "Deliceto",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1701,
+    "popolazione_femminile": 1723,
+    "popolazione_totale": 3424
+  },
+  {
+    "codice_istat": "071023",
+    "comune": "Faeto",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 322,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 624
+  },
+  {
+    "codice_istat": "071024",
+    "comune": "Foggia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 72167,
+    "popolazione_femminile": 72911,
+    "popolazione_totale": 145078,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "071025",
+    "comune": "Ischitella",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2018,
+    "popolazione_femminile": 2010,
+    "popolazione_totale": 4028
+  },
+  {
+    "codice_istat": "071026",
+    "comune": "Isole Tremiti",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 201,
+    "popolazione_totale": 470
+  },
+  {
+    "codice_istat": "071027",
+    "comune": "Lesina",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 3198,
+    "popolazione_femminile": 3057,
+    "popolazione_totale": 6255
+  },
+  {
+    "codice_istat": "071028",
+    "comune": "Lucera",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 14882,
+    "popolazione_femminile": 15453,
+    "popolazione_totale": 30335
+  },
+  {
+    "codice_istat": "071029",
+    "comune": "Manfredonia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 26367,
+    "popolazione_femminile": 26648,
+    "popolazione_totale": 53015
+  },
+  {
+    "codice_istat": "071031",
+    "comune": "Mattinata",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2874,
+    "popolazione_femminile": 2966,
+    "popolazione_totale": 5840
+  },
+  {
+    "codice_istat": "071033",
+    "comune": "Monte Sant'Angelo",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 5353,
+    "popolazione_femminile": 5538,
+    "popolazione_totale": 10891
+  },
+  {
+    "codice_istat": "071032",
+    "comune": "Monteleone di Puglia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 482,
+    "popolazione_femminile": 432,
+    "popolazione_totale": 914
+  },
+  {
+    "codice_istat": "071034",
+    "comune": "Motta Montecorvino",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 280,
+    "popolazione_femminile": 303,
+    "popolazione_totale": 583
+  },
+  {
+    "codice_istat": "071063",
+    "comune": "Ordona",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1707,
+    "popolazione_femminile": 1659,
+    "popolazione_totale": 3366
+  },
+  {
+    "codice_istat": "071035",
+    "comune": "Orsara di Puglia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1248,
+    "popolazione_femminile": 1221,
+    "popolazione_totale": 2469
+  },
+  {
+    "codice_istat": "071036",
+    "comune": "Orta Nova",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 8250,
+    "popolazione_femminile": 8326,
+    "popolazione_totale": 16576
+  },
+  {
+    "codice_istat": "071037",
+    "comune": "Panni",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 355,
+    "popolazione_totale": 673
+  },
+  {
+    "codice_istat": "071038",
+    "comune": "Peschici",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2143,
+    "popolazione_femminile": 2148,
+    "popolazione_totale": 4291
+  },
+  {
+    "codice_istat": "071039",
+    "comune": "Pietramontecorvino",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1141,
+    "popolazione_femminile": 1226,
+    "popolazione_totale": 2367
+  },
+  {
+    "codice_istat": "071040",
+    "comune": "Poggio Imperiale",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1343,
+    "popolazione_femminile": 1208,
+    "popolazione_totale": 2551
+  },
+  {
+    "codice_istat": "071041",
+    "comune": "Rignano Garganico",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 847,
+    "popolazione_femminile": 875,
+    "popolazione_totale": 1722
+  },
+  {
+    "codice_istat": "071042",
+    "comune": "Rocchetta Sant'Antonio",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 780,
+    "popolazione_femminile": 817,
+    "popolazione_totale": 1597
+  },
+  {
+    "codice_istat": "071043",
+    "comune": "Rodi Garganico",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1646,
+    "popolazione_femminile": 1660,
+    "popolazione_totale": 3306
+  },
+  {
+    "codice_istat": "071044",
+    "comune": "Roseto Valfortore",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 478,
+    "popolazione_femminile": 504,
+    "popolazione_totale": 982
+  },
+  {
+    "codice_istat": "071046",
+    "comune": "San Giovanni Rotondo",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 13017,
+    "popolazione_femminile": 13112,
+    "popolazione_totale": 26129
+  },
+  {
+    "codice_istat": "071047",
+    "comune": "San Marco in Lamis",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 6065,
+    "popolazione_femminile": 6140,
+    "popolazione_totale": 12205
+  },
+  {
+    "codice_istat": "071048",
+    "comune": "San Marco la Catola",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 395,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 810
+  },
+  {
+    "codice_istat": "071049",
+    "comune": "San Nicandro Garganico",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 6409,
+    "popolazione_femminile": 6958,
+    "popolazione_totale": 13367
+  },
+  {
+    "codice_istat": "071050",
+    "comune": "San Paolo di Civitate",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2659,
+    "popolazione_femminile": 2663,
+    "popolazione_totale": 5322
+  },
+  {
+    "codice_istat": "071051",
+    "comune": "San Severo",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 24051,
+    "popolazione_femminile": 24756,
+    "popolazione_totale": 48807
+  },
+  {
+    "codice_istat": "071052",
+    "comune": "Sant'Agata di Puglia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 865,
+    "popolazione_femminile": 872,
+    "popolazione_totale": 1737
+  },
+  {
+    "codice_istat": "071053",
+    "comune": "Serracapriola",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1746,
+    "popolazione_femminile": 1782,
+    "popolazione_totale": 3528
+  },
+  {
+    "codice_istat": "071054",
+    "comune": "Stornara",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2937,
+    "popolazione_femminile": 2841,
+    "popolazione_totale": 5778
+  },
+  {
+    "codice_istat": "071055",
+    "comune": "Stornarella",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 2681,
+    "popolazione_femminile": 2721,
+    "popolazione_totale": 5402
+  },
+  {
+    "codice_istat": "071056",
+    "comune": "Torremaggiore",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 8165,
+    "popolazione_femminile": 8118,
+    "popolazione_totale": 16283
+  },
+  {
+    "codice_istat": "071058",
+    "comune": "Troia",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 3141,
+    "popolazione_femminile": 3350,
+    "popolazione_totale": 6491
+  },
+  {
+    "codice_istat": "071059",
+    "comune": "Vico del Gargano",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 3506,
+    "popolazione_femminile": 3646,
+    "popolazione_totale": 7152
+  },
+  {
+    "codice_istat": "071060",
+    "comune": "Vieste",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 6510,
+    "popolazione_femminile": 6724,
+    "popolazione_totale": 13234
+  },
+  {
+    "codice_istat": "071061",
+    "comune": "Volturara Appula",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 158,
+    "popolazione_femminile": 182,
+    "popolazione_totale": 340
+  },
+  {
+    "codice_istat": "071062",
+    "comune": "Volturino",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 728,
+    "popolazione_femminile": 771,
+    "popolazione_totale": 1499
+  },
+  {
+    "codice_istat": "071064",
+    "comune": "Zapponeta",
+    "provincia": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "popolazione_maschile": 1641,
+    "popolazione_femminile": 1551,
+    "popolazione_totale": 3192
+  }
+]

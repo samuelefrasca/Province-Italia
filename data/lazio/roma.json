@@ -1,0 +1,1213 @@
+[
+  {
+    "codice_istat": "058001",
+    "comune": "Affile",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 705,
+    "popolazione_totale": 1403
+  },
+  {
+    "codice_istat": "058002",
+    "comune": "Agosta",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 816,
+    "popolazione_femminile": 863,
+    "popolazione_totale": 1679
+  },
+  {
+    "codice_istat": "058003",
+    "comune": "Albano Laziale",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 19147,
+    "popolazione_femminile": 20559,
+    "popolazione_totale": 39706
+  },
+  {
+    "codice_istat": "058004",
+    "comune": "Allumiere",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1869,
+    "popolazione_femminile": 1903,
+    "popolazione_totale": 3772
+  },
+  {
+    "codice_istat": "058005",
+    "comune": "Anguillara Sabazia",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 9301,
+    "popolazione_femminile": 9736,
+    "popolazione_totale": 19037
+  },
+  {
+    "codice_istat": "058006",
+    "comune": "Anticoli Corrado",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 414,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 841
+  },
+  {
+    "codice_istat": "058007",
+    "comune": "Anzio",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 30223,
+    "popolazione_femminile": 29840,
+    "popolazione_totale": 60063
+  },
+  {
+    "codice_istat": "058008",
+    "comune": "Arcinazzo Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 643,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1245
+  },
+  {
+    "codice_istat": "058117",
+    "comune": "Ardea",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 26079,
+    "popolazione_femminile": 25295,
+    "popolazione_totale": 51374
+  },
+  {
+    "codice_istat": "058009",
+    "comune": "Ariccia",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 8674,
+    "popolazione_femminile": 9264,
+    "popolazione_totale": 17938
+  },
+  {
+    "codice_istat": "058010",
+    "comune": "Arsoli",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 634,
+    "popolazione_femminile": 713,
+    "popolazione_totale": 1347
+  },
+  {
+    "codice_istat": "058011",
+    "comune": "Artena",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 6775,
+    "popolazione_femminile": 6901,
+    "popolazione_totale": 13676
+  },
+  {
+    "codice_istat": "058012",
+    "comune": "Bellegra",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1258,
+    "popolazione_femminile": 1320,
+    "popolazione_totale": 2578
+  },
+  {
+    "codice_istat": "058013",
+    "comune": "Bracciano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 8848,
+    "popolazione_femminile": 9501,
+    "popolazione_totale": 18349
+  },
+  {
+    "codice_istat": "058014",
+    "comune": "Camerata Nuova",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 186,
+    "popolazione_totale": 403
+  },
+  {
+    "codice_istat": "058015",
+    "comune": "Campagnano di Roma",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 5332,
+    "popolazione_femminile": 5655,
+    "popolazione_totale": 10987
+  },
+  {
+    "codice_istat": "058016",
+    "comune": "Canale Monterano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2024,
+    "popolazione_femminile": 2140,
+    "popolazione_totale": 4164
+  },
+  {
+    "codice_istat": "058017",
+    "comune": "Canterano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 186,
+    "popolazione_femminile": 157,
+    "popolazione_totale": 343
+  },
+  {
+    "codice_istat": "058018",
+    "comune": "Capena",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 5609,
+    "popolazione_femminile": 5462,
+    "popolazione_totale": 11071
+  },
+  {
+    "codice_istat": "058019",
+    "comune": "Capranica Prenestina",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 171,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 310
+  },
+  {
+    "codice_istat": "058020",
+    "comune": "Carpineto Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1909,
+    "popolazione_femminile": 2002,
+    "popolazione_totale": 3911
+  },
+  {
+    "codice_istat": "058021",
+    "comune": "Casape",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 297,
+    "popolazione_femminile": 313,
+    "popolazione_totale": 610
+  },
+  {
+    "codice_istat": "058022",
+    "comune": "Castel Gandolfo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4023,
+    "popolazione_femminile": 4513,
+    "popolazione_totale": 8536
+  },
+  {
+    "codice_istat": "058023",
+    "comune": "Castel Madama",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3481,
+    "popolazione_femminile": 3541,
+    "popolazione_totale": 7022
+  },
+  {
+    "codice_istat": "058025",
+    "comune": "Castel San Pietro Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 838
+  },
+  {
+    "codice_istat": "058024",
+    "comune": "Castelnuovo di Porto",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4268,
+    "popolazione_femminile": 4342,
+    "popolazione_totale": 8610
+  },
+  {
+    "codice_istat": "058026",
+    "comune": "Cave",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 5469,
+    "popolazione_femminile": 5466,
+    "popolazione_totale": 10935
+  },
+  {
+    "codice_istat": "058027",
+    "comune": "Cerreto Laziale",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 523,
+    "popolazione_femminile": 552,
+    "popolazione_totale": 1075
+  },
+  {
+    "codice_istat": "058028",
+    "comune": "Cervara di Roma",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 248,
+    "popolazione_femminile": 205,
+    "popolazione_totale": 453
+  },
+  {
+    "codice_istat": "058029",
+    "comune": "Cerveteri",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 18834,
+    "popolazione_femminile": 19372,
+    "popolazione_totale": 38206
+  },
+  {
+    "codice_istat": "058118",
+    "comune": "Ciampino",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 18677,
+    "popolazione_femminile": 20236,
+    "popolazione_totale": 38913
+  },
+  {
+    "codice_istat": "058030",
+    "comune": "Ciciliano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 624,
+    "popolazione_femminile": 624,
+    "popolazione_totale": 1248
+  },
+  {
+    "codice_istat": "058031",
+    "comune": "Cineto Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 284,
+    "popolazione_femminile": 295,
+    "popolazione_totale": 579
+  },
+  {
+    "codice_istat": "058032",
+    "comune": "Civitavecchia",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 24745,
+    "popolazione_femminile": 26614,
+    "popolazione_totale": 51359
+  },
+  {
+    "codice_istat": "058033",
+    "comune": "Civitella San Paolo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1025,
+    "popolazione_femminile": 1021,
+    "popolazione_totale": 2046
+  },
+  {
+    "codice_istat": "058034",
+    "comune": "Colleferro",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 9865,
+    "popolazione_femminile": 10516,
+    "popolazione_totale": 20381
+  },
+  {
+    "codice_istat": "058035",
+    "comune": "Colonna",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2040,
+    "popolazione_femminile": 2186,
+    "popolazione_totale": 4226
+  },
+  {
+    "codice_istat": "058036",
+    "comune": "Fiano Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 8632,
+    "popolazione_femminile": 8261,
+    "popolazione_totale": 16893
+  },
+  {
+    "codice_istat": "058037",
+    "comune": "Filacciano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 231,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 481
+  },
+  {
+    "codice_istat": "058120",
+    "comune": "Fiumicino",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 41823,
+    "popolazione_femminile": 41592,
+    "popolazione_totale": 83415
+  },
+  {
+    "codice_istat": "058122",
+    "comune": "Fonte Nuova",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 16142,
+    "popolazione_femminile": 16645,
+    "popolazione_totale": 32787
+  },
+  {
+    "codice_istat": "058038",
+    "comune": "Formello",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 6707,
+    "popolazione_femminile": 7218,
+    "popolazione_totale": 13925
+  },
+  {
+    "codice_istat": "058039",
+    "comune": "Frascati",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 10938,
+    "popolazione_femminile": 12010,
+    "popolazione_totale": 22948
+  },
+  {
+    "codice_istat": "058040",
+    "comune": "Gallicano nel Lazio",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3350,
+    "popolazione_femminile": 3228,
+    "popolazione_totale": 6578
+  },
+  {
+    "codice_istat": "058041",
+    "comune": "Gavignano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 932,
+    "popolazione_femminile": 922,
+    "popolazione_totale": 1854
+  },
+  {
+    "codice_istat": "058042",
+    "comune": "Genazzano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2852,
+    "popolazione_femminile": 2885,
+    "popolazione_totale": 5737
+  },
+  {
+    "codice_istat": "058043",
+    "comune": "Genzano di Roma",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 10804,
+    "popolazione_femminile": 11525,
+    "popolazione_totale": 22329
+  },
+  {
+    "codice_istat": "058044",
+    "comune": "Gerano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 563,
+    "popolazione_femminile": 547,
+    "popolazione_totale": 1110
+  },
+  {
+    "codice_istat": "058045",
+    "comune": "Gorga",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 333,
+    "popolazione_femminile": 316,
+    "popolazione_totale": 649
+  },
+  {
+    "codice_istat": "058046",
+    "comune": "Grottaferrata",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 9558,
+    "popolazione_femminile": 10787,
+    "popolazione_totale": 20345
+  },
+  {
+    "codice_istat": "058047",
+    "comune": "Guidonia Montecelio",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 44358,
+    "popolazione_femminile": 45062,
+    "popolazione_totale": 89420
+  },
+  {
+    "codice_istat": "058048",
+    "comune": "Jenne",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 156,
+    "popolazione_totale": 324
+  },
+  {
+    "codice_istat": "058049",
+    "comune": "Labico",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3180,
+    "popolazione_femminile": 3229,
+    "popolazione_totale": 6409
+  },
+  {
+    "codice_istat": "058116",
+    "comune": "Ladispoli",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 19997,
+    "popolazione_femminile": 20971,
+    "popolazione_totale": 40968
+  },
+  {
+    "codice_istat": "058050",
+    "comune": "Lanuvio",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 6465,
+    "popolazione_femminile": 6432,
+    "popolazione_totale": 12897
+  },
+  {
+    "codice_istat": "058115",
+    "comune": "Lariano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 6537,
+    "popolazione_femminile": 6760,
+    "popolazione_totale": 13297
+  },
+  {
+    "codice_istat": "058051",
+    "comune": "Licenza",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 556,
+    "popolazione_femminile": 432,
+    "popolazione_totale": 988
+  },
+  {
+    "codice_istat": "058052",
+    "comune": "Magliano Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 660,
+    "popolazione_totale": 1379
+  },
+  {
+    "codice_istat": "058053",
+    "comune": "Mandela",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 474,
+    "popolazione_femminile": 457,
+    "popolazione_totale": 931
+  },
+  {
+    "codice_istat": "058054",
+    "comune": "Manziana",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3789,
+    "popolazione_femminile": 4049,
+    "popolazione_totale": 7838
+  },
+  {
+    "codice_istat": "058055",
+    "comune": "Marano Equo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 382,
+    "popolazione_totale": 757
+  },
+  {
+    "codice_istat": "058056",
+    "comune": "Marcellina",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3604,
+    "popolazione_femminile": 3556,
+    "popolazione_totale": 7160
+  },
+  {
+    "codice_istat": "058057",
+    "comune": "Marino",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 22606,
+    "popolazione_femminile": 24061,
+    "popolazione_totale": 46667
+  },
+  {
+    "codice_istat": "058058",
+    "comune": "Mazzano Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1450,
+    "popolazione_femminile": 1485,
+    "popolazione_totale": 2935
+  },
+  {
+    "codice_istat": "058059",
+    "comune": "Mentana",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 11118,
+    "popolazione_femminile": 11497,
+    "popolazione_totale": 22615
+  },
+  {
+    "codice_istat": "058060",
+    "comune": "Monte Compatri",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 5723,
+    "popolazione_femminile": 5910,
+    "popolazione_totale": 11633
+  },
+  {
+    "codice_istat": "058064",
+    "comune": "Monte Porzio Catone",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4166,
+    "popolazione_femminile": 4431,
+    "popolazione_totale": 8597
+  },
+  {
+    "codice_istat": "058061",
+    "comune": "Monteflavio",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1150
+  },
+  {
+    "codice_istat": "058062",
+    "comune": "Montelanico",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 996,
+    "popolazione_femminile": 1007,
+    "popolazione_totale": 2003
+  },
+  {
+    "codice_istat": "058063",
+    "comune": "Montelibretti",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2463,
+    "popolazione_femminile": 2635,
+    "popolazione_totale": 5098
+  },
+  {
+    "codice_istat": "058065",
+    "comune": "Monterotondo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 19995,
+    "popolazione_femminile": 21190,
+    "popolazione_totale": 41185
+  },
+  {
+    "codice_istat": "058066",
+    "comune": "Montorio Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 963,
+    "popolazione_femminile": 945,
+    "popolazione_totale": 1908
+  },
+  {
+    "codice_istat": "058067",
+    "comune": "Moricone",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1196,
+    "popolazione_femminile": 1177,
+    "popolazione_totale": 2373
+  },
+  {
+    "codice_istat": "058068",
+    "comune": "Morlupo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4135,
+    "popolazione_femminile": 4418,
+    "popolazione_totale": 8553
+  },
+  {
+    "codice_istat": "058069",
+    "comune": "Nazzano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 649,
+    "popolazione_femminile": 649,
+    "popolazione_totale": 1298
+  },
+  {
+    "codice_istat": "058070",
+    "comune": "Nemi",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 915,
+    "popolazione_femminile": 939,
+    "popolazione_totale": 1854
+  },
+  {
+    "codice_istat": "058071",
+    "comune": "Nerola",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 968,
+    "popolazione_femminile": 993,
+    "popolazione_totale": 1961
+  },
+  {
+    "codice_istat": "058072",
+    "comune": "Nettuno",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 23804,
+    "popolazione_femminile": 24307,
+    "popolazione_totale": 48111
+  },
+  {
+    "codice_istat": "058073",
+    "comune": "Olevano Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3152,
+    "popolazione_femminile": 3140,
+    "popolazione_totale": 6292
+  },
+  {
+    "codice_istat": "058074",
+    "comune": "Palestrina",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 10859,
+    "popolazione_femminile": 11251,
+    "popolazione_totale": 22110
+  },
+  {
+    "codice_istat": "058075",
+    "comune": "Palombara Sabina",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 6558,
+    "popolazione_femminile": 6599,
+    "popolazione_totale": 13157
+  },
+  {
+    "codice_istat": "058076",
+    "comune": "Percile",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 103,
+    "popolazione_totale": 213
+  },
+  {
+    "codice_istat": "058077",
+    "comune": "Pisoniano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 373,
+    "popolazione_femminile": 338,
+    "popolazione_totale": 711
+  },
+  {
+    "codice_istat": "058078",
+    "comune": "Poli",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1109,
+    "popolazione_femminile": 1124,
+    "popolazione_totale": 2233
+  },
+  {
+    "codice_istat": "058079",
+    "comune": "Pomezia",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 32556,
+    "popolazione_femminile": 32414,
+    "popolazione_totale": 64970
+  },
+  {
+    "codice_istat": "058080",
+    "comune": "Ponzano Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 661,
+    "popolazione_femminile": 604,
+    "popolazione_totale": 1265
+  },
+  {
+    "codice_istat": "058081",
+    "comune": "Riano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 5249,
+    "popolazione_femminile": 5245,
+    "popolazione_totale": 10494
+  },
+  {
+    "codice_istat": "058082",
+    "comune": "Rignano Flaminio",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4983,
+    "popolazione_femminile": 5187,
+    "popolazione_totale": 10170
+  },
+  {
+    "codice_istat": "058083",
+    "comune": "Riofreddo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 384,
+    "popolazione_totale": 750
+  },
+  {
+    "codice_istat": "058084",
+    "comune": "Rocca Canterano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 94,
+    "popolazione_femminile": 76,
+    "popolazione_totale": 170
+  },
+  {
+    "codice_istat": "058085",
+    "comune": "Rocca di Cave",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 181,
+    "popolazione_femminile": 183,
+    "popolazione_totale": 364
+  },
+  {
+    "codice_istat": "058086",
+    "comune": "Rocca di Papa",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 9426,
+    "popolazione_femminile": 8563,
+    "popolazione_totale": 17989
+  },
+  {
+    "codice_istat": "058088",
+    "comune": "Rocca Priora",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 6030,
+    "popolazione_femminile": 6100,
+    "popolazione_totale": 12130
+  },
+  {
+    "codice_istat": "058089",
+    "comune": "Rocca Santo Stefano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 471,
+    "popolazione_femminile": 435,
+    "popolazione_totale": 906
+  },
+  {
+    "codice_istat": "058087",
+    "comune": "Roccagiovine",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 120,
+    "popolazione_totale": 246
+  },
+  {
+    "codice_istat": "058090",
+    "comune": "Roiate",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 303,
+    "popolazione_femminile": 336,
+    "popolazione_totale": 639
+  },
+  {
+    "codice_istat": "058091",
+    "comune": "Roma",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1307339,
+    "popolazione_femminile": 1437723,
+    "popolazione_totale": 2745062,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "058092",
+    "comune": "Roviano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 585,
+    "popolazione_femminile": 647,
+    "popolazione_totale": 1232
+  },
+  {
+    "codice_istat": "058093",
+    "comune": "Sacrofano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 3678,
+    "popolazione_femminile": 3834,
+    "popolazione_totale": 7512
+  },
+  {
+    "codice_istat": "058094",
+    "comune": "Sambuci",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 414,
+    "popolazione_totale": 833
+  },
+  {
+    "codice_istat": "058119",
+    "comune": "San Cesareo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 8200,
+    "popolazione_femminile": 8183,
+    "popolazione_totale": 16383
+  },
+  {
+    "codice_istat": "058095",
+    "comune": "San Gregorio da Sassola",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 707,
+    "popolazione_femminile": 678,
+    "popolazione_totale": 1385
+  },
+  {
+    "codice_istat": "058096",
+    "comune": "San Polo dei Cavalieri",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1439,
+    "popolazione_femminile": 1365,
+    "popolazione_totale": 2804
+  },
+  {
+    "codice_istat": "058100",
+    "comune": "San Vito Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1573,
+    "popolazione_femminile": 1439,
+    "popolazione_totale": 3012
+  },
+  {
+    "codice_istat": "058098",
+    "comune": "Sant'Angelo Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2535,
+    "popolazione_femminile": 2531,
+    "popolazione_totale": 5066
+  },
+  {
+    "codice_istat": "058099",
+    "comune": "Sant'Oreste",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1707,
+    "popolazione_femminile": 1691,
+    "popolazione_totale": 3398
+  },
+  {
+    "codice_istat": "058097",
+    "comune": "Santa Marinella",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 8940,
+    "popolazione_femminile": 9505,
+    "popolazione_totale": 18445
+  },
+  {
+    "codice_istat": "058101",
+    "comune": "Saracinesco",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 78,
+    "popolazione_totale": 177
+  },
+  {
+    "codice_istat": "058102",
+    "comune": "Segni",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4429,
+    "popolazione_femminile": 4532,
+    "popolazione_totale": 8961
+  },
+  {
+    "codice_istat": "058103",
+    "comune": "Subiaco",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 4234,
+    "popolazione_femminile": 4293,
+    "popolazione_totale": 8527
+  },
+  {
+    "codice_istat": "058104",
+    "comune": "Tivoli",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 27396,
+    "popolazione_femminile": 27925,
+    "popolazione_totale": 55321
+  },
+  {
+    "codice_istat": "058105",
+    "comune": "Tolfa",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2378,
+    "popolazione_femminile": 2313,
+    "popolazione_totale": 4691
+  },
+  {
+    "codice_istat": "058106",
+    "comune": "Torrita Tiberina",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 567,
+    "popolazione_femminile": 549,
+    "popolazione_totale": 1116
+  },
+  {
+    "codice_istat": "058107",
+    "comune": "Trevignano Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 2782,
+    "popolazione_femminile": 2973,
+    "popolazione_totale": 5755
+  },
+  {
+    "codice_istat": "058108",
+    "comune": "Vallepietra",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 123,
+    "popolazione_totale": 223
+  },
+  {
+    "codice_istat": "058109",
+    "comune": "Vallinfreda",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 129,
+    "popolazione_femminile": 131,
+    "popolazione_totale": 260
+  },
+  {
+    "codice_istat": "058110",
+    "comune": "Valmontone",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 7743,
+    "popolazione_femminile": 7911,
+    "popolazione_totale": 15654
+  },
+  {
+    "codice_istat": "058111",
+    "comune": "Velletri",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 26039,
+    "popolazione_femminile": 27009,
+    "popolazione_totale": 53048
+  },
+  {
+    "codice_istat": "058112",
+    "comune": "Vicovaro",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 1725,
+    "popolazione_femminile": 1795,
+    "popolazione_totale": 3520
+  },
+  {
+    "codice_istat": "058113",
+    "comune": "Vivaro Romano",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 85,
+    "popolazione_femminile": 65,
+    "popolazione_totale": 150
+  },
+  {
+    "codice_istat": "058114",
+    "comune": "Zagarolo",
+    "provincia": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+    "popolazione_maschile": 9638,
+    "popolazione_femminile": 9325,
+    "popolazione_totale": 18963
+  }
+]

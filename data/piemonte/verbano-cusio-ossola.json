@@ -1,0 +1,743 @@
+[
+  {
+    "codice_istat": "103001",
+    "comune": "Antrona Schieranco",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 194,
+    "popolazione_totale": 392
+  },
+  {
+    "codice_istat": "103002",
+    "comune": "Anzola d'Ossola",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 191,
+    "popolazione_femminile": 187,
+    "popolazione_totale": 378
+  },
+  {
+    "codice_istat": "103003",
+    "comune": "Arizzano",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 937,
+    "popolazione_femminile": 1014,
+    "popolazione_totale": 1951
+  },
+  {
+    "codice_istat": "103004",
+    "comune": "Arola",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 117,
+    "popolazione_totale": 238
+  },
+  {
+    "codice_istat": "103005",
+    "comune": "Aurano",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 59,
+    "popolazione_femminile": 52,
+    "popolazione_totale": 111
+  },
+  {
+    "codice_istat": "103006",
+    "comune": "Baceno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 447,
+    "popolazione_totale": 862
+  },
+  {
+    "codice_istat": "103007",
+    "comune": "Bannio Anzino",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 218,
+    "popolazione_totale": 453
+  },
+  {
+    "codice_istat": "103008",
+    "comune": "Baveno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2188,
+    "popolazione_femminile": 2316,
+    "popolazione_totale": 4504
+  },
+  {
+    "codice_istat": "103009",
+    "comune": "Bee",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 398,
+    "popolazione_totale": 777
+  },
+  {
+    "codice_istat": "103010",
+    "comune": "Belgirate",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 206,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 450
+  },
+  {
+    "codice_istat": "103011",
+    "comune": "Beura-Cardezza",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 735,
+    "popolazione_femminile": 694,
+    "popolazione_totale": 1429
+  },
+  {
+    "codice_istat": "103012",
+    "comune": "Bognanco",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 112,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 198
+  },
+  {
+    "codice_istat": "103078",
+    "comune": "Borgomezzavalle",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 148,
+    "popolazione_femminile": 136,
+    "popolazione_totale": 284
+  },
+  {
+    "codice_istat": "103013",
+    "comune": "Brovello-Carpugnino",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 412,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 804
+  },
+  {
+    "codice_istat": "103014",
+    "comune": "Calasca-Castiglione",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 287,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 581
+  },
+  {
+    "codice_istat": "103015",
+    "comune": "Cambiasca",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 780,
+    "popolazione_femminile": 850,
+    "popolazione_totale": 1630
+  },
+  {
+    "codice_istat": "103016",
+    "comune": "Cannero Riviera",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 442,
+    "popolazione_totale": 885
+  },
+  {
+    "codice_istat": "103017",
+    "comune": "Cannobio",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2430,
+    "popolazione_femminile": 2582,
+    "popolazione_totale": 5012
+  },
+  {
+    "codice_istat": "103018",
+    "comune": "Caprezzo",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 94,
+    "popolazione_femminile": 81,
+    "popolazione_totale": 175
+  },
+  {
+    "codice_istat": "103019",
+    "comune": "Casale Corte Cerro",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1629,
+    "popolazione_femminile": 1649,
+    "popolazione_totale": 3278
+  },
+  {
+    "codice_istat": "103021",
+    "comune": "Ceppo Morelli",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 150,
+    "popolazione_femminile": 135,
+    "popolazione_totale": 285
+  },
+  {
+    "codice_istat": "103022",
+    "comune": "Cesara",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 385,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 666
+  },
+  {
+    "codice_istat": "103023",
+    "comune": "Cossogno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 339,
+    "popolazione_femminile": 323,
+    "popolazione_totale": 662
+  },
+  {
+    "codice_istat": "103024",
+    "comune": "Craveggia",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 412,
+    "popolazione_femminile": 377,
+    "popolazione_totale": 789
+  },
+  {
+    "codice_istat": "103025",
+    "comune": "Crevoladossola",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2141,
+    "popolazione_femminile": 2244,
+    "popolazione_totale": 4385
+  },
+  {
+    "codice_istat": "103026",
+    "comune": "Crodo",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 701,
+    "popolazione_femminile": 712,
+    "popolazione_totale": 1413
+  },
+  {
+    "codice_istat": "103028",
+    "comune": "Domodossola",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8384,
+    "popolazione_femminile": 9241,
+    "popolazione_totale": 17625
+  },
+  {
+    "codice_istat": "103029",
+    "comune": "Druogno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 521,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1029
+  },
+  {
+    "codice_istat": "103031",
+    "comune": "Formazza",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 205,
+    "popolazione_totale": 410
+  },
+  {
+    "codice_istat": "103032",
+    "comune": "Germagno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 101,
+    "popolazione_femminile": 84,
+    "popolazione_totale": 185
+  },
+  {
+    "codice_istat": "103033",
+    "comune": "Ghiffa",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1071,
+    "popolazione_femminile": 1094,
+    "popolazione_totale": 2165
+  },
+  {
+    "codice_istat": "103034",
+    "comune": "Gignese",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 568,
+    "popolazione_femminile": 551,
+    "popolazione_totale": 1119
+  },
+  {
+    "codice_istat": "103035",
+    "comune": "Gravellona Toce",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3708,
+    "popolazione_femminile": 3934,
+    "popolazione_totale": 7642
+  },
+  {
+    "codice_istat": "103036",
+    "comune": "Gurro",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 84,
+    "popolazione_femminile": 75,
+    "popolazione_totale": 159
+  },
+  {
+    "codice_istat": "103037",
+    "comune": "Intragna",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 47,
+    "popolazione_femminile": 38,
+    "popolazione_totale": 85
+  },
+  {
+    "codice_istat": "103038",
+    "comune": "Loreglia",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 197
+  },
+  {
+    "codice_istat": "103039",
+    "comune": "Macugnaga",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 233,
+    "popolazione_totale": 485
+  },
+  {
+    "codice_istat": "103040",
+    "comune": "Madonna del Sasso",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 177,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 347
+  },
+  {
+    "codice_istat": "103041",
+    "comune": "Malesco",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 668,
+    "popolazione_femminile": 671,
+    "popolazione_totale": 1339
+  },
+  {
+    "codice_istat": "103042",
+    "comune": "Masera",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 748,
+    "popolazione_totale": 1487
+  },
+  {
+    "codice_istat": "103043",
+    "comune": "Massiola",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 57,
+    "popolazione_femminile": 46,
+    "popolazione_totale": 103
+  },
+  {
+    "codice_istat": "103044",
+    "comune": "Mergozzo",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1059,
+    "popolazione_femminile": 1072,
+    "popolazione_totale": 2131
+  },
+  {
+    "codice_istat": "103045",
+    "comune": "Miazzina",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 208,
+    "popolazione_femminile": 194,
+    "popolazione_totale": 402
+  },
+  {
+    "codice_istat": "103046",
+    "comune": "Montecrestese",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 603,
+    "popolazione_femminile": 646,
+    "popolazione_totale": 1249
+  },
+  {
+    "codice_istat": "103047",
+    "comune": "Montescheno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 175,
+    "popolazione_femminile": 181,
+    "popolazione_totale": 356
+  },
+  {
+    "codice_istat": "103048",
+    "comune": "Nonio",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 398,
+    "popolazione_femminile": 422,
+    "popolazione_totale": 820
+  },
+  {
+    "codice_istat": "103049",
+    "comune": "Oggebbio",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 386,
+    "popolazione_femminile": 408,
+    "popolazione_totale": 794
+  },
+  {
+    "codice_istat": "103050",
+    "comune": "Omegna",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 6865,
+    "popolazione_femminile": 7317,
+    "popolazione_totale": 14182
+  },
+  {
+    "codice_istat": "103051",
+    "comune": "Ornavasso",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1664,
+    "popolazione_femminile": 1637,
+    "popolazione_totale": 3301
+  },
+  {
+    "codice_istat": "103052",
+    "comune": "Pallanzeno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 529,
+    "popolazione_femminile": 535,
+    "popolazione_totale": 1064
+  },
+  {
+    "codice_istat": "103053",
+    "comune": "Piedimulera",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 721,
+    "popolazione_femminile": 705,
+    "popolazione_totale": 1426
+  },
+  {
+    "codice_istat": "103054",
+    "comune": "Pieve Vergonte",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1185,
+    "popolazione_femminile": 1227,
+    "popolazione_totale": 2412
+  },
+  {
+    "codice_istat": "103055",
+    "comune": "Premeno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 373,
+    "popolazione_femminile": 359,
+    "popolazione_totale": 732
+  },
+  {
+    "codice_istat": "103056",
+    "comune": "Premia",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 278,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 568
+  },
+  {
+    "codice_istat": "103057",
+    "comune": "Premosello-Chiovenda",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 898,
+    "popolazione_femminile": 966,
+    "popolazione_totale": 1864
+  },
+  {
+    "codice_istat": "103058",
+    "comune": "Quarna Sopra",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 116,
+    "popolazione_femminile": 124,
+    "popolazione_totale": 240
+  },
+  {
+    "codice_istat": "103059",
+    "comune": "Quarna Sotto",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 188,
+    "popolazione_femminile": 185,
+    "popolazione_totale": 373
+  },
+  {
+    "codice_istat": "103060",
+    "comune": "Re",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 351,
+    "popolazione_femminile": 356,
+    "popolazione_totale": 707
+  },
+  {
+    "codice_istat": "103061",
+    "comune": "San Bernardino Verbano",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 620,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1226
+  },
+  {
+    "codice_istat": "103062",
+    "comune": "Santa Maria Maggiore",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 638,
+    "popolazione_femminile": 667,
+    "popolazione_totale": 1305
+  },
+  {
+    "codice_istat": "103064",
+    "comune": "Stresa",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2174,
+    "popolazione_femminile": 2374,
+    "popolazione_totale": 4548
+  },
+  {
+    "codice_istat": "103065",
+    "comune": "Toceno",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 397,
+    "popolazione_femminile": 368,
+    "popolazione_totale": 765
+  },
+  {
+    "codice_istat": "103066",
+    "comune": "Trarego Viggiona",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 204,
+    "popolazione_femminile": 179,
+    "popolazione_totale": 383
+  },
+  {
+    "codice_istat": "103067",
+    "comune": "Trasquera",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 87,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 173
+  },
+  {
+    "codice_istat": "103068",
+    "comune": "Trontano",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 831,
+    "popolazione_femminile": 836,
+    "popolazione_totale": 1667
+  },
+  {
+    "codice_istat": "103079",
+    "comune": "Valle Cannobina",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 416
+  },
+  {
+    "codice_istat": "103069",
+    "comune": "Valstrona",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 549,
+    "popolazione_totale": 1111
+  },
+  {
+    "codice_istat": "103070",
+    "comune": "Vanzone con San Carlo",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 193,
+    "popolazione_femminile": 204,
+    "popolazione_totale": 397
+  },
+  {
+    "codice_istat": "103071",
+    "comune": "Varzo",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 946,
+    "popolazione_femminile": 950,
+    "popolazione_totale": 1896
+  },
+  {
+    "codice_istat": "103072",
+    "comune": "Verbania",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 14239,
+    "popolazione_femminile": 15586,
+    "popolazione_totale": 29825,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "103074",
+    "comune": "Vignone",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 583,
+    "popolazione_femminile": 604,
+    "popolazione_totale": 1187
+  },
+  {
+    "codice_istat": "103075",
+    "comune": "Villadossola",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3049,
+    "popolazione_femminile": 3200,
+    "popolazione_totale": 6249
+  },
+  {
+    "codice_istat": "103076",
+    "comune": "Villette",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 137,
+    "popolazione_totale": 270
+  },
+  {
+    "codice_istat": "103077",
+    "comune": "Vogogna",
+    "provincia": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "popolazione_maschile": 854,
+    "popolazione_femminile": 815,
+    "popolazione_totale": 1669
+  }
+]

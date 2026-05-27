@@ -1,0 +1,823 @@
+[
+  {
+    "codice_istat": "002002",
+    "comune": "Alagna Valsesia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 350,
+    "popolazione_totale": 731
+  },
+  {
+    "codice_istat": "002003",
+    "comune": "Albano Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 165,
+    "popolazione_totale": 327
+  },
+  {
+    "codice_istat": "002004",
+    "comune": "Alice Castello",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1257,
+    "popolazione_femminile": 1222,
+    "popolazione_totale": 2479
+  },
+  {
+    "codice_istat": "002170",
+    "comune": "Alto Sermenza",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 70,
+    "popolazione_femminile": 63,
+    "popolazione_totale": 133
+  },
+  {
+    "codice_istat": "002006",
+    "comune": "Arborio",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 394,
+    "popolazione_totale": 836
+  },
+  {
+    "codice_istat": "002007",
+    "comune": "Asigliano Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 697,
+    "popolazione_femminile": 690,
+    "popolazione_totale": 1387
+  },
+  {
+    "codice_istat": "002008",
+    "comune": "Balmuccia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 53,
+    "popolazione_femminile": 62,
+    "popolazione_totale": 115
+  },
+  {
+    "codice_istat": "002009",
+    "comune": "Balocco",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 122,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 210
+  },
+  {
+    "codice_istat": "002011",
+    "comune": "Bianzè",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 917,
+    "popolazione_femminile": 952,
+    "popolazione_totale": 1869
+  },
+  {
+    "codice_istat": "002014",
+    "comune": "Boccioleto",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 80,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 167
+  },
+  {
+    "codice_istat": "002015",
+    "comune": "Borgo d'Ale",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1112,
+    "popolazione_femminile": 1086,
+    "popolazione_totale": 2198
+  },
+  {
+    "codice_istat": "002017",
+    "comune": "Borgo Vercelli",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1097,
+    "popolazione_femminile": 1134,
+    "popolazione_totale": 2231
+  },
+  {
+    "codice_istat": "002016",
+    "comune": "Borgosesia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5694,
+    "popolazione_femminile": 6257,
+    "popolazione_totale": 11951
+  },
+  {
+    "codice_istat": "002021",
+    "comune": "Buronzo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 433,
+    "popolazione_totale": 862
+  },
+  {
+    "codice_istat": "002025",
+    "comune": "Campertogno",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 116,
+    "popolazione_totale": 226
+  },
+  {
+    "codice_istat": "002029",
+    "comune": "Carcoforo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 40,
+    "popolazione_femminile": 38,
+    "popolazione_totale": 78
+  },
+  {
+    "codice_istat": "002030",
+    "comune": "Caresana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 537,
+    "popolazione_femminile": 458,
+    "popolazione_totale": 995
+  },
+  {
+    "codice_istat": "002031",
+    "comune": "Caresanablot",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 544,
+    "popolazione_femminile": 566,
+    "popolazione_totale": 1110
+  },
+  {
+    "codice_istat": "002032",
+    "comune": "Carisio",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 375,
+    "popolazione_femminile": 369,
+    "popolazione_totale": 744
+  },
+  {
+    "codice_istat": "002033",
+    "comune": "Casanova Elvo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 118,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 220
+  },
+  {
+    "codice_istat": "002171",
+    "comune": "Cellio con Breia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 478,
+    "popolazione_totale": 957
+  },
+  {
+    "codice_istat": "002041",
+    "comune": "Cervatto",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 28,
+    "popolazione_femminile": 19,
+    "popolazione_totale": 47
+  },
+  {
+    "codice_istat": "002042",
+    "comune": "Cigliano",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2119,
+    "popolazione_femminile": 2181,
+    "popolazione_totale": 4300
+  },
+  {
+    "codice_istat": "002043",
+    "comune": "Civiasco",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 112,
+    "popolazione_femminile": 111,
+    "popolazione_totale": 223
+  },
+  {
+    "codice_istat": "002045",
+    "comune": "Collobiano",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 33,
+    "popolazione_femminile": 35,
+    "popolazione_totale": 68
+  },
+  {
+    "codice_istat": "002047",
+    "comune": "Costanzana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 422,
+    "popolazione_totale": 815
+  },
+  {
+    "codice_istat": "002048",
+    "comune": "Cravagliana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 114,
+    "popolazione_totale": 240
+  },
+  {
+    "codice_istat": "002049",
+    "comune": "Crescentino",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3759,
+    "popolazione_femminile": 3744,
+    "popolazione_totale": 7503
+  },
+  {
+    "codice_istat": "002052",
+    "comune": "Crova",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 169,
+    "popolazione_totale": 347
+  },
+  {
+    "codice_istat": "002054",
+    "comune": "Desana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 529,
+    "popolazione_femminile": 568,
+    "popolazione_totale": 1097
+  },
+  {
+    "codice_istat": "002057",
+    "comune": "Fobello",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 108,
+    "popolazione_femminile": 77,
+    "popolazione_totale": 185
+  },
+  {
+    "codice_istat": "002058",
+    "comune": "Fontanetto Po",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 528,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 1036
+  },
+  {
+    "codice_istat": "002059",
+    "comune": "Formigliana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 235,
+    "popolazione_totale": 488
+  },
+  {
+    "codice_istat": "002061",
+    "comune": "Gattinara",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3651,
+    "popolazione_femminile": 3897,
+    "popolazione_totale": 7548
+  },
+  {
+    "codice_istat": "002062",
+    "comune": "Ghislarengo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 416,
+    "popolazione_femminile": 404,
+    "popolazione_totale": 820
+  },
+  {
+    "codice_istat": "002065",
+    "comune": "Greggio",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 162,
+    "popolazione_totale": 330
+  },
+  {
+    "codice_istat": "002066",
+    "comune": "Guardabosone",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 147,
+    "popolazione_femminile": 149,
+    "popolazione_totale": 296
+  },
+  {
+    "codice_istat": "002067",
+    "comune": "Lamporo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 231,
+    "popolazione_femminile": 237,
+    "popolazione_totale": 468
+  },
+  {
+    "codice_istat": "002068",
+    "comune": "Lenta",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 759
+  },
+  {
+    "codice_istat": "002070",
+    "comune": "Lignana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 288,
+    "popolazione_totale": 551
+  },
+  {
+    "codice_istat": "002071",
+    "comune": "Livorno Ferraris",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2048,
+    "popolazione_femminile": 2200,
+    "popolazione_totale": 4248
+  },
+  {
+    "codice_istat": "002072",
+    "comune": "Lozzolo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 369,
+    "popolazione_femminile": 384,
+    "popolazione_totale": 753
+  },
+  {
+    "codice_istat": "002078",
+    "comune": "Mollia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 55,
+    "popolazione_femminile": 45,
+    "popolazione_totale": 100
+  },
+  {
+    "codice_istat": "002079",
+    "comune": "Moncrivello",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 686,
+    "popolazione_femminile": 674,
+    "popolazione_totale": 1360
+  },
+  {
+    "codice_istat": "002082",
+    "comune": "Motta de' Conti",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 351,
+    "popolazione_femminile": 351,
+    "popolazione_totale": 702
+  },
+  {
+    "codice_istat": "002088",
+    "comune": "Olcenengo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 378,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 774
+  },
+  {
+    "codice_istat": "002089",
+    "comune": "Oldenico",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 115,
+    "popolazione_totale": 236
+  },
+  {
+    "codice_istat": "002090",
+    "comune": "Palazzolo Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 543,
+    "popolazione_femminile": 545,
+    "popolazione_totale": 1088
+  },
+  {
+    "codice_istat": "002091",
+    "comune": "Pertengo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 166,
+    "popolazione_femminile": 165,
+    "popolazione_totale": 331
+  },
+  {
+    "codice_istat": "002093",
+    "comune": "Pezzana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 628,
+    "popolazione_femminile": 661,
+    "popolazione_totale": 1289
+  },
+  {
+    "codice_istat": "002096",
+    "comune": "Pila",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 75,
+    "popolazione_femminile": 67,
+    "popolazione_totale": 142
+  },
+  {
+    "codice_istat": "002097",
+    "comune": "Piode",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 94,
+    "popolazione_totale": 193
+  },
+  {
+    "codice_istat": "002102",
+    "comune": "Postua",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 521
+  },
+  {
+    "codice_istat": "002104",
+    "comune": "Prarolo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 373,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 720
+  },
+  {
+    "codice_istat": "002107",
+    "comune": "Quarona",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1745,
+    "popolazione_femminile": 1970,
+    "popolazione_totale": 3715
+  },
+  {
+    "codice_istat": "002108",
+    "comune": "Quinto Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 381
+  },
+  {
+    "codice_istat": "002110",
+    "comune": "Rassa",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 41,
+    "popolazione_femminile": 25,
+    "popolazione_totale": 66
+  },
+  {
+    "codice_istat": "002113",
+    "comune": "Rimella",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 53,
+    "popolazione_totale": 139
+  },
+  {
+    "codice_istat": "002115",
+    "comune": "Rive",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 208,
+    "popolazione_femminile": 219,
+    "popolazione_totale": 427
+  },
+  {
+    "codice_istat": "002116",
+    "comune": "Roasio",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1030,
+    "popolazione_femminile": 1112,
+    "popolazione_totale": 2142
+  },
+  {
+    "codice_istat": "002118",
+    "comune": "Ronsecco",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 300,
+    "popolazione_totale": 560
+  },
+  {
+    "codice_istat": "002121",
+    "comune": "Rossa",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 70,
+    "popolazione_totale": 167
+  },
+  {
+    "codice_istat": "002122",
+    "comune": "Rovasenda",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 421,
+    "popolazione_femminile": 464,
+    "popolazione_totale": 885
+  },
+  {
+    "codice_istat": "002126",
+    "comune": "Salasco",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 106,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 194
+  },
+  {
+    "codice_istat": "002127",
+    "comune": "Sali Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 47,
+    "popolazione_femminile": 41,
+    "popolazione_totale": 88
+  },
+  {
+    "codice_istat": "002128",
+    "comune": "Saluggia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1840,
+    "popolazione_femminile": 1912,
+    "popolazione_totale": 3752
+  },
+  {
+    "codice_istat": "002131",
+    "comune": "San Germano Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 816,
+    "popolazione_femminile": 799,
+    "popolazione_totale": 1615
+  },
+  {
+    "codice_istat": "002035",
+    "comune": "San Giacomo Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 129,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 263
+  },
+  {
+    "codice_istat": "002133",
+    "comune": "Santhià",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3862,
+    "popolazione_femminile": 4162,
+    "popolazione_totale": 8024
+  },
+  {
+    "codice_istat": "002134",
+    "comune": "Scopa",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 190,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 381
+  },
+  {
+    "codice_istat": "002135",
+    "comune": "Scopello",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 183,
+    "popolazione_totale": 388
+  },
+  {
+    "codice_istat": "002137",
+    "comune": "Serravalle Sesia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2265,
+    "popolazione_femminile": 2371,
+    "popolazione_totale": 4636
+  },
+  {
+    "codice_istat": "002142",
+    "comune": "Stroppiana",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 603,
+    "popolazione_femminile": 596,
+    "popolazione_totale": 1199
+  },
+  {
+    "codice_istat": "002147",
+    "comune": "Tricerro",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 335,
+    "popolazione_femminile": 326,
+    "popolazione_totale": 661
+  },
+  {
+    "codice_istat": "002148",
+    "comune": "Trino",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3354,
+    "popolazione_femminile": 3406,
+    "popolazione_totale": 6760
+  },
+  {
+    "codice_istat": "002150",
+    "comune": "Tronzano Vercellese",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1610,
+    "popolazione_femminile": 1661,
+    "popolazione_totale": 3271
+  },
+  {
+    "codice_istat": "002152",
+    "comune": "Valduggia",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 894,
+    "popolazione_femminile": 891,
+    "popolazione_totale": 1785
+  },
+  {
+    "codice_istat": "002156",
+    "comune": "Varallo",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3275,
+    "popolazione_femminile": 3557,
+    "popolazione_totale": 6832
+  },
+  {
+    "codice_istat": "002158",
+    "comune": "Vercelli",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 22690,
+    "popolazione_femminile": 23701,
+    "popolazione_totale": 46391,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "002163",
+    "comune": "Villarboit",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 186,
+    "popolazione_femminile": 180,
+    "popolazione_totale": 366
+  },
+  {
+    "codice_istat": "002164",
+    "comune": "Villata",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 766,
+    "popolazione_femminile": 752,
+    "popolazione_totale": 1518
+  },
+  {
+    "codice_istat": "002166",
+    "comune": "Vocca",
+    "provincia": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "popolazione_maschile": 83,
+    "popolazione_femminile": 73,
+    "popolazione_totale": 156
+  }
+]

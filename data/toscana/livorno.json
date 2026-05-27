@@ -1,0 +1,193 @@
+[
+  {
+    "codice_istat": "049001",
+    "comune": "Bibbona",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1613,
+    "popolazione_femminile": 1559,
+    "popolazione_totale": 3172
+  },
+  {
+    "codice_istat": "049002",
+    "comune": "Campiglia Marittima",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5914,
+    "popolazione_femminile": 6321,
+    "popolazione_totale": 12235
+  },
+  {
+    "codice_istat": "049003",
+    "comune": "Campo nell'Elba",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2326,
+    "popolazione_femminile": 2303,
+    "popolazione_totale": 4629
+  },
+  {
+    "codice_istat": "049004",
+    "comune": "Capoliveri",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1974,
+    "popolazione_femminile": 1996,
+    "popolazione_totale": 3970
+  },
+  {
+    "codice_istat": "049005",
+    "comune": "Capraia Isola",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 186,
+    "popolazione_femminile": 161,
+    "popolazione_totale": 347
+  },
+  {
+    "codice_istat": "049006",
+    "comune": "Castagneto Carducci",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4274,
+    "popolazione_femminile": 4365,
+    "popolazione_totale": 8639
+  },
+  {
+    "codice_istat": "049007",
+    "comune": "Cecina",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 13434,
+    "popolazione_femminile": 14588,
+    "popolazione_totale": 28022
+  },
+  {
+    "codice_istat": "049008",
+    "comune": "Collesalvetti",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 8034,
+    "popolazione_femminile": 8356,
+    "popolazione_totale": 16390
+  },
+  {
+    "codice_istat": "049009",
+    "comune": "Livorno",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 73718,
+    "popolazione_femminile": 78733,
+    "popolazione_totale": 152451,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "049010",
+    "comune": "Marciana",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 998,
+    "popolazione_femminile": 1051,
+    "popolazione_totale": 2049
+  },
+  {
+    "codice_istat": "049011",
+    "comune": "Marciana Marina",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 913,
+    "popolazione_femminile": 939,
+    "popolazione_totale": 1852
+  },
+  {
+    "codice_istat": "049012",
+    "comune": "Piombino",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 15922,
+    "popolazione_femminile": 16452,
+    "popolazione_totale": 32374
+  },
+  {
+    "codice_istat": "049013",
+    "comune": "Porto Azzurro",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1906,
+    "popolazione_femminile": 1781,
+    "popolazione_totale": 3687
+  },
+  {
+    "codice_istat": "049014",
+    "comune": "Portoferraio",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5744,
+    "popolazione_femminile": 6004,
+    "popolazione_totale": 11748
+  },
+  {
+    "codice_istat": "049021",
+    "comune": "Rio",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1743,
+    "popolazione_femminile": 1684,
+    "popolazione_totale": 3427
+  },
+  {
+    "codice_istat": "049017",
+    "comune": "Rosignano Marittimo",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 14631,
+    "popolazione_femminile": 15472,
+    "popolazione_totale": 30103
+  },
+  {
+    "codice_istat": "049018",
+    "comune": "San Vincenzo",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2997,
+    "popolazione_femminile": 3345,
+    "popolazione_totale": 6342
+  },
+  {
+    "codice_istat": "049019",
+    "comune": "Sassetta",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 278,
+    "popolazione_femminile": 276,
+    "popolazione_totale": 554
+  },
+  {
+    "codice_istat": "049020",
+    "comune": "Suvereto",
+    "provincia": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1436,
+    "popolazione_femminile": 1466,
+    "popolazione_totale": 2902
+  }
+]

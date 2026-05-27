@@ -1,0 +1,73 @@
+[
+  {
+    "codice_istat": "100001",
+    "comune": "Cantagallo",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 1587,
+    "popolazione_femminile": 1501,
+    "popolazione_totale": 3088
+  },
+  {
+    "codice_istat": "100002",
+    "comune": "Carmignano",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 7183,
+    "popolazione_femminile": 7317,
+    "popolazione_totale": 14500
+  },
+  {
+    "codice_istat": "100003",
+    "comune": "Montemurlo",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 9507,
+    "popolazione_femminile": 9662,
+    "popolazione_totale": 19169
+  },
+  {
+    "codice_istat": "100004",
+    "comune": "Poggio a Caiano",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 4824,
+    "popolazione_femminile": 5084,
+    "popolazione_totale": 9908
+  },
+  {
+    "codice_istat": "100005",
+    "comune": "Prato",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 98099,
+    "popolazione_femminile": 100228,
+    "popolazione_totale": 198327,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "100006",
+    "comune": "Vaiano",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 4846,
+    "popolazione_femminile": 5119,
+    "popolazione_totale": 9965
+  },
+  {
+    "codice_istat": "100007",
+    "comune": "Vernio",
+    "provincia": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "popolazione_maschile": 3087,
+    "popolazione_femminile": 3108,
+    "popolazione_totale": 6195
+  }
+]

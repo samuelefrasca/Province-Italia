@@ -1,0 +1,693 @@
+[
+  {
+    "codice_istat": "009001",
+    "comune": "Alassio",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 4639,
+    "popolazione_femminile": 5266,
+    "popolazione_totale": 9905
+  },
+  {
+    "codice_istat": "009002",
+    "comune": "Albenga",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 11738,
+    "popolazione_femminile": 11932,
+    "popolazione_totale": 23670
+  },
+  {
+    "codice_istat": "009004",
+    "comune": "Albisola Superiore",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 4475,
+    "popolazione_femminile": 4996,
+    "popolazione_totale": 9471
+  },
+  {
+    "codice_istat": "009003",
+    "comune": "Albissola Marina",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 2469,
+    "popolazione_femminile": 2656,
+    "popolazione_totale": 5125
+  },
+  {
+    "codice_istat": "009005",
+    "comune": "Altare",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 981,
+    "popolazione_femminile": 941,
+    "popolazione_totale": 1922
+  },
+  {
+    "codice_istat": "009006",
+    "comune": "Andora",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 3526,
+    "popolazione_femminile": 3729,
+    "popolazione_totale": 7255
+  },
+  {
+    "codice_istat": "009007",
+    "comune": "Arnasco",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 529
+  },
+  {
+    "codice_istat": "009008",
+    "comune": "Balestrino",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 264,
+    "popolazione_totale": 522
+  },
+  {
+    "codice_istat": "009009",
+    "comune": "Bardineto",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 385,
+    "popolazione_totale": 764
+  },
+  {
+    "codice_istat": "009010",
+    "comune": "Bergeggi",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 506,
+    "popolazione_femminile": 527,
+    "popolazione_totale": 1033
+  },
+  {
+    "codice_istat": "009011",
+    "comune": "Boissano",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1324,
+    "popolazione_femminile": 1260,
+    "popolazione_totale": 2584
+  },
+  {
+    "codice_istat": "009012",
+    "comune": "Borghetto Santo Spirito",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 2174,
+    "popolazione_femminile": 2375,
+    "popolazione_totale": 4549
+  },
+  {
+    "codice_istat": "009013",
+    "comune": "Borgio Verezzi",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1023,
+    "popolazione_femminile": 1058,
+    "popolazione_totale": 2081
+  },
+  {
+    "codice_istat": "009014",
+    "comune": "Bormida",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 306
+  },
+  {
+    "codice_istat": "009015",
+    "comune": "Cairo Montenotte",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 6517,
+    "popolazione_femminile": 6443,
+    "popolazione_totale": 12960
+  },
+  {
+    "codice_istat": "009016",
+    "comune": "Calice Ligure",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 816,
+    "popolazione_femminile": 858,
+    "popolazione_totale": 1674
+  },
+  {
+    "codice_istat": "009017",
+    "comune": "Calizzano",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 738,
+    "popolazione_totale": 1457
+  },
+  {
+    "codice_istat": "009018",
+    "comune": "Carcare",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 2454,
+    "popolazione_femminile": 2755,
+    "popolazione_totale": 5209
+  },
+  {
+    "codice_istat": "009019",
+    "comune": "Casanova Lerrone",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 354,
+    "popolazione_femminile": 384,
+    "popolazione_totale": 738
+  },
+  {
+    "codice_istat": "009020",
+    "comune": "Castelbianco",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 154,
+    "popolazione_femminile": 165,
+    "popolazione_totale": 319
+  },
+  {
+    "codice_istat": "009021",
+    "comune": "Castelvecchio di Rocca Barbena",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 77,
+    "popolazione_femminile": 56,
+    "popolazione_totale": 133
+  },
+  {
+    "codice_istat": "009022",
+    "comune": "Celle Ligure",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 2320,
+    "popolazione_femminile": 2505,
+    "popolazione_totale": 4825
+  },
+  {
+    "codice_istat": "009023",
+    "comune": "Cengio",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1758,
+    "popolazione_femminile": 1747,
+    "popolazione_totale": 3505
+  },
+  {
+    "codice_istat": "009024",
+    "comune": "Ceriale",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 2675,
+    "popolazione_femminile": 2726,
+    "popolazione_totale": 5401
+  },
+  {
+    "codice_istat": "009025",
+    "comune": "Cisano sul Neva",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1053,
+    "popolazione_femminile": 1079,
+    "popolazione_totale": 2132
+  },
+  {
+    "codice_istat": "009026",
+    "comune": "Cosseria",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 518,
+    "popolazione_femminile": 511,
+    "popolazione_totale": 1029
+  },
+  {
+    "codice_istat": "009027",
+    "comune": "Dego",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 905,
+    "popolazione_femminile": 921,
+    "popolazione_totale": 1826
+  },
+  {
+    "codice_istat": "009028",
+    "comune": "Erli",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 119,
+    "popolazione_totale": 245
+  },
+  {
+    "codice_istat": "009029",
+    "comune": "Finale Ligure",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 5293,
+    "popolazione_femminile": 5610,
+    "popolazione_totale": 10903
+  },
+  {
+    "codice_istat": "009030",
+    "comune": "Garlenda",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 695,
+    "popolazione_femminile": 702,
+    "popolazione_totale": 1397
+  },
+  {
+    "codice_istat": "009031",
+    "comune": "Giustenice",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 484,
+    "popolazione_femminile": 508,
+    "popolazione_totale": 992
+  },
+  {
+    "codice_istat": "009032",
+    "comune": "Giusvalla",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 196,
+    "popolazione_femminile": 193,
+    "popolazione_totale": 389
+  },
+  {
+    "codice_istat": "009033",
+    "comune": "Laigueglia",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 787,
+    "popolazione_femminile": 894,
+    "popolazione_totale": 1681
+  },
+  {
+    "codice_istat": "009034",
+    "comune": "Loano",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 5070,
+    "popolazione_femminile": 5640,
+    "popolazione_totale": 10710
+  },
+  {
+    "codice_istat": "009035",
+    "comune": "Magliolo",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 496,
+    "popolazione_femminile": 496,
+    "popolazione_totale": 992
+  },
+  {
+    "codice_istat": "009036",
+    "comune": "Mallare",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1017
+  },
+  {
+    "codice_istat": "009037",
+    "comune": "Massimino",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 51,
+    "popolazione_femminile": 51,
+    "popolazione_totale": 102
+  },
+  {
+    "codice_istat": "009038",
+    "comune": "Millesimo",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1625,
+    "popolazione_femminile": 1709,
+    "popolazione_totale": 3334
+  },
+  {
+    "codice_istat": "009039",
+    "comune": "Mioglia",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 245,
+    "popolazione_femminile": 257,
+    "popolazione_totale": 502
+  },
+  {
+    "codice_istat": "009040",
+    "comune": "Murialdo",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 715
+  },
+  {
+    "codice_istat": "009041",
+    "comune": "Nasino",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 77,
+    "popolazione_femminile": 68,
+    "popolazione_totale": 145
+  },
+  {
+    "codice_istat": "009042",
+    "comune": "Noli",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1152,
+    "popolazione_femminile": 1221,
+    "popolazione_totale": 2373
+  },
+  {
+    "codice_istat": "009043",
+    "comune": "Onzo",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 101,
+    "popolazione_femminile": 108,
+    "popolazione_totale": 209
+  },
+  {
+    "codice_istat": "009044",
+    "comune": "Orco Feglino",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 460,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 901
+  },
+  {
+    "codice_istat": "009045",
+    "comune": "Ortovero",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 862,
+    "popolazione_totale": 1689
+  },
+  {
+    "codice_istat": "009046",
+    "comune": "Osiglia",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 201,
+    "popolazione_femminile": 200,
+    "popolazione_totale": 401
+  },
+  {
+    "codice_istat": "009047",
+    "comune": "Pallare",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 426,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 867
+  },
+  {
+    "codice_istat": "009048",
+    "comune": "Piana Crixia",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 378,
+    "popolazione_femminile": 371,
+    "popolazione_totale": 749
+  },
+  {
+    "codice_istat": "009049",
+    "comune": "Pietra Ligure",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 3920,
+    "popolazione_femminile": 4304,
+    "popolazione_totale": 8224
+  },
+  {
+    "codice_istat": "009050",
+    "comune": "Plodio",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 307,
+    "popolazione_femminile": 309,
+    "popolazione_totale": 616
+  },
+  {
+    "codice_istat": "009051",
+    "comune": "Pontinvrea",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 411,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 807
+  },
+  {
+    "codice_istat": "009052",
+    "comune": "Quiliano",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 3338,
+    "popolazione_femminile": 3480,
+    "popolazione_totale": 6818
+  },
+  {
+    "codice_istat": "009053",
+    "comune": "Rialto",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 259,
+    "popolazione_totale": 526
+  },
+  {
+    "codice_istat": "009054",
+    "comune": "Roccavignale",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 392,
+    "popolazione_femminile": 363,
+    "popolazione_totale": 755
+  },
+  {
+    "codice_istat": "009055",
+    "comune": "Sassello",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 862,
+    "popolazione_femminile": 838,
+    "popolazione_totale": 1700
+  },
+  {
+    "codice_istat": "009056",
+    "comune": "Savona",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 27815,
+    "popolazione_femminile": 30606,
+    "popolazione_totale": 58421,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "009057",
+    "comune": "Spotorno",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1589,
+    "popolazione_femminile": 1725,
+    "popolazione_totale": 3314
+  },
+  {
+    "codice_istat": "009058",
+    "comune": "Stella",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1500,
+    "popolazione_femminile": 1445,
+    "popolazione_totale": 2945
+  },
+  {
+    "codice_istat": "009059",
+    "comune": "Stellanello",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 416,
+    "popolazione_femminile": 390,
+    "popolazione_totale": 806
+  },
+  {
+    "codice_istat": "009060",
+    "comune": "Testico",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 87,
+    "popolazione_totale": 173
+  },
+  {
+    "codice_istat": "009061",
+    "comune": "Toirano",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1329,
+    "popolazione_femminile": 1395,
+    "popolazione_totale": 2724
+  },
+  {
+    "codice_istat": "009062",
+    "comune": "Tovo San Giacomo",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1233,
+    "popolazione_femminile": 1274,
+    "popolazione_totale": 2507
+  },
+  {
+    "codice_istat": "009063",
+    "comune": "Urbe",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 345,
+    "popolazione_femminile": 306,
+    "popolazione_totale": 651
+  },
+  {
+    "codice_istat": "009064",
+    "comune": "Vado Ligure",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 3867,
+    "popolazione_femminile": 4100,
+    "popolazione_totale": 7967
+  },
+  {
+    "codice_istat": "009065",
+    "comune": "Varazze",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 6041,
+    "popolazione_femminile": 6368,
+    "popolazione_totale": 12409
+  },
+  {
+    "codice_istat": "009066",
+    "comune": "Vendone",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 173,
+    "popolazione_totale": 343
+  },
+  {
+    "codice_istat": "009067",
+    "comune": "Vezzi Portio",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 390,
+    "popolazione_femminile": 405,
+    "popolazione_totale": 795
+  },
+  {
+    "codice_istat": "009068",
+    "comune": "Villanova d'Albenga",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 1435,
+    "popolazione_femminile": 1453,
+    "popolazione_totale": 2888
+  },
+  {
+    "codice_istat": "009069",
+    "comune": "Zuccarello",
+    "provincia": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 151,
+    "popolazione_totale": 284
+  }
+]

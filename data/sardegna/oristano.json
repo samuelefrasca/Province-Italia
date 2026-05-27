@@ -1,0 +1,873 @@
+[
+  {
+    "codice_istat": "115001",
+    "comune": "Abbasanta",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1244,
+    "popolazione_femminile": 1295,
+    "popolazione_totale": 2539
+  },
+  {
+    "codice_istat": "115002",
+    "comune": "Aidomaggiore",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 189,
+    "popolazione_totale": 374
+  },
+  {
+    "codice_istat": "115003",
+    "comune": "Albagiara",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 107,
+    "popolazione_femminile": 112,
+    "popolazione_totale": 219
+  },
+  {
+    "codice_istat": "115004",
+    "comune": "Ales",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 625,
+    "popolazione_femminile": 604,
+    "popolazione_totale": 1229
+  },
+  {
+    "codice_istat": "115005",
+    "comune": "Allai",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 163,
+    "popolazione_totale": 333
+  },
+  {
+    "codice_istat": "115006",
+    "comune": "Arborea",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1843,
+    "popolazione_femminile": 1858,
+    "popolazione_totale": 3701
+  },
+  {
+    "codice_istat": "115007",
+    "comune": "Ardauli",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 350,
+    "popolazione_femminile": 388,
+    "popolazione_totale": 738
+  },
+  {
+    "codice_istat": "115008",
+    "comune": "Assolo",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 153,
+    "popolazione_totale": 321
+  },
+  {
+    "codice_istat": "115009",
+    "comune": "Asuni",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 148,
+    "popolazione_femminile": 147,
+    "popolazione_totale": 295
+  },
+  {
+    "codice_istat": "115010",
+    "comune": "Baradili",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 40,
+    "popolazione_femminile": 40,
+    "popolazione_totale": 80
+  },
+  {
+    "codice_istat": "115011",
+    "comune": "Baratili San Pietro",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 587,
+    "popolazione_femminile": 607,
+    "popolazione_totale": 1194
+  },
+  {
+    "codice_istat": "115012",
+    "comune": "Baressa",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 263,
+    "popolazione_femminile": 265,
+    "popolazione_totale": 528
+  },
+  {
+    "codice_istat": "115013",
+    "comune": "Bauladu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 305,
+    "popolazione_femminile": 308,
+    "popolazione_totale": 613
+  },
+  {
+    "codice_istat": "115014",
+    "comune": "Bidonì",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 59,
+    "popolazione_femminile": 53,
+    "popolazione_totale": 112
+  },
+  {
+    "codice_istat": "115015",
+    "comune": "Bonarcado",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 752,
+    "popolazione_femminile": 769,
+    "popolazione_totale": 1521
+  },
+  {
+    "codice_istat": "115016",
+    "comune": "Boroneddu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 74,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "115017",
+    "comune": "Bosa",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3560,
+    "popolazione_femminile": 3732,
+    "popolazione_totale": 7292
+  },
+  {
+    "codice_istat": "115018",
+    "comune": "Busachi",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 537,
+    "popolazione_femminile": 562,
+    "popolazione_totale": 1099
+  },
+  {
+    "codice_istat": "115019",
+    "comune": "Cabras",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4415,
+    "popolazione_femminile": 4311,
+    "popolazione_totale": 8726
+  },
+  {
+    "codice_istat": "115020",
+    "comune": "Cuglieri",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1206,
+    "popolazione_femminile": 1205,
+    "popolazione_totale": 2411
+  },
+  {
+    "codice_istat": "115021",
+    "comune": "Curcuris",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 146,
+    "popolazione_femminile": 143,
+    "popolazione_totale": 289
+  },
+  {
+    "codice_istat": "115022",
+    "comune": "Flussio",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 179,
+    "popolazione_femminile": 207,
+    "popolazione_totale": 386
+  },
+  {
+    "codice_istat": "115023",
+    "comune": "Fordongianus",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 797
+  },
+  {
+    "codice_istat": "115024",
+    "comune": "Ghilarza",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1917,
+    "popolazione_femminile": 2121,
+    "popolazione_totale": 4038
+  },
+  {
+    "codice_istat": "115025",
+    "comune": "Gonnoscodina",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 221,
+    "popolazione_femminile": 200,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "115026",
+    "comune": "Gonnosnò",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 334,
+    "popolazione_femminile": 339,
+    "popolazione_totale": 673
+  },
+  {
+    "codice_istat": "115027",
+    "comune": "Gonnostramatza",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 380,
+    "popolazione_femminile": 397,
+    "popolazione_totale": 777
+  },
+  {
+    "codice_istat": "115028",
+    "comune": "Laconi",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 786,
+    "popolazione_femminile": 803,
+    "popolazione_totale": 1589
+  },
+  {
+    "codice_istat": "115029",
+    "comune": "Magomadas",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 594
+  },
+  {
+    "codice_istat": "115030",
+    "comune": "Marrubiu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2276,
+    "popolazione_femminile": 2223,
+    "popolazione_totale": 4499
+  },
+  {
+    "codice_istat": "115031",
+    "comune": "Masullas",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 498,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 979
+  },
+  {
+    "codice_istat": "115032",
+    "comune": "Milis",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 712,
+    "popolazione_femminile": 682,
+    "popolazione_totale": 1394
+  },
+  {
+    "codice_istat": "115033",
+    "comune": "Modolo",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 82,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 170
+  },
+  {
+    "codice_istat": "115034",
+    "comune": "Mogorella",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 190,
+    "popolazione_totale": 388
+  },
+  {
+    "codice_istat": "115035",
+    "comune": "Mogoro",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1886,
+    "popolazione_femminile": 1898,
+    "popolazione_totale": 3784
+  },
+  {
+    "codice_istat": "115036",
+    "comune": "Montresta",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 218,
+    "popolazione_femminile": 216,
+    "popolazione_totale": 434
+  },
+  {
+    "codice_istat": "115037",
+    "comune": "Morgongiori",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 295,
+    "popolazione_totale": 597
+  },
+  {
+    "codice_istat": "115038",
+    "comune": "Narbolia",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 812,
+    "popolazione_femminile": 808,
+    "popolazione_totale": 1620
+  },
+  {
+    "codice_istat": "115039",
+    "comune": "Neoneli",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 288,
+    "popolazione_femminile": 301,
+    "popolazione_totale": 589
+  },
+  {
+    "codice_istat": "115040",
+    "comune": "Norbello",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 607,
+    "popolazione_femminile": 518,
+    "popolazione_totale": 1125
+  },
+  {
+    "codice_istat": "115041",
+    "comune": "Nughedu Santa Vittoria",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 217,
+    "popolazione_totale": 422
+  },
+  {
+    "codice_istat": "115042",
+    "comune": "Nurachi",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 821,
+    "popolazione_femminile": 839,
+    "popolazione_totale": 1660
+  },
+  {
+    "codice_istat": "115043",
+    "comune": "Nureci",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 142,
+    "popolazione_femminile": 140,
+    "popolazione_totale": 282
+  },
+  {
+    "codice_istat": "115044",
+    "comune": "Ollastra",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 531,
+    "popolazione_totale": 1067
+  },
+  {
+    "codice_istat": "115045",
+    "comune": "Oristano",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 14157,
+    "popolazione_femminile": 15731,
+    "popolazione_totale": 29888,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "115046",
+    "comune": "Palmas Arborea",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 736,
+    "popolazione_femminile": 758,
+    "popolazione_totale": 1494
+  },
+  {
+    "codice_istat": "115047",
+    "comune": "Pau",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 138,
+    "popolazione_totale": 271
+  },
+  {
+    "codice_istat": "115048",
+    "comune": "Paulilatino",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1038,
+    "popolazione_femminile": 1000,
+    "popolazione_totale": 2038
+  },
+  {
+    "codice_istat": "115049",
+    "comune": "Pompu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 115,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 217
+  },
+  {
+    "codice_istat": "115050",
+    "comune": "Riola Sardo",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1006,
+    "popolazione_femminile": 949,
+    "popolazione_totale": 1955
+  },
+  {
+    "codice_istat": "115051",
+    "comune": "Ruinas",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 276,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 569
+  },
+  {
+    "codice_istat": "115052",
+    "comune": "Sagama",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 96,
+    "popolazione_femminile": 90,
+    "popolazione_totale": 186
+  },
+  {
+    "codice_istat": "115053",
+    "comune": "Samugheo",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1311,
+    "popolazione_femminile": 1325,
+    "popolazione_totale": 2636
+  },
+  {
+    "codice_istat": "115054",
+    "comune": "San Nicolò d'Arcidano",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1185,
+    "popolazione_femminile": 1211,
+    "popolazione_totale": 2396
+  },
+  {
+    "codice_istat": "115055",
+    "comune": "San Vero Milis",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1212,
+    "popolazione_femminile": 1202,
+    "popolazione_totale": 2414
+  },
+  {
+    "codice_istat": "115056",
+    "comune": "Santa Giusta",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2283,
+    "popolazione_femminile": 2275,
+    "popolazione_totale": 4558
+  },
+  {
+    "codice_istat": "115057",
+    "comune": "Santu Lussurgiu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1084,
+    "popolazione_femminile": 1066,
+    "popolazione_totale": 2150
+  },
+  {
+    "codice_istat": "115058",
+    "comune": "Scano di Montiferro",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 664,
+    "popolazione_femminile": 696,
+    "popolazione_totale": 1360
+  },
+  {
+    "codice_istat": "115059",
+    "comune": "Sedilo",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 961,
+    "popolazione_femminile": 958,
+    "popolazione_totale": 1919
+  },
+  {
+    "codice_istat": "115060",
+    "comune": "Seneghe",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 782,
+    "popolazione_femminile": 795,
+    "popolazione_totale": 1577
+  },
+  {
+    "codice_istat": "115061",
+    "comune": "Senis",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 199,
+    "popolazione_totale": 369
+  },
+  {
+    "codice_istat": "115062",
+    "comune": "Sennariolo",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 77,
+    "popolazione_femminile": 76,
+    "popolazione_totale": 153
+  },
+  {
+    "codice_istat": "115063",
+    "comune": "Siamaggiore",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 421,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 848
+  },
+  {
+    "codice_istat": "115064",
+    "comune": "Siamanna",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 370,
+    "popolazione_femminile": 365,
+    "popolazione_totale": 735
+  },
+  {
+    "codice_istat": "115065",
+    "comune": "Siapiccia",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 166,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 334
+  },
+  {
+    "codice_istat": "115066",
+    "comune": "Simala",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 141,
+    "popolazione_totale": 281
+  },
+  {
+    "codice_istat": "115067",
+    "comune": "Simaxis",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1065,
+    "popolazione_femminile": 1055,
+    "popolazione_totale": 2120
+  },
+  {
+    "codice_istat": "115068",
+    "comune": "Sini",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 219,
+    "popolazione_totale": 520
+  },
+  {
+    "codice_istat": "115069",
+    "comune": "Siris",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 127,
+    "popolazione_femminile": 100,
+    "popolazione_totale": 227
+  },
+  {
+    "codice_istat": "115070",
+    "comune": "Soddì",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 54,
+    "popolazione_femminile": 61,
+    "popolazione_totale": 115
+  },
+  {
+    "codice_istat": "115071",
+    "comune": "Solarussa",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1098,
+    "popolazione_femminile": 1093,
+    "popolazione_totale": 2191
+  },
+  {
+    "codice_istat": "115072",
+    "comune": "Sorradile",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 162,
+    "popolazione_femminile": 171,
+    "popolazione_totale": 333
+  },
+  {
+    "codice_istat": "115073",
+    "comune": "Suni",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 465,
+    "popolazione_femminile": 503,
+    "popolazione_totale": 968
+  },
+  {
+    "codice_istat": "115074",
+    "comune": "Tadasuni",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 67,
+    "popolazione_femminile": 58,
+    "popolazione_totale": 125
+  },
+  {
+    "codice_istat": "115075",
+    "comune": "Terralba",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4872,
+    "popolazione_femminile": 4678,
+    "popolazione_totale": 9550
+  },
+  {
+    "codice_istat": "115076",
+    "comune": "Tinnura",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 119,
+    "popolazione_femminile": 123,
+    "popolazione_totale": 242
+  },
+  {
+    "codice_istat": "115077",
+    "comune": "Tramatza",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 444,
+    "popolazione_totale": 887
+  },
+  {
+    "codice_istat": "115078",
+    "comune": "Tresnuraghes",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 500,
+    "popolazione_femminile": 537,
+    "popolazione_totale": 1037
+  },
+  {
+    "codice_istat": "115079",
+    "comune": "Ulà Tirso",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 215,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 447
+  },
+  {
+    "codice_istat": "115080",
+    "comune": "Uras",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1269,
+    "popolazione_femminile": 1329,
+    "popolazione_totale": 2598
+  },
+  {
+    "codice_istat": "115081",
+    "comune": "Usellus",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 339,
+    "popolazione_femminile": 325,
+    "popolazione_totale": 664
+  },
+  {
+    "codice_istat": "115082",
+    "comune": "Villa Sant'Antonio",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 163,
+    "popolazione_femminile": 150,
+    "popolazione_totale": 313
+  },
+  {
+    "codice_istat": "115083",
+    "comune": "Villa Verde",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 122,
+    "popolazione_femminile": 136,
+    "popolazione_totale": 258
+  },
+  {
+    "codice_istat": "115084",
+    "comune": "Villanova Truschedu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 150,
+    "popolazione_totale": 283
+  },
+  {
+    "codice_istat": "115085",
+    "comune": "Villaurbana",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 722,
+    "popolazione_femminile": 717,
+    "popolazione_totale": 1439
+  },
+  {
+    "codice_istat": "115086",
+    "comune": "Zeddiani",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 548,
+    "popolazione_femminile": 559,
+    "popolazione_totale": 1107
+  },
+  {
+    "codice_istat": "115087",
+    "comune": "Zerfaliu",
+    "provincia": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "popolazione_maschile": 470,
+    "popolazione_femminile": 509,
+    "popolazione_totale": 979
+  }
+]

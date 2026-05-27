@@ -1,0 +1,503 @@
+[
+  {
+    "codice_istat": "102001",
+    "comune": "Acquaro",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 855,
+    "popolazione_femminile": 925,
+    "popolazione_totale": 1780
+  },
+  {
+    "codice_istat": "102002",
+    "comune": "Arena",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 579,
+    "popolazione_totale": 1144
+  },
+  {
+    "codice_istat": "102003",
+    "comune": "Briatico",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1815,
+    "popolazione_femminile": 1763,
+    "popolazione_totale": 3578
+  },
+  {
+    "codice_istat": "102004",
+    "comune": "Brognaturo",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 414,
+    "popolazione_femminile": 305,
+    "popolazione_totale": 719
+  },
+  {
+    "codice_istat": "102005",
+    "comune": "Capistrano",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 454,
+    "popolazione_femminile": 477,
+    "popolazione_totale": 931
+  },
+  {
+    "codice_istat": "102006",
+    "comune": "Cessaniti",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1431,
+    "popolazione_femminile": 1413,
+    "popolazione_totale": 2844
+  },
+  {
+    "codice_istat": "102007",
+    "comune": "Dasà",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 535,
+    "popolazione_totale": 1067
+  },
+  {
+    "codice_istat": "102008",
+    "comune": "Dinami",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 803,
+    "popolazione_femminile": 839,
+    "popolazione_totale": 1642
+  },
+  {
+    "codice_istat": "102009",
+    "comune": "Drapia",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1045,
+    "popolazione_femminile": 1050,
+    "popolazione_totale": 2095
+  },
+  {
+    "codice_istat": "102010",
+    "comune": "Fabrizia",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 921,
+    "popolazione_femminile": 1007,
+    "popolazione_totale": 1928
+  },
+  {
+    "codice_istat": "102011",
+    "comune": "Filadelfia",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 2417,
+    "popolazione_femminile": 2525,
+    "popolazione_totale": 4942
+  },
+  {
+    "codice_istat": "102012",
+    "comune": "Filandari",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 857,
+    "popolazione_femminile": 880,
+    "popolazione_totale": 1737
+  },
+  {
+    "codice_istat": "102013",
+    "comune": "Filogaso",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 668,
+    "popolazione_femminile": 638,
+    "popolazione_totale": 1306
+  },
+  {
+    "codice_istat": "102014",
+    "comune": "Francavilla Angitola",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 925,
+    "popolazione_femminile": 873,
+    "popolazione_totale": 1798
+  },
+  {
+    "codice_istat": "102015",
+    "comune": "Francica",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 813,
+    "popolazione_femminile": 795,
+    "popolazione_totale": 1608
+  },
+  {
+    "codice_istat": "102016",
+    "comune": "Gerocarne",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 934,
+    "popolazione_femminile": 922,
+    "popolazione_totale": 1856
+  },
+  {
+    "codice_istat": "102017",
+    "comune": "Jonadi",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 2333,
+    "popolazione_femminile": 2435,
+    "popolazione_totale": 4768
+  },
+  {
+    "codice_istat": "102018",
+    "comune": "Joppolo",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 866,
+    "popolazione_femminile": 845,
+    "popolazione_totale": 1711
+  },
+  {
+    "codice_istat": "102019",
+    "comune": "Limbadi",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1569,
+    "popolazione_femminile": 1615,
+    "popolazione_totale": 3184
+  },
+  {
+    "codice_istat": "102020",
+    "comune": "Maierato",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1052,
+    "popolazione_femminile": 1100,
+    "popolazione_totale": 2152
+  },
+  {
+    "codice_istat": "102021",
+    "comune": "Mileto",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 3154,
+    "popolazione_femminile": 3074,
+    "popolazione_totale": 6228
+  },
+  {
+    "codice_istat": "102022",
+    "comune": "Mongiana",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 288,
+    "popolazione_femminile": 285,
+    "popolazione_totale": 573
+  },
+  {
+    "codice_istat": "102023",
+    "comune": "Monterosso Calabro",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 696,
+    "popolazione_femminile": 744,
+    "popolazione_totale": 1440
+  },
+  {
+    "codice_istat": "102024",
+    "comune": "Nardodipace",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 497,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1018
+  },
+  {
+    "codice_istat": "102025",
+    "comune": "Nicotera",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 3629,
+    "popolazione_femminile": 3450,
+    "popolazione_totale": 7079
+  },
+  {
+    "codice_istat": "102026",
+    "comune": "Parghelia",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 620,
+    "popolazione_femminile": 651,
+    "popolazione_totale": 1271
+  },
+  {
+    "codice_istat": "102027",
+    "comune": "Pizzo",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 4253,
+    "popolazione_femminile": 4415,
+    "popolazione_totale": 8668
+  },
+  {
+    "codice_istat": "102028",
+    "comune": "Pizzoni",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 448,
+    "popolazione_femminile": 468,
+    "popolazione_totale": 916
+  },
+  {
+    "codice_istat": "102029",
+    "comune": "Polia",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 371,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 770
+  },
+  {
+    "codice_istat": "102030",
+    "comune": "Ricadi",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 2597,
+    "popolazione_femminile": 2451,
+    "popolazione_totale": 5048
+  },
+  {
+    "codice_istat": "102031",
+    "comune": "Rombiolo",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 2124,
+    "popolazione_femminile": 2077,
+    "popolazione_totale": 4201
+  },
+  {
+    "codice_istat": "102032",
+    "comune": "San Calogero",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1836,
+    "popolazione_femminile": 1876,
+    "popolazione_totale": 3712
+  },
+  {
+    "codice_istat": "102033",
+    "comune": "San Costantino Calabro",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 995,
+    "popolazione_femminile": 1036,
+    "popolazione_totale": 2031
+  },
+  {
+    "codice_istat": "102034",
+    "comune": "San Gregorio d'Ippona",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1327,
+    "popolazione_femminile": 1247,
+    "popolazione_totale": 2574
+  },
+  {
+    "codice_istat": "102035",
+    "comune": "San Nicola da Crissa",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 610,
+    "popolazione_femminile": 564,
+    "popolazione_totale": 1174
+  },
+  {
+    "codice_istat": "102036",
+    "comune": "Sant'Onofrio",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1323,
+    "popolazione_femminile": 1332,
+    "popolazione_totale": 2655
+  },
+  {
+    "codice_istat": "102037",
+    "comune": "Serra San Bruno",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 3150,
+    "popolazione_femminile": 3102,
+    "popolazione_totale": 6252
+  },
+  {
+    "codice_istat": "102038",
+    "comune": "Simbario",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 460,
+    "popolazione_femminile": 450,
+    "popolazione_totale": 910
+  },
+  {
+    "codice_istat": "102039",
+    "comune": "Sorianello",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1068
+  },
+  {
+    "codice_istat": "102040",
+    "comune": "Soriano Calabro",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1377,
+    "popolazione_femminile": 1406,
+    "popolazione_totale": 2783
+  },
+  {
+    "codice_istat": "102041",
+    "comune": "Spadola",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 795
+  },
+  {
+    "codice_istat": "102042",
+    "comune": "Spilinga",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 680,
+    "popolazione_femminile": 665,
+    "popolazione_totale": 1345
+  },
+  {
+    "codice_istat": "102043",
+    "comune": "Stefanaconi",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 1123,
+    "popolazione_femminile": 1125,
+    "popolazione_totale": 2248
+  },
+  {
+    "codice_istat": "102044",
+    "comune": "Tropea",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 2725,
+    "popolazione_femminile": 2943,
+    "popolazione_totale": 5668
+  },
+  {
+    "codice_istat": "102045",
+    "comune": "Vallelonga",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 475,
+    "popolazione_femminile": 353,
+    "popolazione_totale": 828
+  },
+  {
+    "codice_istat": "102046",
+    "comune": "Vazzano",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 477,
+    "popolazione_totale": 919
+  },
+  {
+    "codice_istat": "102047",
+    "comune": "Vibo Valentia",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 14918,
+    "popolazione_femminile": 15835,
+    "popolazione_totale": 30753,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "102048",
+    "comune": "Zaccanopoli",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 646
+  },
+  {
+    "codice_istat": "102049",
+    "comune": "Zambrone",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 863,
+    "popolazione_femminile": 903,
+    "popolazione_totale": 1766
+  },
+  {
+    "codice_istat": "102050",
+    "comune": "Zungri",
+    "provincia": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "popolazione_maschile": 905,
+    "popolazione_femminile": 888,
+    "popolazione_totale": 1793
+  }
+]

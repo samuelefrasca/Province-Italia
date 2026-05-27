@@ -1,0 +1,333 @@
+[
+  {
+    "codice_istat": "055001",
+    "comune": "Acquasparta",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 2109,
+    "popolazione_femminile": 2221,
+    "popolazione_totale": 4330
+  },
+  {
+    "codice_istat": "055002",
+    "comune": "Allerona",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 830,
+    "popolazione_femminile": 849,
+    "popolazione_totale": 1679
+  },
+  {
+    "codice_istat": "055003",
+    "comune": "Alviano",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 631,
+    "popolazione_femminile": 687,
+    "popolazione_totale": 1318
+  },
+  {
+    "codice_istat": "055004",
+    "comune": "Amelia",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 5671,
+    "popolazione_femminile": 5733,
+    "popolazione_totale": 11404
+  },
+  {
+    "codice_istat": "055005",
+    "comune": "Arrone",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 1205,
+    "popolazione_femminile": 1299,
+    "popolazione_totale": 2504
+  },
+  {
+    "codice_istat": "055006",
+    "comune": "Attigliano",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 996,
+    "popolazione_femminile": 966,
+    "popolazione_totale": 1962
+  },
+  {
+    "codice_istat": "055033",
+    "comune": "Avigliano Umbro",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 1178,
+    "popolazione_femminile": 1130,
+    "popolazione_totale": 2308
+  },
+  {
+    "codice_istat": "055007",
+    "comune": "Baschi",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 1264,
+    "popolazione_femminile": 1280,
+    "popolazione_totale": 2544
+  },
+  {
+    "codice_istat": "055008",
+    "comune": "Calvi dell'Umbria",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 817,
+    "popolazione_femminile": 843,
+    "popolazione_totale": 1660
+  },
+  {
+    "codice_istat": "055009",
+    "comune": "Castel Giorgio",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 954,
+    "popolazione_femminile": 1038,
+    "popolazione_totale": 1992
+  },
+  {
+    "codice_istat": "055010",
+    "comune": "Castel Viscardo",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 1285,
+    "popolazione_femminile": 1355,
+    "popolazione_totale": 2640
+  },
+  {
+    "codice_istat": "055011",
+    "comune": "Fabro",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 1246,
+    "popolazione_femminile": 1324,
+    "popolazione_totale": 2570
+  },
+  {
+    "codice_istat": "055012",
+    "comune": "Ferentillo",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 878,
+    "popolazione_femminile": 889,
+    "popolazione_totale": 1767
+  },
+  {
+    "codice_istat": "055013",
+    "comune": "Ficulle",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 779,
+    "popolazione_femminile": 769,
+    "popolazione_totale": 1548
+  },
+  {
+    "codice_istat": "055014",
+    "comune": "Giove",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 892,
+    "popolazione_femminile": 937,
+    "popolazione_totale": 1829
+  },
+  {
+    "codice_istat": "055015",
+    "comune": "Guardea",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 846,
+    "popolazione_femminile": 868,
+    "popolazione_totale": 1714
+  },
+  {
+    "codice_istat": "055016",
+    "comune": "Lugnano in Teverina",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 699,
+    "popolazione_femminile": 691,
+    "popolazione_totale": 1390
+  },
+  {
+    "codice_istat": "055017",
+    "comune": "Montecastrilli",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 2344,
+    "popolazione_femminile": 2443,
+    "popolazione_totale": 4787
+  },
+  {
+    "codice_istat": "055018",
+    "comune": "Montecchio",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 721,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1427
+  },
+  {
+    "codice_istat": "055019",
+    "comune": "Montefranco",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 620,
+    "popolazione_femminile": 623,
+    "popolazione_totale": 1243
+  },
+  {
+    "codice_istat": "055020",
+    "comune": "Montegabbione",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 552,
+    "popolazione_femminile": 543,
+    "popolazione_totale": 1095
+  },
+  {
+    "codice_istat": "055021",
+    "comune": "Monteleone d'Orvieto",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 635,
+    "popolazione_femminile": 722,
+    "popolazione_totale": 1357
+  },
+  {
+    "codice_istat": "055022",
+    "comune": "Narni",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 8535,
+    "popolazione_femminile": 9091,
+    "popolazione_totale": 17626
+  },
+  {
+    "codice_istat": "055023",
+    "comune": "Orvieto",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 9120,
+    "popolazione_femminile": 9932,
+    "popolazione_totale": 19052
+  },
+  {
+    "codice_istat": "055024",
+    "comune": "Otricoli",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 841,
+    "popolazione_femminile": 876,
+    "popolazione_totale": 1717
+  },
+  {
+    "codice_istat": "055025",
+    "comune": "Parrano",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 245,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 492
+  },
+  {
+    "codice_istat": "055026",
+    "comune": "Penna in Teverina",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 503,
+    "popolazione_femminile": 521,
+    "popolazione_totale": 1024
+  },
+  {
+    "codice_istat": "055027",
+    "comune": "Polino",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 127,
+    "popolazione_femminile": 106,
+    "popolazione_totale": 233
+  },
+  {
+    "codice_istat": "055028",
+    "comune": "Porano",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 871,
+    "popolazione_femminile": 945,
+    "popolazione_totale": 1816
+  },
+  {
+    "codice_istat": "055029",
+    "comune": "San Gemini",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 2219,
+    "popolazione_femminile": 2392,
+    "popolazione_totale": 4611
+  },
+  {
+    "codice_istat": "055030",
+    "comune": "San Venanzo",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 1104,
+    "popolazione_femminile": 1018,
+    "popolazione_totale": 2122
+  },
+  {
+    "codice_istat": "055031",
+    "comune": "Stroncone",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 2339,
+    "popolazione_femminile": 2267,
+    "popolazione_totale": 4606
+  },
+  {
+    "codice_istat": "055032",
+    "comune": "Terni",
+    "provincia": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "popolazione_maschile": 51087,
+    "popolazione_femminile": 55185,
+    "popolazione_totale": 106272,
+    "capoluogo": true
+  }
+]

@@ -1,0 +1,603 @@
+[
+  {
+    "codice_istat": "056001",
+    "comune": "Acquapendente",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2605,
+    "popolazione_femminile": 2617,
+    "popolazione_totale": 5222
+  },
+  {
+    "codice_istat": "056002",
+    "comune": "Arlena di Castro",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 408,
+    "popolazione_femminile": 383,
+    "popolazione_totale": 791
+  },
+  {
+    "codice_istat": "056003",
+    "comune": "Bagnoregio",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1606,
+    "popolazione_femminile": 1652,
+    "popolazione_totale": 3258
+  },
+  {
+    "codice_istat": "056004",
+    "comune": "Barbarano Romano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 500,
+    "popolazione_femminile": 480,
+    "popolazione_totale": 980
+  },
+  {
+    "codice_istat": "056006",
+    "comune": "Bassano in Teverina",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 631,
+    "popolazione_femminile": 641,
+    "popolazione_totale": 1272
+  },
+  {
+    "codice_istat": "056005",
+    "comune": "Bassano Romano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2344,
+    "popolazione_femminile": 2336,
+    "popolazione_totale": 4680
+  },
+  {
+    "codice_istat": "056007",
+    "comune": "Blera",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1443,
+    "popolazione_femminile": 1452,
+    "popolazione_totale": 2895
+  },
+  {
+    "codice_istat": "056008",
+    "comune": "Bolsena",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1789,
+    "popolazione_femminile": 1860,
+    "popolazione_totale": 3649
+  },
+  {
+    "codice_istat": "056009",
+    "comune": "Bomarzo",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 874,
+    "popolazione_femminile": 821,
+    "popolazione_totale": 1695
+  },
+  {
+    "codice_istat": "056010",
+    "comune": "Calcata",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 429,
+    "popolazione_femminile": 476,
+    "popolazione_totale": 905
+  },
+  {
+    "codice_istat": "056011",
+    "comune": "Canepina",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1447,
+    "popolazione_femminile": 1453,
+    "popolazione_totale": 2900
+  },
+  {
+    "codice_istat": "056012",
+    "comune": "Canino",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2556,
+    "popolazione_femminile": 2473,
+    "popolazione_totale": 5029
+  },
+  {
+    "codice_istat": "056013",
+    "comune": "Capodimonte",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 811,
+    "popolazione_femminile": 836,
+    "popolazione_totale": 1647
+  },
+  {
+    "codice_istat": "056014",
+    "comune": "Capranica",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3100,
+    "popolazione_femminile": 3251,
+    "popolazione_totale": 6351
+  },
+  {
+    "codice_istat": "056015",
+    "comune": "Caprarola",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2577,
+    "popolazione_femminile": 2583,
+    "popolazione_totale": 5160
+  },
+  {
+    "codice_istat": "056016",
+    "comune": "Carbognano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 953,
+    "popolazione_femminile": 998,
+    "popolazione_totale": 1951
+  },
+  {
+    "codice_istat": "056017",
+    "comune": "Castel Sant'Elia",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1184,
+    "popolazione_femminile": 1227,
+    "popolazione_totale": 2411
+  },
+  {
+    "codice_istat": "056018",
+    "comune": "Castiglione in Teverina",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1147,
+    "popolazione_femminile": 1142,
+    "popolazione_totale": 2289
+  },
+  {
+    "codice_istat": "056019",
+    "comune": "Celleno",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 638,
+    "popolazione_femminile": 677,
+    "popolazione_totale": 1315
+  },
+  {
+    "codice_istat": "056020",
+    "comune": "Cellere",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 590,
+    "popolazione_femminile": 497,
+    "popolazione_totale": 1087
+  },
+  {
+    "codice_istat": "056021",
+    "comune": "Civita Castellana",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 7305,
+    "popolazione_femminile": 7706,
+    "popolazione_totale": 15011
+  },
+  {
+    "codice_istat": "056022",
+    "comune": "Civitella d'Agliano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 723,
+    "popolazione_femminile": 721,
+    "popolazione_totale": 1444
+  },
+  {
+    "codice_istat": "056023",
+    "comune": "Corchiano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1785,
+    "popolazione_femminile": 1746,
+    "popolazione_totale": 3531
+  },
+  {
+    "codice_istat": "056024",
+    "comune": "Fabrica di Roma",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 4079,
+    "popolazione_femminile": 4088,
+    "popolazione_totale": 8167
+  },
+  {
+    "codice_istat": "056025",
+    "comune": "Faleria",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1006,
+    "popolazione_femminile": 1018,
+    "popolazione_totale": 2024
+  },
+  {
+    "codice_istat": "056026",
+    "comune": "Farnese",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 653,
+    "popolazione_femminile": 684,
+    "popolazione_totale": 1337
+  },
+  {
+    "codice_istat": "056027",
+    "comune": "Gallese",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1252,
+    "popolazione_femminile": 1299,
+    "popolazione_totale": 2551
+  },
+  {
+    "codice_istat": "056028",
+    "comune": "Gradoli",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 600,
+    "popolazione_femminile": 620,
+    "popolazione_totale": 1220
+  },
+  {
+    "codice_istat": "056029",
+    "comune": "Graffignano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1012,
+    "popolazione_femminile": 1046,
+    "popolazione_totale": 2058
+  },
+  {
+    "codice_istat": "056030",
+    "comune": "Grotte di Castro",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1243,
+    "popolazione_femminile": 1131,
+    "popolazione_totale": 2374
+  },
+  {
+    "codice_istat": "056031",
+    "comune": "Ischia di Castro",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1025,
+    "popolazione_femminile": 1082,
+    "popolazione_totale": 2107
+  },
+  {
+    "codice_istat": "056032",
+    "comune": "Latera",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 362,
+    "popolazione_totale": 772
+  },
+  {
+    "codice_istat": "056033",
+    "comune": "Lubriano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 413,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 841
+  },
+  {
+    "codice_istat": "056034",
+    "comune": "Marta",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1513,
+    "popolazione_femminile": 1698,
+    "popolazione_totale": 3211
+  },
+  {
+    "codice_istat": "056035",
+    "comune": "Montalto di Castro",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 4327,
+    "popolazione_femminile": 4352,
+    "popolazione_totale": 8679
+  },
+  {
+    "codice_istat": "056037",
+    "comune": "Monte Romano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 915,
+    "popolazione_femminile": 932,
+    "popolazione_totale": 1847
+  },
+  {
+    "codice_istat": "056036",
+    "comune": "Montefiascone",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 6388,
+    "popolazione_femminile": 6591,
+    "popolazione_totale": 12979
+  },
+  {
+    "codice_istat": "056038",
+    "comune": "Monterosi",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2387,
+    "popolazione_femminile": 2402,
+    "popolazione_totale": 4789
+  },
+  {
+    "codice_istat": "056039",
+    "comune": "Nepi",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 4734,
+    "popolazione_femminile": 4816,
+    "popolazione_totale": 9550
+  },
+  {
+    "codice_istat": "056040",
+    "comune": "Onano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 421,
+    "popolazione_femminile": 444,
+    "popolazione_totale": 865
+  },
+  {
+    "codice_istat": "056041",
+    "comune": "Oriolo Romano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1812,
+    "popolazione_femminile": 1861,
+    "popolazione_totale": 3673
+  },
+  {
+    "codice_istat": "056042",
+    "comune": "Orte",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 4682,
+    "popolazione_femminile": 4561,
+    "popolazione_totale": 9243
+  },
+  {
+    "codice_istat": "056043",
+    "comune": "Piansano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1070,
+    "popolazione_femminile": 969,
+    "popolazione_totale": 2039
+  },
+  {
+    "codice_istat": "056044",
+    "comune": "Proceno",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 290,
+    "popolazione_femminile": 231,
+    "popolazione_totale": 521
+  },
+  {
+    "codice_istat": "056045",
+    "comune": "Ronciglione",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 4208,
+    "popolazione_femminile": 4231,
+    "popolazione_totale": 8439
+  },
+  {
+    "codice_istat": "056047",
+    "comune": "San Lorenzo Nuovo",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1020,
+    "popolazione_femminile": 1009,
+    "popolazione_totale": 2029
+  },
+  {
+    "codice_istat": "056048",
+    "comune": "Soriano nel Cimino",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3872,
+    "popolazione_femminile": 4016,
+    "popolazione_totale": 7888
+  },
+  {
+    "codice_istat": "056049",
+    "comune": "Sutri",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3382,
+    "popolazione_femminile": 3382,
+    "popolazione_totale": 6764
+  },
+  {
+    "codice_istat": "056050",
+    "comune": "Tarquinia",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 7751,
+    "popolazione_femminile": 8111,
+    "popolazione_totale": 15862
+  },
+  {
+    "codice_istat": "056051",
+    "comune": "Tessennano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 144,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 283
+  },
+  {
+    "codice_istat": "056052",
+    "comune": "Tuscania",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 3898,
+    "popolazione_femminile": 4190,
+    "popolazione_totale": 8088
+  },
+  {
+    "codice_istat": "056053",
+    "comune": "Valentano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1473,
+    "popolazione_femminile": 1381,
+    "popolazione_totale": 2854
+  },
+  {
+    "codice_istat": "056054",
+    "comune": "Vallerano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1164,
+    "popolazione_femminile": 1185,
+    "popolazione_totale": 2349
+  },
+  {
+    "codice_istat": "056055",
+    "comune": "Vasanello",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1970,
+    "popolazione_femminile": 1989,
+    "popolazione_totale": 3959
+  },
+  {
+    "codice_istat": "056056",
+    "comune": "Vejano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 1073,
+    "popolazione_femminile": 1074,
+    "popolazione_totale": 2147
+  },
+  {
+    "codice_istat": "056057",
+    "comune": "Vetralla",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 6601,
+    "popolazione_femminile": 6769,
+    "popolazione_totale": 13370
+  },
+  {
+    "codice_istat": "056058",
+    "comune": "Vignanello",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2110,
+    "popolazione_femminile": 2150,
+    "popolazione_totale": 4260
+  },
+  {
+    "codice_istat": "056046",
+    "comune": "Villa San Giovanni in Tuscia",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 606,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1212
+  },
+  {
+    "codice_istat": "056059",
+    "comune": "Viterbo",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 32702,
+    "popolazione_femminile": 34065,
+    "popolazione_totale": 66767,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "056060",
+    "comune": "Vitorchiano",
+    "provincia": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "popolazione_maschile": 2579,
+    "popolazione_femminile": 2642,
+    "popolazione_totale": 5221
+  }
+]

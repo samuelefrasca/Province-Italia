@@ -1,0 +1,503 @@
+[
+  {
+    "codice_istat": "093001",
+    "comune": "Andreis",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 122,
+    "popolazione_totale": 243
+  },
+  {
+    "codice_istat": "093002",
+    "comune": "Arba",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 626,
+    "popolazione_totale": 1344
+  },
+  {
+    "codice_istat": "093004",
+    "comune": "Aviano",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4511,
+    "popolazione_femminile": 4462,
+    "popolazione_totale": 8973
+  },
+  {
+    "codice_istat": "093005",
+    "comune": "Azzano Decimo",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 7820,
+    "popolazione_femminile": 7940,
+    "popolazione_totale": 15760
+  },
+  {
+    "codice_istat": "093006",
+    "comune": "Barcis",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 112,
+    "popolazione_femminile": 113,
+    "popolazione_totale": 225
+  },
+  {
+    "codice_istat": "093007",
+    "comune": "Brugnera",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4608,
+    "popolazione_femminile": 4584,
+    "popolazione_totale": 9192
+  },
+  {
+    "codice_istat": "093008",
+    "comune": "Budoia",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1260,
+    "popolazione_femminile": 1301,
+    "popolazione_totale": 2561
+  },
+  {
+    "codice_istat": "093009",
+    "comune": "Caneva",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3050,
+    "popolazione_femminile": 3144,
+    "popolazione_totale": 6194
+  },
+  {
+    "codice_istat": "093010",
+    "comune": "Casarsa della Delizia",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4156,
+    "popolazione_femminile": 4158,
+    "popolazione_totale": 8314
+  },
+  {
+    "codice_istat": "093011",
+    "comune": "Castelnovo del Friuli",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 405,
+    "popolazione_femminile": 395,
+    "popolazione_totale": 800
+  },
+  {
+    "codice_istat": "093012",
+    "comune": "Cavasso Nuovo",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 731,
+    "popolazione_femminile": 732,
+    "popolazione_totale": 1463
+  },
+  {
+    "codice_istat": "093013",
+    "comune": "Chions",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2490,
+    "popolazione_femminile": 2501,
+    "popolazione_totale": 4991
+  },
+  {
+    "codice_istat": "093014",
+    "comune": "Cimolais",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 175,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 343
+  },
+  {
+    "codice_istat": "093015",
+    "comune": "Claut",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 423,
+    "popolazione_femminile": 432,
+    "popolazione_totale": 855
+  },
+  {
+    "codice_istat": "093016",
+    "comune": "Clauzetto",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 215,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 385
+  },
+  {
+    "codice_istat": "093017",
+    "comune": "Cordenons",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 8695,
+    "popolazione_femminile": 9006,
+    "popolazione_totale": 17701
+  },
+  {
+    "codice_istat": "093018",
+    "comune": "Cordovado",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1319,
+    "popolazione_femminile": 1352,
+    "popolazione_totale": 2671
+  },
+  {
+    "codice_istat": "093019",
+    "comune": "Erto e Casso",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 181,
+    "popolazione_femminile": 178,
+    "popolazione_totale": 359
+  },
+  {
+    "codice_istat": "093020",
+    "comune": "Fanna",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 732,
+    "popolazione_femminile": 735,
+    "popolazione_totale": 1467
+  },
+  {
+    "codice_istat": "093021",
+    "comune": "Fiume Veneto",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 5806,
+    "popolazione_femminile": 6000,
+    "popolazione_totale": 11806
+  },
+  {
+    "codice_istat": "093022",
+    "comune": "Fontanafredda",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 6451,
+    "popolazione_femminile": 6501,
+    "popolazione_totale": 12952
+  },
+  {
+    "codice_istat": "093024",
+    "comune": "Frisanco",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 306,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 599
+  },
+  {
+    "codice_istat": "093025",
+    "comune": "Maniago",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 5685,
+    "popolazione_femminile": 5759,
+    "popolazione_totale": 11444
+  },
+  {
+    "codice_istat": "093026",
+    "comune": "Meduno",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 746,
+    "popolazione_femminile": 734,
+    "popolazione_totale": 1480
+  },
+  {
+    "codice_istat": "093027",
+    "comune": "Montereale Valcellina",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2042,
+    "popolazione_femminile": 2145,
+    "popolazione_totale": 4187
+  },
+  {
+    "codice_istat": "093028",
+    "comune": "Morsano al Tagliamento",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1413,
+    "popolazione_femminile": 1341,
+    "popolazione_totale": 2754
+  },
+  {
+    "codice_istat": "093029",
+    "comune": "Pasiano di Pordenone",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3969,
+    "popolazione_femminile": 3921,
+    "popolazione_totale": 7890
+  },
+  {
+    "codice_istat": "093030",
+    "comune": "Pinzano al Tagliamento",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 746,
+    "popolazione_femminile": 747,
+    "popolazione_totale": 1493
+  },
+  {
+    "codice_istat": "093031",
+    "comune": "Polcenigo",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1501,
+    "popolazione_femminile": 1559,
+    "popolazione_totale": 3060
+  },
+  {
+    "codice_istat": "093032",
+    "comune": "Porcia",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 7294,
+    "popolazione_femminile": 7653,
+    "popolazione_totale": 14947
+  },
+  {
+    "codice_istat": "093033",
+    "comune": "Pordenone",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 25718,
+    "popolazione_femminile": 27026,
+    "popolazione_totale": 52744,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "093034",
+    "comune": "Prata di Pordenone",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4248,
+    "popolazione_femminile": 4105,
+    "popolazione_totale": 8353
+  },
+  {
+    "codice_istat": "093035",
+    "comune": "Pravisdomini",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1731,
+    "popolazione_femminile": 1740,
+    "popolazione_totale": 3471
+  },
+  {
+    "codice_istat": "093036",
+    "comune": "Roveredo in Piano",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2801,
+    "popolazione_femminile": 2959,
+    "popolazione_totale": 5760
+  },
+  {
+    "codice_istat": "093037",
+    "comune": "Sacile",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 9745,
+    "popolazione_femminile": 10202,
+    "popolazione_totale": 19947
+  },
+  {
+    "codice_istat": "093038",
+    "comune": "San Giorgio della Richinvelda",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2409,
+    "popolazione_femminile": 2132,
+    "popolazione_totale": 4541
+  },
+  {
+    "codice_istat": "093039",
+    "comune": "San Martino al Tagliamento",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 782,
+    "popolazione_femminile": 735,
+    "popolazione_totale": 1517
+  },
+  {
+    "codice_istat": "093040",
+    "comune": "San Quirino",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2149,
+    "popolazione_femminile": 2184,
+    "popolazione_totale": 4333
+  },
+  {
+    "codice_istat": "093041",
+    "comune": "San Vito al Tagliamento",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 7519,
+    "popolazione_femminile": 7774,
+    "popolazione_totale": 15293
+  },
+  {
+    "codice_istat": "093042",
+    "comune": "Sequals",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1092,
+    "popolazione_femminile": 1120,
+    "popolazione_totale": 2212
+  },
+  {
+    "codice_istat": "093043",
+    "comune": "Sesto al Reghena",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3186,
+    "popolazione_femminile": 3113,
+    "popolazione_totale": 6299
+  },
+  {
+    "codice_istat": "093044",
+    "comune": "Spilimbergo",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 5805,
+    "popolazione_femminile": 5994,
+    "popolazione_totale": 11799
+  },
+  {
+    "codice_istat": "093045",
+    "comune": "Tramonti di Sopra",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 141,
+    "popolazione_totale": 274
+  },
+  {
+    "codice_istat": "093046",
+    "comune": "Tramonti di Sotto",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 335
+  },
+  {
+    "codice_istat": "093047",
+    "comune": "Travesio",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 889,
+    "popolazione_femminile": 920,
+    "popolazione_totale": 1809
+  },
+  {
+    "codice_istat": "093052",
+    "comune": "Vajont",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 807,
+    "popolazione_femminile": 792,
+    "popolazione_totale": 1599
+  },
+  {
+    "codice_istat": "093053",
+    "comune": "Valvasone Arzene",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1968,
+    "popolazione_femminile": 1992,
+    "popolazione_totale": 3960
+  },
+  {
+    "codice_istat": "093049",
+    "comune": "Vito d'Asio",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 358,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 705
+  },
+  {
+    "codice_istat": "093050",
+    "comune": "Vivaro",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 717,
+    "popolazione_femminile": 633,
+    "popolazione_totale": 1350
+  },
+  {
+    "codice_istat": "093051",
+    "comune": "Zoppola",
+    "provincia": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4214,
+    "popolazione_femminile": 4146,
+    "popolazione_totale": 8360
+  }
+]

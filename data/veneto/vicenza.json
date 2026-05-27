@@ -1,0 +1,1113 @@
+[
+  {
+    "codice_istat": "024001",
+    "comune": "Agugliaro",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 705,
+    "popolazione_femminile": 701,
+    "popolazione_totale": 1406
+  },
+  {
+    "codice_istat": "024002",
+    "comune": "Albettone",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 983,
+    "popolazione_femminile": 976,
+    "popolazione_totale": 1959
+  },
+  {
+    "codice_istat": "024003",
+    "comune": "Alonte",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 791,
+    "popolazione_femminile": 767,
+    "popolazione_totale": 1558
+  },
+  {
+    "codice_istat": "024004",
+    "comune": "Altavilla Vicentina",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5876,
+    "popolazione_femminile": 5884,
+    "popolazione_totale": 11760
+  },
+  {
+    "codice_istat": "024005",
+    "comune": "Altissimo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1117,
+    "popolazione_femminile": 1040,
+    "popolazione_totale": 2157
+  },
+  {
+    "codice_istat": "024006",
+    "comune": "Arcugnano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3807,
+    "popolazione_femminile": 3788,
+    "popolazione_totale": 7595
+  },
+  {
+    "codice_istat": "024007",
+    "comune": "Arsiero",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1564,
+    "popolazione_femminile": 1501,
+    "popolazione_totale": 3065
+  },
+  {
+    "codice_istat": "024008",
+    "comune": "Arzignano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 13295,
+    "popolazione_femminile": 12599,
+    "popolazione_totale": 25894
+  },
+  {
+    "codice_istat": "024009",
+    "comune": "Asiago",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3023,
+    "popolazione_femminile": 3180,
+    "popolazione_totale": 6203
+  },
+  {
+    "codice_istat": "024010",
+    "comune": "Asigliano Veneto",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 427,
+    "popolazione_femminile": 414,
+    "popolazione_totale": 841
+  },
+  {
+    "codice_istat": "024124",
+    "comune": "Barbarano Mossano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3101,
+    "popolazione_femminile": 3087,
+    "popolazione_totale": 6188
+  },
+  {
+    "codice_istat": "024012",
+    "comune": "Bassano del Grappa",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 20323,
+    "popolazione_femminile": 21956,
+    "popolazione_totale": 42279
+  },
+  {
+    "codice_istat": "024013",
+    "comune": "Bolzano Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3275,
+    "popolazione_femminile": 3230,
+    "popolazione_totale": 6505
+  },
+  {
+    "codice_istat": "024014",
+    "comune": "Breganze",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4033,
+    "popolazione_femminile": 4271,
+    "popolazione_totale": 8304
+  },
+  {
+    "codice_istat": "024015",
+    "comune": "Brendola",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3314,
+    "popolazione_femminile": 3295,
+    "popolazione_totale": 6609
+  },
+  {
+    "codice_istat": "024016",
+    "comune": "Bressanvido",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1554,
+    "popolazione_femminile": 1529,
+    "popolazione_totale": 3083
+  },
+  {
+    "codice_istat": "024017",
+    "comune": "Brogliano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2008,
+    "popolazione_femminile": 2003,
+    "popolazione_totale": 4011
+  },
+  {
+    "codice_istat": "024018",
+    "comune": "Caldogno",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5552,
+    "popolazione_femminile": 5752,
+    "popolazione_totale": 11304
+  },
+  {
+    "codice_istat": "024019",
+    "comune": "Caltrano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1268,
+    "popolazione_femminile": 1276,
+    "popolazione_totale": 2544
+  },
+  {
+    "codice_istat": "024020",
+    "comune": "Calvene",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 636,
+    "popolazione_femminile": 634,
+    "popolazione_totale": 1270
+  },
+  {
+    "codice_istat": "024021",
+    "comune": "Camisano Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5467,
+    "popolazione_femminile": 5618,
+    "popolazione_totale": 11085
+  },
+  {
+    "codice_istat": "024022",
+    "comune": "Campiglia dei Berici",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 831,
+    "popolazione_femminile": 838,
+    "popolazione_totale": 1669
+  },
+  {
+    "codice_istat": "024024",
+    "comune": "Carrè",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1724,
+    "popolazione_femminile": 1722,
+    "popolazione_totale": 3446
+  },
+  {
+    "codice_istat": "024025",
+    "comune": "Cartigliano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1822,
+    "popolazione_femminile": 1815,
+    "popolazione_totale": 3637
+  },
+  {
+    "codice_istat": "024026",
+    "comune": "Cassola",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 7546,
+    "popolazione_femminile": 7869,
+    "popolazione_totale": 15415
+  },
+  {
+    "codice_istat": "024028",
+    "comune": "Castelgomberto",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3120,
+    "popolazione_femminile": 3025,
+    "popolazione_totale": 6145
+  },
+  {
+    "codice_istat": "024029",
+    "comune": "Chiampo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 6410,
+    "popolazione_femminile": 6156,
+    "popolazione_totale": 12566
+  },
+  {
+    "codice_istat": "024030",
+    "comune": "Chiuppano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1307,
+    "popolazione_femminile": 1253,
+    "popolazione_totale": 2560
+  },
+  {
+    "codice_istat": "024032",
+    "comune": "Cogollo del Cengio",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1556,
+    "popolazione_femminile": 1571,
+    "popolazione_totale": 3127
+  },
+  {
+    "codice_istat": "024126",
+    "comune": "Colceresa",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2946,
+    "popolazione_femminile": 3011,
+    "popolazione_totale": 5957
+  },
+  {
+    "codice_istat": "024034",
+    "comune": "Cornedo Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5981,
+    "popolazione_femminile": 5759,
+    "popolazione_totale": 11740
+  },
+  {
+    "codice_istat": "024035",
+    "comune": "Costabissara",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3796,
+    "popolazione_femminile": 3852,
+    "popolazione_totale": 7648
+  },
+  {
+    "codice_istat": "024036",
+    "comune": "Creazzo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5523,
+    "popolazione_femminile": 5696,
+    "popolazione_totale": 11219
+  },
+  {
+    "codice_istat": "024037",
+    "comune": "Crespadoro",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 665,
+    "popolazione_femminile": 592,
+    "popolazione_totale": 1257
+  },
+  {
+    "codice_istat": "024038",
+    "comune": "Dueville",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 6629,
+    "popolazione_femminile": 6949,
+    "popolazione_totale": 13578
+  },
+  {
+    "codice_istat": "024039",
+    "comune": "Enego",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 789,
+    "popolazione_femminile": 708,
+    "popolazione_totale": 1497
+  },
+  {
+    "codice_istat": "024040",
+    "comune": "Fara Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1855,
+    "popolazione_femminile": 1860,
+    "popolazione_totale": 3715
+  },
+  {
+    "codice_istat": "024041",
+    "comune": "Foza",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 361,
+    "popolazione_femminile": 313,
+    "popolazione_totale": 674
+  },
+  {
+    "codice_istat": "024042",
+    "comune": "Gallio",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1162,
+    "popolazione_femminile": 1192,
+    "popolazione_totale": 2354
+  },
+  {
+    "codice_istat": "024043",
+    "comune": "Gambellara",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1744,
+    "popolazione_femminile": 1710,
+    "popolazione_totale": 3454
+  },
+  {
+    "codice_istat": "024046",
+    "comune": "Grisignano di Zocco",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2159,
+    "popolazione_femminile": 2160,
+    "popolazione_totale": 4319
+  },
+  {
+    "codice_istat": "024047",
+    "comune": "Grumolo delle Abbadesse",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1989,
+    "popolazione_femminile": 1911,
+    "popolazione_totale": 3900
+  },
+  {
+    "codice_istat": "024048",
+    "comune": "Isola Vicentina",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5121,
+    "popolazione_femminile": 5169,
+    "popolazione_totale": 10290
+  },
+  {
+    "codice_istat": "024049",
+    "comune": "Laghi",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 70,
+    "popolazione_femminile": 65,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "024050",
+    "comune": "Lastebasse",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 85,
+    "popolazione_femminile": 89,
+    "popolazione_totale": 174
+  },
+  {
+    "codice_istat": "024051",
+    "comune": "Longare",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2756,
+    "popolazione_femminile": 2775,
+    "popolazione_totale": 5531
+  },
+  {
+    "codice_istat": "024052",
+    "comune": "Lonigo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 8037,
+    "popolazione_femminile": 8021,
+    "popolazione_totale": 16058
+  },
+  {
+    "codice_istat": "024053",
+    "comune": "Lugo di Vicenza",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1774,
+    "popolazione_femminile": 1736,
+    "popolazione_totale": 3510
+  },
+  {
+    "codice_istat": "024127",
+    "comune": "Lusiana Conco",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2319,
+    "popolazione_femminile": 2248,
+    "popolazione_totale": 4567
+  },
+  {
+    "codice_istat": "024055",
+    "comune": "Malo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 7344,
+    "popolazione_femminile": 7362,
+    "popolazione_totale": 14706
+  },
+  {
+    "codice_istat": "024056",
+    "comune": "Marano Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4626,
+    "popolazione_femminile": 4585,
+    "popolazione_totale": 9211
+  },
+  {
+    "codice_istat": "024057",
+    "comune": "Marostica",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 7056,
+    "popolazione_femminile": 7065,
+    "popolazione_totale": 14121
+  },
+  {
+    "codice_istat": "024063",
+    "comune": "Monte di Malo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1450,
+    "popolazione_femminile": 1386,
+    "popolazione_totale": 2836
+  },
+  {
+    "codice_istat": "024060",
+    "comune": "Montebello Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3209,
+    "popolazione_femminile": 3108,
+    "popolazione_totale": 6317
+  },
+  {
+    "codice_istat": "024061",
+    "comune": "Montecchio Maggiore",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 12409,
+    "popolazione_femminile": 11654,
+    "popolazione_totale": 24063
+  },
+  {
+    "codice_istat": "024062",
+    "comune": "Montecchio Precalcino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2447,
+    "popolazione_femminile": 2422,
+    "popolazione_totale": 4869
+  },
+  {
+    "codice_istat": "024064",
+    "comune": "Montegalda",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1650,
+    "popolazione_femminile": 1674,
+    "popolazione_totale": 3324
+  },
+  {
+    "codice_istat": "024065",
+    "comune": "Montegaldella",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 871,
+    "popolazione_femminile": 894,
+    "popolazione_totale": 1765
+  },
+  {
+    "codice_istat": "024066",
+    "comune": "Monteviale",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1404,
+    "popolazione_femminile": 1382,
+    "popolazione_totale": 2786
+  },
+  {
+    "codice_istat": "024067",
+    "comune": "Monticello Conte Otto",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4496,
+    "popolazione_femminile": 4598,
+    "popolazione_totale": 9094
+  },
+  {
+    "codice_istat": "024068",
+    "comune": "Montorso Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1538,
+    "popolazione_femminile": 1463,
+    "popolazione_totale": 3001
+  },
+  {
+    "codice_istat": "024070",
+    "comune": "Mussolente",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3827,
+    "popolazione_femminile": 3708,
+    "popolazione_totale": 7535
+  },
+  {
+    "codice_istat": "024072",
+    "comune": "Nogarole Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 638,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1263
+  },
+  {
+    "codice_istat": "024073",
+    "comune": "Nove",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2425,
+    "popolazione_femminile": 2429,
+    "popolazione_totale": 4854
+  },
+  {
+    "codice_istat": "024074",
+    "comune": "Noventa Vicentina",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4677,
+    "popolazione_femminile": 4609,
+    "popolazione_totale": 9286
+  },
+  {
+    "codice_istat": "024075",
+    "comune": "Orgiano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1467,
+    "popolazione_femminile": 1509,
+    "popolazione_totale": 2976
+  },
+  {
+    "codice_istat": "024076",
+    "comune": "Pedemonte",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 339,
+    "popolazione_femminile": 338,
+    "popolazione_totale": 677
+  },
+  {
+    "codice_istat": "024077",
+    "comune": "Pianezze",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1116,
+    "popolazione_femminile": 1109,
+    "popolazione_totale": 2225
+  },
+  {
+    "codice_istat": "024078",
+    "comune": "Piovene Rocchette",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4172,
+    "popolazione_femminile": 4155,
+    "popolazione_totale": 8327
+  },
+  {
+    "codice_istat": "024079",
+    "comune": "Pojana Maggiore",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2137,
+    "popolazione_femminile": 2112,
+    "popolazione_totale": 4249
+  },
+  {
+    "codice_istat": "024080",
+    "comune": "Posina",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 300,
+    "popolazione_femminile": 282,
+    "popolazione_totale": 582
+  },
+  {
+    "codice_istat": "024081",
+    "comune": "Pove del Grappa",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1517,
+    "popolazione_femminile": 1616,
+    "popolazione_totale": 3133
+  },
+  {
+    "codice_istat": "024082",
+    "comune": "Pozzoleone",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1435,
+    "popolazione_femminile": 1317,
+    "popolazione_totale": 2752
+  },
+  {
+    "codice_istat": "024083",
+    "comune": "Quinto Vicentino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2901,
+    "popolazione_femminile": 2935,
+    "popolazione_totale": 5836
+  },
+  {
+    "codice_istat": "024084",
+    "comune": "Recoaro Terme",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2883,
+    "popolazione_femminile": 2884,
+    "popolazione_totale": 5767
+  },
+  {
+    "codice_istat": "024085",
+    "comune": "Roana",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2106,
+    "popolazione_femminile": 2048,
+    "popolazione_totale": 4154
+  },
+  {
+    "codice_istat": "024086",
+    "comune": "Romano d'Ezzelino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 6966,
+    "popolazione_femminile": 7036,
+    "popolazione_totale": 14002
+  },
+  {
+    "codice_istat": "024087",
+    "comune": "Rosà",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 7234,
+    "popolazione_femminile": 7419,
+    "popolazione_totale": 14653
+  },
+  {
+    "codice_istat": "024088",
+    "comune": "Rossano Veneto",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4149,
+    "popolazione_femminile": 4147,
+    "popolazione_totale": 8296
+  },
+  {
+    "codice_istat": "024089",
+    "comune": "Rotzo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 320,
+    "popolazione_femminile": 324,
+    "popolazione_totale": 644
+  },
+  {
+    "codice_istat": "024090",
+    "comune": "Salcedo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 493,
+    "popolazione_femminile": 496,
+    "popolazione_totale": 989
+  },
+  {
+    "codice_istat": "024094",
+    "comune": "San Pietro Mussolino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 782,
+    "popolazione_femminile": 722,
+    "popolazione_totale": 1504
+  },
+  {
+    "codice_istat": "024096",
+    "comune": "San Vito di Leguzzano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1746,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3502
+  },
+  {
+    "codice_istat": "024091",
+    "comune": "Sandrigo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4079,
+    "popolazione_femminile": 4147,
+    "popolazione_totale": 8226
+  },
+  {
+    "codice_istat": "024095",
+    "comune": "Santorso",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2797,
+    "popolazione_femminile": 2836,
+    "popolazione_totale": 5633
+  },
+  {
+    "codice_istat": "024097",
+    "comune": "Sarcedo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2649,
+    "popolazione_femminile": 2650,
+    "popolazione_totale": 5299
+  },
+  {
+    "codice_istat": "024098",
+    "comune": "Sarego",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3504,
+    "popolazione_femminile": 3364,
+    "popolazione_totale": 6868
+  },
+  {
+    "codice_istat": "024099",
+    "comune": "Schiavon",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1336,
+    "popolazione_femminile": 1265,
+    "popolazione_totale": 2601
+  },
+  {
+    "codice_istat": "024100",
+    "comune": "Schio",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 19283,
+    "popolazione_femminile": 19706,
+    "popolazione_totale": 38989
+  },
+  {
+    "codice_istat": "024101",
+    "comune": "Solagna",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 911,
+    "popolazione_femminile": 919,
+    "popolazione_totale": 1830
+  },
+  {
+    "codice_istat": "024102",
+    "comune": "Sossano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2112,
+    "popolazione_femminile": 2024,
+    "popolazione_totale": 4136
+  },
+  {
+    "codice_istat": "024128",
+    "comune": "Sovizzo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4099,
+    "popolazione_femminile": 4114,
+    "popolazione_totale": 8213
+  },
+  {
+    "codice_istat": "024104",
+    "comune": "Tezze sul Brenta",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 6503,
+    "popolazione_femminile": 6496,
+    "popolazione_totale": 12999
+  },
+  {
+    "codice_istat": "024105",
+    "comune": "Thiene",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 11952,
+    "popolazione_femminile": 12378,
+    "popolazione_totale": 24330
+  },
+  {
+    "codice_istat": "024106",
+    "comune": "Tonezza del Cimone",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 511
+  },
+  {
+    "codice_istat": "024107",
+    "comune": "Torrebelvicino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2996,
+    "popolazione_femminile": 2864,
+    "popolazione_totale": 5860
+  },
+  {
+    "codice_istat": "024108",
+    "comune": "Torri di Quartesolo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 5841,
+    "popolazione_femminile": 5976,
+    "popolazione_totale": 11817
+  },
+  {
+    "codice_istat": "024110",
+    "comune": "Trissino",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 4342,
+    "popolazione_femminile": 4309,
+    "popolazione_totale": 8651
+  },
+  {
+    "codice_istat": "024123",
+    "comune": "Val Liona",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1573,
+    "popolazione_femminile": 1499,
+    "popolazione_totale": 3072
+  },
+  {
+    "codice_istat": "024125",
+    "comune": "Valbrenta",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 2507,
+    "popolazione_femminile": 2360,
+    "popolazione_totale": 4867
+  },
+  {
+    "codice_istat": "024111",
+    "comune": "Valdagno",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 12636,
+    "popolazione_femminile": 13165,
+    "popolazione_totale": 25801
+  },
+  {
+    "codice_istat": "024112",
+    "comune": "Valdastico",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 576,
+    "popolazione_femminile": 610,
+    "popolazione_totale": 1186
+  },
+  {
+    "codice_istat": "024113",
+    "comune": "Valli del Pasubio",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1523,
+    "popolazione_femminile": 1495,
+    "popolazione_totale": 3018
+  },
+  {
+    "codice_istat": "024115",
+    "comune": "Velo d'Astico",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 1100,
+    "popolazione_femminile": 1124,
+    "popolazione_totale": 2224
+  },
+  {
+    "codice_istat": "024116",
+    "comune": "Vicenza",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 53662,
+    "popolazione_femminile": 57079,
+    "popolazione_totale": 110741,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "024117",
+    "comune": "Villaga",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 972,
+    "popolazione_femminile": 952,
+    "popolazione_totale": 1924
+  },
+  {
+    "codice_istat": "024118",
+    "comune": "Villaverla",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3071,
+    "popolazione_femminile": 2935,
+    "popolazione_totale": 6006
+  },
+  {
+    "codice_istat": "024119",
+    "comune": "Zanè",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3172,
+    "popolazione_femminile": 3326,
+    "popolazione_totale": 6498
+  },
+  {
+    "codice_istat": "024120",
+    "comune": "Zermeghedo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 687,
+    "popolazione_femminile": 646,
+    "popolazione_totale": 1333
+  },
+  {
+    "codice_istat": "024121",
+    "comune": "Zovencedo",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 438,
+    "popolazione_femminile": 377,
+    "popolazione_totale": 815
+  },
+  {
+    "codice_istat": "024122",
+    "comune": "Zugliano",
+    "provincia": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "popolazione_maschile": 3350,
+    "popolazione_femminile": 3500,
+    "popolazione_totale": 6850
+  }
+]

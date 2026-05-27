@@ -1,0 +1,603 @@
+[
+  {
+    "codice_istat": "025001",
+    "comune": "Agordo",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1930,
+    "popolazione_femminile": 2132,
+    "popolazione_totale": 4062
+  },
+  {
+    "codice_istat": "025003",
+    "comune": "Alleghe",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 522,
+    "popolazione_femminile": 542,
+    "popolazione_totale": 1064
+  },
+  {
+    "codice_istat": "025072",
+    "comune": "Alpago",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 3322,
+    "popolazione_femminile": 3257,
+    "popolazione_totale": 6579
+  },
+  {
+    "codice_istat": "025004",
+    "comune": "Arsiè",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1063,
+    "popolazione_femminile": 1111,
+    "popolazione_totale": 2174
+  },
+  {
+    "codice_istat": "025005",
+    "comune": "Auronzo di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1467,
+    "popolazione_femminile": 1515,
+    "popolazione_totale": 2982
+  },
+  {
+    "codice_istat": "025006",
+    "comune": "Belluno",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 17070,
+    "popolazione_femminile": 18429,
+    "popolazione_totale": 35499,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "025007",
+    "comune": "Borca di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 403,
+    "popolazione_femminile": 387,
+    "popolazione_totale": 790
+  },
+  {
+    "codice_istat": "025074",
+    "comune": "Borgo Valbelluna",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 6764,
+    "popolazione_femminile": 6856,
+    "popolazione_totale": 13620
+  },
+  {
+    "codice_istat": "025008",
+    "comune": "Calalzo di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 883,
+    "popolazione_femminile": 916,
+    "popolazione_totale": 1799
+  },
+  {
+    "codice_istat": "025023",
+    "comune": "Canale d'Agordo",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 515,
+    "popolazione_femminile": 530,
+    "popolazione_totale": 1045
+  },
+  {
+    "codice_istat": "025010",
+    "comune": "Cencenighe Agordino",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 597,
+    "popolazione_femminile": 605,
+    "popolazione_totale": 1202
+  },
+  {
+    "codice_istat": "025011",
+    "comune": "Cesiomaggiore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 2008,
+    "popolazione_femminile": 1946,
+    "popolazione_totale": 3954
+  },
+  {
+    "codice_istat": "025012",
+    "comune": "Chies d'Alpago",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 626,
+    "popolazione_femminile": 618,
+    "popolazione_totale": 1244
+  },
+  {
+    "codice_istat": "025013",
+    "comune": "Cibiana di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 157,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 323
+  },
+  {
+    "codice_istat": "025014",
+    "comune": "Colle Santa Lucia",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 171,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 339
+  },
+  {
+    "codice_istat": "025015",
+    "comune": "Comelico Superiore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1007,
+    "popolazione_femminile": 1043,
+    "popolazione_totale": 2050
+  },
+  {
+    "codice_istat": "025016",
+    "comune": "Cortina d'Ampezzo",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 2555,
+    "popolazione_femminile": 2844,
+    "popolazione_totale": 5399
+  },
+  {
+    "codice_istat": "025017",
+    "comune": "Danta di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 216,
+    "popolazione_femminile": 205,
+    "popolazione_totale": 421
+  },
+  {
+    "codice_istat": "025018",
+    "comune": "Domegge di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1093,
+    "popolazione_femminile": 1142,
+    "popolazione_totale": 2235
+  },
+  {
+    "codice_istat": "025019",
+    "comune": "Falcade",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 844,
+    "popolazione_femminile": 890,
+    "popolazione_totale": 1734
+  },
+  {
+    "codice_istat": "025021",
+    "comune": "Feltre",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 10101,
+    "popolazione_femminile": 10499,
+    "popolazione_totale": 20600
+  },
+  {
+    "codice_istat": "025022",
+    "comune": "Fonzaso",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1478,
+    "popolazione_femminile": 1488,
+    "popolazione_totale": 2966
+  },
+  {
+    "codice_istat": "025025",
+    "comune": "Gosaldo",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 511
+  },
+  {
+    "codice_istat": "025027",
+    "comune": "La Valle Agordina",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 504,
+    "popolazione_totale": 1040
+  },
+  {
+    "codice_istat": "025026",
+    "comune": "Lamon",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1253,
+    "popolazione_femminile": 1323,
+    "popolazione_totale": 2576
+  },
+  {
+    "codice_istat": "025029",
+    "comune": "Limana",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 2722,
+    "popolazione_femminile": 2733,
+    "popolazione_totale": 5455
+  },
+  {
+    "codice_istat": "025030",
+    "comune": "Livinallongo del Col di Lana",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 591,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1218
+  },
+  {
+    "codice_istat": "025071",
+    "comune": "Longarone",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 2437,
+    "popolazione_femminile": 2545,
+    "popolazione_totale": 4982
+  },
+  {
+    "codice_istat": "025032",
+    "comune": "Lorenzago di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 261,
+    "popolazione_femminile": 266,
+    "popolazione_totale": 527
+  },
+  {
+    "codice_istat": "025033",
+    "comune": "Lozzo di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 597,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1212
+  },
+  {
+    "codice_istat": "025035",
+    "comune": "Ospitale di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 135,
+    "popolazione_femminile": 124,
+    "popolazione_totale": 259
+  },
+  {
+    "codice_istat": "025036",
+    "comune": "Pedavena",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 2106,
+    "popolazione_femminile": 2215,
+    "popolazione_totale": 4321
+  },
+  {
+    "codice_istat": "025037",
+    "comune": "Perarolo di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 182,
+    "popolazione_femminile": 177,
+    "popolazione_totale": 359
+  },
+  {
+    "codice_istat": "025039",
+    "comune": "Pieve di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1773,
+    "popolazione_femminile": 1815,
+    "popolazione_totale": 3588
+  },
+  {
+    "codice_istat": "025040",
+    "comune": "Ponte nelle Alpi",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 3905,
+    "popolazione_femminile": 3998,
+    "popolazione_totale": 7903
+  },
+  {
+    "codice_istat": "025043",
+    "comune": "Rivamonte Agordino",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 306,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 592
+  },
+  {
+    "codice_istat": "025044",
+    "comune": "Rocca Pietore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 559,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1119
+  },
+  {
+    "codice_istat": "025045",
+    "comune": "San Gregorio nelle Alpi",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 801,
+    "popolazione_femminile": 781,
+    "popolazione_totale": 1582
+  },
+  {
+    "codice_istat": "025046",
+    "comune": "San Nicolò di Comelico",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 188,
+    "popolazione_femminile": 180,
+    "popolazione_totale": 368
+  },
+  {
+    "codice_istat": "025047",
+    "comune": "San Pietro di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 724,
+    "popolazione_femminile": 688,
+    "popolazione_totale": 1412
+  },
+  {
+    "codice_istat": "025049",
+    "comune": "San Tomaso Agordino",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 300,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "025051",
+    "comune": "San Vito di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 914,
+    "popolazione_femminile": 1011,
+    "popolazione_totale": 1925
+  },
+  {
+    "codice_istat": "025048",
+    "comune": "Santa Giustina",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 3215,
+    "popolazione_femminile": 3406,
+    "popolazione_totale": 6621
+  },
+  {
+    "codice_istat": "025050",
+    "comune": "Santo Stefano di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1081,
+    "popolazione_femminile": 1195,
+    "popolazione_totale": 2276
+  },
+  {
+    "codice_istat": "025053",
+    "comune": "Sedico",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 4989,
+    "popolazione_femminile": 5145,
+    "popolazione_totale": 10134
+  },
+  {
+    "codice_istat": "025054",
+    "comune": "Selva di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 254,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 504
+  },
+  {
+    "codice_istat": "025055",
+    "comune": "Seren del Grappa",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1179,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2323
+  },
+  {
+    "codice_istat": "025075",
+    "comune": "Setteville",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 3054,
+    "popolazione_femminile": 2898,
+    "popolazione_totale": 5952
+  },
+  {
+    "codice_istat": "025056",
+    "comune": "Sospirolo",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1554,
+    "popolazione_femminile": 1576,
+    "popolazione_totale": 3130
+  },
+  {
+    "codice_istat": "025057",
+    "comune": "Soverzene",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 177,
+    "popolazione_femminile": 185,
+    "popolazione_totale": 362
+  },
+  {
+    "codice_istat": "025058",
+    "comune": "Sovramonte",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 636,
+    "popolazione_femminile": 651,
+    "popolazione_totale": 1287
+  },
+  {
+    "codice_istat": "025059",
+    "comune": "Taibon Agordino",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 866,
+    "popolazione_femminile": 844,
+    "popolazione_totale": 1710
+  },
+  {
+    "codice_istat": "025060",
+    "comune": "Tambre",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 617,
+    "popolazione_totale": 1261
+  },
+  {
+    "codice_istat": "025073",
+    "comune": "Val di Zoldo",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 1349,
+    "popolazione_femminile": 1359,
+    "popolazione_totale": 2708
+  },
+  {
+    "codice_istat": "025062",
+    "comune": "Vallada Agordina",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 213,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 458
+  },
+  {
+    "codice_istat": "025063",
+    "comune": "Valle di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 880,
+    "popolazione_femminile": 932,
+    "popolazione_totale": 1812
+  },
+  {
+    "codice_istat": "025065",
+    "comune": "Vigo di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 655,
+    "popolazione_femminile": 667,
+    "popolazione_totale": 1322
+  },
+  {
+    "codice_istat": "025066",
+    "comune": "Vodo Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 409,
+    "popolazione_femminile": 413,
+    "popolazione_totale": 822
+  },
+  {
+    "codice_istat": "025067",
+    "comune": "Voltago Agordino",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 376,
+    "popolazione_femminile": 409,
+    "popolazione_totale": 785
+  },
+  {
+    "codice_istat": "025069",
+    "comune": "Zoppè di Cadore",
+    "provincia": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "popolazione_maschile": 90,
+    "popolazione_femminile": 85,
+    "popolazione_totale": 175
+  }
+]

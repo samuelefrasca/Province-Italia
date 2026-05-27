@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Regione NOME_REGIONE</title>
+    <meta name="description" content="Elenco completo delle province e dei comuni della regione NOME_REGIONE, ordinati per popolazione.">
+
+    <meta property="og:site_name" content="Province e regioni d'Italia">
+    <meta property="og:title" content="Regione NOME_REGIONE">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://samuelefrasca.github.io/Province-Italia/regioni/FILENAME.html">
+    <meta property="og:image" content="https://samuelefrasca.github.io/Province-Italia/assets/img/pi_icon.png">
+
+    <link rel="canonical" href="https://samuelefrasca.github.io/Province-Italia/regioni/FILENAME.html">
+
+    <link rel="icon" type="image/png" href="../assets/img/pi_icon.png">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/regioni.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Regione NOME_REGIONE",
+            "url": "https://samuelefrasca.github.io/Province-Italia/regioni/FILENAME.html",
+            "description": "Elenco completo delle province e dei comuni della regione NOME_REGIONE, ordinati per popolazione."
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+        <div class="header1">
+            <h1 class="title">Regione NOME_REGIONE</h1>
+            <div class="subtitle">
+                <p class="text-subtitle">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</p>
+                <p class="text-subtitle">In <b>grassetto</b> i capoluoghi di provincia</p>
+                <p id="bottone-completo" class="text-subtitle button pointer select-none"><b>Premi qui per vedere
+                        l'elenco completo dei comuni</b></p>
+            </div>
+        </div>
+        <div class="header2">
+            <a href="../"><img class="logo" src="../assets/img/pi_image.png" alt="pi_image" height="220px"></a>
+        </div>
+    </header>
+    <main>
+        <div class="pannello-info">
+            <div class="titolo-div" id="titolo-provincia-div">
+                <h2 class="titolo" id="titolo-provincia">Clicca su una provincia</h2>
+            </div>
+            <table class="tabella" id="elenco-comuni"></table>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2026 - Samuele Frasca</p>
+        <p><a href="https://github.com/samuelefrasca" class="a_footer github" target="_blank"><img class="github-logo"
+                    src="../assets/img/GitHub_Invertocat_White.png" alt="github-logo">GitHub</a></p>
+        <p><a href="https://simplemaps.com" class="a_footer button" target="_blank">Mappa di simplemaps.com</a></p>
+    </footer>
+    <script src="../assets/js/scriptcomuni.js"></script>
+    <script src="../assets/js/ordinamentocomuni.js"></script>
+    <script> nomeRegione = "NOME_REGIONE"; </script>
+</body>
+
+</html>

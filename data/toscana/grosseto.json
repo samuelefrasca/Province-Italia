@@ -1,0 +1,283 @@
+[
+  {
+    "codice_istat": "053001",
+    "comune": "Arcidosso",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2235,
+    "popolazione_femminile": 2106,
+    "popolazione_totale": 4341
+  },
+  {
+    "codice_istat": "053002",
+    "comune": "Campagnatico",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1238,
+    "popolazione_femminile": 1107,
+    "popolazione_totale": 2345
+  },
+  {
+    "codice_istat": "053003",
+    "comune": "Capalbio",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1764,
+    "popolazione_femminile": 1896,
+    "popolazione_totale": 3660
+  },
+  {
+    "codice_istat": "053004",
+    "comune": "Castel del Piano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2440,
+    "popolazione_femminile": 2363,
+    "popolazione_totale": 4803
+  },
+  {
+    "codice_istat": "053005",
+    "comune": "Castell'Azzara",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 609,
+    "popolazione_femminile": 645,
+    "popolazione_totale": 1254
+  },
+  {
+    "codice_istat": "053006",
+    "comune": "Castiglione della Pescaia",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 3496,
+    "popolazione_femminile": 3560,
+    "popolazione_totale": 7056
+  },
+  {
+    "codice_istat": "053007",
+    "comune": "Cinigiano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1331,
+    "popolazione_femminile": 1135,
+    "popolazione_totale": 2466
+  },
+  {
+    "codice_istat": "053008",
+    "comune": "Civitella Paganico",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1467,
+    "popolazione_femminile": 1486,
+    "popolazione_totale": 2953
+  },
+  {
+    "codice_istat": "053009",
+    "comune": "Follonica",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 9415,
+    "popolazione_femminile": 10585,
+    "popolazione_totale": 20000
+  },
+  {
+    "codice_istat": "053010",
+    "comune": "Gavorrano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4173,
+    "popolazione_femminile": 4183,
+    "popolazione_totale": 8356
+  },
+  {
+    "codice_istat": "053011",
+    "comune": "Grosseto",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 39345,
+    "popolazione_femminile": 41930,
+    "popolazione_totale": 81275,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "053012",
+    "comune": "Isola del Giglio",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 691,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1279
+  },
+  {
+    "codice_istat": "053013",
+    "comune": "Magliano in Toscana",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1577,
+    "popolazione_femminile": 1672,
+    "popolazione_totale": 3249
+  },
+  {
+    "codice_istat": "053014",
+    "comune": "Manciano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 3330,
+    "popolazione_femminile": 3520,
+    "popolazione_totale": 6850
+  },
+  {
+    "codice_istat": "053015",
+    "comune": "Massa Marittima",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 3974,
+    "popolazione_femminile": 4223,
+    "popolazione_totale": 8197
+  },
+  {
+    "codice_istat": "053016",
+    "comune": "Monte Argentario",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 5645,
+    "popolazione_femminile": 5960,
+    "popolazione_totale": 11605
+  },
+  {
+    "codice_istat": "053027",
+    "comune": "Monterotondo Marittimo",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 668,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1274
+  },
+  {
+    "codice_istat": "053017",
+    "comune": "Montieri",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 605,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1189
+  },
+  {
+    "codice_istat": "053018",
+    "comune": "Orbetello",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 6642,
+    "popolazione_femminile": 7275,
+    "popolazione_totale": 13917
+  },
+  {
+    "codice_istat": "053019",
+    "comune": "Pitigliano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1688,
+    "popolazione_femminile": 1827,
+    "popolazione_totale": 3515
+  },
+  {
+    "codice_istat": "053020",
+    "comune": "Roccalbegna",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 450,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 909
+  },
+  {
+    "codice_istat": "053021",
+    "comune": "Roccastrada",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 4384,
+    "popolazione_femminile": 4383,
+    "popolazione_totale": 8767
+  },
+  {
+    "codice_istat": "053022",
+    "comune": "Santa Fiora",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1254,
+    "popolazione_femminile": 1250,
+    "popolazione_totale": 2504
+  },
+  {
+    "codice_istat": "053023",
+    "comune": "Scansano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 2334,
+    "popolazione_femminile": 2026,
+    "popolazione_totale": 4360
+  },
+  {
+    "codice_istat": "053024",
+    "comune": "Scarlino",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1857,
+    "popolazione_femminile": 1823,
+    "popolazione_totale": 3680
+  },
+  {
+    "codice_istat": "053025",
+    "comune": "Seggiano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 566,
+    "popolazione_femminile": 488,
+    "popolazione_totale": 1054
+  },
+  {
+    "codice_istat": "053028",
+    "comune": "Semproniano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 505,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1022
+  },
+  {
+    "codice_istat": "053026",
+    "comune": "Sorano",
+    "provincia": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "popolazione_maschile": 1474,
+    "popolazione_femminile": 1509,
+    "popolazione_totale": 2983
+  }
+]

@@ -1,0 +1,603 @@
+[
+  {
+    "codice_istat": "098001",
+    "comune": "Abbadia Cerreto",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 139,
+    "popolazione_femminile": 141,
+    "popolazione_totale": 280
+  },
+  {
+    "codice_istat": "098002",
+    "comune": "Bertonico",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 552,
+    "popolazione_femminile": 529,
+    "popolazione_totale": 1081
+  },
+  {
+    "codice_istat": "098003",
+    "comune": "Boffalora d'Adda",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 860,
+    "popolazione_femminile": 877,
+    "popolazione_totale": 1737
+  },
+  {
+    "codice_istat": "098004",
+    "comune": "Borghetto Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2242,
+    "popolazione_femminile": 2188,
+    "popolazione_totale": 4430
+  },
+  {
+    "codice_istat": "098005",
+    "comune": "Borgo San Giovanni",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1219,
+    "popolazione_femminile": 1225,
+    "popolazione_totale": 2444
+  },
+  {
+    "codice_istat": "098006",
+    "comune": "Brembio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1459,
+    "popolazione_femminile": 1348,
+    "popolazione_totale": 2807
+  },
+  {
+    "codice_istat": "098008",
+    "comune": "Casaletto Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1538,
+    "popolazione_femminile": 1481,
+    "popolazione_totale": 3019
+  },
+  {
+    "codice_istat": "098009",
+    "comune": "Casalmaiocco",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1594,
+    "popolazione_femminile": 1624,
+    "popolazione_totale": 3218
+  },
+  {
+    "codice_istat": "098010",
+    "comune": "Casalpusterlengo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8134,
+    "popolazione_femminile": 7935,
+    "popolazione_totale": 16069
+  },
+  {
+    "codice_istat": "098011",
+    "comune": "Caselle Landi",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 726,
+    "popolazione_femminile": 705,
+    "popolazione_totale": 1431
+  },
+  {
+    "codice_istat": "098012",
+    "comune": "Caselle Lurani",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1593,
+    "popolazione_femminile": 1478,
+    "popolazione_totale": 3071
+  },
+  {
+    "codice_istat": "098062",
+    "comune": "Castelgerundo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 728,
+    "popolazione_femminile": 726,
+    "popolazione_totale": 1454
+  },
+  {
+    "codice_istat": "098013",
+    "comune": "Castelnuovo Bocca d'Adda",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 778,
+    "popolazione_femminile": 766,
+    "popolazione_totale": 1544
+  },
+  {
+    "codice_istat": "098014",
+    "comune": "Castiglione d'Adda",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2279,
+    "popolazione_femminile": 2245,
+    "popolazione_totale": 4524
+  },
+  {
+    "codice_istat": "098015",
+    "comune": "Castiraga Vidardo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1550,
+    "popolazione_femminile": 1498,
+    "popolazione_totale": 3048
+  },
+  {
+    "codice_istat": "098017",
+    "comune": "Cavenago d'Adda",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1057,
+    "popolazione_femminile": 1071,
+    "popolazione_totale": 2128
+  },
+  {
+    "codice_istat": "098018",
+    "comune": "Cervignano d'Adda",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1123,
+    "popolazione_femminile": 1124,
+    "popolazione_totale": 2247
+  },
+  {
+    "codice_istat": "098019",
+    "comune": "Codogno",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7620,
+    "popolazione_femminile": 8032,
+    "popolazione_totale": 15652
+  },
+  {
+    "codice_istat": "098020",
+    "comune": "Comazzo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1233,
+    "popolazione_femminile": 1146,
+    "popolazione_totale": 2379
+  },
+  {
+    "codice_istat": "098021",
+    "comune": "Cornegliano Laudense",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1388,
+    "popolazione_femminile": 1473,
+    "popolazione_totale": 2861
+  },
+  {
+    "codice_istat": "098022",
+    "comune": "Corno Giovine",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 557,
+    "popolazione_femminile": 587,
+    "popolazione_totale": 1144
+  },
+  {
+    "codice_istat": "098023",
+    "comune": "Cornovecchio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 99,
+    "popolazione_totale": 199
+  },
+  {
+    "codice_istat": "098024",
+    "comune": "Corte Palasio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 792,
+    "popolazione_femminile": 730,
+    "popolazione_totale": 1522
+  },
+  {
+    "codice_istat": "098025",
+    "comune": "Crespiatica",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1144,
+    "popolazione_femminile": 1064,
+    "popolazione_totale": 2208
+  },
+  {
+    "codice_istat": "098026",
+    "comune": "Fombio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1170,
+    "popolazione_femminile": 1096,
+    "popolazione_totale": 2266
+  },
+  {
+    "codice_istat": "098027",
+    "comune": "Galgagnano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 669,
+    "popolazione_femminile": 639,
+    "popolazione_totale": 1308
+  },
+  {
+    "codice_istat": "098028",
+    "comune": "Graffignana",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1335,
+    "popolazione_femminile": 1267,
+    "popolazione_totale": 2602
+  },
+  {
+    "codice_istat": "098029",
+    "comune": "Guardamiglio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1371,
+    "popolazione_femminile": 1359,
+    "popolazione_totale": 2730
+  },
+  {
+    "codice_istat": "098030",
+    "comune": "Livraga",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1264,
+    "popolazione_femminile": 1270,
+    "popolazione_totale": 2534
+  },
+  {
+    "codice_istat": "098031",
+    "comune": "Lodi",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 22326,
+    "popolazione_femminile": 23317,
+    "popolazione_totale": 45643,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "098032",
+    "comune": "Lodi Vecchio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3811,
+    "popolazione_femminile": 3906,
+    "popolazione_totale": 7717
+  },
+  {
+    "codice_istat": "098033",
+    "comune": "Maccastorna",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 43,
+    "popolazione_femminile": 24,
+    "popolazione_totale": 67
+  },
+  {
+    "codice_istat": "098034",
+    "comune": "Mairago",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 700,
+    "popolazione_femminile": 675,
+    "popolazione_totale": 1375
+  },
+  {
+    "codice_istat": "098035",
+    "comune": "Maleo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1492,
+    "popolazione_femminile": 1563,
+    "popolazione_totale": 3055
+  },
+  {
+    "codice_istat": "098036",
+    "comune": "Marudo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 888,
+    "popolazione_femminile": 869,
+    "popolazione_totale": 1757
+  },
+  {
+    "codice_istat": "098037",
+    "comune": "Massalengo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2272,
+    "popolazione_femminile": 2184,
+    "popolazione_totale": 4456
+  },
+  {
+    "codice_istat": "098038",
+    "comune": "Meleti",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 221,
+    "popolazione_totale": 456
+  },
+  {
+    "codice_istat": "098039",
+    "comune": "Merlino",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 844,
+    "popolazione_femminile": 811,
+    "popolazione_totale": 1655
+  },
+  {
+    "codice_istat": "098040",
+    "comune": "Montanaso Lombardo",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1114,
+    "popolazione_femminile": 1142,
+    "popolazione_totale": 2256
+  },
+  {
+    "codice_istat": "098041",
+    "comune": "Mulazzano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2929,
+    "popolazione_femminile": 2900,
+    "popolazione_totale": 5829
+  },
+  {
+    "codice_istat": "098042",
+    "comune": "Orio Litta",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1042,
+    "popolazione_femminile": 1034,
+    "popolazione_totale": 2076
+  },
+  {
+    "codice_istat": "098043",
+    "comune": "Ospedaletto Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1066,
+    "popolazione_femminile": 942,
+    "popolazione_totale": 2008
+  },
+  {
+    "codice_istat": "098044",
+    "comune": "Ossago Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 721,
+    "popolazione_femminile": 701,
+    "popolazione_totale": 1422
+  },
+  {
+    "codice_istat": "098045",
+    "comune": "Pieve Fissiraga",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 875,
+    "popolazione_femminile": 878,
+    "popolazione_totale": 1753
+  },
+  {
+    "codice_istat": "098046",
+    "comune": "Salerano sul Lambro",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1341,
+    "popolazione_femminile": 1349,
+    "popolazione_totale": 2690
+  },
+  {
+    "codice_istat": "098047",
+    "comune": "San Fiorano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 962,
+    "popolazione_femminile": 931,
+    "popolazione_totale": 1893
+  },
+  {
+    "codice_istat": "098048",
+    "comune": "San Martino in Strada",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1898,
+    "popolazione_femminile": 1878,
+    "popolazione_totale": 3776
+  },
+  {
+    "codice_istat": "098049",
+    "comune": "San Rocco al Porto",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1702,
+    "popolazione_femminile": 1750,
+    "popolazione_totale": 3452
+  },
+  {
+    "codice_istat": "098050",
+    "comune": "Sant'Angelo Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6857,
+    "popolazione_femminile": 6720,
+    "popolazione_totale": 13577
+  },
+  {
+    "codice_istat": "098051",
+    "comune": "Santo Stefano Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 939,
+    "popolazione_femminile": 913,
+    "popolazione_totale": 1852
+  },
+  {
+    "codice_istat": "098052",
+    "comune": "Secugnago",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 986,
+    "popolazione_femminile": 1015,
+    "popolazione_totale": 2001
+  },
+  {
+    "codice_istat": "098053",
+    "comune": "Senna Lodigiana",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 928,
+    "popolazione_femminile": 885,
+    "popolazione_totale": 1813
+  },
+  {
+    "codice_istat": "098054",
+    "comune": "Somaglia",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1942,
+    "popolazione_femminile": 1922,
+    "popolazione_totale": 3864
+  },
+  {
+    "codice_istat": "098055",
+    "comune": "Sordio",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1758,
+    "popolazione_femminile": 1686,
+    "popolazione_totale": 3444
+  },
+  {
+    "codice_istat": "098056",
+    "comune": "Tavazzano con Villavesco",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3056,
+    "popolazione_femminile": 3042,
+    "popolazione_totale": 6098
+  },
+  {
+    "codice_istat": "098057",
+    "comune": "Terranova dei Passerini",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 485,
+    "popolazione_femminile": 467,
+    "popolazione_totale": 952
+  },
+  {
+    "codice_istat": "098058",
+    "comune": "Turano Lodigiano",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 805,
+    "popolazione_femminile": 771,
+    "popolazione_totale": 1576
+  },
+  {
+    "codice_istat": "098059",
+    "comune": "Valera Fratta",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 873,
+    "popolazione_femminile": 825,
+    "popolazione_totale": 1698
+  },
+  {
+    "codice_istat": "098060",
+    "comune": "Villanova del Sillaro",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 988,
+    "popolazione_femminile": 911,
+    "popolazione_totale": 1899
+  },
+  {
+    "codice_istat": "098061",
+    "comune": "Zelo Buon Persico",
+    "provincia": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3632,
+    "popolazione_femminile": 3802,
+    "popolazione_totale": 7434
+  }
+]

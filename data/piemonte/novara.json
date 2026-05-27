@@ -1,0 +1,873 @@
+[
+  {
+    "codice_istat": "003001",
+    "comune": "Agrate Conturbia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 811,
+    "popolazione_femminile": 768,
+    "popolazione_totale": 1579
+  },
+  {
+    "codice_istat": "003002",
+    "comune": "Ameno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 451,
+    "popolazione_totale": 866
+  },
+  {
+    "codice_istat": "003006",
+    "comune": "Armeno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 995,
+    "popolazione_femminile": 1094,
+    "popolazione_totale": 2089
+  },
+  {
+    "codice_istat": "003008",
+    "comune": "Arona",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 6323,
+    "popolazione_femminile": 7309,
+    "popolazione_totale": 13632
+  },
+  {
+    "codice_istat": "003012",
+    "comune": "Barengo",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 369,
+    "popolazione_totale": 734
+  },
+  {
+    "codice_istat": "003016",
+    "comune": "Bellinzago Novarese",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4656,
+    "popolazione_femminile": 4688,
+    "popolazione_totale": 9344
+  },
+  {
+    "codice_istat": "003018",
+    "comune": "Biandrate",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 716,
+    "popolazione_femminile": 668,
+    "popolazione_totale": 1384
+  },
+  {
+    "codice_istat": "003019",
+    "comune": "Boca",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 569,
+    "popolazione_femminile": 576,
+    "popolazione_totale": 1145
+  },
+  {
+    "codice_istat": "003021",
+    "comune": "Bogogno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 647,
+    "popolazione_femminile": 677,
+    "popolazione_totale": 1324
+  },
+  {
+    "codice_istat": "003022",
+    "comune": "Bolzano Novarese",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 572,
+    "popolazione_femminile": 538,
+    "popolazione_totale": 1110
+  },
+  {
+    "codice_istat": "003025",
+    "comune": "Borgo Ticino",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2581,
+    "popolazione_femminile": 2564,
+    "popolazione_totale": 5145
+  },
+  {
+    "codice_istat": "003023",
+    "comune": "Borgolavezzaro",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 989,
+    "popolazione_femminile": 1036,
+    "popolazione_totale": 2025
+  },
+  {
+    "codice_istat": "003024",
+    "comune": "Borgomanero",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 10190,
+    "popolazione_femminile": 11012,
+    "popolazione_totale": 21202
+  },
+  {
+    "codice_istat": "003026",
+    "comune": "Briga Novarese",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1313,
+    "popolazione_femminile": 1417,
+    "popolazione_totale": 2730
+  },
+  {
+    "codice_istat": "003027",
+    "comune": "Briona",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "003030",
+    "comune": "Caltignaga",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1230,
+    "popolazione_femminile": 1223,
+    "popolazione_totale": 2453
+  },
+  {
+    "codice_istat": "003032",
+    "comune": "Cameri",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5323,
+    "popolazione_femminile": 5544,
+    "popolazione_totale": 10867
+  },
+  {
+    "codice_istat": "003036",
+    "comune": "Carpignano Sesia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1163,
+    "popolazione_femminile": 1294,
+    "popolazione_totale": 2457
+  },
+  {
+    "codice_istat": "003037",
+    "comune": "Casalbeltrame",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 548,
+    "popolazione_femminile": 499,
+    "popolazione_totale": 1047
+  },
+  {
+    "codice_istat": "003039",
+    "comune": "Casaleggio Novara",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 444,
+    "popolazione_femminile": 473,
+    "popolazione_totale": 917
+  },
+  {
+    "codice_istat": "003040",
+    "comune": "Casalino",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 810,
+    "popolazione_femminile": 776,
+    "popolazione_totale": 1586
+  },
+  {
+    "codice_istat": "003041",
+    "comune": "Casalvolone",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 460,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 888
+  },
+  {
+    "codice_istat": "003042",
+    "comune": "Castellazzo Novarese",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 165,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 331
+  },
+  {
+    "codice_istat": "003043",
+    "comune": "Castelletto sopra Ticino",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4793,
+    "popolazione_femminile": 5041,
+    "popolazione_totale": 9834
+  },
+  {
+    "codice_istat": "003044",
+    "comune": "Cavaglietto",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 189,
+    "popolazione_totale": 387
+  },
+  {
+    "codice_istat": "003045",
+    "comune": "Cavaglio d'Agogna",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 559,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1143
+  },
+  {
+    "codice_istat": "003047",
+    "comune": "Cavallirio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 646,
+    "popolazione_femminile": 644,
+    "popolazione_totale": 1290
+  },
+  {
+    "codice_istat": "003049",
+    "comune": "Cerano",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3462,
+    "popolazione_femminile": 3533,
+    "popolazione_totale": 6995
+  },
+  {
+    "codice_istat": "003051",
+    "comune": "Colazza",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 283,
+    "popolazione_femminile": 270,
+    "popolazione_totale": 553
+  },
+  {
+    "codice_istat": "003052",
+    "comune": "Comignago",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 661,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1264
+  },
+  {
+    "codice_istat": "003055",
+    "comune": "Cressa",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 759,
+    "popolazione_femminile": 800,
+    "popolazione_totale": 1559
+  },
+  {
+    "codice_istat": "003058",
+    "comune": "Cureggio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1271,
+    "popolazione_femminile": 1348,
+    "popolazione_totale": 2619
+  },
+  {
+    "codice_istat": "003060",
+    "comune": "Divignano",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 720,
+    "popolazione_femminile": 708,
+    "popolazione_totale": 1428
+  },
+  {
+    "codice_istat": "003062",
+    "comune": "Dormelletto",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1223,
+    "popolazione_femminile": 1333,
+    "popolazione_totale": 2556
+  },
+  {
+    "codice_istat": "003065",
+    "comune": "Fara Novarese",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1004,
+    "popolazione_femminile": 1005,
+    "popolazione_totale": 2009
+  },
+  {
+    "codice_istat": "003066",
+    "comune": "Fontaneto d'Agogna",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1323,
+    "popolazione_femminile": 1333,
+    "popolazione_totale": 2656
+  },
+  {
+    "codice_istat": "003068",
+    "comune": "Galliate",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 7781,
+    "popolazione_femminile": 8103,
+    "popolazione_totale": 15884
+  },
+  {
+    "codice_istat": "003069",
+    "comune": "Garbagna Novarese",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 688,
+    "popolazione_femminile": 709,
+    "popolazione_totale": 1397
+  },
+  {
+    "codice_istat": "003070",
+    "comune": "Gargallo",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 856,
+    "popolazione_femminile": 895,
+    "popolazione_totale": 1751
+  },
+  {
+    "codice_istat": "003166",
+    "comune": "Gattico-Veruno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2580,
+    "popolazione_femminile": 2731,
+    "popolazione_totale": 5311
+  },
+  {
+    "codice_istat": "003073",
+    "comune": "Ghemme",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1722,
+    "popolazione_femminile": 1707,
+    "popolazione_totale": 3429
+  },
+  {
+    "codice_istat": "003076",
+    "comune": "Gozzano",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2771,
+    "popolazione_femminile": 2693,
+    "popolazione_totale": 5464
+  },
+  {
+    "codice_istat": "003077",
+    "comune": "Granozzo con Monticello",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 642,
+    "popolazione_femminile": 660,
+    "popolazione_totale": 1302
+  },
+  {
+    "codice_istat": "003079",
+    "comune": "Grignasco",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2089,
+    "popolazione_femminile": 2210,
+    "popolazione_totale": 4299
+  },
+  {
+    "codice_istat": "003082",
+    "comune": "Invorio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2125,
+    "popolazione_femminile": 2165,
+    "popolazione_totale": 4290
+  },
+  {
+    "codice_istat": "003083",
+    "comune": "Landiona",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 249,
+    "popolazione_femminile": 269,
+    "popolazione_totale": 518
+  },
+  {
+    "codice_istat": "003084",
+    "comune": "Lesa",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1065,
+    "popolazione_femminile": 1138,
+    "popolazione_totale": 2203
+  },
+  {
+    "codice_istat": "003088",
+    "comune": "Maggiora",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 777,
+    "popolazione_femminile": 850,
+    "popolazione_totale": 1627
+  },
+  {
+    "codice_istat": "003090",
+    "comune": "Mandello Vitta",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 109,
+    "popolazione_femminile": 104,
+    "popolazione_totale": 213
+  },
+  {
+    "codice_istat": "003091",
+    "comune": "Marano Ticino",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 789,
+    "popolazione_femminile": 834,
+    "popolazione_totale": 1623
+  },
+  {
+    "codice_istat": "003093",
+    "comune": "Massino Visconti",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 554,
+    "popolazione_femminile": 573,
+    "popolazione_totale": 1127
+  },
+  {
+    "codice_istat": "003095",
+    "comune": "Meina",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1095,
+    "popolazione_femminile": 1245,
+    "popolazione_totale": 2340
+  },
+  {
+    "codice_istat": "003097",
+    "comune": "Mezzomerico",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 616,
+    "popolazione_femminile": 604,
+    "popolazione_totale": 1220
+  },
+  {
+    "codice_istat": "003098",
+    "comune": "Miasino",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 380,
+    "popolazione_femminile": 425,
+    "popolazione_totale": 805
+  },
+  {
+    "codice_istat": "003100",
+    "comune": "Momo",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1169,
+    "popolazione_femminile": 1236,
+    "popolazione_totale": 2405
+  },
+  {
+    "codice_istat": "003103",
+    "comune": "Nebbiuno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 917,
+    "popolazione_femminile": 942,
+    "popolazione_totale": 1859
+  },
+  {
+    "codice_istat": "003104",
+    "comune": "Nibbiola",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 417,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 833
+  },
+  {
+    "codice_istat": "003106",
+    "comune": "Novara",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 50565,
+    "popolazione_femminile": 52673,
+    "popolazione_totale": 103238,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "003108",
+    "comune": "Oleggio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 7043,
+    "popolazione_femminile": 7227,
+    "popolazione_totale": 14270
+  },
+  {
+    "codice_istat": "003109",
+    "comune": "Oleggio Castello",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1124,
+    "popolazione_femminile": 1101,
+    "popolazione_totale": 2225
+  },
+  {
+    "codice_istat": "003112",
+    "comune": "Orta San Giulio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 548,
+    "popolazione_femminile": 538,
+    "popolazione_totale": 1086
+  },
+  {
+    "codice_istat": "003114",
+    "comune": "Paruzzaro",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1027,
+    "popolazione_femminile": 1094,
+    "popolazione_totale": 2121
+  },
+  {
+    "codice_istat": "003115",
+    "comune": "Pella",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 874
+  },
+  {
+    "codice_istat": "003116",
+    "comune": "Pettenasco",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 636,
+    "popolazione_femminile": 660,
+    "popolazione_totale": 1296
+  },
+  {
+    "codice_istat": "003119",
+    "comune": "Pisano",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 794
+  },
+  {
+    "codice_istat": "003120",
+    "comune": "Pogno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 673,
+    "popolazione_femminile": 692,
+    "popolazione_totale": 1365
+  },
+  {
+    "codice_istat": "003121",
+    "comune": "Pombia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1073,
+    "popolazione_femminile": 1046,
+    "popolazione_totale": 2119
+  },
+  {
+    "codice_istat": "003122",
+    "comune": "Prato Sesia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 911,
+    "popolazione_femminile": 918,
+    "popolazione_totale": 1829
+  },
+  {
+    "codice_istat": "003129",
+    "comune": "Recetto",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 552,
+    "popolazione_femminile": 477,
+    "popolazione_totale": 1029
+  },
+  {
+    "codice_istat": "003130",
+    "comune": "Romagnano Sesia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1829,
+    "popolazione_femminile": 1930,
+    "popolazione_totale": 3759
+  },
+  {
+    "codice_istat": "003131",
+    "comune": "Romentino",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2794,
+    "popolazione_femminile": 2864,
+    "popolazione_totale": 5658
+  },
+  {
+    "codice_istat": "003133",
+    "comune": "San Maurizio d'Opaglio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1400,
+    "popolazione_femminile": 1531,
+    "popolazione_totale": 2931
+  },
+  {
+    "codice_istat": "003134",
+    "comune": "San Nazzaro Sesia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 335,
+    "popolazione_totale": 701
+  },
+  {
+    "codice_istat": "003135",
+    "comune": "San Pietro Mosezzo",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1010,
+    "popolazione_femminile": 950,
+    "popolazione_totale": 1960
+  },
+  {
+    "codice_istat": "003138",
+    "comune": "Sillavengo",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 293,
+    "popolazione_femminile": 283,
+    "popolazione_totale": 576
+  },
+  {
+    "codice_istat": "003139",
+    "comune": "Sizzano",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 651,
+    "popolazione_femminile": 669,
+    "popolazione_totale": 1320
+  },
+  {
+    "codice_istat": "003140",
+    "comune": "Soriso",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 375,
+    "popolazione_totale": 722
+  },
+  {
+    "codice_istat": "003141",
+    "comune": "Sozzago",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 540,
+    "popolazione_femminile": 565,
+    "popolazione_totale": 1105
+  },
+  {
+    "codice_istat": "003143",
+    "comune": "Suno",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1310,
+    "popolazione_femminile": 1352,
+    "popolazione_totale": 2662
+  },
+  {
+    "codice_istat": "003144",
+    "comune": "Terdobbiate",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 224,
+    "popolazione_totale": 462
+  },
+  {
+    "codice_istat": "003146",
+    "comune": "Tornaco",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 430,
+    "popolazione_femminile": 446,
+    "popolazione_totale": 876
+  },
+  {
+    "codice_istat": "003149",
+    "comune": "Trecate",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 10728,
+    "popolazione_femminile": 10577,
+    "popolazione_totale": 21305
+  },
+  {
+    "codice_istat": "003153",
+    "comune": "Vaprio d'Agogna",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 475,
+    "popolazione_femminile": 477,
+    "popolazione_totale": 952
+  },
+  {
+    "codice_istat": "003154",
+    "comune": "Varallo Pombia",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2456,
+    "popolazione_femminile": 2567,
+    "popolazione_totale": 5023
+  },
+  {
+    "codice_istat": "003158",
+    "comune": "Vespolate",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1033,
+    "popolazione_femminile": 1047,
+    "popolazione_totale": 2080
+  },
+  {
+    "codice_istat": "003159",
+    "comune": "Vicolungo",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 409,
+    "popolazione_femminile": 442,
+    "popolazione_totale": 851
+  },
+  {
+    "codice_istat": "003164",
+    "comune": "Vinzaglio",
+    "provincia": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 564
+  }
+]

@@ -1,0 +1,2053 @@
+[
+  {
+    "codice_istat": "017001",
+    "comune": "Acquafredda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 779,
+    "popolazione_femminile": 770,
+    "popolazione_totale": 1549
+  },
+  {
+    "codice_istat": "017002",
+    "comune": "Adro",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3627,
+    "popolazione_femminile": 3569,
+    "popolazione_totale": 7196
+  },
+  {
+    "codice_istat": "017003",
+    "comune": "Agnosine",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 842,
+    "popolazione_femminile": 804,
+    "popolazione_totale": 1646
+  },
+  {
+    "codice_istat": "017004",
+    "comune": "Alfianello",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1166,
+    "popolazione_femminile": 1141,
+    "popolazione_totale": 2307
+  },
+  {
+    "codice_istat": "017005",
+    "comune": "Anfo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 228,
+    "popolazione_femminile": 211,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "017006",
+    "comune": "Angolo Terme",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1199,
+    "popolazione_femminile": 1125,
+    "popolazione_totale": 2324
+  },
+  {
+    "codice_istat": "017007",
+    "comune": "Artogne",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1862,
+    "popolazione_femminile": 1852,
+    "popolazione_totale": 3714
+  },
+  {
+    "codice_istat": "017008",
+    "comune": "Azzano Mella",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1824,
+    "popolazione_femminile": 1695,
+    "popolazione_totale": 3519
+  },
+  {
+    "codice_istat": "017009",
+    "comune": "Bagnolo Mella",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6304,
+    "popolazione_femminile": 6232,
+    "popolazione_totale": 12536
+  },
+  {
+    "codice_istat": "017010",
+    "comune": "Bagolino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1878,
+    "popolazione_femminile": 1860,
+    "popolazione_totale": 3738
+  },
+  {
+    "codice_istat": "017011",
+    "comune": "Barbariga",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1173,
+    "popolazione_femminile": 1134,
+    "popolazione_totale": 2307
+  },
+  {
+    "codice_istat": "017012",
+    "comune": "Barghe",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 608,
+    "popolazione_femminile": 530,
+    "popolazione_totale": 1138
+  },
+  {
+    "codice_istat": "017013",
+    "comune": "Bassano Bresciano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1211,
+    "popolazione_femminile": 1152,
+    "popolazione_totale": 2363
+  },
+  {
+    "codice_istat": "017014",
+    "comune": "Bedizzole",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6082,
+    "popolazione_femminile": 6184,
+    "popolazione_totale": 12266
+  },
+  {
+    "codice_istat": "017015",
+    "comune": "Berlingo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1407,
+    "popolazione_femminile": 1344,
+    "popolazione_totale": 2751
+  },
+  {
+    "codice_istat": "017016",
+    "comune": "Berzo Demo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 705,
+    "popolazione_totale": 1444
+  },
+  {
+    "codice_istat": "017017",
+    "comune": "Berzo Inferiore",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1275,
+    "popolazione_femminile": 1247,
+    "popolazione_totale": 2522
+  },
+  {
+    "codice_istat": "017018",
+    "comune": "Bienno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1862,
+    "popolazione_femminile": 1894,
+    "popolazione_totale": 3756
+  },
+  {
+    "codice_istat": "017019",
+    "comune": "Bione",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 656,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1319
+  },
+  {
+    "codice_istat": "017020",
+    "comune": "Borgo San Giacomo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2859,
+    "popolazione_femminile": 2731,
+    "popolazione_totale": 5590
+  },
+  {
+    "codice_istat": "017021",
+    "comune": "Borgosatollo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4590,
+    "popolazione_femminile": 4509,
+    "popolazione_totale": 9099
+  },
+  {
+    "codice_istat": "017022",
+    "comune": "Borno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1183,
+    "popolazione_femminile": 1220,
+    "popolazione_totale": 2403
+  },
+  {
+    "codice_istat": "017023",
+    "comune": "Botticino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5314,
+    "popolazione_femminile": 5535,
+    "popolazione_totale": 10849
+  },
+  {
+    "codice_istat": "017024",
+    "comune": "Bovegno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 986,
+    "popolazione_femminile": 1026,
+    "popolazione_totale": 2012
+  },
+  {
+    "codice_istat": "017025",
+    "comune": "Bovezzo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3608,
+    "popolazione_femminile": 3778,
+    "popolazione_totale": 7386
+  },
+  {
+    "codice_istat": "017026",
+    "comune": "Brandico",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 902,
+    "popolazione_femminile": 865,
+    "popolazione_totale": 1767
+  },
+  {
+    "codice_istat": "017027",
+    "comune": "Braone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 681
+  },
+  {
+    "codice_istat": "017028",
+    "comune": "Breno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2322,
+    "popolazione_femminile": 2352,
+    "popolazione_totale": 4674
+  },
+  {
+    "codice_istat": "017029",
+    "comune": "Brescia",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 97804,
+    "popolazione_femminile": 103538,
+    "popolazione_totale": 201342,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "017030",
+    "comune": "Brione",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 408,
+    "popolazione_femminile": 351,
+    "popolazione_totale": 759
+  },
+  {
+    "codice_istat": "017031",
+    "comune": "Caino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1125,
+    "popolazione_femminile": 1055,
+    "popolazione_totale": 2180
+  },
+  {
+    "codice_istat": "017032",
+    "comune": "Calcinato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6678,
+    "popolazione_femminile": 6469,
+    "popolazione_totale": 13147
+  },
+  {
+    "codice_istat": "017033",
+    "comune": "Calvagese della Riviera",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1850,
+    "popolazione_femminile": 1829,
+    "popolazione_totale": 3679
+  },
+  {
+    "codice_istat": "017034",
+    "comune": "Calvisano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4339,
+    "popolazione_femminile": 4122,
+    "popolazione_totale": 8461
+  },
+  {
+    "codice_istat": "017035",
+    "comune": "Capo di Ponte",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1131,
+    "popolazione_femminile": 1162,
+    "popolazione_totale": 2293
+  },
+  {
+    "codice_istat": "017036",
+    "comune": "Capovalle",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 163,
+    "popolazione_femminile": 169,
+    "popolazione_totale": 332
+  },
+  {
+    "codice_istat": "017037",
+    "comune": "Capriano del Colle",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2542,
+    "popolazione_femminile": 2375,
+    "popolazione_totale": 4917
+  },
+  {
+    "codice_istat": "017038",
+    "comune": "Capriolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4765,
+    "popolazione_femminile": 4640,
+    "popolazione_totale": 9405
+  },
+  {
+    "codice_istat": "017039",
+    "comune": "Carpenedolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6596,
+    "popolazione_femminile": 6454,
+    "popolazione_totale": 13050
+  },
+  {
+    "codice_istat": "017040",
+    "comune": "Castegnato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4242,
+    "popolazione_femminile": 4215,
+    "popolazione_totale": 8457
+  },
+  {
+    "codice_istat": "017042",
+    "comune": "Castel Mella",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5507,
+    "popolazione_femminile": 5454,
+    "popolazione_totale": 10961
+  },
+  {
+    "codice_istat": "017041",
+    "comune": "Castelcovati",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3607,
+    "popolazione_femminile": 3480,
+    "popolazione_totale": 7087
+  },
+  {
+    "codice_istat": "017043",
+    "comune": "Castenedolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5808,
+    "popolazione_femminile": 5835,
+    "popolazione_totale": 11643
+  },
+  {
+    "codice_istat": "017044",
+    "comune": "Casto",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 862,
+    "popolazione_femminile": 751,
+    "popolazione_totale": 1613
+  },
+  {
+    "codice_istat": "017045",
+    "comune": "Castrezzato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4027,
+    "popolazione_femminile": 3957,
+    "popolazione_totale": 7984
+  },
+  {
+    "codice_istat": "017046",
+    "comune": "Cazzago San Martino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5359,
+    "popolazione_femminile": 5425,
+    "popolazione_totale": 10784
+  },
+  {
+    "codice_istat": "017047",
+    "comune": "Cedegolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 567,
+    "popolazione_femminile": 562,
+    "popolazione_totale": 1129
+  },
+  {
+    "codice_istat": "017048",
+    "comune": "Cellatica",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2338,
+    "popolazione_femminile": 2477,
+    "popolazione_totale": 4815
+  },
+  {
+    "codice_istat": "017049",
+    "comune": "Cerveno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 342,
+    "popolazione_totale": 707
+  },
+  {
+    "codice_istat": "017050",
+    "comune": "Ceto",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 886,
+    "popolazione_femminile": 889,
+    "popolazione_totale": 1775
+  },
+  {
+    "codice_istat": "017051",
+    "comune": "Cevo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 404,
+    "popolazione_femminile": 367,
+    "popolazione_totale": 771
+  },
+  {
+    "codice_istat": "017052",
+    "comune": "Chiari",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9860,
+    "popolazione_femminile": 9857,
+    "popolazione_totale": 19717
+  },
+  {
+    "codice_istat": "017053",
+    "comune": "Cigole",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 756,
+    "popolazione_femminile": 747,
+    "popolazione_totale": 1503
+  },
+  {
+    "codice_istat": "017054",
+    "comune": "Cimbergo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 272,
+    "popolazione_femminile": 254,
+    "popolazione_totale": 526
+  },
+  {
+    "codice_istat": "017055",
+    "comune": "Cividate Camuno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1379,
+    "popolazione_femminile": 1308,
+    "popolazione_totale": 2687
+  },
+  {
+    "codice_istat": "017056",
+    "comune": "Coccaglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4514,
+    "popolazione_femminile": 4423,
+    "popolazione_totale": 8937
+  },
+  {
+    "codice_istat": "017057",
+    "comune": "Collebeato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2154,
+    "popolazione_femminile": 2315,
+    "popolazione_totale": 4469
+  },
+  {
+    "codice_istat": "017058",
+    "comune": "Collio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1008,
+    "popolazione_femminile": 947,
+    "popolazione_totale": 1955
+  },
+  {
+    "codice_istat": "017059",
+    "comune": "Cologne",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3796,
+    "popolazione_femminile": 3812,
+    "popolazione_totale": 7608
+  },
+  {
+    "codice_istat": "017060",
+    "comune": "Comezzano-Cizzago",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2154,
+    "popolazione_femminile": 2048,
+    "popolazione_totale": 4202
+  },
+  {
+    "codice_istat": "017061",
+    "comune": "Concesio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7813,
+    "popolazione_femminile": 7922,
+    "popolazione_totale": 15735
+  },
+  {
+    "codice_istat": "017062",
+    "comune": "Corte Franca",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3570,
+    "popolazione_femminile": 3580,
+    "popolazione_totale": 7150
+  },
+  {
+    "codice_istat": "017063",
+    "comune": "Corteno Golgi",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 973,
+    "popolazione_femminile": 936,
+    "popolazione_totale": 1909
+  },
+  {
+    "codice_istat": "017064",
+    "comune": "Corzano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 783,
+    "popolazione_femminile": 757,
+    "popolazione_totale": 1540
+  },
+  {
+    "codice_istat": "017065",
+    "comune": "Darfo Boario Terme",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7940,
+    "popolazione_femminile": 8034,
+    "popolazione_totale": 15974
+  },
+  {
+    "codice_istat": "017066",
+    "comune": "Dello",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2868,
+    "popolazione_femminile": 2818,
+    "popolazione_totale": 5686
+  },
+  {
+    "codice_istat": "017067",
+    "comune": "Desenzano del Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 14003,
+    "popolazione_femminile": 15350,
+    "popolazione_totale": 29353
+  },
+  {
+    "codice_istat": "017068",
+    "comune": "Edolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2157,
+    "popolazione_femminile": 2290,
+    "popolazione_totale": 4447
+  },
+  {
+    "codice_istat": "017069",
+    "comune": "Erbusco",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4524,
+    "popolazione_femminile": 4328,
+    "popolazione_totale": 8852
+  },
+  {
+    "codice_istat": "017070",
+    "comune": "Esine",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2505,
+    "popolazione_femminile": 2550,
+    "popolazione_totale": 5055
+  },
+  {
+    "codice_istat": "017071",
+    "comune": "Fiesse",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1076,
+    "popolazione_femminile": 1019,
+    "popolazione_totale": 2095
+  },
+  {
+    "codice_istat": "017072",
+    "comune": "Flero",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4424,
+    "popolazione_femminile": 4388,
+    "popolazione_totale": 8812
+  },
+  {
+    "codice_istat": "017073",
+    "comune": "Gambara",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2492,
+    "popolazione_femminile": 2268,
+    "popolazione_totale": 4760
+  },
+  {
+    "codice_istat": "017074",
+    "comune": "Gardone Riviera",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1280,
+    "popolazione_femminile": 1288,
+    "popolazione_totale": 2568
+  },
+  {
+    "codice_istat": "017075",
+    "comune": "Gardone Val Trompia",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5840,
+    "popolazione_femminile": 5759,
+    "popolazione_totale": 11599
+  },
+  {
+    "codice_istat": "017076",
+    "comune": "Gargnano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1263,
+    "popolazione_femminile": 1352,
+    "popolazione_totale": 2615
+  },
+  {
+    "codice_istat": "017077",
+    "comune": "Gavardo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6353,
+    "popolazione_femminile": 6085,
+    "popolazione_totale": 12438
+  },
+  {
+    "codice_istat": "017078",
+    "comune": "Ghedi",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 9422,
+    "popolazione_femminile": 9124,
+    "popolazione_totale": 18546
+  },
+  {
+    "codice_istat": "017079",
+    "comune": "Gianico",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1032,
+    "popolazione_femminile": 1046,
+    "popolazione_totale": 2078
+  },
+  {
+    "codice_istat": "017080",
+    "comune": "Gottolengo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2502,
+    "popolazione_femminile": 2549,
+    "popolazione_totale": 5051
+  },
+  {
+    "codice_istat": "017081",
+    "comune": "Gussago",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8222,
+    "popolazione_femminile": 8441,
+    "popolazione_totale": 16663
+  },
+  {
+    "codice_istat": "017082",
+    "comune": "Idro",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 929,
+    "popolazione_femminile": 944,
+    "popolazione_totale": 1873
+  },
+  {
+    "codice_istat": "017083",
+    "comune": "Incudine",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 177,
+    "popolazione_totale": 345
+  },
+  {
+    "codice_istat": "017084",
+    "comune": "Irma",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 62,
+    "popolazione_totale": 135
+  },
+  {
+    "codice_istat": "017085",
+    "comune": "Iseo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4316,
+    "popolazione_femminile": 4653,
+    "popolazione_totale": 8969
+  },
+  {
+    "codice_istat": "017086",
+    "comune": "Isorella",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2134,
+    "popolazione_femminile": 1989,
+    "popolazione_totale": 4123
+  },
+  {
+    "codice_istat": "017087",
+    "comune": "Lavenone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 255,
+    "popolazione_totale": 508
+  },
+  {
+    "codice_istat": "017088",
+    "comune": "Leno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7300,
+    "popolazione_femminile": 7174,
+    "popolazione_totale": 14474
+  },
+  {
+    "codice_istat": "017089",
+    "comune": "Limone sul Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 544,
+    "popolazione_femminile": 552,
+    "popolazione_totale": 1096
+  },
+  {
+    "codice_istat": "017090",
+    "comune": "Lodrino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 846,
+    "popolazione_femminile": 781,
+    "popolazione_totale": 1627
+  },
+  {
+    "codice_istat": "017091",
+    "comune": "Lograto",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1939,
+    "popolazione_femminile": 1906,
+    "popolazione_totale": 3845
+  },
+  {
+    "codice_istat": "017092",
+    "comune": "Lonato del Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 8592,
+    "popolazione_femminile": 8576,
+    "popolazione_totale": 17168
+  },
+  {
+    "codice_istat": "017093",
+    "comune": "Longhena",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 303,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 565
+  },
+  {
+    "codice_istat": "017094",
+    "comune": "Losine",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 326,
+    "popolazione_femminile": 321,
+    "popolazione_totale": 647
+  },
+  {
+    "codice_istat": "017095",
+    "comune": "Lozio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 191,
+    "popolazione_femminile": 174,
+    "popolazione_totale": 365
+  },
+  {
+    "codice_istat": "017096",
+    "comune": "Lumezzane",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10943,
+    "popolazione_femminile": 10799,
+    "popolazione_totale": 21742
+  },
+  {
+    "codice_istat": "017097",
+    "comune": "Maclodio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 737,
+    "popolazione_femminile": 741,
+    "popolazione_totale": 1478
+  },
+  {
+    "codice_istat": "017098",
+    "comune": "Magasa",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 61,
+    "popolazione_femminile": 43,
+    "popolazione_totale": 104
+  },
+  {
+    "codice_istat": "017099",
+    "comune": "Mairano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1779,
+    "popolazione_femminile": 1719,
+    "popolazione_totale": 3498
+  },
+  {
+    "codice_istat": "017100",
+    "comune": "Malegno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 961,
+    "popolazione_femminile": 964,
+    "popolazione_totale": 1925
+  },
+  {
+    "codice_istat": "017101",
+    "comune": "Malonno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1476,
+    "popolazione_femminile": 1521,
+    "popolazione_totale": 2997
+  },
+  {
+    "codice_istat": "017102",
+    "comune": "Manerba del Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2730,
+    "popolazione_femminile": 2685,
+    "popolazione_totale": 5415
+  },
+  {
+    "codice_istat": "017103",
+    "comune": "Manerbio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6773,
+    "popolazione_femminile": 6857,
+    "popolazione_totale": 13630
+  },
+  {
+    "codice_istat": "017104",
+    "comune": "Marcheno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2089,
+    "popolazione_femminile": 2063,
+    "popolazione_totale": 4152
+  },
+  {
+    "codice_istat": "017105",
+    "comune": "Marmentino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 311,
+    "popolazione_totale": 648
+  },
+  {
+    "codice_istat": "017106",
+    "comune": "Marone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1501,
+    "popolazione_femminile": 1595,
+    "popolazione_totale": 3096
+  },
+  {
+    "codice_istat": "017107",
+    "comune": "Mazzano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6408,
+    "popolazione_femminile": 6307,
+    "popolazione_totale": 12715
+  },
+  {
+    "codice_istat": "017108",
+    "comune": "Milzano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 860,
+    "popolazione_femminile": 844,
+    "popolazione_totale": 1704
+  },
+  {
+    "codice_istat": "017109",
+    "comune": "Moniga del Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1325,
+    "popolazione_femminile": 1357,
+    "popolazione_totale": 2682
+  },
+  {
+    "codice_istat": "017110",
+    "comune": "Monno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 268,
+    "popolazione_totale": 515
+  },
+  {
+    "codice_istat": "017111",
+    "comune": "Monte Isola",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 793,
+    "popolazione_femminile": 783,
+    "popolazione_totale": 1576
+  },
+  {
+    "codice_istat": "017112",
+    "comune": "Monticelli Brusati",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2298,
+    "popolazione_femminile": 2258,
+    "popolazione_totale": 4556
+  },
+  {
+    "codice_istat": "017113",
+    "comune": "Montichiari",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 13459,
+    "popolazione_femminile": 13047,
+    "popolazione_totale": 26506
+  },
+  {
+    "codice_istat": "017114",
+    "comune": "Montirone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2609,
+    "popolazione_femminile": 2552,
+    "popolazione_totale": 5161
+  },
+  {
+    "codice_istat": "017115",
+    "comune": "Mura",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 383,
+    "popolazione_femminile": 382,
+    "popolazione_totale": 765
+  },
+  {
+    "codice_istat": "017116",
+    "comune": "Muscoline",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1394,
+    "popolazione_femminile": 1336,
+    "popolazione_totale": 2730
+  },
+  {
+    "codice_istat": "017117",
+    "comune": "Nave",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5238,
+    "popolazione_femminile": 5389,
+    "popolazione_totale": 10627
+  },
+  {
+    "codice_istat": "017118",
+    "comune": "Niardo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 955,
+    "popolazione_femminile": 994,
+    "popolazione_totale": 1949
+  },
+  {
+    "codice_istat": "017119",
+    "comune": "Nuvolento",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1955,
+    "popolazione_femminile": 2007,
+    "popolazione_totale": 3962
+  },
+  {
+    "codice_istat": "017120",
+    "comune": "Nuvolera",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2368,
+    "popolazione_femminile": 2409,
+    "popolazione_totale": 4777
+  },
+  {
+    "codice_istat": "017121",
+    "comune": "Odolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 981,
+    "popolazione_femminile": 967,
+    "popolazione_totale": 1948
+  },
+  {
+    "codice_istat": "017122",
+    "comune": "Offlaga",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2128,
+    "popolazione_femminile": 2039,
+    "popolazione_totale": 4167
+  },
+  {
+    "codice_istat": "017123",
+    "comune": "Ome",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1534,
+    "popolazione_femminile": 1569,
+    "popolazione_totale": 3103
+  },
+  {
+    "codice_istat": "017124",
+    "comune": "Ono San Pietro",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 479,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 973
+  },
+  {
+    "codice_istat": "017125",
+    "comune": "Orzinuovi",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6274,
+    "popolazione_femminile": 6222,
+    "popolazione_totale": 12496
+  },
+  {
+    "codice_istat": "017126",
+    "comune": "Orzivecchi",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1286,
+    "popolazione_femminile": 1231,
+    "popolazione_totale": 2517
+  },
+  {
+    "codice_istat": "017127",
+    "comune": "Ospitaletto",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7623,
+    "popolazione_femminile": 7346,
+    "popolazione_totale": 14969
+  },
+  {
+    "codice_istat": "017128",
+    "comune": "Ossimo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 731,
+    "popolazione_femminile": 708,
+    "popolazione_totale": 1439
+  },
+  {
+    "codice_istat": "017129",
+    "comune": "Padenghe sul Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2359,
+    "popolazione_femminile": 2553,
+    "popolazione_totale": 4912
+  },
+  {
+    "codice_istat": "017130",
+    "comune": "Paderno Franciacorta",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1843,
+    "popolazione_femminile": 1824,
+    "popolazione_totale": 3667
+  },
+  {
+    "codice_istat": "017131",
+    "comune": "Paisco Loveno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 78,
+    "popolazione_totale": 164
+  },
+  {
+    "codice_istat": "017132",
+    "comune": "Paitone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1164,
+    "popolazione_femminile": 1084,
+    "popolazione_totale": 2248
+  },
+  {
+    "codice_istat": "017133",
+    "comune": "Palazzolo sull'Oglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10445,
+    "popolazione_femminile": 10158,
+    "popolazione_totale": 20603
+  },
+  {
+    "codice_istat": "017134",
+    "comune": "Paratico",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2525,
+    "popolazione_femminile": 2498,
+    "popolazione_totale": 5023
+  },
+  {
+    "codice_istat": "017135",
+    "comune": "Paspardo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 275,
+    "popolazione_totale": 576
+  },
+  {
+    "codice_istat": "017136",
+    "comune": "Passirano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3367,
+    "popolazione_femminile": 3475,
+    "popolazione_totale": 6842
+  },
+  {
+    "codice_istat": "017137",
+    "comune": "Pavone del Mella",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1352,
+    "popolazione_femminile": 1365,
+    "popolazione_totale": 2717
+  },
+  {
+    "codice_istat": "017139",
+    "comune": "Pertica Alta",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 291,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 549
+  },
+  {
+    "codice_istat": "017140",
+    "comune": "Pertica Bassa",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 274,
+    "popolazione_femminile": 269,
+    "popolazione_totale": 543
+  },
+  {
+    "codice_istat": "017141",
+    "comune": "Pezzaze",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 730,
+    "popolazione_femminile": 689,
+    "popolazione_totale": 1419
+  },
+  {
+    "codice_istat": "017142",
+    "comune": "Pian Camuno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2447,
+    "popolazione_femminile": 2379,
+    "popolazione_totale": 4826
+  },
+  {
+    "codice_istat": "017206",
+    "comune": "Piancogno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2420,
+    "popolazione_femminile": 2367,
+    "popolazione_totale": 4787
+  },
+  {
+    "codice_istat": "017143",
+    "comune": "Pisogne",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3873,
+    "popolazione_femminile": 4028,
+    "popolazione_totale": 7901
+  },
+  {
+    "codice_istat": "017144",
+    "comune": "Polaveno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1289,
+    "popolazione_femminile": 1242,
+    "popolazione_totale": 2531
+  },
+  {
+    "codice_istat": "017145",
+    "comune": "Polpenazze del Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1365,
+    "popolazione_femminile": 1370,
+    "popolazione_totale": 2735
+  },
+  {
+    "codice_istat": "017146",
+    "comune": "Pompiano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1882,
+    "popolazione_femminile": 1873,
+    "popolazione_totale": 3755
+  },
+  {
+    "codice_istat": "017147",
+    "comune": "Poncarale",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2576,
+    "popolazione_femminile": 2616,
+    "popolazione_totale": 5192
+  },
+  {
+    "codice_istat": "017148",
+    "comune": "Ponte di Legno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 857,
+    "popolazione_femminile": 899,
+    "popolazione_totale": 1756
+  },
+  {
+    "codice_istat": "017149",
+    "comune": "Pontevico",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3408,
+    "popolazione_femminile": 3723,
+    "popolazione_totale": 7131
+  },
+  {
+    "codice_istat": "017150",
+    "comune": "Pontoglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3503,
+    "popolazione_femminile": 3501,
+    "popolazione_totale": 7004
+  },
+  {
+    "codice_istat": "017151",
+    "comune": "Pozzolengo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1783,
+    "popolazione_femminile": 1794,
+    "popolazione_totale": 3577
+  },
+  {
+    "codice_istat": "017152",
+    "comune": "Pralboino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1507,
+    "popolazione_femminile": 1343,
+    "popolazione_totale": 2850
+  },
+  {
+    "codice_istat": "017153",
+    "comune": "Preseglie",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 767,
+    "popolazione_femminile": 703,
+    "popolazione_totale": 1470
+  },
+  {
+    "codice_istat": "017155",
+    "comune": "Prevalle",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3461,
+    "popolazione_femminile": 3441,
+    "popolazione_totale": 6902
+  },
+  {
+    "codice_istat": "017156",
+    "comune": "Provaglio d'Iseo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3469,
+    "popolazione_femminile": 3599,
+    "popolazione_totale": 7068
+  },
+  {
+    "codice_istat": "017157",
+    "comune": "Provaglio Val Sabbia",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 436,
+    "popolazione_femminile": 408,
+    "popolazione_totale": 844
+  },
+  {
+    "codice_istat": "017158",
+    "comune": "Puegnago del Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1697,
+    "popolazione_femminile": 1781,
+    "popolazione_totale": 3478
+  },
+  {
+    "codice_istat": "017159",
+    "comune": "Quinzano d'Oglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3224,
+    "popolazione_femminile": 3168,
+    "popolazione_totale": 6392
+  },
+  {
+    "codice_istat": "017160",
+    "comune": "Remedello",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1744,
+    "popolazione_femminile": 1702,
+    "popolazione_totale": 3446
+  },
+  {
+    "codice_istat": "017161",
+    "comune": "Rezzato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6717,
+    "popolazione_femminile": 6875,
+    "popolazione_totale": 13592
+  },
+  {
+    "codice_istat": "017162",
+    "comune": "Roccafranca",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2549,
+    "popolazione_femminile": 2440,
+    "popolazione_totale": 4989
+  },
+  {
+    "codice_istat": "017163",
+    "comune": "Rodengo Saiano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4803,
+    "popolazione_femminile": 5065,
+    "popolazione_totale": 9868
+  },
+  {
+    "codice_istat": "017164",
+    "comune": "Roè Volciano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2101,
+    "popolazione_femminile": 2222,
+    "popolazione_totale": 4323
+  },
+  {
+    "codice_istat": "017165",
+    "comune": "Roncadelle",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4625,
+    "popolazione_femminile": 4690,
+    "popolazione_totale": 9315
+  },
+  {
+    "codice_istat": "017166",
+    "comune": "Rovato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 10125,
+    "popolazione_femminile": 9621,
+    "popolazione_totale": 19746
+  },
+  {
+    "codice_istat": "017167",
+    "comune": "Rudiano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3004,
+    "popolazione_femminile": 2906,
+    "popolazione_totale": 5910
+  },
+  {
+    "codice_istat": "017168",
+    "comune": "Sabbio Chiese",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2083,
+    "popolazione_femminile": 2010,
+    "popolazione_totale": 4093
+  },
+  {
+    "codice_istat": "017169",
+    "comune": "Sale Marasino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1572,
+    "popolazione_femminile": 1666,
+    "popolazione_totale": 3238
+  },
+  {
+    "codice_istat": "017170",
+    "comune": "Salò",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4843,
+    "popolazione_femminile": 5449,
+    "popolazione_totale": 10292
+  },
+  {
+    "codice_istat": "017171",
+    "comune": "San Felice del Benaco",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1712,
+    "popolazione_femminile": 1756,
+    "popolazione_totale": 3468
+  },
+  {
+    "codice_istat": "017172",
+    "comune": "San Gervasio Bresciano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1337,
+    "popolazione_femminile": 1342,
+    "popolazione_totale": 2679
+  },
+  {
+    "codice_istat": "017138",
+    "comune": "San Paolo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2247,
+    "popolazione_femminile": 2243,
+    "popolazione_totale": 4490
+  },
+  {
+    "codice_istat": "017173",
+    "comune": "San Zeno Naviglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2318,
+    "popolazione_femminile": 2415,
+    "popolazione_totale": 4733
+  },
+  {
+    "codice_istat": "017174",
+    "comune": "Sarezzo",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6650,
+    "popolazione_femminile": 6659,
+    "popolazione_totale": 13309
+  },
+  {
+    "codice_istat": "017175",
+    "comune": "Saviore dell'Adamello",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 394,
+    "popolazione_totale": 787
+  },
+  {
+    "codice_istat": "017176",
+    "comune": "Sellero",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 690,
+    "popolazione_femminile": 690,
+    "popolazione_totale": 1380
+  },
+  {
+    "codice_istat": "017177",
+    "comune": "Seniga",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 745,
+    "popolazione_femminile": 702,
+    "popolazione_totale": 1447
+  },
+  {
+    "codice_istat": "017178",
+    "comune": "Serle",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1551,
+    "popolazione_femminile": 1575,
+    "popolazione_totale": 3126
+  },
+  {
+    "codice_istat": "017179",
+    "comune": "Sirmione",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4039,
+    "popolazione_femminile": 4415,
+    "popolazione_totale": 8454
+  },
+  {
+    "codice_istat": "017180",
+    "comune": "Soiano del Lago",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 979,
+    "popolazione_femminile": 974,
+    "popolazione_totale": 1953
+  },
+  {
+    "codice_istat": "017181",
+    "comune": "Sonico",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 597,
+    "popolazione_femminile": 589,
+    "popolazione_totale": 1186
+  },
+  {
+    "codice_istat": "017182",
+    "comune": "Sulzano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 978,
+    "popolazione_femminile": 963,
+    "popolazione_totale": 1941
+  },
+  {
+    "codice_istat": "017183",
+    "comune": "Tavernole sul Mella",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 614,
+    "popolazione_femminile": 586,
+    "popolazione_totale": 1200
+  },
+  {
+    "codice_istat": "017184",
+    "comune": "Temù",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 590,
+    "popolazione_femminile": 564,
+    "popolazione_totale": 1154
+  },
+  {
+    "codice_istat": "017185",
+    "comune": "Tignale",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 596,
+    "popolazione_totale": 1158
+  },
+  {
+    "codice_istat": "017186",
+    "comune": "Torbole Casaglia",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3258,
+    "popolazione_femminile": 3230,
+    "popolazione_totale": 6488
+  },
+  {
+    "codice_istat": "017187",
+    "comune": "Toscolano-Maderno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3661,
+    "popolazione_femminile": 3994,
+    "popolazione_totale": 7655
+  },
+  {
+    "codice_istat": "017188",
+    "comune": "Travagliato",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 6950,
+    "popolazione_femminile": 7057,
+    "popolazione_totale": 14007
+  },
+  {
+    "codice_istat": "017189",
+    "comune": "Tremosine sul Garda",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1078,
+    "popolazione_femminile": 1063,
+    "popolazione_totale": 2141
+  },
+  {
+    "codice_istat": "017190",
+    "comune": "Trenzano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2811,
+    "popolazione_femminile": 2745,
+    "popolazione_totale": 5556
+  },
+  {
+    "codice_istat": "017191",
+    "comune": "Treviso Bresciano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 269,
+    "popolazione_totale": 522
+  },
+  {
+    "codice_istat": "017192",
+    "comune": "Urago d'Oglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1992,
+    "popolazione_femminile": 1837,
+    "popolazione_totale": 3829
+  },
+  {
+    "codice_istat": "017193",
+    "comune": "Vallio Terme",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 698,
+    "popolazione_femminile": 740,
+    "popolazione_totale": 1438
+  },
+  {
+    "codice_istat": "017194",
+    "comune": "Valvestino",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 83,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 169
+  },
+  {
+    "codice_istat": "017195",
+    "comune": "Verolanuova",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4104,
+    "popolazione_femminile": 4064,
+    "popolazione_totale": 8168
+  },
+  {
+    "codice_istat": "017196",
+    "comune": "Verolavecchia",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2018,
+    "popolazione_femminile": 1875,
+    "popolazione_totale": 3893
+  },
+  {
+    "codice_istat": "017197",
+    "comune": "Vestone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2075,
+    "popolazione_femminile": 2068,
+    "popolazione_totale": 4143
+  },
+  {
+    "codice_istat": "017198",
+    "comune": "Vezza d'Oglio",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 724,
+    "popolazione_femminile": 737,
+    "popolazione_totale": 1461
+  },
+  {
+    "codice_istat": "017199",
+    "comune": "Villa Carcina",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5345,
+    "popolazione_femminile": 5376,
+    "popolazione_totale": 10721
+  },
+  {
+    "codice_istat": "017200",
+    "comune": "Villachiara",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 691,
+    "popolazione_femminile": 664,
+    "popolazione_totale": 1355
+  },
+  {
+    "codice_istat": "017201",
+    "comune": "Villanuova sul Clisi",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2905,
+    "popolazione_femminile": 3024,
+    "popolazione_totale": 5929
+  },
+  {
+    "codice_istat": "017202",
+    "comune": "Vione",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 305,
+    "popolazione_femminile": 316,
+    "popolazione_totale": 621
+  },
+  {
+    "codice_istat": "017203",
+    "comune": "Visano",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1060,
+    "popolazione_femminile": 960,
+    "popolazione_totale": 2020
+  },
+  {
+    "codice_istat": "017204",
+    "comune": "Vobarno",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4359,
+    "popolazione_femminile": 4126,
+    "popolazione_totale": 8485
+  },
+  {
+    "codice_istat": "017205",
+    "comune": "Zone",
+    "provincia": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "popolazione_maschile": 521,
+    "popolazione_femminile": 520,
+    "popolazione_totale": 1041
+  }
+]

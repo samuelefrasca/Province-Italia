@@ -1,0 +1,284 @@
+[
+  {
+    "codice_istat": "117001",
+    "comune": "Arbus",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2740,
+    "popolazione_femminile": 2792,
+    "popolazione_totale": 5532
+  },
+  {
+    "codice_istat": "117002",
+    "comune": "Barumini",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 553,
+    "popolazione_femminile": 531,
+    "popolazione_totale": 1084
+  },
+  {
+    "codice_istat": "117003",
+    "comune": "Collinas",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 362,
+    "popolazione_femminile": 379,
+    "popolazione_totale": 741
+  },
+  {
+    "codice_istat": "117004",
+    "comune": "Furtei",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 734,
+    "popolazione_femminile": 740,
+    "popolazione_totale": 1474
+  },
+  {
+    "codice_istat": "117005",
+    "comune": "Genuri",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 141,
+    "popolazione_femminile": 154,
+    "popolazione_totale": 295
+  },
+  {
+    "codice_istat": "117006",
+    "comune": "Gesturi",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 550,
+    "popolazione_femminile": 563,
+    "popolazione_totale": 1113
+  },
+  {
+    "codice_istat": "117007",
+    "comune": "Gonnosfanadiga",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2913,
+    "popolazione_femminile": 3046,
+    "popolazione_totale": 5959
+  },
+  {
+    "codice_istat": "117008",
+    "comune": "Guspini",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 5219,
+    "popolazione_femminile": 5344,
+    "popolazione_totale": 10563
+  },
+  {
+    "codice_istat": "117009",
+    "comune": "Las Plassas",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 110,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 208
+  },
+  {
+    "codice_istat": "117010",
+    "comune": "Lunamatrona",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 771,
+    "popolazione_femminile": 811,
+    "popolazione_totale": 1582
+  },
+  {
+    "codice_istat": "117011",
+    "comune": "Pabillonis",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1227,
+    "popolazione_femminile": 1177,
+    "popolazione_totale": 2404
+  },
+  {
+    "codice_istat": "117012",
+    "comune": "Pauli Arbarei",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 269,
+    "popolazione_femminile": 255,
+    "popolazione_totale": 524
+  },
+  {
+    "codice_istat": "117013",
+    "comune": "Samassi",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2302,
+    "popolazione_femminile": 2372,
+    "popolazione_totale": 4674
+  },
+  {
+    "codice_istat": "117014",
+    "comune": "San Gavino Monreale",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3794,
+    "popolazione_femminile": 4029,
+    "popolazione_totale": 7823
+  },
+  {
+    "codice_istat": "117015",
+    "comune": "Sanluri",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 3950,
+    "popolazione_femminile": 4046,
+    "popolazione_totale": 7996,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "117016",
+    "comune": "Sardara",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1839,
+    "popolazione_femminile": 1872,
+    "popolazione_totale": 3711
+  },
+  {
+    "codice_istat": "117017",
+    "comune": "Segariu",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 536,
+    "popolazione_femminile": 538,
+    "popolazione_totale": 1074
+  },
+  {
+    "codice_istat": "117018",
+    "comune": "Serramanna",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 4155,
+    "popolazione_femminile": 4233,
+    "popolazione_totale": 8388
+  },
+  {
+    "codice_istat": "117019",
+    "comune": "Serrenti",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 2233,
+    "popolazione_femminile": 2192,
+    "popolazione_totale": 4425
+  },
+  {
+    "codice_istat": "117020",
+    "comune": "Setzu",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 65,
+    "popolazione_femminile": 62,
+    "popolazione_totale": 127
+  },
+  {
+    "codice_istat": "117021",
+    "comune": "Siddi",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 270,
+    "popolazione_femminile": 271,
+    "popolazione_totale": 541
+  },
+  {
+    "codice_istat": "117022",
+    "comune": "Tuili",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 432,
+    "popolazione_femminile": 450,
+    "popolazione_totale": 882
+  },
+  {
+    "codice_istat": "117023",
+    "comune": "Turri",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 190,
+    "popolazione_femminile": 185,
+    "popolazione_totale": 375
+  },
+  {
+    "codice_istat": "117024",
+    "comune": "Ussaramanna",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 466
+  },
+  {
+    "codice_istat": "117025",
+    "comune": "Villacidro",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 6403,
+    "popolazione_femminile": 6475,
+    "popolazione_totale": 12878,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "117026",
+    "comune": "Villamar",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 1206,
+    "popolazione_femminile": 1186,
+    "popolazione_totale": 2392
+  },
+  {
+    "codice_istat": "117027",
+    "comune": "Villanovaforru",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 529,
+    "popolazione_femminile": 260,
+    "popolazione_totale": 789
+  },
+  {
+    "codice_istat": "117028",
+    "comune": "Villanovafranca",
+    "provincia": "Medio Campidano",
+    "sigla": "VS",
+    "regione": "Sardegna",
+    "popolazione_maschile": 573,
+    "popolazione_femminile": 562,
+    "popolazione_totale": 1135
+  }
+]

@@ -1,0 +1,1843 @@
+[
+  {
+    "codice_istat": "018001",
+    "comune": "Alagna",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 394,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 810
+  },
+  {
+    "codice_istat": "018003",
+    "comune": "Albonese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 561
+  },
+  {
+    "codice_istat": "018004",
+    "comune": "Albuzzano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1814,
+    "popolazione_femminile": 1853,
+    "popolazione_totale": 3667
+  },
+  {
+    "codice_istat": "018005",
+    "comune": "Arena Po",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 755,
+    "popolazione_femminile": 775,
+    "popolazione_totale": 1530
+  },
+  {
+    "codice_istat": "018006",
+    "comune": "Badia Pavese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 220,
+    "popolazione_femminile": 188,
+    "popolazione_totale": 408
+  },
+  {
+    "codice_istat": "018007",
+    "comune": "Bagnaria",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 321,
+    "popolazione_totale": 622
+  },
+  {
+    "codice_istat": "018008",
+    "comune": "Barbianello",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 444,
+    "popolazione_femminile": 444,
+    "popolazione_totale": 888
+  },
+  {
+    "codice_istat": "018009",
+    "comune": "Bascapè",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 966,
+    "popolazione_femminile": 859,
+    "popolazione_totale": 1825
+  },
+  {
+    "codice_istat": "018011",
+    "comune": "Bastida Pancarana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 471,
+    "popolazione_femminile": 450,
+    "popolazione_totale": 921
+  },
+  {
+    "codice_istat": "018012",
+    "comune": "Battuda",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 328,
+    "popolazione_femminile": 307,
+    "popolazione_totale": 635
+  },
+  {
+    "codice_istat": "018013",
+    "comune": "Belgioioso",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3137,
+    "popolazione_femminile": 3302,
+    "popolazione_totale": 6439
+  },
+  {
+    "codice_istat": "018014",
+    "comune": "Bereguardo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1442,
+    "popolazione_femminile": 1414,
+    "popolazione_totale": 2856
+  },
+  {
+    "codice_istat": "018015",
+    "comune": "Borgarello",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1377,
+    "popolazione_femminile": 1452,
+    "popolazione_totale": 2829
+  },
+  {
+    "codice_istat": "018016",
+    "comune": "Borgo Priolo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 625,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1213
+  },
+  {
+    "codice_istat": "018018",
+    "comune": "Borgo San Siro",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 485,
+    "popolazione_femminile": 476,
+    "popolazione_totale": 961
+  },
+  {
+    "codice_istat": "018017",
+    "comune": "Borgoratto Mormorolo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 195,
+    "popolazione_totale": 387
+  },
+  {
+    "codice_istat": "018019",
+    "comune": "Bornasco",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1333,
+    "popolazione_femminile": 1323,
+    "popolazione_totale": 2656
+  },
+  {
+    "codice_istat": "018020",
+    "comune": "Bosnasco",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 307,
+    "popolazione_totale": 624
+  },
+  {
+    "codice_istat": "018021",
+    "comune": "Brallo di Pregola",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 255,
+    "popolazione_femminile": 218,
+    "popolazione_totale": 473
+  },
+  {
+    "codice_istat": "018022",
+    "comune": "Breme",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 353,
+    "popolazione_totale": 725
+  },
+  {
+    "codice_istat": "018023",
+    "comune": "Bressana Bottarone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1722,
+    "popolazione_femminile": 1760,
+    "popolazione_totale": 3482
+  },
+  {
+    "codice_istat": "018024",
+    "comune": "Broni",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4988,
+    "popolazione_femminile": 5176,
+    "popolazione_totale": 10164
+  },
+  {
+    "codice_istat": "018025",
+    "comune": "Calvignano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 54,
+    "popolazione_femminile": 58,
+    "popolazione_totale": 112
+  },
+  {
+    "codice_istat": "018026",
+    "comune": "Campospinoso Albaredo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 659,
+    "popolazione_femminile": 674,
+    "popolazione_totale": 1333
+  },
+  {
+    "codice_istat": "018027",
+    "comune": "Candia Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 837,
+    "popolazione_femminile": 725,
+    "popolazione_totale": 1562
+  },
+  {
+    "codice_istat": "018029",
+    "comune": "Canneto Pavese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 646,
+    "popolazione_femminile": 639,
+    "popolazione_totale": 1285
+  },
+  {
+    "codice_istat": "018030",
+    "comune": "Carbonara al Ticino",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 695,
+    "popolazione_femminile": 723,
+    "popolazione_totale": 1418
+  },
+  {
+    "codice_istat": "018031",
+    "comune": "Casanova Lonati",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 220,
+    "popolazione_totale": 452
+  },
+  {
+    "codice_istat": "018032",
+    "comune": "Casatisma",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 436,
+    "popolazione_totale": 855
+  },
+  {
+    "codice_istat": "018033",
+    "comune": "Casei Gerola",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1162,
+    "popolazione_femminile": 1145,
+    "popolazione_totale": 2307
+  },
+  {
+    "codice_istat": "018034",
+    "comune": "Casorate Primo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4607,
+    "popolazione_femminile": 4583,
+    "popolazione_totale": 9190
+  },
+  {
+    "codice_istat": "018035",
+    "comune": "Cassolnovo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3380,
+    "popolazione_femminile": 3367,
+    "popolazione_totale": 6747
+  },
+  {
+    "codice_istat": "018036",
+    "comune": "Castana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 343,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 707
+  },
+  {
+    "codice_istat": "018037",
+    "comune": "Casteggio",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3061,
+    "popolazione_femminile": 3302,
+    "popolazione_totale": 6363
+  },
+  {
+    "codice_istat": "018038",
+    "comune": "Castelletto di Branduzzo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 507,
+    "popolazione_totale": 1056
+  },
+  {
+    "codice_istat": "018039",
+    "comune": "Castello d'Agogna",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 563,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1079
+  },
+  {
+    "codice_istat": "018040",
+    "comune": "Castelnovetto",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 271,
+    "popolazione_totale": 546
+  },
+  {
+    "codice_istat": "018041",
+    "comune": "Cava Manara",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3231,
+    "popolazione_femminile": 3453,
+    "popolazione_totale": 6684
+  },
+  {
+    "codice_istat": "018042",
+    "comune": "Cecima",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 128,
+    "popolazione_femminile": 126,
+    "popolazione_totale": 254
+  },
+  {
+    "codice_istat": "018043",
+    "comune": "Ceranova",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1201,
+    "popolazione_femminile": 1162,
+    "popolazione_totale": 2363
+  },
+  {
+    "codice_istat": "018044",
+    "comune": "Ceretto Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 95,
+    "popolazione_femminile": 93,
+    "popolazione_totale": 188
+  },
+  {
+    "codice_istat": "018045",
+    "comune": "Cergnago",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 332,
+    "popolazione_femminile": 316,
+    "popolazione_totale": 648
+  },
+  {
+    "codice_istat": "018046",
+    "comune": "Certosa di Pavia",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2866,
+    "popolazione_femminile": 2757,
+    "popolazione_totale": 5623
+  },
+  {
+    "codice_istat": "018047",
+    "comune": "Cervesina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 515,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1103
+  },
+  {
+    "codice_istat": "018048",
+    "comune": "Chignolo Po",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2041,
+    "popolazione_femminile": 2007,
+    "popolazione_totale": 4048
+  },
+  {
+    "codice_istat": "018049",
+    "comune": "Cigognola",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 669,
+    "popolazione_totale": 1308
+  },
+  {
+    "codice_istat": "018050",
+    "comune": "Cilavegna",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2658,
+    "popolazione_femminile": 2780,
+    "popolazione_totale": 5438
+  },
+  {
+    "codice_istat": "018051",
+    "comune": "Codevilla",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 433,
+    "popolazione_femminile": 482,
+    "popolazione_totale": 915
+  },
+  {
+    "codice_istat": "018193",
+    "comune": "Colli Verdi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 503,
+    "popolazione_femminile": 465,
+    "popolazione_totale": 968
+  },
+  {
+    "codice_istat": "018052",
+    "comune": "Confienza",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 774,
+    "popolazione_femminile": 772,
+    "popolazione_totale": 1546
+  },
+  {
+    "codice_istat": "018053",
+    "comune": "Copiano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 908,
+    "popolazione_femminile": 876,
+    "popolazione_totale": 1784
+  },
+  {
+    "codice_istat": "018054",
+    "comune": "Corana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 380,
+    "popolazione_femminile": 365,
+    "popolazione_totale": 745
+  },
+  {
+    "codice_istat": "018191",
+    "comune": "Cornale e Bastida",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 397,
+    "popolazione_femminile": 388,
+    "popolazione_totale": 785
+  },
+  {
+    "codice_istat": "018192",
+    "comune": "Corteolona e Genzone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1276,
+    "popolazione_femminile": 1296,
+    "popolazione_totale": 2572
+  },
+  {
+    "codice_istat": "018057",
+    "comune": "Corvino San Quirico",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 464,
+    "popolazione_femminile": 496,
+    "popolazione_totale": 960
+  },
+  {
+    "codice_istat": "018058",
+    "comune": "Costa de' Nobili",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 358
+  },
+  {
+    "codice_istat": "018059",
+    "comune": "Cozzo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 201,
+    "popolazione_femminile": 157,
+    "popolazione_totale": 358
+  },
+  {
+    "codice_istat": "018060",
+    "comune": "Cura Carpignano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2476,
+    "popolazione_femminile": 2604,
+    "popolazione_totale": 5080
+  },
+  {
+    "codice_istat": "018061",
+    "comune": "Dorno",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2283,
+    "popolazione_femminile": 2325,
+    "popolazione_totale": 4608
+  },
+  {
+    "codice_istat": "018062",
+    "comune": "Ferrera Erbognone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 581,
+    "popolazione_femminile": 531,
+    "popolazione_totale": 1112
+  },
+  {
+    "codice_istat": "018063",
+    "comune": "Filighera",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 411,
+    "popolazione_femminile": 401,
+    "popolazione_totale": 812
+  },
+  {
+    "codice_istat": "018064",
+    "comune": "Fortunago",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 178,
+    "popolazione_totale": 367
+  },
+  {
+    "codice_istat": "018065",
+    "comune": "Frascarolo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 543,
+    "popolazione_totale": 1075
+  },
+  {
+    "codice_istat": "018066",
+    "comune": "Galliavola",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 83,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 171
+  },
+  {
+    "codice_istat": "018067",
+    "comune": "Gambarana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 88,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 174
+  },
+  {
+    "codice_istat": "018068",
+    "comune": "Gambolò",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4869,
+    "popolazione_femminile": 4944,
+    "popolazione_totale": 9813
+  },
+  {
+    "codice_istat": "018069",
+    "comune": "Garlasco",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4697,
+    "popolazione_femminile": 4968,
+    "popolazione_totale": 9665
+  },
+  {
+    "codice_istat": "018071",
+    "comune": "Gerenzago",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 758,
+    "popolazione_femminile": 745,
+    "popolazione_totale": 1503
+  },
+  {
+    "codice_istat": "018072",
+    "comune": "Giussago",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2736,
+    "popolazione_femminile": 2649,
+    "popolazione_totale": 5385
+  },
+  {
+    "codice_istat": "018073",
+    "comune": "Godiasco Salice Terme",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1586,
+    "popolazione_femminile": 1708,
+    "popolazione_totale": 3294
+  },
+  {
+    "codice_istat": "018074",
+    "comune": "Golferenzo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 89,
+    "popolazione_femminile": 73,
+    "popolazione_totale": 162
+  },
+  {
+    "codice_istat": "018075",
+    "comune": "Gravellona Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1342,
+    "popolazione_femminile": 1354,
+    "popolazione_totale": 2696
+  },
+  {
+    "codice_istat": "018076",
+    "comune": "Gropello Cairoli",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2130,
+    "popolazione_femminile": 2232,
+    "popolazione_totale": 4362
+  },
+  {
+    "codice_istat": "018077",
+    "comune": "Inverno e Monteleone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 758,
+    "popolazione_femminile": 735,
+    "popolazione_totale": 1493
+  },
+  {
+    "codice_istat": "018078",
+    "comune": "Landriano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3293,
+    "popolazione_femminile": 3258,
+    "popolazione_totale": 6551
+  },
+  {
+    "codice_istat": "018079",
+    "comune": "Langosco",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 181,
+    "popolazione_femminile": 184,
+    "popolazione_totale": 365
+  },
+  {
+    "codice_istat": "018080",
+    "comune": "Lardirago",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 550,
+    "popolazione_totale": 1163
+  },
+  {
+    "codice_istat": "018081",
+    "comune": "Linarolo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1388,
+    "popolazione_femminile": 1409,
+    "popolazione_totale": 2797
+  },
+  {
+    "codice_istat": "018083",
+    "comune": "Lomello",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 969,
+    "popolazione_femminile": 1041,
+    "popolazione_totale": 2010
+  },
+  {
+    "codice_istat": "018084",
+    "comune": "Lungavilla",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1155,
+    "popolazione_femminile": 1252,
+    "popolazione_totale": 2407
+  },
+  {
+    "codice_istat": "018085",
+    "comune": "Magherno",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 893,
+    "popolazione_femminile": 905,
+    "popolazione_totale": 1798
+  },
+  {
+    "codice_istat": "018086",
+    "comune": "Marcignago",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1247,
+    "popolazione_femminile": 1208,
+    "popolazione_totale": 2455
+  },
+  {
+    "codice_istat": "018087",
+    "comune": "Marzano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 949,
+    "popolazione_femminile": 855,
+    "popolazione_totale": 1804
+  },
+  {
+    "codice_istat": "018088",
+    "comune": "Mede",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2958,
+    "popolazione_femminile": 3144,
+    "popolazione_totale": 6102
+  },
+  {
+    "codice_istat": "018089",
+    "comune": "Menconico",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 156,
+    "popolazione_totale": 326
+  },
+  {
+    "codice_istat": "018090",
+    "comune": "Mezzana Bigli",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 525,
+    "popolazione_femminile": 536,
+    "popolazione_totale": 1061
+  },
+  {
+    "codice_istat": "018091",
+    "comune": "Mezzana Rabattone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 457
+  },
+  {
+    "codice_istat": "018092",
+    "comune": "Mezzanino",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 708,
+    "popolazione_femminile": 697,
+    "popolazione_totale": 1405
+  },
+  {
+    "codice_istat": "018093",
+    "comune": "Miradolo Terme",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1992,
+    "popolazione_femminile": 1917,
+    "popolazione_totale": 3909
+  },
+  {
+    "codice_istat": "018094",
+    "comune": "Montalto Pavese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 419,
+    "popolazione_femminile": 385,
+    "popolazione_totale": 804
+  },
+  {
+    "codice_istat": "018095",
+    "comune": "Montebello della Battaglia",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 733,
+    "popolazione_femminile": 704,
+    "popolazione_totale": 1437
+  },
+  {
+    "codice_istat": "018096",
+    "comune": "Montecalvo Versiggia",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 241,
+    "popolazione_femminile": 237,
+    "popolazione_totale": 478
+  },
+  {
+    "codice_istat": "018097",
+    "comune": "Montescano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 209,
+    "popolazione_femminile": 230,
+    "popolazione_totale": 439
+  },
+  {
+    "codice_istat": "018098",
+    "comune": "Montesegale",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 118,
+    "popolazione_totale": 239
+  },
+  {
+    "codice_istat": "018099",
+    "comune": "Monticelli Pavese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 327,
+    "popolazione_femminile": 335,
+    "popolazione_totale": 662
+  },
+  {
+    "codice_istat": "018100",
+    "comune": "Montù Beccaria",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 818,
+    "popolazione_femminile": 824,
+    "popolazione_totale": 1642
+  },
+  {
+    "codice_istat": "018101",
+    "comune": "Mornico Losana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 303,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 605
+  },
+  {
+    "codice_istat": "018102",
+    "comune": "Mortara",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7841,
+    "popolazione_femminile": 8093,
+    "popolazione_totale": 15934
+  },
+  {
+    "codice_istat": "018103",
+    "comune": "Nicorvo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 143,
+    "popolazione_femminile": 145,
+    "popolazione_totale": 288
+  },
+  {
+    "codice_istat": "018104",
+    "comune": "Olevano di Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 363,
+    "popolazione_totale": 723
+  },
+  {
+    "codice_istat": "018105",
+    "comune": "Oliva Gessi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 82,
+    "popolazione_femminile": 81,
+    "popolazione_totale": 163
+  },
+  {
+    "codice_istat": "018106",
+    "comune": "Ottobiano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 551,
+    "popolazione_totale": 1083
+  },
+  {
+    "codice_istat": "018107",
+    "comune": "Palestro",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 942,
+    "popolazione_femminile": 953,
+    "popolazione_totale": 1895
+  },
+  {
+    "codice_istat": "018108",
+    "comune": "Pancarana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 165,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 331
+  },
+  {
+    "codice_istat": "018109",
+    "comune": "Parona",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 939,
+    "popolazione_femminile": 919,
+    "popolazione_totale": 1858
+  },
+  {
+    "codice_istat": "018110",
+    "comune": "Pavia",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 34577,
+    "popolazione_femminile": 37234,
+    "popolazione_totale": 71811,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "018111",
+    "comune": "Pietra de' Giorgi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 395,
+    "popolazione_femminile": 382,
+    "popolazione_totale": 777
+  },
+  {
+    "codice_istat": "018112",
+    "comune": "Pieve Albignola",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 398,
+    "popolazione_femminile": 394,
+    "popolazione_totale": 792
+  },
+  {
+    "codice_istat": "018113",
+    "comune": "Pieve del Cairo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 879,
+    "popolazione_femminile": 923,
+    "popolazione_totale": 1802
+  },
+  {
+    "codice_istat": "018114",
+    "comune": "Pieve Porto Morone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1403,
+    "popolazione_femminile": 1327,
+    "popolazione_totale": 2730
+  },
+  {
+    "codice_istat": "018115",
+    "comune": "Pinarolo Po",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 806,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1654
+  },
+  {
+    "codice_istat": "018116",
+    "comune": "Pizzale",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 333,
+    "popolazione_totale": 670
+  },
+  {
+    "codice_istat": "018117",
+    "comune": "Ponte Nizza",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 369,
+    "popolazione_femminile": 371,
+    "popolazione_totale": 740
+  },
+  {
+    "codice_istat": "018118",
+    "comune": "Portalbera",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 728,
+    "popolazione_femminile": 752,
+    "popolazione_totale": 1480
+  },
+  {
+    "codice_istat": "018119",
+    "comune": "Rea",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 183,
+    "popolazione_femminile": 212,
+    "popolazione_totale": 395
+  },
+  {
+    "codice_istat": "018120",
+    "comune": "Redavalle",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 548,
+    "popolazione_femminile": 502,
+    "popolazione_totale": 1050
+  },
+  {
+    "codice_istat": "018121",
+    "comune": "Retorbido",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 709,
+    "popolazione_femminile": 802,
+    "popolazione_totale": 1511
+  },
+  {
+    "codice_istat": "018122",
+    "comune": "Rivanazzano Terme",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2495,
+    "popolazione_femminile": 2655,
+    "popolazione_totale": 5150
+  },
+  {
+    "codice_istat": "018123",
+    "comune": "Robbio",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2965,
+    "popolazione_femminile": 3051,
+    "popolazione_totale": 6016
+  },
+  {
+    "codice_istat": "018124",
+    "comune": "Robecco Pavese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 253,
+    "popolazione_totale": 510
+  },
+  {
+    "codice_istat": "018125",
+    "comune": "Rocca de' Giorgi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 18,
+    "popolazione_femminile": 19,
+    "popolazione_totale": 37
+  },
+  {
+    "codice_istat": "018126",
+    "comune": "Rocca Susella",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 118,
+    "popolazione_totale": 239
+  },
+  {
+    "codice_istat": "018127",
+    "comune": "Rognano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 348,
+    "popolazione_femminile": 360,
+    "popolazione_totale": 708
+  },
+  {
+    "codice_istat": "018128",
+    "comune": "Romagnese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 276,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 528
+  },
+  {
+    "codice_istat": "018129",
+    "comune": "Roncaro",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 770,
+    "popolazione_femminile": 763,
+    "popolazione_totale": 1533
+  },
+  {
+    "codice_istat": "018130",
+    "comune": "Rosasco",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 279,
+    "popolazione_femminile": 281,
+    "popolazione_totale": 560
+  },
+  {
+    "codice_istat": "018131",
+    "comune": "Rovescala",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 404,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 810
+  },
+  {
+    "codice_istat": "018133",
+    "comune": "San Cipriano Po",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 235,
+    "popolazione_femminile": 220,
+    "popolazione_totale": 455
+  },
+  {
+    "codice_istat": "018134",
+    "comune": "San Damiano al Colle",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 289,
+    "popolazione_totale": 600
+  },
+  {
+    "codice_istat": "018135",
+    "comune": "San Genesio ed Uniti",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1958,
+    "popolazione_femminile": 2095,
+    "popolazione_totale": 4053
+  },
+  {
+    "codice_istat": "018136",
+    "comune": "San Giorgio di Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 511,
+    "popolazione_femminile": 475,
+    "popolazione_totale": 986
+  },
+  {
+    "codice_istat": "018137",
+    "comune": "San Martino Siccomario",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3316,
+    "popolazione_femminile": 3350,
+    "popolazione_totale": 6666
+  },
+  {
+    "codice_istat": "018145",
+    "comune": "San Zenone al Po",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 298,
+    "popolazione_femminile": 278,
+    "popolazione_totale": 576
+  },
+  {
+    "codice_istat": "018138",
+    "comune": "Sannazzaro de' Burgondi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2644,
+    "popolazione_femminile": 2586,
+    "popolazione_totale": 5230
+  },
+  {
+    "codice_istat": "018141",
+    "comune": "Sant'Alessio con Vialone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 547,
+    "popolazione_femminile": 511,
+    "popolazione_totale": 1058
+  },
+  {
+    "codice_istat": "018144",
+    "comune": "Sant'Angelo Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 413,
+    "popolazione_femminile": 390,
+    "popolazione_totale": 803
+  },
+  {
+    "codice_istat": "018139",
+    "comune": "Santa Cristina e Bissone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 952,
+    "popolazione_femminile": 896,
+    "popolazione_totale": 1848
+  },
+  {
+    "codice_istat": "018140",
+    "comune": "Santa Giuletta",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 776,
+    "popolazione_femminile": 809,
+    "popolazione_totale": 1585
+  },
+  {
+    "codice_istat": "018142",
+    "comune": "Santa Margherita di Staffora",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 223,
+    "popolazione_femminile": 201,
+    "popolazione_totale": 424
+  },
+  {
+    "codice_istat": "018143",
+    "comune": "Santa Maria della Versa",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1133,
+    "popolazione_femminile": 1142,
+    "popolazione_totale": 2275
+  },
+  {
+    "codice_istat": "018146",
+    "comune": "Sartirana Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 722,
+    "popolazione_femminile": 769,
+    "popolazione_totale": 1491
+  },
+  {
+    "codice_istat": "018147",
+    "comune": "Scaldasole",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 414,
+    "popolazione_femminile": 439,
+    "popolazione_totale": 853
+  },
+  {
+    "codice_istat": "018148",
+    "comune": "Semiana",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 95,
+    "popolazione_totale": 192
+  },
+  {
+    "codice_istat": "018149",
+    "comune": "Silvano Pietra",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 314,
+    "popolazione_femminile": 308,
+    "popolazione_totale": 622
+  },
+  {
+    "codice_istat": "018150",
+    "comune": "Siziano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3445,
+    "popolazione_femminile": 3476,
+    "popolazione_totale": 6921
+  },
+  {
+    "codice_istat": "018151",
+    "comune": "Sommo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 572,
+    "popolazione_femminile": 545,
+    "popolazione_totale": 1117
+  },
+  {
+    "codice_istat": "018152",
+    "comune": "Spessa",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 296,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "018153",
+    "comune": "Stradella",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 5749,
+    "popolazione_femminile": 5980,
+    "popolazione_totale": 11729
+  },
+  {
+    "codice_istat": "018154",
+    "comune": "Suardi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 293,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 573
+  },
+  {
+    "codice_istat": "018155",
+    "comune": "Torrazza Coste",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 802,
+    "popolazione_femminile": 800,
+    "popolazione_totale": 1602
+  },
+  {
+    "codice_istat": "018156",
+    "comune": "Torre Beretti e Castellaro",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 253,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 489
+  },
+  {
+    "codice_istat": "018157",
+    "comune": "Torre d'Arese",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 501,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 942
+  },
+  {
+    "codice_istat": "018159",
+    "comune": "Torre d'Isola",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1242,
+    "popolazione_femminile": 1255,
+    "popolazione_totale": 2497
+  },
+  {
+    "codice_istat": "018158",
+    "comune": "Torre de' Negri",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 156,
+    "popolazione_femminile": 176,
+    "popolazione_totale": 332
+  },
+  {
+    "codice_istat": "018160",
+    "comune": "Torrevecchia Pia",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1822,
+    "popolazione_femminile": 1717,
+    "popolazione_totale": 3539
+  },
+  {
+    "codice_istat": "018161",
+    "comune": "Torricella Verzate",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 387,
+    "popolazione_femminile": 409,
+    "popolazione_totale": 796
+  },
+  {
+    "codice_istat": "018162",
+    "comune": "Travacò Siccomario",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2150,
+    "popolazione_femminile": 2277,
+    "popolazione_totale": 4427
+  },
+  {
+    "codice_istat": "018163",
+    "comune": "Trivolzio",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1266,
+    "popolazione_femminile": 1228,
+    "popolazione_totale": 2494
+  },
+  {
+    "codice_istat": "018164",
+    "comune": "Tromello",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1864,
+    "popolazione_femminile": 1908,
+    "popolazione_totale": 3772
+  },
+  {
+    "codice_istat": "018165",
+    "comune": "Trovo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 519,
+    "popolazione_femminile": 481,
+    "popolazione_totale": 1000
+  },
+  {
+    "codice_istat": "018166",
+    "comune": "Val di Nizza",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 296,
+    "popolazione_femminile": 275,
+    "popolazione_totale": 571
+  },
+  {
+    "codice_istat": "018167",
+    "comune": "Valeggio",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 104,
+    "popolazione_femminile": 88,
+    "popolazione_totale": 192
+  },
+  {
+    "codice_istat": "018168",
+    "comune": "Valle Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1149,
+    "popolazione_femminile": 1080,
+    "popolazione_totale": 2229
+  },
+  {
+    "codice_istat": "018169",
+    "comune": "Valle Salimbene",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 713,
+    "popolazione_femminile": 712,
+    "popolazione_totale": 1425
+  },
+  {
+    "codice_istat": "018171",
+    "comune": "Varzi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1520,
+    "popolazione_femminile": 1553,
+    "popolazione_totale": 3073
+  },
+  {
+    "codice_istat": "018172",
+    "comune": "Velezzo Lomellina",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 42,
+    "popolazione_femminile": 40,
+    "popolazione_totale": 82
+  },
+  {
+    "codice_istat": "018173",
+    "comune": "Vellezzo Bellini",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1781,
+    "popolazione_femminile": 1747,
+    "popolazione_totale": 3528
+  },
+  {
+    "codice_istat": "018174",
+    "comune": "Verretto",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 188,
+    "popolazione_totale": 380
+  },
+  {
+    "codice_istat": "018175",
+    "comune": "Verrua Po",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1213
+  },
+  {
+    "codice_istat": "018176",
+    "comune": "Vidigulfo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3405,
+    "popolazione_femminile": 3416,
+    "popolazione_totale": 6821
+  },
+  {
+    "codice_istat": "018177",
+    "comune": "Vigevano",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 31008,
+    "popolazione_femminile": 32472,
+    "popolazione_totale": 63480
+  },
+  {
+    "codice_istat": "018178",
+    "comune": "Villa Biscossi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 35,
+    "popolazione_femminile": 33,
+    "popolazione_totale": 68
+  },
+  {
+    "codice_istat": "018179",
+    "comune": "Villanova d'Ardenghi",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 385,
+    "popolazione_femminile": 377,
+    "popolazione_totale": 762
+  },
+  {
+    "codice_istat": "018180",
+    "comune": "Villanterio",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1750,
+    "popolazione_femminile": 1691,
+    "popolazione_totale": 3441
+  },
+  {
+    "codice_istat": "018181",
+    "comune": "Vistarino",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 818,
+    "popolazione_femminile": 777,
+    "popolazione_totale": 1595
+  },
+  {
+    "codice_istat": "018182",
+    "comune": "Voghera",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 19732,
+    "popolazione_femminile": 20488,
+    "popolazione_totale": 40220
+  },
+  {
+    "codice_istat": "018183",
+    "comune": "Volpara",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 73,
+    "popolazione_femminile": 58,
+    "popolazione_totale": 131
+  },
+  {
+    "codice_istat": "018184",
+    "comune": "Zavattarello",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 431,
+    "popolazione_femminile": 450,
+    "popolazione_totale": 881
+  },
+  {
+    "codice_istat": "018185",
+    "comune": "Zeccone",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 856,
+    "popolazione_femminile": 861,
+    "popolazione_totale": 1717
+  },
+  {
+    "codice_istat": "018186",
+    "comune": "Zeme",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 523,
+    "popolazione_femminile": 460,
+    "popolazione_totale": 983
+  },
+  {
+    "codice_istat": "018187",
+    "comune": "Zenevredo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 236,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 481
+  },
+  {
+    "codice_istat": "018188",
+    "comune": "Zerbo",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 201,
+    "popolazione_femminile": 206,
+    "popolazione_totale": 407
+  },
+  {
+    "codice_istat": "018189",
+    "comune": "Zerbolò",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 866,
+    "popolazione_femminile": 848,
+    "popolazione_totale": 1714
+  },
+  {
+    "codice_istat": "018190",
+    "comune": "Zinasco",
+    "provincia": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1587,
+    "popolazione_femminile": 1604,
+    "popolazione_totale": 3191
+  }
+]

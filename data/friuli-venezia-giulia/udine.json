@@ -1,0 +1,1343 @@
+[
+  {
+    "codice_istat": "030001",
+    "comune": "Aiello del Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1001,
+    "popolazione_femminile": 1085,
+    "popolazione_totale": 2086
+  },
+  {
+    "codice_istat": "030002",
+    "comune": "Amaro",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 426,
+    "popolazione_femminile": 428,
+    "popolazione_totale": 854
+  },
+  {
+    "codice_istat": "030003",
+    "comune": "Ampezzo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 448,
+    "popolazione_femminile": 429,
+    "popolazione_totale": 877
+  },
+  {
+    "codice_istat": "030004",
+    "comune": "Aquileia",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1527,
+    "popolazione_femminile": 1597,
+    "popolazione_totale": 3124
+  },
+  {
+    "codice_istat": "030005",
+    "comune": "Arta Terme",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 984,
+    "popolazione_femminile": 987,
+    "popolazione_totale": 1971
+  },
+  {
+    "codice_istat": "030006",
+    "comune": "Artegna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1405,
+    "popolazione_femminile": 1493,
+    "popolazione_totale": 2898
+  },
+  {
+    "codice_istat": "030007",
+    "comune": "Attimis",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 813,
+    "popolazione_femminile": 851,
+    "popolazione_totale": 1664
+  },
+  {
+    "codice_istat": "030008",
+    "comune": "Bagnaria Arsa",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1674,
+    "popolazione_femminile": 1729,
+    "popolazione_totale": 3403
+  },
+  {
+    "codice_istat": "030009",
+    "comune": "Basiliano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2558,
+    "popolazione_femminile": 2590,
+    "popolazione_totale": 5148
+  },
+  {
+    "codice_istat": "030010",
+    "comune": "Bertiolo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1145,
+    "popolazione_femminile": 1185,
+    "popolazione_totale": 2330
+  },
+  {
+    "codice_istat": "030011",
+    "comune": "Bicinicco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 867,
+    "popolazione_femminile": 866,
+    "popolazione_totale": 1733
+  },
+  {
+    "codice_istat": "030012",
+    "comune": "Bordano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 352,
+    "popolazione_totale": 689
+  },
+  {
+    "codice_istat": "030013",
+    "comune": "Buja",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3075,
+    "popolazione_femminile": 3261,
+    "popolazione_totale": 6336
+  },
+  {
+    "codice_istat": "030014",
+    "comune": "Buttrio",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1947,
+    "popolazione_femminile": 1951,
+    "popolazione_totale": 3898
+  },
+  {
+    "codice_istat": "030015",
+    "comune": "Camino al Tagliamento",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 756,
+    "popolazione_femminile": 752,
+    "popolazione_totale": 1508
+  },
+  {
+    "codice_istat": "030016",
+    "comune": "Campoformido",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3863,
+    "popolazione_femminile": 3969,
+    "popolazione_totale": 7832
+  },
+  {
+    "codice_istat": "030138",
+    "comune": "Campolongo Tapogliano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 544,
+    "popolazione_femminile": 561,
+    "popolazione_totale": 1105
+  },
+  {
+    "codice_istat": "030018",
+    "comune": "Carlino",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1286,
+    "popolazione_femminile": 1320,
+    "popolazione_totale": 2606
+  },
+  {
+    "codice_istat": "030019",
+    "comune": "Cassacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1367,
+    "popolazione_femminile": 1420,
+    "popolazione_totale": 2787
+  },
+  {
+    "codice_istat": "030020",
+    "comune": "Castions di Strada",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1789,
+    "popolazione_femminile": 1893,
+    "popolazione_totale": 3682
+  },
+  {
+    "codice_istat": "030021",
+    "comune": "Cavazzo Carnico",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 469,
+    "popolazione_femminile": 490,
+    "popolazione_totale": 959
+  },
+  {
+    "codice_istat": "030022",
+    "comune": "Cercivento",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 305,
+    "popolazione_femminile": 299,
+    "popolazione_totale": 604
+  },
+  {
+    "codice_istat": "030023",
+    "comune": "Cervignano del Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 6859,
+    "popolazione_femminile": 6884,
+    "popolazione_totale": 13743
+  },
+  {
+    "codice_istat": "030024",
+    "comune": "Chiopris-Viscone",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 334,
+    "popolazione_femminile": 373,
+    "popolazione_totale": 707
+  },
+  {
+    "codice_istat": "030025",
+    "comune": "Chiusaforte",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 306,
+    "popolazione_femminile": 276,
+    "popolazione_totale": 582
+  },
+  {
+    "codice_istat": "030026",
+    "comune": "Cividale del Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 5192,
+    "popolazione_femminile": 5612,
+    "popolazione_totale": 10804
+  },
+  {
+    "codice_istat": "030027",
+    "comune": "Codroipo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 7777,
+    "popolazione_femminile": 7944,
+    "popolazione_totale": 15721
+  },
+  {
+    "codice_istat": "030028",
+    "comune": "Colloredo di Monte Albano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1073,
+    "popolazione_femminile": 1111,
+    "popolazione_totale": 2184
+  },
+  {
+    "codice_istat": "030029",
+    "comune": "Comeglians",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 214,
+    "popolazione_femminile": 208,
+    "popolazione_totale": 422
+  },
+  {
+    "codice_istat": "030030",
+    "comune": "Corno di Rosazzo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1525,
+    "popolazione_femminile": 1574,
+    "popolazione_totale": 3099
+  },
+  {
+    "codice_istat": "030031",
+    "comune": "Coseano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 974,
+    "popolazione_femminile": 1003,
+    "popolazione_totale": 1977
+  },
+  {
+    "codice_istat": "030032",
+    "comune": "Dignano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1077,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2221
+  },
+  {
+    "codice_istat": "030033",
+    "comune": "Dogna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 75,
+    "popolazione_femminile": 73,
+    "popolazione_totale": 148
+  },
+  {
+    "codice_istat": "030034",
+    "comune": "Drenchia",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 47,
+    "popolazione_femminile": 41,
+    "popolazione_totale": 88
+  },
+  {
+    "codice_istat": "030035",
+    "comune": "Enemonzo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 614,
+    "popolazione_femminile": 617,
+    "popolazione_totale": 1231
+  },
+  {
+    "codice_istat": "030036",
+    "comune": "Faedis",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1389,
+    "popolazione_femminile": 1342,
+    "popolazione_totale": 2731
+  },
+  {
+    "codice_istat": "030037",
+    "comune": "Fagagna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3018,
+    "popolazione_femminile": 3058,
+    "popolazione_totale": 6076
+  },
+  {
+    "codice_istat": "030190",
+    "comune": "Fiumicello Villa Vicentina",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3077,
+    "popolazione_femminile": 3174,
+    "popolazione_totale": 6251
+  },
+  {
+    "codice_istat": "030039",
+    "comune": "Flaibano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 564,
+    "popolazione_totale": 1113
+  },
+  {
+    "codice_istat": "030137",
+    "comune": "Forgaria nel Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 829,
+    "popolazione_femminile": 838,
+    "popolazione_totale": 1667
+  },
+  {
+    "codice_istat": "030040",
+    "comune": "Forni Avoltri",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 259,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 495
+  },
+  {
+    "codice_istat": "030041",
+    "comune": "Forni di Sopra",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 453,
+    "popolazione_femminile": 437,
+    "popolazione_totale": 890
+  },
+  {
+    "codice_istat": "030042",
+    "comune": "Forni di Sotto",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 266,
+    "popolazione_totale": 518
+  },
+  {
+    "codice_istat": "030043",
+    "comune": "Gemona del Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4989,
+    "popolazione_femminile": 5427,
+    "popolazione_totale": 10416
+  },
+  {
+    "codice_istat": "030044",
+    "comune": "Gonars",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2241,
+    "popolazione_femminile": 2311,
+    "popolazione_totale": 4552
+  },
+  {
+    "codice_istat": "030045",
+    "comune": "Grimacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 152,
+    "popolazione_femminile": 147,
+    "popolazione_totale": 299
+  },
+  {
+    "codice_istat": "030046",
+    "comune": "Latisana",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 6346,
+    "popolazione_femminile": 6816,
+    "popolazione_totale": 13162
+  },
+  {
+    "codice_istat": "030047",
+    "comune": "Lauco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 320,
+    "popolazione_femminile": 306,
+    "popolazione_totale": 626
+  },
+  {
+    "codice_istat": "030048",
+    "comune": "Lestizza",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1777,
+    "popolazione_femminile": 1792,
+    "popolazione_totale": 3569
+  },
+  {
+    "codice_istat": "030049",
+    "comune": "Lignano Sabbiadoro",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3445,
+    "popolazione_femminile": 3528,
+    "popolazione_totale": 6973
+  },
+  {
+    "codice_istat": "030051",
+    "comune": "Lusevera",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 303,
+    "popolazione_femminile": 308,
+    "popolazione_totale": 611
+  },
+  {
+    "codice_istat": "030052",
+    "comune": "Magnano in Riviera",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1117,
+    "popolazione_femminile": 1115,
+    "popolazione_totale": 2232
+  },
+  {
+    "codice_istat": "030053",
+    "comune": "Majano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2731,
+    "popolazione_femminile": 2972,
+    "popolazione_totale": 5703
+  },
+  {
+    "codice_istat": "030054",
+    "comune": "Malborghetto Valbruna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 466,
+    "popolazione_femminile": 422,
+    "popolazione_totale": 888
+  },
+  {
+    "codice_istat": "030055",
+    "comune": "Manzano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3073,
+    "popolazione_femminile": 3202,
+    "popolazione_totale": 6275
+  },
+  {
+    "codice_istat": "030056",
+    "comune": "Marano Lagunare",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 822,
+    "popolazione_femminile": 855,
+    "popolazione_totale": 1677
+  },
+  {
+    "codice_istat": "030057",
+    "comune": "Martignacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3305,
+    "popolazione_femminile": 3530,
+    "popolazione_totale": 6835
+  },
+  {
+    "codice_istat": "030058",
+    "comune": "Mereto di Tomba",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1253,
+    "popolazione_femminile": 1244,
+    "popolazione_totale": 2497
+  },
+  {
+    "codice_istat": "030059",
+    "comune": "Moggio Udinese",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 789,
+    "popolazione_femminile": 800,
+    "popolazione_totale": 1589
+  },
+  {
+    "codice_istat": "030060",
+    "comune": "Moimacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 786,
+    "popolazione_femminile": 781,
+    "popolazione_totale": 1567
+  },
+  {
+    "codice_istat": "030061",
+    "comune": "Montenars",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 254,
+    "popolazione_femminile": 240,
+    "popolazione_totale": 494
+  },
+  {
+    "codice_istat": "030062",
+    "comune": "Mortegliano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2334,
+    "popolazione_femminile": 2505,
+    "popolazione_totale": 4839
+  },
+  {
+    "codice_istat": "030063",
+    "comune": "Moruzzo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1181,
+    "popolazione_femminile": 1211,
+    "popolazione_totale": 2392
+  },
+  {
+    "codice_istat": "030064",
+    "comune": "Muzzana del Turgnano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1147,
+    "popolazione_femminile": 1173,
+    "popolazione_totale": 2320
+  },
+  {
+    "codice_istat": "030065",
+    "comune": "Nimis",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1309,
+    "popolazione_femminile": 1319,
+    "popolazione_totale": 2628
+  },
+  {
+    "codice_istat": "030066",
+    "comune": "Osoppo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1410,
+    "popolazione_femminile": 1393,
+    "popolazione_totale": 2803
+  },
+  {
+    "codice_istat": "030067",
+    "comune": "Ovaro",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 857,
+    "popolazione_femminile": 829,
+    "popolazione_totale": 1686
+  },
+  {
+    "codice_istat": "030068",
+    "comune": "Pagnacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2488,
+    "popolazione_femminile": 2592,
+    "popolazione_totale": 5080
+  },
+  {
+    "codice_istat": "030069",
+    "comune": "Palazzolo dello Stella",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1422,
+    "popolazione_femminile": 1471,
+    "popolazione_totale": 2893
+  },
+  {
+    "codice_istat": "030070",
+    "comune": "Palmanova",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2552,
+    "popolazione_femminile": 2730,
+    "popolazione_totale": 5282
+  },
+  {
+    "codice_istat": "030071",
+    "comune": "Paluzza",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 942,
+    "popolazione_femminile": 950,
+    "popolazione_totale": 1892
+  },
+  {
+    "codice_istat": "030072",
+    "comune": "Pasian di Prato",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4504,
+    "popolazione_femminile": 4787,
+    "popolazione_totale": 9291
+  },
+  {
+    "codice_istat": "030073",
+    "comune": "Paularo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1149,
+    "popolazione_femminile": 1129,
+    "popolazione_totale": 2278
+  },
+  {
+    "codice_istat": "030074",
+    "comune": "Pavia di Udine",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2700,
+    "popolazione_femminile": 2766,
+    "popolazione_totale": 5466
+  },
+  {
+    "codice_istat": "030075",
+    "comune": "Pocenia",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1151,
+    "popolazione_femminile": 1136,
+    "popolazione_totale": 2287
+  },
+  {
+    "codice_istat": "030076",
+    "comune": "Pontebba",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 648,
+    "popolazione_totale": 1292
+  },
+  {
+    "codice_istat": "030077",
+    "comune": "Porpetto",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1193,
+    "popolazione_femminile": 1232,
+    "popolazione_totale": 2425
+  },
+  {
+    "codice_istat": "030078",
+    "comune": "Povoletto",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2676,
+    "popolazione_femminile": 2711,
+    "popolazione_totale": 5387
+  },
+  {
+    "codice_istat": "030079",
+    "comune": "Pozzuolo del Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3384,
+    "popolazione_femminile": 3507,
+    "popolazione_totale": 6891
+  },
+  {
+    "codice_istat": "030080",
+    "comune": "Pradamano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1709,
+    "popolazione_femminile": 1827,
+    "popolazione_totale": 3536
+  },
+  {
+    "codice_istat": "030081",
+    "comune": "Prato Carnico",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 386,
+    "popolazione_totale": 796
+  },
+  {
+    "codice_istat": "030082",
+    "comune": "Precenicco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 735,
+    "popolazione_femminile": 729,
+    "popolazione_totale": 1464
+  },
+  {
+    "codice_istat": "030083",
+    "comune": "Premariacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1907,
+    "popolazione_femminile": 2012,
+    "popolazione_totale": 3919
+  },
+  {
+    "codice_istat": "030084",
+    "comune": "Preone",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 122,
+    "popolazione_femminile": 125,
+    "popolazione_totale": 247
+  },
+  {
+    "codice_istat": "030085",
+    "comune": "Prepotto",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 349,
+    "popolazione_femminile": 347,
+    "popolazione_totale": 696
+  },
+  {
+    "codice_istat": "030086",
+    "comune": "Pulfero",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 414,
+    "popolazione_totale": 832
+  },
+  {
+    "codice_istat": "030087",
+    "comune": "Ragogna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1413,
+    "popolazione_femminile": 1430,
+    "popolazione_totale": 2843
+  },
+  {
+    "codice_istat": "030088",
+    "comune": "Ravascletto",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 262,
+    "popolazione_femminile": 235,
+    "popolazione_totale": 497
+  },
+  {
+    "codice_istat": "030089",
+    "comune": "Raveo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 208,
+    "popolazione_totale": 425
+  },
+  {
+    "codice_istat": "030090",
+    "comune": "Reana del Rojale",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2330,
+    "popolazione_femminile": 2393,
+    "popolazione_totale": 4723
+  },
+  {
+    "codice_istat": "030091",
+    "comune": "Remanzacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 2866,
+    "popolazione_femminile": 3038,
+    "popolazione_totale": 5904
+  },
+  {
+    "codice_istat": "030092",
+    "comune": "Resia",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 463,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 904
+  },
+  {
+    "codice_istat": "030093",
+    "comune": "Resiutta",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 133,
+    "popolazione_totale": 266
+  },
+  {
+    "codice_istat": "030094",
+    "comune": "Rigolato",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 184,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 354
+  },
+  {
+    "codice_istat": "030095",
+    "comune": "Rive d'Arcano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1173,
+    "popolazione_femminile": 1227,
+    "popolazione_totale": 2400
+  },
+  {
+    "codice_istat": "030188",
+    "comune": "Rivignano Teor",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3189,
+    "popolazione_femminile": 3120,
+    "popolazione_totale": 6309
+  },
+  {
+    "codice_istat": "030097",
+    "comune": "Ronchis",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 962,
+    "popolazione_femminile": 977,
+    "popolazione_totale": 1939
+  },
+  {
+    "codice_istat": "030098",
+    "comune": "Ruda",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1378,
+    "popolazione_femminile": 1424,
+    "popolazione_totale": 2802
+  },
+  {
+    "codice_istat": "030099",
+    "comune": "San Daniele del Friuli",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3838,
+    "popolazione_femminile": 4071,
+    "popolazione_totale": 7909
+  },
+  {
+    "codice_istat": "030100",
+    "comune": "San Giorgio di Nogaro",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3650,
+    "popolazione_femminile": 3635,
+    "popolazione_totale": 7285
+  },
+  {
+    "codice_istat": "030101",
+    "comune": "San Giovanni al Natisone",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3066,
+    "popolazione_femminile": 2929,
+    "popolazione_totale": 5995
+  },
+  {
+    "codice_istat": "030102",
+    "comune": "San Leonardo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 534,
+    "popolazione_femminile": 487,
+    "popolazione_totale": 1021
+  },
+  {
+    "codice_istat": "030103",
+    "comune": "San Pietro al Natisone",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1022,
+    "popolazione_femminile": 1047,
+    "popolazione_totale": 2069
+  },
+  {
+    "codice_istat": "030105",
+    "comune": "San Vito al Torre",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 616,
+    "popolazione_femminile": 607,
+    "popolazione_totale": 1223
+  },
+  {
+    "codice_istat": "030106",
+    "comune": "San Vito di Fagagna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 814,
+    "popolazione_femminile": 854,
+    "popolazione_totale": 1668
+  },
+  {
+    "codice_istat": "030104",
+    "comune": "Santa Maria la Longa",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1117,
+    "popolazione_femminile": 1186,
+    "popolazione_totale": 2303
+  },
+  {
+    "codice_istat": "030189",
+    "comune": "Sappada",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 650,
+    "popolazione_femminile": 651,
+    "popolazione_totale": 1301
+  },
+  {
+    "codice_istat": "030107",
+    "comune": "Sauris",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 190,
+    "popolazione_totale": 375
+  },
+  {
+    "codice_istat": "030108",
+    "comune": "Savogna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 181,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 349
+  },
+  {
+    "codice_istat": "030109",
+    "comune": "Sedegliano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1859,
+    "popolazione_femminile": 1836,
+    "popolazione_totale": 3695
+  },
+  {
+    "codice_istat": "030110",
+    "comune": "Socchieve",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 435,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 846
+  },
+  {
+    "codice_istat": "030111",
+    "comune": "Stregna",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 129,
+    "popolazione_totale": 289
+  },
+  {
+    "codice_istat": "030112",
+    "comune": "Sutrio",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 587,
+    "popolazione_femminile": 604,
+    "popolazione_totale": 1191
+  },
+  {
+    "codice_istat": "030113",
+    "comune": "Taipana",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 258,
+    "popolazione_totale": 529
+  },
+  {
+    "codice_istat": "030114",
+    "comune": "Talmassons",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1897,
+    "popolazione_femminile": 1924,
+    "popolazione_totale": 3821
+  },
+  {
+    "codice_istat": "030116",
+    "comune": "Tarcento",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4303,
+    "popolazione_femminile": 4583,
+    "popolazione_totale": 8886
+  },
+  {
+    "codice_istat": "030117",
+    "comune": "Tarvisio",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1949,
+    "popolazione_femminile": 1901,
+    "popolazione_totale": 3850
+  },
+  {
+    "codice_istat": "030118",
+    "comune": "Tavagnacco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 6972,
+    "popolazione_femminile": 7611,
+    "popolazione_totale": 14583
+  },
+  {
+    "codice_istat": "030120",
+    "comune": "Terzo d'Aquileia",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1320,
+    "popolazione_femminile": 1385,
+    "popolazione_totale": 2705
+  },
+  {
+    "codice_istat": "030121",
+    "comune": "Tolmezzo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 4599,
+    "popolazione_femminile": 5039,
+    "popolazione_totale": 9638
+  },
+  {
+    "codice_istat": "030122",
+    "comune": "Torreano",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1003,
+    "popolazione_femminile": 1040,
+    "popolazione_totale": 2043
+  },
+  {
+    "codice_istat": "030123",
+    "comune": "Torviscosa",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1272,
+    "popolazione_femminile": 1300,
+    "popolazione_totale": 2572
+  },
+  {
+    "codice_istat": "030124",
+    "comune": "Trasaghis",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1027,
+    "popolazione_femminile": 1033,
+    "popolazione_totale": 2060
+  },
+  {
+    "codice_istat": "030126",
+    "comune": "Treppo Grande",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 897,
+    "popolazione_totale": 1724
+  },
+  {
+    "codice_istat": "030191",
+    "comune": "Treppo Ligosullo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 337,
+    "popolazione_femminile": 317,
+    "popolazione_totale": 654
+  },
+  {
+    "codice_istat": "030127",
+    "comune": "Tricesimo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3659,
+    "popolazione_femminile": 3946,
+    "popolazione_totale": 7605
+  },
+  {
+    "codice_istat": "030128",
+    "comune": "Trivignano Udinese",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 755,
+    "popolazione_femminile": 759,
+    "popolazione_totale": 1514
+  },
+  {
+    "codice_istat": "030129",
+    "comune": "Udine",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 46784,
+    "popolazione_femminile": 51717,
+    "popolazione_totale": 98501,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "030130",
+    "comune": "Varmo",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1331,
+    "popolazione_femminile": 1274,
+    "popolazione_totale": 2605
+  },
+  {
+    "codice_istat": "030131",
+    "comune": "Venzone",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 973,
+    "popolazione_femminile": 968,
+    "popolazione_totale": 1941
+  },
+  {
+    "codice_istat": "030132",
+    "comune": "Verzegnis",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 428,
+    "popolazione_femminile": 406,
+    "popolazione_totale": 834
+  },
+  {
+    "codice_istat": "030133",
+    "comune": "Villa Santina",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1009,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2153
+  },
+  {
+    "codice_istat": "030135",
+    "comune": "Visco",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 412,
+    "popolazione_femminile": 426,
+    "popolazione_totale": 838
+  },
+  {
+    "codice_istat": "030136",
+    "comune": "Zuglio",
+    "provincia": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 268,
+    "popolazione_totale": 535
+  }
+]

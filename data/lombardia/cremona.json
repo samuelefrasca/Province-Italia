@@ -1,0 +1,1133 @@
+[
+  {
+    "codice_istat": "019001",
+    "comune": "Acquanegra Cremonese",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 583,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1167
+  },
+  {
+    "codice_istat": "019002",
+    "comune": "Agnadello",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1983,
+    "popolazione_femminile": 1980,
+    "popolazione_totale": 3963
+  },
+  {
+    "codice_istat": "019003",
+    "comune": "Annicco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 999,
+    "popolazione_femminile": 981,
+    "popolazione_totale": 1980
+  },
+  {
+    "codice_istat": "019004",
+    "comune": "Azzanello",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 314,
+    "popolazione_totale": 631
+  },
+  {
+    "codice_istat": "019005",
+    "comune": "Bagnolo Cremasco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2569,
+    "popolazione_femminile": 2546,
+    "popolazione_totale": 5115
+  },
+  {
+    "codice_istat": "019006",
+    "comune": "Bonemerse",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 702,
+    "popolazione_femminile": 732,
+    "popolazione_totale": 1434
+  },
+  {
+    "codice_istat": "019007",
+    "comune": "Bordolano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 322,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 602
+  },
+  {
+    "codice_istat": "019009",
+    "comune": "Calvatone",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 594,
+    "popolazione_femminile": 536,
+    "popolazione_totale": 1130
+  },
+  {
+    "codice_istat": "019010",
+    "comune": "Camisano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 633,
+    "popolazione_femminile": 620,
+    "popolazione_totale": 1253
+  },
+  {
+    "codice_istat": "019011",
+    "comune": "Campagnola Cremasca",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 319,
+    "popolazione_femminile": 330,
+    "popolazione_totale": 649
+  },
+  {
+    "codice_istat": "019012",
+    "comune": "Capergnanica",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1104,
+    "popolazione_femminile": 1046,
+    "popolazione_totale": 2150
+  },
+  {
+    "codice_istat": "019013",
+    "comune": "Cappella Cantone",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 538
+  },
+  {
+    "codice_istat": "019014",
+    "comune": "Cappella de' Picenardi",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 190,
+    "popolazione_totale": 422
+  },
+  {
+    "codice_istat": "019015",
+    "comune": "Capralba",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1162,
+    "popolazione_femminile": 1131,
+    "popolazione_totale": 2293
+  },
+  {
+    "codice_istat": "019016",
+    "comune": "Casalbuttano ed Uniti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1911,
+    "popolazione_femminile": 1885,
+    "popolazione_totale": 3796
+  },
+  {
+    "codice_istat": "019017",
+    "comune": "Casale Cremasco-Vidolasco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 948,
+    "popolazione_femminile": 867,
+    "popolazione_totale": 1815
+  },
+  {
+    "codice_istat": "019018",
+    "comune": "Casaletto Ceredano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 594,
+    "popolazione_femminile": 577,
+    "popolazione_totale": 1171
+  },
+  {
+    "codice_istat": "019019",
+    "comune": "Casaletto di Sopra",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 278,
+    "popolazione_femminile": 249,
+    "popolazione_totale": 527
+  },
+  {
+    "codice_istat": "019020",
+    "comune": "Casaletto Vaprio",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 880,
+    "popolazione_femminile": 898,
+    "popolazione_totale": 1778
+  },
+  {
+    "codice_istat": "019021",
+    "comune": "Casalmaggiore",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 7676,
+    "popolazione_femminile": 7438,
+    "popolazione_totale": 15114
+  },
+  {
+    "codice_istat": "019022",
+    "comune": "Casalmorano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 868,
+    "popolazione_femminile": 859,
+    "popolazione_totale": 1727
+  },
+  {
+    "codice_istat": "019024",
+    "comune": "Castel Gabbiano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 290,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 542
+  },
+  {
+    "codice_istat": "019023",
+    "comune": "Casteldidone",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 280,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 542
+  },
+  {
+    "codice_istat": "019025",
+    "comune": "Castelleone",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4598,
+    "popolazione_femminile": 4742,
+    "popolazione_totale": 9340
+  },
+  {
+    "codice_istat": "019026",
+    "comune": "Castelverde",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2848,
+    "popolazione_femminile": 2851,
+    "popolazione_totale": 5699
+  },
+  {
+    "codice_istat": "019027",
+    "comune": "Castelvisconti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 161,
+    "popolazione_femminile": 145,
+    "popolazione_totale": 306
+  },
+  {
+    "codice_istat": "019028",
+    "comune": "Cella Dati",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 262,
+    "popolazione_totale": 514
+  },
+  {
+    "codice_istat": "019029",
+    "comune": "Chieve",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1129,
+    "popolazione_femminile": 1141,
+    "popolazione_totale": 2270
+  },
+  {
+    "codice_istat": "019030",
+    "comune": "Cicognolo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 489,
+    "popolazione_femminile": 488,
+    "popolazione_totale": 977
+  },
+  {
+    "codice_istat": "019031",
+    "comune": "Cingia de' Botti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 578,
+    "popolazione_totale": 1171
+  },
+  {
+    "codice_istat": "019032",
+    "comune": "Corte de' Cortesi con Cignone",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 563,
+    "popolazione_femminile": 507,
+    "popolazione_totale": 1070
+  },
+  {
+    "codice_istat": "019033",
+    "comune": "Corte de' Frati",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 674,
+    "popolazione_femminile": 644,
+    "popolazione_totale": 1318
+  },
+  {
+    "codice_istat": "019034",
+    "comune": "Credera Rubbiano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 729,
+    "popolazione_femminile": 747,
+    "popolazione_totale": 1476
+  },
+  {
+    "codice_istat": "019035",
+    "comune": "Crema",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 16538,
+    "popolazione_femminile": 17609,
+    "popolazione_totale": 34147
+  },
+  {
+    "codice_istat": "019036",
+    "comune": "Cremona",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 34732,
+    "popolazione_femminile": 36361,
+    "popolazione_totale": 71093,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "019037",
+    "comune": "Cremosano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 890,
+    "popolazione_femminile": 840,
+    "popolazione_totale": 1730
+  },
+  {
+    "codice_istat": "019038",
+    "comune": "Crotta d'Adda",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 325,
+    "popolazione_femminile": 288,
+    "popolazione_totale": 613
+  },
+  {
+    "codice_istat": "019039",
+    "comune": "Cumignano sul Naviglio",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 213,
+    "popolazione_femminile": 193,
+    "popolazione_totale": 406
+  },
+  {
+    "codice_istat": "019040",
+    "comune": "Derovere",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 145,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 284
+  },
+  {
+    "codice_istat": "019041",
+    "comune": "Dovera",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1852,
+    "popolazione_femminile": 1882,
+    "popolazione_totale": 3734
+  },
+  {
+    "codice_istat": "019043",
+    "comune": "Fiesco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 614,
+    "popolazione_femminile": 603,
+    "popolazione_totale": 1217
+  },
+  {
+    "codice_istat": "019044",
+    "comune": "Formigara",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 512,
+    "popolazione_femminile": 526,
+    "popolazione_totale": 1038
+  },
+  {
+    "codice_istat": "019045",
+    "comune": "Gabbioneta-Binanuova",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 436,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 859
+  },
+  {
+    "codice_istat": "019046",
+    "comune": "Gadesco-Pieve Delmona",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 966,
+    "popolazione_femminile": 916,
+    "popolazione_totale": 1882
+  },
+  {
+    "codice_istat": "019047",
+    "comune": "Genivolta",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 549,
+    "popolazione_femminile": 533,
+    "popolazione_totale": 1082
+  },
+  {
+    "codice_istat": "019048",
+    "comune": "Gerre de' Caprioli",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 669,
+    "popolazione_femminile": 641,
+    "popolazione_totale": 1310
+  },
+  {
+    "codice_istat": "019049",
+    "comune": "Gombito",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 321,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 611
+  },
+  {
+    "codice_istat": "019050",
+    "comune": "Grontardo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 751,
+    "popolazione_femminile": 747,
+    "popolazione_totale": 1498
+  },
+  {
+    "codice_istat": "019051",
+    "comune": "Grumello Cremonese ed Uniti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 884,
+    "popolazione_femminile": 841,
+    "popolazione_totale": 1725
+  },
+  {
+    "codice_istat": "019052",
+    "comune": "Gussola",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1348,
+    "popolazione_femminile": 1339,
+    "popolazione_totale": 2687
+  },
+  {
+    "codice_istat": "019053",
+    "comune": "Isola Dovarese",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 539,
+    "popolazione_femminile": 526,
+    "popolazione_totale": 1065
+  },
+  {
+    "codice_istat": "019054",
+    "comune": "Izano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 995,
+    "popolazione_femminile": 956,
+    "popolazione_totale": 1951
+  },
+  {
+    "codice_istat": "019055",
+    "comune": "Madignano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1397,
+    "popolazione_femminile": 1367,
+    "popolazione_totale": 2764
+  },
+  {
+    "codice_istat": "019056",
+    "comune": "Malagnino",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 824,
+    "popolazione_femminile": 879,
+    "popolazione_totale": 1703
+  },
+  {
+    "codice_istat": "019057",
+    "comune": "Martignana di Po",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1021,
+    "popolazione_femminile": 1003,
+    "popolazione_totale": 2024
+  },
+  {
+    "codice_istat": "019058",
+    "comune": "Monte Cremasco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1110,
+    "popolazione_femminile": 1107,
+    "popolazione_totale": 2217
+  },
+  {
+    "codice_istat": "019059",
+    "comune": "Montodine",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1197,
+    "popolazione_femminile": 1197,
+    "popolazione_totale": 2394
+  },
+  {
+    "codice_istat": "019060",
+    "comune": "Moscazzano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 358,
+    "popolazione_femminile": 339,
+    "popolazione_totale": 697
+  },
+  {
+    "codice_istat": "019061",
+    "comune": "Motta Baluffi",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 401,
+    "popolazione_femminile": 368,
+    "popolazione_totale": 769
+  },
+  {
+    "codice_istat": "019062",
+    "comune": "Offanengo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2973,
+    "popolazione_femminile": 2972,
+    "popolazione_totale": 5945
+  },
+  {
+    "codice_istat": "019063",
+    "comune": "Olmeneta",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 444,
+    "popolazione_femminile": 490,
+    "popolazione_totale": 934
+  },
+  {
+    "codice_istat": "019064",
+    "comune": "Ostiano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1450,
+    "popolazione_femminile": 1375,
+    "popolazione_totale": 2825
+  },
+  {
+    "codice_istat": "019065",
+    "comune": "Paderno Ponchielli",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 666,
+    "popolazione_femminile": 626,
+    "popolazione_totale": 1292
+  },
+  {
+    "codice_istat": "019066",
+    "comune": "Palazzo Pignano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1912,
+    "popolazione_femminile": 1881,
+    "popolazione_totale": 3793
+  },
+  {
+    "codice_istat": "019067",
+    "comune": "Pandino",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4457,
+    "popolazione_femminile": 4531,
+    "popolazione_totale": 8988
+  },
+  {
+    "codice_istat": "019068",
+    "comune": "Persico Dosimo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1621,
+    "popolazione_femminile": 1629,
+    "popolazione_totale": 3250
+  },
+  {
+    "codice_istat": "019069",
+    "comune": "Pescarolo ed Uniti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 778,
+    "popolazione_femminile": 769,
+    "popolazione_totale": 1547
+  },
+  {
+    "codice_istat": "019070",
+    "comune": "Pessina Cremonese",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 298,
+    "popolazione_femminile": 276,
+    "popolazione_totale": 574
+  },
+  {
+    "codice_istat": "019116",
+    "comune": "Piadena Drizzona",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2055,
+    "popolazione_femminile": 2008,
+    "popolazione_totale": 4063
+  },
+  {
+    "codice_istat": "019072",
+    "comune": "Pianengo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1309,
+    "popolazione_femminile": 1261,
+    "popolazione_totale": 2570
+  },
+  {
+    "codice_istat": "019073",
+    "comune": "Pieranica",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 562,
+    "popolazione_femminile": 545,
+    "popolazione_totale": 1107
+  },
+  {
+    "codice_istat": "019074",
+    "comune": "Pieve d'Olmi",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1238
+  },
+  {
+    "codice_istat": "019075",
+    "comune": "Pieve San Giacomo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 790,
+    "popolazione_femminile": 781,
+    "popolazione_totale": 1571
+  },
+  {
+    "codice_istat": "019076",
+    "comune": "Pizzighettone",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3081,
+    "popolazione_femminile": 3161,
+    "popolazione_totale": 6242
+  },
+  {
+    "codice_istat": "019077",
+    "comune": "Pozzaglio ed Uniti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 715,
+    "popolazione_femminile": 701,
+    "popolazione_totale": 1416
+  },
+  {
+    "codice_istat": "019078",
+    "comune": "Quintano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 470,
+    "popolazione_femminile": 462,
+    "popolazione_totale": 932
+  },
+  {
+    "codice_istat": "019079",
+    "comune": "Ricengo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 893,
+    "popolazione_femminile": 831,
+    "popolazione_totale": 1724
+  },
+  {
+    "codice_istat": "019080",
+    "comune": "Ripalta Arpina",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 568,
+    "popolazione_femminile": 520,
+    "popolazione_totale": 1088
+  },
+  {
+    "codice_istat": "019081",
+    "comune": "Ripalta Cremasca",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1726,
+    "popolazione_femminile": 1728,
+    "popolazione_totale": 3454
+  },
+  {
+    "codice_istat": "019082",
+    "comune": "Ripalta Guerina",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 285,
+    "popolazione_femminile": 253,
+    "popolazione_totale": 538
+  },
+  {
+    "codice_istat": "019083",
+    "comune": "Rivarolo del Re ed Uniti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 955,
+    "popolazione_femminile": 893,
+    "popolazione_totale": 1848
+  },
+  {
+    "codice_istat": "019084",
+    "comune": "Rivolta d'Adda",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4130,
+    "popolazione_femminile": 4228,
+    "popolazione_totale": 8358
+  },
+  {
+    "codice_istat": "019085",
+    "comune": "Robecco d'Oglio",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1107,
+    "popolazione_femminile": 1143,
+    "popolazione_totale": 2250
+  },
+  {
+    "codice_istat": "019086",
+    "comune": "Romanengo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1620,
+    "popolazione_femminile": 1637,
+    "popolazione_totale": 3257
+  },
+  {
+    "codice_istat": "019087",
+    "comune": "Salvirola",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 572,
+    "popolazione_femminile": 571,
+    "popolazione_totale": 1143
+  },
+  {
+    "codice_istat": "019088",
+    "comune": "San Bassano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 981,
+    "popolazione_femminile": 1076,
+    "popolazione_totale": 2057
+  },
+  {
+    "codice_istat": "019089",
+    "comune": "San Daniele Po",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 677,
+    "popolazione_femminile": 620,
+    "popolazione_totale": 1297
+  },
+  {
+    "codice_istat": "019090",
+    "comune": "San Giovanni in Croce",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 983,
+    "popolazione_femminile": 932,
+    "popolazione_totale": 1915
+  },
+  {
+    "codice_istat": "019091",
+    "comune": "San Martino del Lago",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 190,
+    "popolazione_femminile": 194,
+    "popolazione_totale": 384
+  },
+  {
+    "codice_istat": "019092",
+    "comune": "Scandolara Ravara",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 644,
+    "popolazione_femminile": 593,
+    "popolazione_totale": 1237
+  },
+  {
+    "codice_istat": "019093",
+    "comune": "Scandolara Ripa d'Oglio",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 266,
+    "popolazione_femminile": 239,
+    "popolazione_totale": 505
+  },
+  {
+    "codice_istat": "019094",
+    "comune": "Sergnano",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1770,
+    "popolazione_femminile": 1690,
+    "popolazione_totale": 3460
+  },
+  {
+    "codice_istat": "019095",
+    "comune": "Sesto ed Uniti",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1660,
+    "popolazione_femminile": 1626,
+    "popolazione_totale": 3286
+  },
+  {
+    "codice_istat": "019096",
+    "comune": "Solarolo Rainerio",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 465,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 921
+  },
+  {
+    "codice_istat": "019097",
+    "comune": "Soncino",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3780,
+    "popolazione_femminile": 3774,
+    "popolazione_totale": 7554
+  },
+  {
+    "codice_istat": "019098",
+    "comune": "Soresina",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 4689,
+    "popolazione_femminile": 4617,
+    "popolazione_totale": 9306
+  },
+  {
+    "codice_istat": "019099",
+    "comune": "Sospiro",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1569,
+    "popolazione_femminile": 1472,
+    "popolazione_totale": 3041
+  },
+  {
+    "codice_istat": "019100",
+    "comune": "Spinadesco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 741,
+    "popolazione_femminile": 744,
+    "popolazione_totale": 1485
+  },
+  {
+    "codice_istat": "019101",
+    "comune": "Spineda",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 313,
+    "popolazione_totale": 608
+  },
+  {
+    "codice_istat": "019102",
+    "comune": "Spino d'Adda",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 3497,
+    "popolazione_femminile": 3516,
+    "popolazione_totale": 7013
+  },
+  {
+    "codice_istat": "019103",
+    "comune": "Stagno Lombardo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 712,
+    "popolazione_femminile": 690,
+    "popolazione_totale": 1402
+  },
+  {
+    "codice_istat": "019104",
+    "comune": "Ticengo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 228,
+    "popolazione_femminile": 227,
+    "popolazione_totale": 455
+  },
+  {
+    "codice_istat": "019105",
+    "comune": "Torlino Vimercati",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 229,
+    "popolazione_femminile": 222,
+    "popolazione_totale": 451
+  },
+  {
+    "codice_istat": "019106",
+    "comune": "Tornata",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 223,
+    "popolazione_femminile": 177,
+    "popolazione_totale": 400
+  },
+  {
+    "codice_istat": "019107",
+    "comune": "Torre de' Picenardi",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1121,
+    "popolazione_femminile": 1062,
+    "popolazione_totale": 2183
+  },
+  {
+    "codice_istat": "019108",
+    "comune": "Torricella del Pizzo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 302,
+    "popolazione_femminile": 283,
+    "popolazione_totale": 585
+  },
+  {
+    "codice_istat": "019109",
+    "comune": "Trescore Cremasco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1435,
+    "popolazione_femminile": 1481,
+    "popolazione_totale": 2916
+  },
+  {
+    "codice_istat": "019110",
+    "comune": "Trigolo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 780,
+    "popolazione_femminile": 868,
+    "popolazione_totale": 1648
+  },
+  {
+    "codice_istat": "019111",
+    "comune": "Vaiano Cremasco",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 1813,
+    "popolazione_femminile": 1779,
+    "popolazione_totale": 3592
+  },
+  {
+    "codice_istat": "019112",
+    "comune": "Vailate",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2379,
+    "popolazione_femminile": 2344,
+    "popolazione_totale": 4723
+  },
+  {
+    "codice_istat": "019113",
+    "comune": "Vescovato",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 2024,
+    "popolazione_femminile": 1970,
+    "popolazione_totale": 3994
+  },
+  {
+    "codice_istat": "019114",
+    "comune": "Volongo",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 241,
+    "popolazione_femminile": 214,
+    "popolazione_totale": 455
+  },
+  {
+    "codice_istat": "019115",
+    "comune": "Voltido",
+    "provincia": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "popolazione_maschile": 168,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 334
+  }
+]

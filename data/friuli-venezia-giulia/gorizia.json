@@ -1,0 +1,253 @@
+[
+  {
+    "codice_istat": "031001",
+    "comune": "Capriva del Friuli",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 748,
+    "popolazione_femminile": 818,
+    "popolazione_totale": 1566
+  },
+  {
+    "codice_istat": "031002",
+    "comune": "Cormons",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3321,
+    "popolazione_femminile": 3680,
+    "popolazione_totale": 7001
+  },
+  {
+    "codice_istat": "031003",
+    "comune": "Doberdò del Lago-Doberdob",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 628,
+    "popolazione_femminile": 665,
+    "popolazione_totale": 1293
+  },
+  {
+    "codice_istat": "031004",
+    "comune": "Dolegna del Collio",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 154,
+    "popolazione_femminile": 131,
+    "popolazione_totale": 285
+  },
+  {
+    "codice_istat": "031005",
+    "comune": "Farra d'Isonzo",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 831,
+    "popolazione_femminile": 850,
+    "popolazione_totale": 1681
+  },
+  {
+    "codice_istat": "031006",
+    "comune": "Fogliano Redipuglia",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1445,
+    "popolazione_femminile": 1521,
+    "popolazione_totale": 2966
+  },
+  {
+    "codice_istat": "031007",
+    "comune": "Gorizia",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 16624,
+    "popolazione_femminile": 17055,
+    "popolazione_totale": 33679,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "031008",
+    "comune": "Gradisca d'Isonzo",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3063,
+    "popolazione_femminile": 3331,
+    "popolazione_totale": 6394
+  },
+  {
+    "codice_istat": "031009",
+    "comune": "Grado",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3594,
+    "popolazione_femminile": 3860,
+    "popolazione_totale": 7454
+  },
+  {
+    "codice_istat": "031010",
+    "comune": "Mariano del Friuli",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 727,
+    "popolazione_femminile": 751,
+    "popolazione_totale": 1478
+  },
+  {
+    "codice_istat": "031011",
+    "comune": "Medea",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 480,
+    "popolazione_femminile": 476,
+    "popolazione_totale": 956
+  },
+  {
+    "codice_istat": "031012",
+    "comune": "Monfalcone",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 16157,
+    "popolazione_femminile": 14610,
+    "popolazione_totale": 30767
+  },
+  {
+    "codice_istat": "031013",
+    "comune": "Moraro",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 344,
+    "popolazione_femminile": 378,
+    "popolazione_totale": 722
+  },
+  {
+    "codice_istat": "031014",
+    "comune": "Mossa",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 740,
+    "popolazione_femminile": 772,
+    "popolazione_totale": 1512
+  },
+  {
+    "codice_istat": "031015",
+    "comune": "Romans d'Isonzo",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1766,
+    "popolazione_femminile": 1790,
+    "popolazione_totale": 3556
+  },
+  {
+    "codice_istat": "031016",
+    "comune": "Ronchi dei Legionari",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 5821,
+    "popolazione_femminile": 6038,
+    "popolazione_totale": 11859
+  },
+  {
+    "codice_istat": "031017",
+    "comune": "Sagrado",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1041,
+    "popolazione_femminile": 1091,
+    "popolazione_totale": 2132
+  },
+  {
+    "codice_istat": "031018",
+    "comune": "San Canzian d'Isonzo",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3000,
+    "popolazione_femminile": 3048,
+    "popolazione_totale": 6048
+  },
+  {
+    "codice_istat": "031019",
+    "comune": "San Floriano del Collio-Števerjan",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 353,
+    "popolazione_femminile": 365,
+    "popolazione_totale": 718
+  },
+  {
+    "codice_istat": "031020",
+    "comune": "San Lorenzo Isontino",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 733,
+    "popolazione_femminile": 746,
+    "popolazione_totale": 1479
+  },
+  {
+    "codice_istat": "031021",
+    "comune": "San Pier d'Isonzo",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 985,
+    "popolazione_femminile": 929,
+    "popolazione_totale": 1914
+  },
+  {
+    "codice_istat": "031022",
+    "comune": "Savogna d'Isonzo-Sovodnje ob Soci",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 867,
+    "popolazione_femminile": 811,
+    "popolazione_totale": 1678
+  },
+  {
+    "codice_istat": "031023",
+    "comune": "Staranzano",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 3539,
+    "popolazione_femminile": 3591,
+    "popolazione_totale": 7130
+  },
+  {
+    "codice_istat": "031024",
+    "comune": "Turriaco",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 1374,
+    "popolazione_femminile": 1410,
+    "popolazione_totale": 2784
+  },
+  {
+    "codice_istat": "031025",
+    "comune": "Villesse",
+    "provincia": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 838,
+    "popolazione_totale": 1665
+  }
+]

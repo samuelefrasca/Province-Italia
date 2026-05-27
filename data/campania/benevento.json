@@ -1,0 +1,783 @@
+[
+  {
+    "codice_istat": "062001",
+    "comune": "Airola",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 4027,
+    "popolazione_femminile": 4062,
+    "popolazione_totale": 8089
+  },
+  {
+    "codice_istat": "062002",
+    "comune": "Amorosi",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1316,
+    "popolazione_femminile": 1313,
+    "popolazione_totale": 2629
+  },
+  {
+    "codice_istat": "062003",
+    "comune": "Apice",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 2566,
+    "popolazione_femminile": 2609,
+    "popolazione_totale": 5175
+  },
+  {
+    "codice_istat": "062004",
+    "comune": "Apollosa",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1192,
+    "popolazione_femminile": 1227,
+    "popolazione_totale": 2419
+  },
+  {
+    "codice_istat": "062005",
+    "comune": "Arpaia",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1011,
+    "popolazione_femminile": 972,
+    "popolazione_totale": 1983
+  },
+  {
+    "codice_istat": "062006",
+    "comune": "Arpaise",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 360,
+    "popolazione_femminile": 362,
+    "popolazione_totale": 722
+  },
+  {
+    "codice_istat": "062007",
+    "comune": "Baselice",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 935,
+    "popolazione_femminile": 1045,
+    "popolazione_totale": 1980
+  },
+  {
+    "codice_istat": "062008",
+    "comune": "Benevento",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 26517,
+    "popolazione_femminile": 28813,
+    "popolazione_totale": 55330,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "062009",
+    "comune": "Bonea",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 674,
+    "popolazione_femminile": 662,
+    "popolazione_totale": 1336
+  },
+  {
+    "codice_istat": "062010",
+    "comune": "Bucciano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 950,
+    "popolazione_femminile": 1000,
+    "popolazione_totale": 1950
+  },
+  {
+    "codice_istat": "062011",
+    "comune": "Buonalbergo",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 728,
+    "popolazione_femminile": 750,
+    "popolazione_totale": 1478
+  },
+  {
+    "codice_istat": "062012",
+    "comune": "Calvi",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1234,
+    "popolazione_femminile": 1231,
+    "popolazione_totale": 2465
+  },
+  {
+    "codice_istat": "062013",
+    "comune": "Campolattaro",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 465,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 959
+  },
+  {
+    "codice_istat": "062014",
+    "comune": "Campoli del Monte Taburno",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 934,
+    "popolazione_femminile": 708,
+    "popolazione_totale": 1642
+  },
+  {
+    "codice_istat": "062015",
+    "comune": "Casalduni",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 602,
+    "popolazione_femminile": 574,
+    "popolazione_totale": 1176
+  },
+  {
+    "codice_istat": "062016",
+    "comune": "Castelfranco in Miscano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 368,
+    "popolazione_totale": 761
+  },
+  {
+    "codice_istat": "062017",
+    "comune": "Castelpagano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 662,
+    "popolazione_femminile": 655,
+    "popolazione_totale": 1317
+  },
+  {
+    "codice_istat": "062018",
+    "comune": "Castelpoto",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 526,
+    "popolazione_femminile": 567,
+    "popolazione_totale": 1093
+  },
+  {
+    "codice_istat": "062019",
+    "comune": "Castelvenere",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1143,
+    "popolazione_femminile": 1224,
+    "popolazione_totale": 2367
+  },
+  {
+    "codice_istat": "062020",
+    "comune": "Castelvetere in Val Fortore",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 443,
+    "popolazione_femminile": 472,
+    "popolazione_totale": 915
+  },
+  {
+    "codice_istat": "062021",
+    "comune": "Cautano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 928,
+    "popolazione_femminile": 922,
+    "popolazione_totale": 1850
+  },
+  {
+    "codice_istat": "062022",
+    "comune": "Ceppaloni",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1615,
+    "popolazione_femminile": 1566,
+    "popolazione_totale": 3181
+  },
+  {
+    "codice_istat": "062023",
+    "comune": "Cerreto Sannita",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1733,
+    "popolazione_femminile": 1765,
+    "popolazione_totale": 3498
+  },
+  {
+    "codice_istat": "062024",
+    "comune": "Circello",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1034,
+    "popolazione_femminile": 1024,
+    "popolazione_totale": 2058
+  },
+  {
+    "codice_istat": "062025",
+    "comune": "Colle Sannita",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1053,
+    "popolazione_femminile": 1102,
+    "popolazione_totale": 2155
+  },
+  {
+    "codice_istat": "062026",
+    "comune": "Cusano Mutri",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1873,
+    "popolazione_femminile": 1860,
+    "popolazione_totale": 3733
+  },
+  {
+    "codice_istat": "062027",
+    "comune": "Dugenta",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1274,
+    "popolazione_femminile": 1353,
+    "popolazione_totale": 2627
+  },
+  {
+    "codice_istat": "062028",
+    "comune": "Durazzano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1044,
+    "popolazione_femminile": 1013,
+    "popolazione_totale": 2057
+  },
+  {
+    "codice_istat": "062029",
+    "comune": "Faicchio",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1576,
+    "popolazione_femminile": 1585,
+    "popolazione_totale": 3161
+  },
+  {
+    "codice_istat": "062030",
+    "comune": "Foglianise",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1508,
+    "popolazione_femminile": 1593,
+    "popolazione_totale": 3101
+  },
+  {
+    "codice_istat": "062031",
+    "comune": "Foiano di Val Fortore",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 642,
+    "popolazione_femminile": 659,
+    "popolazione_totale": 1301
+  },
+  {
+    "codice_istat": "062032",
+    "comune": "Forchia",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 606,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1190
+  },
+  {
+    "codice_istat": "062033",
+    "comune": "Fragneto l'Abate",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 475,
+    "popolazione_totale": 893
+  },
+  {
+    "codice_istat": "062034",
+    "comune": "Fragneto Monforte",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 794,
+    "popolazione_femminile": 852,
+    "popolazione_totale": 1646
+  },
+  {
+    "codice_istat": "062035",
+    "comune": "Frasso Telesino",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 971,
+    "popolazione_femminile": 975,
+    "popolazione_totale": 1946
+  },
+  {
+    "codice_istat": "062036",
+    "comune": "Ginestra degli Schiavoni",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 187,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 378
+  },
+  {
+    "codice_istat": "062037",
+    "comune": "Guardia Sanframondi",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 2227,
+    "popolazione_femminile": 2238,
+    "popolazione_totale": 4465
+  },
+  {
+    "codice_istat": "062038",
+    "comune": "Limatola",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 2172,
+    "popolazione_femminile": 2048,
+    "popolazione_totale": 4220
+  },
+  {
+    "codice_istat": "062039",
+    "comune": "Melizzano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 827,
+    "popolazione_femminile": 809,
+    "popolazione_totale": 1636
+  },
+  {
+    "codice_istat": "062040",
+    "comune": "Moiano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1999,
+    "popolazione_femminile": 1987,
+    "popolazione_totale": 3986
+  },
+  {
+    "codice_istat": "062041",
+    "comune": "Molinara",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 668,
+    "popolazione_femminile": 720,
+    "popolazione_totale": 1388
+  },
+  {
+    "codice_istat": "062042",
+    "comune": "Montefalcone di Val Fortore",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 587,
+    "popolazione_femminile": 673,
+    "popolazione_totale": 1260
+  },
+  {
+    "codice_istat": "062043",
+    "comune": "Montesarchio",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 6497,
+    "popolazione_femminile": 6472,
+    "popolazione_totale": 12969
+  },
+  {
+    "codice_istat": "062044",
+    "comune": "Morcone",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 2159,
+    "popolazione_femminile": 2263,
+    "popolazione_totale": 4422
+  },
+  {
+    "codice_istat": "062045",
+    "comune": "Paduli",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1741,
+    "popolazione_femminile": 1783,
+    "popolazione_totale": 3524
+  },
+  {
+    "codice_istat": "062046",
+    "comune": "Pago Veiano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1086,
+    "popolazione_femminile": 1081,
+    "popolazione_totale": 2167
+  },
+  {
+    "codice_istat": "062047",
+    "comune": "Pannarano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1029,
+    "popolazione_femminile": 933,
+    "popolazione_totale": 1962
+  },
+  {
+    "codice_istat": "062048",
+    "comune": "Paolisi",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 989,
+    "popolazione_femminile": 951,
+    "popolazione_totale": 1940
+  },
+  {
+    "codice_istat": "062049",
+    "comune": "Paupisi",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 690,
+    "popolazione_femminile": 691,
+    "popolazione_totale": 1381
+  },
+  {
+    "codice_istat": "062050",
+    "comune": "Pesco Sannita",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 869,
+    "popolazione_femminile": 929,
+    "popolazione_totale": 1798
+  },
+  {
+    "codice_istat": "062051",
+    "comune": "Pietraroja",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 268,
+    "popolazione_totale": 493
+  },
+  {
+    "codice_istat": "062052",
+    "comune": "Pietrelcina",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1462,
+    "popolazione_femminile": 1407,
+    "popolazione_totale": 2869
+  },
+  {
+    "codice_istat": "062053",
+    "comune": "Ponte",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1185,
+    "popolazione_femminile": 1203,
+    "popolazione_totale": 2388
+  },
+  {
+    "codice_istat": "062054",
+    "comune": "Pontelandolfo",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 955,
+    "popolazione_femminile": 986,
+    "popolazione_totale": 1941
+  },
+  {
+    "codice_istat": "062055",
+    "comune": "Puglianello",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 637,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1262
+  },
+  {
+    "codice_istat": "062056",
+    "comune": "Reino",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 525,
+    "popolazione_femminile": 538,
+    "popolazione_totale": 1063
+  },
+  {
+    "codice_istat": "062057",
+    "comune": "San Bartolomeo in Galdo",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 2090,
+    "popolazione_femminile": 2101,
+    "popolazione_totale": 4191
+  },
+  {
+    "codice_istat": "062058",
+    "comune": "San Giorgio del Sannio",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 4630,
+    "popolazione_femminile": 5003,
+    "popolazione_totale": 9633
+  },
+  {
+    "codice_istat": "062059",
+    "comune": "San Giorgio La Molara",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1347,
+    "popolazione_femminile": 1298,
+    "popolazione_totale": 2645
+  },
+  {
+    "codice_istat": "062060",
+    "comune": "San Leucio del Sannio",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1429,
+    "popolazione_femminile": 1448,
+    "popolazione_totale": 2877
+  },
+  {
+    "codice_istat": "062061",
+    "comune": "San Lorenzello",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1031,
+    "popolazione_femminile": 1048,
+    "popolazione_totale": 2079
+  },
+  {
+    "codice_istat": "062062",
+    "comune": "San Lorenzo Maggiore",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 949,
+    "popolazione_femminile": 906,
+    "popolazione_totale": 1855
+  },
+  {
+    "codice_istat": "062063",
+    "comune": "San Lupo",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 339,
+    "popolazione_femminile": 328,
+    "popolazione_totale": 667
+  },
+  {
+    "codice_istat": "062064",
+    "comune": "San Marco dei Cavoti",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1389,
+    "popolazione_femminile": 1506,
+    "popolazione_totale": 2895
+  },
+  {
+    "codice_istat": "062065",
+    "comune": "San Martino Sannita",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 571,
+    "popolazione_totale": 1136
+  },
+  {
+    "codice_istat": "062066",
+    "comune": "San Nazzaro",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 404,
+    "popolazione_femminile": 415,
+    "popolazione_totale": 819
+  },
+  {
+    "codice_istat": "062067",
+    "comune": "San Nicola Manfredi",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1652,
+    "popolazione_femminile": 1721,
+    "popolazione_totale": 3373
+  },
+  {
+    "codice_istat": "062068",
+    "comune": "San Salvatore Telesino",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1947,
+    "popolazione_femminile": 1909,
+    "popolazione_totale": 3856
+  },
+  {
+    "codice_istat": "062070",
+    "comune": "Sant'Agata de' Goti",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 4951,
+    "popolazione_femminile": 5056,
+    "popolazione_totale": 10007
+  },
+  {
+    "codice_istat": "062071",
+    "comune": "Sant'Angelo a Cupolo",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1983,
+    "popolazione_femminile": 2006,
+    "popolazione_totale": 3989
+  },
+  {
+    "codice_istat": "062078",
+    "comune": "Sant'Arcangelo Trimonte",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 460
+  },
+  {
+    "codice_istat": "062069",
+    "comune": "Santa Croce del Sannio",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 430,
+    "popolazione_femminile": 427,
+    "popolazione_totale": 857
+  },
+  {
+    "codice_istat": "062072",
+    "comune": "Sassinoro",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 296,
+    "popolazione_femminile": 310,
+    "popolazione_totale": 606
+  },
+  {
+    "codice_istat": "062073",
+    "comune": "Solopaca",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1606,
+    "popolazione_femminile": 1770,
+    "popolazione_totale": 3376
+  },
+  {
+    "codice_istat": "062074",
+    "comune": "Telese Terme",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 3606,
+    "popolazione_femminile": 4001,
+    "popolazione_totale": 7607
+  },
+  {
+    "codice_istat": "062075",
+    "comune": "Tocco Caudio",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 746,
+    "popolazione_femminile": 713,
+    "popolazione_totale": 1459
+  },
+  {
+    "codice_istat": "062076",
+    "comune": "Torrecuso",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1626,
+    "popolazione_femminile": 1598,
+    "popolazione_totale": 3224
+  },
+  {
+    "codice_istat": "062077",
+    "comune": "Vitulano",
+    "provincia": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "popolazione_maschile": 1378,
+    "popolazione_femminile": 1284,
+    "popolazione_totale": 2662
+  }
+]

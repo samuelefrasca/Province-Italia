@@ -1,0 +1,1163 @@
+[
+  {
+    "codice_istat": "021001",
+    "comune": "Aldino/Aldein",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 831,
+    "popolazione_femminile": 778,
+    "popolazione_totale": 1609
+  },
+  {
+    "codice_istat": "021002",
+    "comune": "Andriano/Andrian",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 526,
+    "popolazione_totale": 1058
+  },
+  {
+    "codice_istat": "021003",
+    "comune": "Anterivo/Altrei",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 197,
+    "popolazione_femminile": 191,
+    "popolazione_totale": 388
+  },
+  {
+    "codice_istat": "021004",
+    "comune": "Appiano sulla strada del vino/Eppan an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 7500,
+    "popolazione_femminile": 7562,
+    "popolazione_totale": 15062
+  },
+  {
+    "codice_istat": "021005",
+    "comune": "Avelengo/Hafling",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 425,
+    "popolazione_femminile": 398,
+    "popolazione_totale": 823
+  },
+  {
+    "codice_istat": "021006",
+    "comune": "Badia/Abtei",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1779,
+    "popolazione_femminile": 1810,
+    "popolazione_totale": 3589
+  },
+  {
+    "codice_istat": "021007",
+    "comune": "Barbiano/Barbian",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 891,
+    "popolazione_femminile": 897,
+    "popolazione_totale": 1788
+  },
+  {
+    "codice_istat": "021008",
+    "comune": "Bolzano/Bozen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 51726,
+    "popolazione_femminile": 55175,
+    "popolazione_totale": 106901,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "021009",
+    "comune": "Braies/Prags",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 343,
+    "popolazione_totale": 690
+  },
+  {
+    "codice_istat": "021010",
+    "comune": "Brennero/Brenner",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1266,
+    "popolazione_femminile": 1168,
+    "popolazione_totale": 2434
+  },
+  {
+    "codice_istat": "021011",
+    "comune": "Bressanone/Brixen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 11427,
+    "popolazione_femminile": 11923,
+    "popolazione_totale": 23350
+  },
+  {
+    "codice_istat": "021012",
+    "comune": "Bronzolo/Branzoll",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1402,
+    "popolazione_femminile": 1422,
+    "popolazione_totale": 2824
+  },
+  {
+    "codice_istat": "021013",
+    "comune": "Brunico/Bruneck",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 8538,
+    "popolazione_femminile": 8628,
+    "popolazione_totale": 17166
+  },
+  {
+    "codice_istat": "021014",
+    "comune": "Caines/Kuens",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 201,
+    "popolazione_totale": 386
+  },
+  {
+    "codice_istat": "021015",
+    "comune": "Caldaro sulla strada del vino/Kaltern an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 4064,
+    "popolazione_femminile": 4237,
+    "popolazione_totale": 8301
+  },
+  {
+    "codice_istat": "021016",
+    "comune": "Campo di Trens/Freienfeld",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1458,
+    "popolazione_femminile": 1353,
+    "popolazione_totale": 2811
+  },
+  {
+    "codice_istat": "021017",
+    "comune": "Campo Tures/Sand in Taufers",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2942,
+    "popolazione_femminile": 2935,
+    "popolazione_totale": 5877
+  },
+  {
+    "codice_istat": "021018",
+    "comune": "Castelbello-Ciardes/Kastelbell-Tschars",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1227,
+    "popolazione_femminile": 1191,
+    "popolazione_totale": 2418
+  },
+  {
+    "codice_istat": "021019",
+    "comune": "Castelrotto/Kastelruth",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3578,
+    "popolazione_femminile": 3484,
+    "popolazione_totale": 7062
+  },
+  {
+    "codice_istat": "021020",
+    "comune": "Cermes/Tscherms",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 818,
+    "popolazione_femminile": 835,
+    "popolazione_totale": 1653
+  },
+  {
+    "codice_istat": "021021",
+    "comune": "Chienes/Kiens",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1561,
+    "popolazione_femminile": 1506,
+    "popolazione_totale": 3067
+  },
+  {
+    "codice_istat": "021022",
+    "comune": "Chiusa/Klausen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2645,
+    "popolazione_femminile": 2580,
+    "popolazione_totale": 5225
+  },
+  {
+    "codice_istat": "021023",
+    "comune": "Cornedo all'Isarco/Karneid",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1724,
+    "popolazione_femminile": 1723,
+    "popolazione_totale": 3447
+  },
+  {
+    "codice_istat": "021024",
+    "comune": "Cortaccia sulla strada del vino/Kurtatsch an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1094,
+    "popolazione_femminile": 1144,
+    "popolazione_totale": 2238
+  },
+  {
+    "codice_istat": "021025",
+    "comune": "Cortina sulla strada del vino/Kurtinig an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 340,
+    "popolazione_femminile": 336,
+    "popolazione_totale": 676
+  },
+  {
+    "codice_istat": "021026",
+    "comune": "Corvara in Badia/Corvara",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 707,
+    "popolazione_femminile": 731,
+    "popolazione_totale": 1438
+  },
+  {
+    "codice_istat": "021027",
+    "comune": "Curon Venosta/Graun im Vinschgau",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1223,
+    "popolazione_femminile": 1175,
+    "popolazione_totale": 2398
+  },
+  {
+    "codice_istat": "021028",
+    "comune": "Dobbiaco/Toblach",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1738,
+    "popolazione_femminile": 1754,
+    "popolazione_totale": 3492
+  },
+  {
+    "codice_istat": "021029",
+    "comune": "Egna/Neumarkt",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2713,
+    "popolazione_femminile": 2805,
+    "popolazione_totale": 5518
+  },
+  {
+    "codice_istat": "021030",
+    "comune": "Falzes/Pfalzen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1622,
+    "popolazione_femminile": 1570,
+    "popolazione_totale": 3192
+  },
+  {
+    "codice_istat": "021031",
+    "comune": "Fiè allo Sciliar/Völs am Schlern",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1869,
+    "popolazione_femminile": 1878,
+    "popolazione_totale": 3747
+  },
+  {
+    "codice_istat": "021032",
+    "comune": "Fortezza/Franzensfeste",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 541,
+    "popolazione_totale": 1139
+  },
+  {
+    "codice_istat": "021033",
+    "comune": "Funes/Villnöß",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1290,
+    "popolazione_femminile": 1260,
+    "popolazione_totale": 2550
+  },
+  {
+    "codice_istat": "021034",
+    "comune": "Gais/Gais",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1676,
+    "popolazione_femminile": 1607,
+    "popolazione_totale": 3283
+  },
+  {
+    "codice_istat": "021035",
+    "comune": "Gargazzone/Gargazon",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 862,
+    "popolazione_femminile": 928,
+    "popolazione_totale": 1790
+  },
+  {
+    "codice_istat": "021036",
+    "comune": "Glorenza/Glurns",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 464,
+    "popolazione_femminile": 473,
+    "popolazione_totale": 937
+  },
+  {
+    "codice_istat": "021117",
+    "comune": "La Valle/Wengen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 726,
+    "popolazione_femminile": 693,
+    "popolazione_totale": 1419
+  },
+  {
+    "codice_istat": "021037",
+    "comune": "Laces/Latsch",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2616,
+    "popolazione_femminile": 2663,
+    "popolazione_totale": 5279
+  },
+  {
+    "codice_istat": "021038",
+    "comune": "Lagundo/Algund",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2447,
+    "popolazione_femminile": 2628,
+    "popolazione_totale": 5075
+  },
+  {
+    "codice_istat": "021039",
+    "comune": "Laion/Lajen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1439,
+    "popolazione_femminile": 1394,
+    "popolazione_totale": 2833
+  },
+  {
+    "codice_istat": "021040",
+    "comune": "Laives/Leifers",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 9309,
+    "popolazione_femminile": 9372,
+    "popolazione_totale": 18681
+  },
+  {
+    "codice_istat": "021041",
+    "comune": "Lana/Lana",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 6291,
+    "popolazione_femminile": 6454,
+    "popolazione_totale": 12745
+  },
+  {
+    "codice_istat": "021042",
+    "comune": "Lasa/Laas",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2093,
+    "popolazione_femminile": 2089,
+    "popolazione_totale": 4182
+  },
+  {
+    "codice_istat": "021043",
+    "comune": "Lauregno/Laurein",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 138,
+    "popolazione_totale": 316
+  },
+  {
+    "codice_istat": "021044",
+    "comune": "Luson/Lüsen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 801,
+    "popolazione_femminile": 778,
+    "popolazione_totale": 1579
+  },
+  {
+    "codice_istat": "021045",
+    "comune": "Magrè sulla strada del vino/Margreid an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 661,
+    "popolazione_femminile": 651,
+    "popolazione_totale": 1312
+  },
+  {
+    "codice_istat": "021046",
+    "comune": "Malles Venosta/Mals",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2672,
+    "popolazione_femminile": 2574,
+    "popolazione_totale": 5246
+  },
+  {
+    "codice_istat": "021047",
+    "comune": "Marebbe/Enneberg",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1630,
+    "popolazione_femminile": 1591,
+    "popolazione_totale": 3221
+  },
+  {
+    "codice_istat": "021048",
+    "comune": "Marlengo/Marling",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1489,
+    "popolazione_femminile": 1421,
+    "popolazione_totale": 2910
+  },
+  {
+    "codice_istat": "021049",
+    "comune": "Martello/Martell",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 457,
+    "popolazione_femminile": 383,
+    "popolazione_totale": 840
+  },
+  {
+    "codice_istat": "021050",
+    "comune": "Meltina/Mölten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 880,
+    "popolazione_femminile": 844,
+    "popolazione_totale": 1724
+  },
+  {
+    "codice_istat": "021051",
+    "comune": "Merano/Meran",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 20261,
+    "popolazione_femminile": 21397,
+    "popolazione_totale": 41658
+  },
+  {
+    "codice_istat": "021052",
+    "comune": "Monguelfo-Tesido/Welsberg-Taisten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1458,
+    "popolazione_femminile": 1446,
+    "popolazione_totale": 2904
+  },
+  {
+    "codice_istat": "021053",
+    "comune": "Montagna sulla Strada del Vino/Montan an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 886,
+    "popolazione_femminile": 880,
+    "popolazione_totale": 1766
+  },
+  {
+    "codice_istat": "021054",
+    "comune": "Moso in Passiria/Moos in Passeier",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1082,
+    "popolazione_femminile": 947,
+    "popolazione_totale": 2029
+  },
+  {
+    "codice_istat": "021055",
+    "comune": "Nalles/Nals",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1054,
+    "popolazione_femminile": 1057,
+    "popolazione_totale": 2111
+  },
+  {
+    "codice_istat": "021056",
+    "comune": "Naturno/Naturns",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3057,
+    "popolazione_femminile": 3044,
+    "popolazione_totale": 6101
+  },
+  {
+    "codice_istat": "021057",
+    "comune": "Naz-Sciaves/Natz-Schabs",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1767,
+    "popolazione_femminile": 1755,
+    "popolazione_totale": 3522
+  },
+  {
+    "codice_istat": "021058",
+    "comune": "Nova Levante/Welschnofen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1108,
+    "popolazione_femminile": 1002,
+    "popolazione_totale": 2110
+  },
+  {
+    "codice_istat": "021059",
+    "comune": "Nova Ponente/Deutschnofen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2122,
+    "popolazione_femminile": 2026,
+    "popolazione_totale": 4148
+  },
+  {
+    "codice_istat": "021060",
+    "comune": "Ora/Auer",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1930,
+    "popolazione_femminile": 2002,
+    "popolazione_totale": 3932
+  },
+  {
+    "codice_istat": "021061",
+    "comune": "Ortisei/St Ulrich",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2337,
+    "popolazione_femminile": 2373,
+    "popolazione_totale": 4710
+  },
+  {
+    "codice_istat": "021062",
+    "comune": "Parcines/Partschins",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1947,
+    "popolazione_femminile": 2026,
+    "popolazione_totale": 3973
+  },
+  {
+    "codice_istat": "021063",
+    "comune": "Perca/Percha",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 885,
+    "popolazione_femminile": 883,
+    "popolazione_totale": 1768
+  },
+  {
+    "codice_istat": "021064",
+    "comune": "Plaus/Plaus",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 386,
+    "popolazione_femminile": 374,
+    "popolazione_totale": 760
+  },
+  {
+    "codice_istat": "021065",
+    "comune": "Ponte Gardena/Waidbruck",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 145,
+    "popolazione_femminile": 126,
+    "popolazione_totale": 271
+  },
+  {
+    "codice_istat": "021066",
+    "comune": "Postal/Burgstall",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1023,
+    "popolazione_femminile": 1034,
+    "popolazione_totale": 2057
+  },
+  {
+    "codice_istat": "021067",
+    "comune": "Prato allo Stelvio/Prad am Stilfserjoch",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1932,
+    "popolazione_femminile": 1934,
+    "popolazione_totale": 3866
+  },
+  {
+    "codice_istat": "021068",
+    "comune": "Predoi/Prettau",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 261,
+    "popolazione_femminile": 247,
+    "popolazione_totale": 508
+  },
+  {
+    "codice_istat": "021069",
+    "comune": "Proves/Proveis",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 103,
+    "popolazione_totale": 243
+  },
+  {
+    "codice_istat": "021070",
+    "comune": "Racines/Ratschings",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2432,
+    "popolazione_femminile": 2270,
+    "popolazione_totale": 4702
+  },
+  {
+    "codice_istat": "021071",
+    "comune": "Rasun-Anterselva/Rasen-Antholz",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1487,
+    "popolazione_femminile": 1449,
+    "popolazione_totale": 2936
+  },
+  {
+    "codice_istat": "021072",
+    "comune": "Renon/Ritten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 4208,
+    "popolazione_femminile": 4124,
+    "popolazione_totale": 8332
+  },
+  {
+    "codice_istat": "021073",
+    "comune": "Rifiano/Riffian",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 710,
+    "popolazione_femminile": 683,
+    "popolazione_totale": 1393
+  },
+  {
+    "codice_istat": "021074",
+    "comune": "Rio di Pusteria/Mühlbach",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1673,
+    "popolazione_femminile": 1657,
+    "popolazione_totale": 3330
+  },
+  {
+    "codice_istat": "021075",
+    "comune": "Rodengo/Rodeneck",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 673,
+    "popolazione_femminile": 631,
+    "popolazione_totale": 1304
+  },
+  {
+    "codice_istat": "021076",
+    "comune": "Salorno sulla strada del vino/Salurn an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1942,
+    "popolazione_femminile": 1893,
+    "popolazione_totale": 3835
+  },
+  {
+    "codice_istat": "021077",
+    "comune": "San Candido/Innichen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1611,
+    "popolazione_femminile": 1707,
+    "popolazione_totale": 3318
+  },
+  {
+    "codice_istat": "021079",
+    "comune": "San Genesio Atesino/Jenesien",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1546,
+    "popolazione_femminile": 1480,
+    "popolazione_totale": 3026
+  },
+  {
+    "codice_istat": "021080",
+    "comune": "San Leonardo in Passiria/St Leonhard in Passeier",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1887,
+    "popolazione_femminile": 1793,
+    "popolazione_totale": 3680
+  },
+  {
+    "codice_istat": "021081",
+    "comune": "San Lorenzo di Sebato/St Lorenzen",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2040,
+    "popolazione_femminile": 1953,
+    "popolazione_totale": 3993
+  },
+  {
+    "codice_istat": "021082",
+    "comune": "San Martino in Badia/St Martin in Thurn",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 937,
+    "popolazione_femminile": 857,
+    "popolazione_totale": 1794
+  },
+  {
+    "codice_istat": "021083",
+    "comune": "San Martino in Passiria/St Martin in Passeier",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1686,
+    "popolazione_femminile": 1637,
+    "popolazione_totale": 3323
+  },
+  {
+    "codice_istat": "021084",
+    "comune": "San Pancrazio/St Pankraz",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 807,
+    "popolazione_femminile": 741,
+    "popolazione_totale": 1548
+  },
+  {
+    "codice_istat": "021085",
+    "comune": "Santa Cristina Valgardena/St Christina in Gröden",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1011,
+    "popolazione_femminile": 1025,
+    "popolazione_totale": 2036
+  },
+  {
+    "codice_istat": "021086",
+    "comune": "Sarentino/Sarntal",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3685,
+    "popolazione_femminile": 3597,
+    "popolazione_totale": 7282
+  },
+  {
+    "codice_istat": "021087",
+    "comune": "Scena/Schenna",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1538,
+    "popolazione_femminile": 1531,
+    "popolazione_totale": 3069
+  },
+  {
+    "codice_istat": "021088",
+    "comune": "Selva dei Molini/Mühlwald",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 706,
+    "popolazione_femminile": 661,
+    "popolazione_totale": 1367
+  },
+  {
+    "codice_istat": "021089",
+    "comune": "Selva di Val Gardena/Wolkenstein in Gröden",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1288,
+    "popolazione_femminile": 1342,
+    "popolazione_totale": 2630
+  },
+  {
+    "codice_istat": "021118",
+    "comune": "Senale-San Felice/Unsere Liebe Frau im Walde-St Felix",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 422,
+    "popolazione_femminile": 392,
+    "popolazione_totale": 814
+  },
+  {
+    "codice_istat": "021091",
+    "comune": "Senales/Schnals",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 595,
+    "popolazione_totale": 1234
+  },
+  {
+    "codice_istat": "021092",
+    "comune": "Sesto/Sexten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 897,
+    "popolazione_femminile": 902,
+    "popolazione_totale": 1799
+  },
+  {
+    "codice_istat": "021093",
+    "comune": "Silandro/Schlanders",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3217,
+    "popolazione_femminile": 3191,
+    "popolazione_totale": 6408
+  },
+  {
+    "codice_istat": "021094",
+    "comune": "Sluderno/Schluderns",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 952,
+    "popolazione_femminile": 942,
+    "popolazione_totale": 1894
+  },
+  {
+    "codice_istat": "021095",
+    "comune": "Stelvio/Stilfs",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 581,
+    "popolazione_totale": 1179
+  },
+  {
+    "codice_istat": "021096",
+    "comune": "Terento/Terenten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 954,
+    "popolazione_femminile": 883,
+    "popolazione_totale": 1837
+  },
+  {
+    "codice_istat": "021097",
+    "comune": "Terlano/Terlan",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2539,
+    "popolazione_femminile": 2478,
+    "popolazione_totale": 5017
+  },
+  {
+    "codice_istat": "021098",
+    "comune": "Termeno sulla strada del vino/Tramin an der Weinstraße",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1689,
+    "popolazione_femminile": 1704,
+    "popolazione_totale": 3393
+  },
+  {
+    "codice_istat": "021099",
+    "comune": "Tesimo/Tisens",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1060,
+    "popolazione_femminile": 1023,
+    "popolazione_totale": 2083
+  },
+  {
+    "codice_istat": "021100",
+    "comune": "Tires/Tiers",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 492,
+    "popolazione_femminile": 544,
+    "popolazione_totale": 1036
+  },
+  {
+    "codice_istat": "021101",
+    "comune": "Tirolo/Tirol",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1241,
+    "popolazione_femminile": 1252,
+    "popolazione_totale": 2493
+  },
+  {
+    "codice_istat": "021102",
+    "comune": "Trodena nel parco naturale/Truden im Naturpark",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 536,
+    "popolazione_totale": 1068
+  },
+  {
+    "codice_istat": "021103",
+    "comune": "Tubre/Taufers im Münstertal",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 499,
+    "popolazione_totale": 961
+  },
+  {
+    "codice_istat": "021104",
+    "comune": "Ultimo/Ulten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1462,
+    "popolazione_femminile": 1459,
+    "popolazione_totale": 2921
+  },
+  {
+    "codice_istat": "021105",
+    "comune": "Vadena/Pfatten",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 504,
+    "popolazione_totale": 1097
+  },
+  {
+    "codice_istat": "021107",
+    "comune": "Val di Vizze/Pfitsch",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1571,
+    "popolazione_femminile": 1536,
+    "popolazione_totale": 3107
+  },
+  {
+    "codice_istat": "021106",
+    "comune": "Valdaora/Olang",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1654,
+    "popolazione_femminile": 1622,
+    "popolazione_totale": 3276
+  },
+  {
+    "codice_istat": "021108",
+    "comune": "Valle Aurina/Ahrntal",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3076,
+    "popolazione_femminile": 2940,
+    "popolazione_totale": 6016
+  },
+  {
+    "codice_istat": "021109",
+    "comune": "Valle di Casies/Gsies",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1205,
+    "popolazione_femminile": 1151,
+    "popolazione_totale": 2356
+  },
+  {
+    "codice_istat": "021110",
+    "comune": "Vandoies/Vintl",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1697,
+    "popolazione_femminile": 1687,
+    "popolazione_totale": 3384
+  },
+  {
+    "codice_istat": "021111",
+    "comune": "Varna/Vahrn",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 2587,
+    "popolazione_femminile": 2517,
+    "popolazione_totale": 5104
+  },
+  {
+    "codice_istat": "021116",
+    "comune": "Velturno/Feldthurns",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 1582,
+    "popolazione_femminile": 1519,
+    "popolazione_totale": 3101
+  },
+  {
+    "codice_istat": "021112",
+    "comune": "Verano/Vöran",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 534,
+    "popolazione_femminile": 479,
+    "popolazione_totale": 1013
+  },
+  {
+    "codice_istat": "021113",
+    "comune": "Villabassa/Niederdorf",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 822,
+    "popolazione_femminile": 785,
+    "popolazione_totale": 1607
+  },
+  {
+    "codice_istat": "021114",
+    "comune": "Villandro/Villanders",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 959,
+    "popolazione_femminile": 913,
+    "popolazione_totale": 1872
+  },
+  {
+    "codice_istat": "021115",
+    "comune": "Vipiteno/Sterzing",
+    "provincia": "Bolzano",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige",
+    "popolazione_maschile": 3503,
+    "popolazione_femminile": 3537,
+    "popolazione_totale": 7040
+  }
+]

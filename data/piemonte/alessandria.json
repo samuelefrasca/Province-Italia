@@ -1,0 +1,1873 @@
+[
+  {
+    "codice_istat": "006001",
+    "comune": "Acqui Terme",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8998,
+    "popolazione_femminile": 10019,
+    "popolazione_totale": 19017
+  },
+  {
+    "codice_istat": "006002",
+    "comune": "Albera Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 153,
+    "popolazione_femminile": 139,
+    "popolazione_totale": 292
+  },
+  {
+    "codice_istat": "006003",
+    "comune": "Alessandria",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 45877,
+    "popolazione_femminile": 47532,
+    "popolazione_totale": 93409,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "006004",
+    "comune": "Alfiano Natta",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 321,
+    "popolazione_femminile": 334,
+    "popolazione_totale": 655
+  },
+  {
+    "codice_istat": "006005",
+    "comune": "Alice Bel Colle",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 346,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 632
+  },
+  {
+    "codice_istat": "006192",
+    "comune": "Alluvioni Piovera",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 781,
+    "popolazione_femminile": 783,
+    "popolazione_totale": 1564
+  },
+  {
+    "codice_istat": "006007",
+    "comune": "Altavilla Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 198,
+    "popolazione_femminile": 188,
+    "popolazione_totale": 386
+  },
+  {
+    "codice_istat": "006008",
+    "comune": "Alzano Scrivia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 165,
+    "popolazione_totale": 354
+  },
+  {
+    "codice_istat": "006009",
+    "comune": "Arquata Scrivia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3068,
+    "popolazione_femminile": 3267,
+    "popolazione_totale": 6335
+  },
+  {
+    "codice_istat": "006010",
+    "comune": "Avolasca",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 123,
+    "popolazione_femminile": 118,
+    "popolazione_totale": 241
+  },
+  {
+    "codice_istat": "006011",
+    "comune": "Balzola",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 637,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1252
+  },
+  {
+    "codice_istat": "006012",
+    "comune": "Basaluzzo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 997,
+    "popolazione_femminile": 1012,
+    "popolazione_totale": 2009
+  },
+  {
+    "codice_istat": "006013",
+    "comune": "Bassignana",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 790,
+    "popolazione_femminile": 784,
+    "popolazione_totale": 1574
+  },
+  {
+    "codice_istat": "006014",
+    "comune": "Belforte Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 250,
+    "popolazione_femminile": 236,
+    "popolazione_totale": 486
+  },
+  {
+    "codice_istat": "006015",
+    "comune": "Bergamasco",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 326,
+    "popolazione_femminile": 336,
+    "popolazione_totale": 662
+  },
+  {
+    "codice_istat": "006016",
+    "comune": "Berzano di Tortona",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 81,
+    "popolazione_femminile": 82,
+    "popolazione_totale": 163
+  },
+  {
+    "codice_istat": "006017",
+    "comune": "Bistagno",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 825,
+    "popolazione_femminile": 867,
+    "popolazione_totale": 1692
+  },
+  {
+    "codice_istat": "006018",
+    "comune": "Borghetto di Borbera",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 967,
+    "popolazione_femminile": 922,
+    "popolazione_totale": 1889
+  },
+  {
+    "codice_istat": "006020",
+    "comune": "Borgo San Martino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 687,
+    "popolazione_femminile": 646,
+    "popolazione_totale": 1333
+  },
+  {
+    "codice_istat": "006019",
+    "comune": "Borgoratto Alessandrino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 277,
+    "popolazione_totale": 534
+  },
+  {
+    "codice_istat": "006021",
+    "comune": "Bosco Marengo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1097,
+    "popolazione_femminile": 1043,
+    "popolazione_totale": 2140
+  },
+  {
+    "codice_istat": "006022",
+    "comune": "Bosio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 543,
+    "popolazione_femminile": 494,
+    "popolazione_totale": 1037
+  },
+  {
+    "codice_istat": "006023",
+    "comune": "Bozzole",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 154,
+    "popolazione_totale": 343
+  },
+  {
+    "codice_istat": "006024",
+    "comune": "Brignano-Frascata",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 220,
+    "popolazione_femminile": 200,
+    "popolazione_totale": 420
+  },
+  {
+    "codice_istat": "006025",
+    "comune": "Cabella Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 220,
+    "popolazione_totale": 437
+  },
+  {
+    "codice_istat": "006026",
+    "comune": "Camagna Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 221,
+    "popolazione_femminile": 243,
+    "popolazione_totale": 464
+  },
+  {
+    "codice_istat": "006027",
+    "comune": "Camino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 358,
+    "popolazione_totale": 730
+  },
+  {
+    "codice_istat": "006028",
+    "comune": "Cantalupo Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 209,
+    "popolazione_femminile": 222,
+    "popolazione_totale": 431
+  },
+  {
+    "codice_istat": "006029",
+    "comune": "Capriata d'Orba",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 896,
+    "popolazione_femminile": 880,
+    "popolazione_totale": 1776
+  },
+  {
+    "codice_istat": "006030",
+    "comune": "Carbonara Scrivia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 554,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1114
+  },
+  {
+    "codice_istat": "006031",
+    "comune": "Carentino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 159,
+    "popolazione_femminile": 152,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "006032",
+    "comune": "Carezzano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 215,
+    "popolazione_femminile": 222,
+    "popolazione_totale": 437
+  },
+  {
+    "codice_istat": "006033",
+    "comune": "Carpeneto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 425,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 848
+  },
+  {
+    "codice_istat": "006034",
+    "comune": "Carrega Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 46,
+    "popolazione_femminile": 30,
+    "popolazione_totale": 76
+  },
+  {
+    "codice_istat": "006035",
+    "comune": "Carrosio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 275,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 519
+  },
+  {
+    "codice_istat": "006036",
+    "comune": "Cartosio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 347,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 711
+  },
+  {
+    "codice_istat": "006037",
+    "comune": "Casal Cermelli",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 587,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1189
+  },
+  {
+    "codice_istat": "006039",
+    "comune": "Casale Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 15475,
+    "popolazione_femminile": 16986,
+    "popolazione_totale": 32461
+  },
+  {
+    "codice_istat": "006038",
+    "comune": "Casaleggio Boiro",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 174,
+    "popolazione_femminile": 161,
+    "popolazione_totale": 335
+  },
+  {
+    "codice_istat": "006040",
+    "comune": "Casalnoceto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 472,
+    "popolazione_femminile": 473,
+    "popolazione_totale": 945
+  },
+  {
+    "codice_istat": "006041",
+    "comune": "Casasco",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 69,
+    "popolazione_femminile": 65,
+    "popolazione_totale": 134
+  },
+  {
+    "codice_istat": "006191",
+    "comune": "Cassano Spinola",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 872,
+    "popolazione_femminile": 924,
+    "popolazione_totale": 1796
+  },
+  {
+    "codice_istat": "006043",
+    "comune": "Cassine",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1446,
+    "popolazione_femminile": 1365,
+    "popolazione_totale": 2811
+  },
+  {
+    "codice_istat": "006044",
+    "comune": "Cassinelle",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 449,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 845
+  },
+  {
+    "codice_istat": "006045",
+    "comune": "Castellania Coppi",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 43,
+    "popolazione_femminile": 42,
+    "popolazione_totale": 85
+  },
+  {
+    "codice_istat": "006046",
+    "comune": "Castellar Guidobono",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 223,
+    "popolazione_femminile": 206,
+    "popolazione_totale": 429
+  },
+  {
+    "codice_istat": "006047",
+    "comune": "Castellazzo Bormida",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2292,
+    "popolazione_femminile": 2227,
+    "popolazione_totale": 4519
+  },
+  {
+    "codice_istat": "006048",
+    "comune": "Castelletto d'Erro",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 55,
+    "popolazione_femminile": 60,
+    "popolazione_totale": 115
+  },
+  {
+    "codice_istat": "006049",
+    "comune": "Castelletto d'Orba",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 916,
+    "popolazione_femminile": 895,
+    "popolazione_totale": 1811
+  },
+  {
+    "codice_istat": "006050",
+    "comune": "Castelletto Merli",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 225,
+    "popolazione_femminile": 220,
+    "popolazione_totale": 445
+  },
+  {
+    "codice_istat": "006051",
+    "comune": "Castelletto Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 719,
+    "popolazione_femminile": 720,
+    "popolazione_totale": 1439
+  },
+  {
+    "codice_istat": "006052",
+    "comune": "Castelnuovo Bormida",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 332,
+    "popolazione_totale": 636
+  },
+  {
+    "codice_istat": "006053",
+    "comune": "Castelnuovo Scrivia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2363,
+    "popolazione_femminile": 2444,
+    "popolazione_totale": 4807
+  },
+  {
+    "codice_istat": "006054",
+    "comune": "Castelspina",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 193,
+    "popolazione_femminile": 198,
+    "popolazione_totale": 391
+  },
+  {
+    "codice_istat": "006055",
+    "comune": "Cavatore",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 114,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 248
+  },
+  {
+    "codice_istat": "006056",
+    "comune": "Cella Monte",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 230,
+    "popolazione_femminile": 216,
+    "popolazione_totale": 446
+  },
+  {
+    "codice_istat": "006057",
+    "comune": "Cereseto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 187,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 355
+  },
+  {
+    "codice_istat": "006058",
+    "comune": "Cerreto Grue",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 153,
+    "popolazione_totale": 293
+  },
+  {
+    "codice_istat": "006059",
+    "comune": "Cerrina Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 625,
+    "popolazione_femminile": 639,
+    "popolazione_totale": 1264
+  },
+  {
+    "codice_istat": "006060",
+    "comune": "Coniolo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 217,
+    "popolazione_femminile": 203,
+    "popolazione_totale": 420
+  },
+  {
+    "codice_istat": "006061",
+    "comune": "Conzano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 461,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 892
+  },
+  {
+    "codice_istat": "006062",
+    "comune": "Costa Vescovato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 164,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 310
+  },
+  {
+    "codice_istat": "006063",
+    "comune": "Cremolino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 527,
+    "popolazione_femminile": 475,
+    "popolazione_totale": 1002
+  },
+  {
+    "codice_istat": "006065",
+    "comune": "Denice",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 79,
+    "popolazione_femminile": 82,
+    "popolazione_totale": 161
+  },
+  {
+    "codice_istat": "006066",
+    "comune": "Dernice",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 85,
+    "popolazione_femminile": 89,
+    "popolazione_totale": 174
+  },
+  {
+    "codice_istat": "006067",
+    "comune": "Fabbrica Curone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 250,
+    "popolazione_femminile": 280,
+    "popolazione_totale": 530
+  },
+  {
+    "codice_istat": "006068",
+    "comune": "Felizzano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1024,
+    "popolazione_femminile": 1042,
+    "popolazione_totale": 2066
+  },
+  {
+    "codice_istat": "006069",
+    "comune": "Fraconalto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 170,
+    "popolazione_femminile": 137,
+    "popolazione_totale": 307
+  },
+  {
+    "codice_istat": "006070",
+    "comune": "Francavilla Bisio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 240,
+    "popolazione_femminile": 251,
+    "popolazione_totale": 491
+  },
+  {
+    "codice_istat": "006071",
+    "comune": "Frascaro",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 200,
+    "popolazione_femminile": 225,
+    "popolazione_totale": 425
+  },
+  {
+    "codice_istat": "006072",
+    "comune": "Frassinello Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 220,
+    "popolazione_femminile": 229,
+    "popolazione_totale": 449
+  },
+  {
+    "codice_istat": "006073",
+    "comune": "Frassineto Po",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 658,
+    "popolazione_femminile": 691,
+    "popolazione_totale": 1349
+  },
+  {
+    "codice_istat": "006074",
+    "comune": "Fresonara",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 338,
+    "popolazione_femminile": 313,
+    "popolazione_totale": 651
+  },
+  {
+    "codice_istat": "006075",
+    "comune": "Frugarolo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 925,
+    "popolazione_femminile": 957,
+    "popolazione_totale": 1882
+  },
+  {
+    "codice_istat": "006076",
+    "comune": "Fubine Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 783,
+    "popolazione_femminile": 821,
+    "popolazione_totale": 1604
+  },
+  {
+    "codice_istat": "006077",
+    "comune": "Gabiano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 517,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1033
+  },
+  {
+    "codice_istat": "006078",
+    "comune": "Gamalero",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 364,
+    "popolazione_femminile": 419,
+    "popolazione_totale": 783
+  },
+  {
+    "codice_istat": "006079",
+    "comune": "Garbagna",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 319,
+    "popolazione_femminile": 319,
+    "popolazione_totale": 638
+  },
+  {
+    "codice_istat": "006081",
+    "comune": "Gavi",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2151,
+    "popolazione_femminile": 2193,
+    "popolazione_totale": 4344
+  },
+  {
+    "codice_istat": "006082",
+    "comune": "Giarole",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 328,
+    "popolazione_femminile": 354,
+    "popolazione_totale": 682
+  },
+  {
+    "codice_istat": "006083",
+    "comune": "Gremiasco",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 137,
+    "popolazione_totale": 277
+  },
+  {
+    "codice_istat": "006084",
+    "comune": "Grognardo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 127,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 225
+  },
+  {
+    "codice_istat": "006085",
+    "comune": "Grondona",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 231,
+    "popolazione_femminile": 246,
+    "popolazione_totale": 477
+  },
+  {
+    "codice_istat": "006086",
+    "comune": "Guazzora",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 142,
+    "popolazione_femminile": 146,
+    "popolazione_totale": 288
+  },
+  {
+    "codice_istat": "006087",
+    "comune": "Isola Sant'Antonio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 368,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 654
+  },
+  {
+    "codice_istat": "006088",
+    "comune": "Lerma",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 381,
+    "popolazione_femminile": 416,
+    "popolazione_totale": 797
+  },
+  {
+    "codice_istat": "006193",
+    "comune": "Lu e Cuccaro Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 630,
+    "popolazione_femminile": 625,
+    "popolazione_totale": 1255
+  },
+  {
+    "codice_istat": "006090",
+    "comune": "Malvicino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 34,
+    "popolazione_femminile": 45,
+    "popolazione_totale": 79
+  },
+  {
+    "codice_istat": "006091",
+    "comune": "Masio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 646,
+    "popolazione_femminile": 630,
+    "popolazione_totale": 1276
+  },
+  {
+    "codice_istat": "006092",
+    "comune": "Melazzo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 638,
+    "popolazione_totale": 1236
+  },
+  {
+    "codice_istat": "006093",
+    "comune": "Merana",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 86,
+    "popolazione_femminile": 86,
+    "popolazione_totale": 172
+  },
+  {
+    "codice_istat": "006094",
+    "comune": "Mirabello Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 606,
+    "popolazione_totale": 1204
+  },
+  {
+    "codice_istat": "006095",
+    "comune": "Molare",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 971,
+    "popolazione_femminile": 1013,
+    "popolazione_totale": 1984
+  },
+  {
+    "codice_istat": "006096",
+    "comune": "Molino dei Torti",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 317,
+    "popolazione_femminile": 250,
+    "popolazione_totale": 567
+  },
+  {
+    "codice_istat": "006097",
+    "comune": "Mombello Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 431,
+    "popolazione_femminile": 459,
+    "popolazione_totale": 890
+  },
+  {
+    "codice_istat": "006098",
+    "comune": "Momperone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 103,
+    "popolazione_femminile": 97,
+    "popolazione_totale": 200
+  },
+  {
+    "codice_istat": "006099",
+    "comune": "Moncestino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 92,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 194
+  },
+  {
+    "codice_istat": "006100",
+    "comune": "Mongiardino Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 80,
+    "popolazione_femminile": 65,
+    "popolazione_totale": 145
+  },
+  {
+    "codice_istat": "006101",
+    "comune": "Monleale",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 285,
+    "popolazione_femminile": 267,
+    "popolazione_totale": 552
+  },
+  {
+    "codice_istat": "006102",
+    "comune": "Montacuto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 118,
+    "popolazione_femminile": 109,
+    "popolazione_totale": 227
+  },
+  {
+    "codice_istat": "006103",
+    "comune": "Montaldeo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 109,
+    "popolazione_totale": 206
+  },
+  {
+    "codice_istat": "006104",
+    "comune": "Montaldo Bormida",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 283,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 576
+  },
+  {
+    "codice_istat": "006105",
+    "comune": "Montecastello",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 134,
+    "popolazione_femminile": 138,
+    "popolazione_totale": 272
+  },
+  {
+    "codice_istat": "006106",
+    "comune": "Montechiaro d'Acqui",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 277,
+    "popolazione_femminile": 232,
+    "popolazione_totale": 509
+  },
+  {
+    "codice_istat": "006107",
+    "comune": "Montegioco",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 144,
+    "popolazione_femminile": 127,
+    "popolazione_totale": 271
+  },
+  {
+    "codice_istat": "006108",
+    "comune": "Montemarzino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 152,
+    "popolazione_totale": 312
+  },
+  {
+    "codice_istat": "006109",
+    "comune": "Morano sul Po",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 618,
+    "popolazione_femminile": 652,
+    "popolazione_totale": 1270
+  },
+  {
+    "codice_istat": "006110",
+    "comune": "Morbello",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 213,
+    "popolazione_femminile": 175,
+    "popolazione_totale": 388
+  },
+  {
+    "codice_istat": "006111",
+    "comune": "Mornese",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 330,
+    "popolazione_femminile": 336,
+    "popolazione_totale": 666
+  },
+  {
+    "codice_istat": "006112",
+    "comune": "Morsasco",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 281,
+    "popolazione_femminile": 312,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "006113",
+    "comune": "Murisengo Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 613,
+    "popolazione_femminile": 597,
+    "popolazione_totale": 1210
+  },
+  {
+    "codice_istat": "006114",
+    "comune": "Novi Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 13311,
+    "popolazione_femminile": 14116,
+    "popolazione_totale": 27427
+  },
+  {
+    "codice_istat": "006115",
+    "comune": "Occimiano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 577,
+    "popolazione_femminile": 618,
+    "popolazione_totale": 1195
+  },
+  {
+    "codice_istat": "006116",
+    "comune": "Odalengo Grande",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 205,
+    "popolazione_femminile": 192,
+    "popolazione_totale": 397
+  },
+  {
+    "codice_istat": "006117",
+    "comune": "Odalengo Piccolo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 109,
+    "popolazione_femminile": 98,
+    "popolazione_totale": 207
+  },
+  {
+    "codice_istat": "006118",
+    "comune": "Olivola",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 51,
+    "popolazione_femminile": 54,
+    "popolazione_totale": 105
+  },
+  {
+    "codice_istat": "006119",
+    "comune": "Orsara Bormida",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 192,
+    "popolazione_femminile": 185,
+    "popolazione_totale": 377
+  },
+  {
+    "codice_istat": "006120",
+    "comune": "Ottiglio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 273,
+    "popolazione_femminile": 259,
+    "popolazione_totale": 532
+  },
+  {
+    "codice_istat": "006121",
+    "comune": "Ovada",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5296,
+    "popolazione_femminile": 5645,
+    "popolazione_totale": 10941
+  },
+  {
+    "codice_istat": "006122",
+    "comune": "Oviglio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 622,
+    "popolazione_femminile": 602,
+    "popolazione_totale": 1224
+  },
+  {
+    "codice_istat": "006123",
+    "comune": "Ozzano Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 670,
+    "popolazione_femminile": 652,
+    "popolazione_totale": 1322
+  },
+  {
+    "codice_istat": "006124",
+    "comune": "Paderna",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 102,
+    "popolazione_femminile": 104,
+    "popolazione_totale": 206
+  },
+  {
+    "codice_istat": "006125",
+    "comune": "Pareto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 268,
+    "popolazione_femminile": 241,
+    "popolazione_totale": 509
+  },
+  {
+    "codice_istat": "006126",
+    "comune": "Parodi Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 309,
+    "popolazione_femminile": 284,
+    "popolazione_totale": 593
+  },
+  {
+    "codice_istat": "006127",
+    "comune": "Pasturana",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 603,
+    "popolazione_femminile": 660,
+    "popolazione_totale": 1263
+  },
+  {
+    "codice_istat": "006128",
+    "comune": "Pecetto di Valenza",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 570,
+    "popolazione_femminile": 586,
+    "popolazione_totale": 1156
+  },
+  {
+    "codice_istat": "006129",
+    "comune": "Pietra Marazzi",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 410,
+    "popolazione_femminile": 440,
+    "popolazione_totale": 850
+  },
+  {
+    "codice_istat": "006131",
+    "comune": "Pomaro Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 185,
+    "popolazione_femminile": 144,
+    "popolazione_totale": 329
+  },
+  {
+    "codice_istat": "006132",
+    "comune": "Pontecurone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1787,
+    "popolazione_femminile": 1783,
+    "popolazione_totale": 3570
+  },
+  {
+    "codice_istat": "006133",
+    "comune": "Pontestura",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 649,
+    "popolazione_femminile": 668,
+    "popolazione_totale": 1317
+  },
+  {
+    "codice_istat": "006134",
+    "comune": "Ponti",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 250,
+    "popolazione_femminile": 241,
+    "popolazione_totale": 491
+  },
+  {
+    "codice_istat": "006135",
+    "comune": "Ponzano Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 161,
+    "popolazione_femminile": 167,
+    "popolazione_totale": 328
+  },
+  {
+    "codice_istat": "006136",
+    "comune": "Ponzone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 526,
+    "popolazione_femminile": 487,
+    "popolazione_totale": 1013
+  },
+  {
+    "codice_istat": "006137",
+    "comune": "Pozzol Groppo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 161,
+    "popolazione_femminile": 150,
+    "popolazione_totale": 311
+  },
+  {
+    "codice_istat": "006138",
+    "comune": "Pozzolo Formigaro",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2293,
+    "popolazione_femminile": 2265,
+    "popolazione_totale": 4558
+  },
+  {
+    "codice_istat": "006139",
+    "comune": "Prasco",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 501
+  },
+  {
+    "codice_istat": "006140",
+    "comune": "Predosa",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 901,
+    "popolazione_femminile": 959,
+    "popolazione_totale": 1860
+  },
+  {
+    "codice_istat": "006141",
+    "comune": "Quargnento",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 643,
+    "popolazione_femminile": 719,
+    "popolazione_totale": 1362
+  },
+  {
+    "codice_istat": "006142",
+    "comune": "Quattordio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 702,
+    "popolazione_femminile": 733,
+    "popolazione_totale": 1435
+  },
+  {
+    "codice_istat": "006143",
+    "comune": "Ricaldone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 293,
+    "popolazione_totale": 604
+  },
+  {
+    "codice_istat": "006144",
+    "comune": "Rivalta Bormida",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 658,
+    "popolazione_femminile": 674,
+    "popolazione_totale": 1332
+  },
+  {
+    "codice_istat": "006145",
+    "comune": "Rivarone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 230,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 400
+  },
+  {
+    "codice_istat": "006147",
+    "comune": "Rocca Grimalda",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 716,
+    "popolazione_femminile": 680,
+    "popolazione_totale": 1396
+  },
+  {
+    "codice_istat": "006146",
+    "comune": "Roccaforte Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 67,
+    "popolazione_femminile": 46,
+    "popolazione_totale": 113
+  },
+  {
+    "codice_istat": "006148",
+    "comune": "Rocchetta Ligure",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 126,
+    "popolazione_femminile": 96,
+    "popolazione_totale": 222
+  },
+  {
+    "codice_istat": "006149",
+    "comune": "Rosignano Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 689,
+    "popolazione_femminile": 698,
+    "popolazione_totale": 1387
+  },
+  {
+    "codice_istat": "006150",
+    "comune": "Sala Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 156,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 326
+  },
+  {
+    "codice_istat": "006151",
+    "comune": "Sale",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1901,
+    "popolazione_femminile": 1952,
+    "popolazione_totale": 3853
+  },
+  {
+    "codice_istat": "006152",
+    "comune": "San Cristoforo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 258,
+    "popolazione_femminile": 261,
+    "popolazione_totale": 519
+  },
+  {
+    "codice_istat": "006153",
+    "comune": "San Giorgio Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 590,
+    "popolazione_femminile": 614,
+    "popolazione_totale": 1204
+  },
+  {
+    "codice_istat": "006154",
+    "comune": "San Salvatore Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2047,
+    "popolazione_femminile": 2006,
+    "popolazione_totale": 4053
+  },
+  {
+    "codice_istat": "006155",
+    "comune": "San Sebastiano Curone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 247,
+    "popolazione_femminile": 283,
+    "popolazione_totale": 530
+  },
+  {
+    "codice_istat": "006156",
+    "comune": "Sant'Agata Fossili",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 171,
+    "popolazione_femminile": 166,
+    "popolazione_totale": 337
+  },
+  {
+    "codice_istat": "006157",
+    "comune": "Sardigliano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 197,
+    "popolazione_totale": 375
+  },
+  {
+    "codice_istat": "006158",
+    "comune": "Sarezzano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 552,
+    "popolazione_femminile": 544,
+    "popolazione_totale": 1096
+  },
+  {
+    "codice_istat": "006159",
+    "comune": "Serralunga di Crea",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 261,
+    "popolazione_femminile": 249,
+    "popolazione_totale": 510
+  },
+  {
+    "codice_istat": "006160",
+    "comune": "Serravalle Scrivia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3052,
+    "popolazione_femminile": 2952,
+    "popolazione_totale": 6004
+  },
+  {
+    "codice_istat": "006161",
+    "comune": "Sezzadio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 590,
+    "popolazione_femminile": 595,
+    "popolazione_totale": 1185
+  },
+  {
+    "codice_istat": "006162",
+    "comune": "Silvano d'Orba",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 916,
+    "popolazione_femminile": 923,
+    "popolazione_totale": 1839
+  },
+  {
+    "codice_istat": "006163",
+    "comune": "Solero",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 794,
+    "popolazione_femminile": 787,
+    "popolazione_totale": 1581
+  },
+  {
+    "codice_istat": "006164",
+    "comune": "Solonghello",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 96,
+    "popolazione_totale": 196
+  },
+  {
+    "codice_istat": "006165",
+    "comune": "Spigno Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 446,
+    "popolazione_femminile": 441,
+    "popolazione_totale": 887
+  },
+  {
+    "codice_istat": "006166",
+    "comune": "Spineto Scrivia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 184,
+    "popolazione_femminile": 172,
+    "popolazione_totale": 356
+  },
+  {
+    "codice_istat": "006167",
+    "comune": "Stazzano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1096,
+    "popolazione_femminile": 1163,
+    "popolazione_totale": 2259
+  },
+  {
+    "codice_istat": "006168",
+    "comune": "Strevi",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 978,
+    "popolazione_femminile": 962,
+    "popolazione_totale": 1940
+  },
+  {
+    "codice_istat": "006169",
+    "comune": "Tagliolo Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 721,
+    "popolazione_femminile": 739,
+    "popolazione_totale": 1460
+  },
+  {
+    "codice_istat": "006170",
+    "comune": "Tassarolo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 304,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 594
+  },
+  {
+    "codice_istat": "006171",
+    "comune": "Terruggia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 406,
+    "popolazione_femminile": 454,
+    "popolazione_totale": 860
+  },
+  {
+    "codice_istat": "006172",
+    "comune": "Terzo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 406,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 817
+  },
+  {
+    "codice_istat": "006173",
+    "comune": "Ticineto",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 624,
+    "popolazione_femminile": 673,
+    "popolazione_totale": 1297
+  },
+  {
+    "codice_istat": "006174",
+    "comune": "Tortona",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 12923,
+    "popolazione_femminile": 13720,
+    "popolazione_totale": 26643
+  },
+  {
+    "codice_istat": "006175",
+    "comune": "Treville",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 131,
+    "popolazione_femminile": 132,
+    "popolazione_totale": 263
+  },
+  {
+    "codice_istat": "006176",
+    "comune": "Trisobbio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 310,
+    "popolazione_totale": 621
+  },
+  {
+    "codice_istat": "006177",
+    "comune": "Valenza",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8786,
+    "popolazione_femminile": 9527,
+    "popolazione_totale": 18313
+  },
+  {
+    "codice_istat": "006178",
+    "comune": "Valmacca",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 482,
+    "popolazione_femminile": 491,
+    "popolazione_totale": 973
+  },
+  {
+    "codice_istat": "006179",
+    "comune": "Vignale Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 448,
+    "popolazione_femminile": 478,
+    "popolazione_totale": 926
+  },
+  {
+    "codice_istat": "006180",
+    "comune": "Vignole Borbera",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1025,
+    "popolazione_femminile": 1041,
+    "popolazione_totale": 2066
+  },
+  {
+    "codice_istat": "006181",
+    "comune": "Viguzzolo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1563,
+    "popolazione_femminile": 1531,
+    "popolazione_totale": 3094
+  },
+  {
+    "codice_istat": "006182",
+    "comune": "Villadeati",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 222,
+    "popolazione_totale": 454
+  },
+  {
+    "codice_istat": "006183",
+    "comune": "Villalvernia",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 444,
+    "popolazione_femminile": 402,
+    "popolazione_totale": 846
+  },
+  {
+    "codice_istat": "006184",
+    "comune": "Villamiroglio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 149,
+    "popolazione_femminile": 134,
+    "popolazione_totale": 283
+  },
+  {
+    "codice_istat": "006185",
+    "comune": "Villanova Monferrato",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 813,
+    "popolazione_femminile": 888,
+    "popolazione_totale": 1701
+  },
+  {
+    "codice_istat": "006186",
+    "comune": "Villaromagnano",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 318,
+    "popolazione_femminile": 332,
+    "popolazione_totale": 650
+  },
+  {
+    "codice_istat": "006187",
+    "comune": "Visone",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 576,
+    "popolazione_totale": 1169
+  },
+  {
+    "codice_istat": "006188",
+    "comune": "Volpedo",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 570,
+    "popolazione_femminile": 565,
+    "popolazione_totale": 1135
+  },
+  {
+    "codice_istat": "006189",
+    "comune": "Volpeglino",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 63,
+    "popolazione_femminile": 66,
+    "popolazione_totale": 129
+  },
+  {
+    "codice_istat": "006190",
+    "comune": "Voltaggio",
+    "provincia": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "popolazione_maschile": 311,
+    "popolazione_femminile": 338,
+    "popolazione_totale": 649
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "codice_istat": "035001",
+    "comune": "Albinea",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4335,
+    "popolazione_femminile": 4651,
+    "popolazione_totale": 8986
+  },
+  {
+    "codice_istat": "035002",
+    "comune": "Bagnolo in Piano",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4744,
+    "popolazione_femminile": 4844,
+    "popolazione_totale": 9588
+  },
+  {
+    "codice_istat": "035003",
+    "comune": "Baiso",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1696,
+    "popolazione_femminile": 1572,
+    "popolazione_totale": 3268
+  },
+  {
+    "codice_istat": "035004",
+    "comune": "Bibbiano",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5075,
+    "popolazione_femminile": 5124,
+    "popolazione_totale": 10199
+  },
+  {
+    "codice_istat": "035005",
+    "comune": "Boretto",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2747,
+    "popolazione_femminile": 2709,
+    "popolazione_totale": 5456
+  },
+  {
+    "codice_istat": "035006",
+    "comune": "Brescello",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2834,
+    "popolazione_femminile": 2722,
+    "popolazione_totale": 5556
+  },
+  {
+    "codice_istat": "035008",
+    "comune": "Cadelbosco di Sopra",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5285,
+    "popolazione_femminile": 5442,
+    "popolazione_totale": 10727
+  },
+  {
+    "codice_istat": "035009",
+    "comune": "Campagnola Emilia",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2792,
+    "popolazione_femminile": 2759,
+    "popolazione_totale": 5551
+  },
+  {
+    "codice_istat": "035010",
+    "comune": "Campegine",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2671,
+    "popolazione_femminile": 2743,
+    "popolazione_totale": 5414
+  },
+  {
+    "codice_istat": "035018",
+    "comune": "Canossa",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1940,
+    "popolazione_femminile": 1856,
+    "popolazione_totale": 3796
+  },
+  {
+    "codice_istat": "035011",
+    "comune": "Carpineti",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1949,
+    "popolazione_femminile": 1956,
+    "popolazione_totale": 3905
+  },
+  {
+    "codice_istat": "035012",
+    "comune": "Casalgrande",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 9541,
+    "popolazione_femminile": 9498,
+    "popolazione_totale": 19039
+  },
+  {
+    "codice_istat": "035013",
+    "comune": "Casina",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2320,
+    "popolazione_femminile": 2299,
+    "popolazione_totale": 4619
+  },
+  {
+    "codice_istat": "035014",
+    "comune": "Castellarano",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7548,
+    "popolazione_femminile": 7612,
+    "popolazione_totale": 15160
+  },
+  {
+    "codice_istat": "035015",
+    "comune": "Castelnovo di Sotto",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4304,
+    "popolazione_femminile": 4403,
+    "popolazione_totale": 8707
+  },
+  {
+    "codice_istat": "035016",
+    "comune": "Castelnovo ne' Monti",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5131,
+    "popolazione_femminile": 5276,
+    "popolazione_totale": 10407
+  },
+  {
+    "codice_istat": "035017",
+    "comune": "Cavriago",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4838,
+    "popolazione_femminile": 5109,
+    "popolazione_totale": 9947
+  },
+  {
+    "codice_istat": "035020",
+    "comune": "Correggio",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 12459,
+    "popolazione_femminile": 12775,
+    "popolazione_totale": 25234
+  },
+  {
+    "codice_istat": "035021",
+    "comune": "Fabbrico",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3568,
+    "popolazione_femminile": 3363,
+    "popolazione_totale": 6931
+  },
+  {
+    "codice_istat": "035022",
+    "comune": "Gattatico",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2957,
+    "popolazione_femminile": 2866,
+    "popolazione_totale": 5823
+  },
+  {
+    "codice_istat": "035023",
+    "comune": "Gualtieri",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3201,
+    "popolazione_femminile": 3163,
+    "popolazione_totale": 6364
+  },
+  {
+    "codice_istat": "035024",
+    "comune": "Guastalla",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7233,
+    "popolazione_femminile": 7442,
+    "popolazione_totale": 14675
+  },
+  {
+    "codice_istat": "035026",
+    "comune": "Luzzara",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4360,
+    "popolazione_femminile": 4217,
+    "popolazione_totale": 8577
+  },
+  {
+    "codice_istat": "035027",
+    "comune": "Montecchio Emilia",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5066,
+    "popolazione_femminile": 5375,
+    "popolazione_totale": 10441
+  },
+  {
+    "codice_istat": "035028",
+    "comune": "Novellara",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6652,
+    "popolazione_femminile": 6754,
+    "popolazione_totale": 13406
+  },
+  {
+    "codice_istat": "035029",
+    "comune": "Poviglio",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3648,
+    "popolazione_femminile": 3592,
+    "popolazione_totale": 7240
+  },
+  {
+    "codice_istat": "035030",
+    "comune": "Quattro Castella",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6439,
+    "popolazione_femminile": 6787,
+    "popolazione_totale": 13226
+  },
+  {
+    "codice_istat": "035033",
+    "comune": "Reggio Emilia",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 86236,
+    "popolazione_femminile": 86685,
+    "popolazione_totale": 172921,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "035032",
+    "comune": "Reggiolo",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4681,
+    "popolazione_femminile": 4637,
+    "popolazione_totale": 9318
+  },
+  {
+    "codice_istat": "035034",
+    "comune": "Rio Saliceto",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3066,
+    "popolazione_femminile": 3033,
+    "popolazione_totale": 6099
+  },
+  {
+    "codice_istat": "035035",
+    "comune": "Rolo",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2102,
+    "popolazione_femminile": 1938,
+    "popolazione_totale": 4040
+  },
+  {
+    "codice_istat": "035036",
+    "comune": "Rubiera",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7110,
+    "popolazione_femminile": 7412,
+    "popolazione_totale": 14522
+  },
+  {
+    "codice_istat": "035037",
+    "comune": "San Martino in Rio",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4101,
+    "popolazione_femminile": 4145,
+    "popolazione_totale": 8246
+  },
+  {
+    "codice_istat": "035038",
+    "comune": "San Polo d'Enza",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3051,
+    "popolazione_femminile": 3089,
+    "popolazione_totale": 6140
+  },
+  {
+    "codice_istat": "035039",
+    "comune": "Sant'Ilario d'Enza",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5671,
+    "popolazione_femminile": 5752,
+    "popolazione_totale": 11423
+  },
+  {
+    "codice_istat": "035040",
+    "comune": "Scandiano",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 12649,
+    "popolazione_femminile": 13330,
+    "popolazione_totale": 25979
+  },
+  {
+    "codice_istat": "035041",
+    "comune": "Toano",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2161,
+    "popolazione_femminile": 2028,
+    "popolazione_totale": 4189
+  },
+  {
+    "codice_istat": "035046",
+    "comune": "Ventasso",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1929,
+    "popolazione_femminile": 1895,
+    "popolazione_totale": 3824
+  },
+  {
+    "codice_istat": "035042",
+    "comune": "Vetto",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 922,
+    "popolazione_femminile": 880,
+    "popolazione_totale": 1802
+  },
+  {
+    "codice_istat": "035043",
+    "comune": "Vezzano sul Crostolo",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2171,
+    "popolazione_femminile": 2262,
+    "popolazione_totale": 4433
+  },
+  {
+    "codice_istat": "035044",
+    "comune": "Viano",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1754,
+    "popolazione_femminile": 1718,
+    "popolazione_totale": 3472
+  },
+  {
+    "codice_istat": "035045",
+    "comune": "Villa Minozzo",
+    "provincia": "Reggio Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1806,
+    "popolazione_femminile": 1701,
+    "popolazione_totale": 3507
+  }
+]

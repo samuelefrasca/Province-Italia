@@ -1,0 +1,373 @@
+[
+  {
+    "codice_istat": "050001",
+    "comune": "Bientina",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4207,
+    "popolazione_femminile": 4474,
+    "popolazione_totale": 8681
+  },
+  {
+    "codice_istat": "050002",
+    "comune": "Buti",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2725,
+    "popolazione_femminile": 2807,
+    "popolazione_totale": 5532
+  },
+  {
+    "codice_istat": "050003",
+    "comune": "Calci",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3036,
+    "popolazione_femminile": 3227,
+    "popolazione_totale": 6263
+  },
+  {
+    "codice_istat": "050004",
+    "comune": "Calcinaia",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6283,
+    "popolazione_femminile": 6541,
+    "popolazione_totale": 12824
+  },
+  {
+    "codice_istat": "050005",
+    "comune": "Capannoli",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 3110,
+    "popolazione_femminile": 3229,
+    "popolazione_totale": 6339
+  },
+  {
+    "codice_istat": "050006",
+    "comune": "Casale Marittimo",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 531,
+    "popolazione_femminile": 516,
+    "popolazione_totale": 1047
+  },
+  {
+    "codice_istat": "050040",
+    "comune": "Casciana Terme Lari",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5991,
+    "popolazione_femminile": 6119,
+    "popolazione_totale": 12110
+  },
+  {
+    "codice_istat": "050008",
+    "comune": "Cascina",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 21794,
+    "popolazione_femminile": 23022,
+    "popolazione_totale": 44816
+  },
+  {
+    "codice_istat": "050009",
+    "comune": "Castelfranco di Sotto",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6946,
+    "popolazione_femminile": 6806,
+    "popolazione_totale": 13752
+  },
+  {
+    "codice_istat": "050010",
+    "comune": "Castellina Marittima",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 980,
+    "popolazione_femminile": 968,
+    "popolazione_totale": 1948
+  },
+  {
+    "codice_istat": "050011",
+    "comune": "Castelnuovo di Val di Cecina",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1024,
+    "popolazione_femminile": 1031,
+    "popolazione_totale": 2055
+  },
+  {
+    "codice_istat": "050012",
+    "comune": "Chianni",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 646,
+    "popolazione_femminile": 630,
+    "popolazione_totale": 1276
+  },
+  {
+    "codice_istat": "050041",
+    "comune": "Crespina Lorenzana",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2637,
+    "popolazione_femminile": 2702,
+    "popolazione_totale": 5339
+  },
+  {
+    "codice_istat": "050014",
+    "comune": "Fauglia",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1812,
+    "popolazione_femminile": 1843,
+    "popolazione_totale": 3655
+  },
+  {
+    "codice_istat": "050015",
+    "comune": "Guardistallo",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 582,
+    "popolazione_femminile": 619,
+    "popolazione_totale": 1201
+  },
+  {
+    "codice_istat": "050016",
+    "comune": "Lajatico",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 625,
+    "popolazione_femminile": 627,
+    "popolazione_totale": 1252
+  },
+  {
+    "codice_istat": "050019",
+    "comune": "Montecatini Val di Cecina",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 833,
+    "popolazione_femminile": 856,
+    "popolazione_totale": 1689
+  },
+  {
+    "codice_istat": "050020",
+    "comune": "Montescudaio",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 1097,
+    "popolazione_femminile": 1095,
+    "popolazione_totale": 2192
+  },
+  {
+    "codice_istat": "050021",
+    "comune": "Monteverdi Marittimo",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 373,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 769
+  },
+  {
+    "codice_istat": "050022",
+    "comune": "Montopoli in Val d'Arno",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5578,
+    "popolazione_femminile": 5683,
+    "popolazione_totale": 11261
+  },
+  {
+    "codice_istat": "050023",
+    "comune": "Orciano Pisano",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 295,
+    "popolazione_femminile": 340,
+    "popolazione_totale": 635
+  },
+  {
+    "codice_istat": "050024",
+    "comune": "Palaia",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2172,
+    "popolazione_femminile": 2390,
+    "popolazione_totale": 4562
+  },
+  {
+    "codice_istat": "050025",
+    "comune": "Peccioli",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2253,
+    "popolazione_femminile": 2382,
+    "popolazione_totale": 4635
+  },
+  {
+    "codice_istat": "050026",
+    "comune": "Pisa",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 43991,
+    "popolazione_femminile": 46155,
+    "popolazione_totale": 90146,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "050027",
+    "comune": "Pomarance",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2578,
+    "popolazione_femminile": 2676,
+    "popolazione_totale": 5254
+  },
+  {
+    "codice_istat": "050028",
+    "comune": "Ponsacco",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 7711,
+    "popolazione_femminile": 7982,
+    "popolazione_totale": 15693
+  },
+  {
+    "codice_istat": "050029",
+    "comune": "Pontedera",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 14933,
+    "popolazione_femminile": 15095,
+    "popolazione_totale": 30028
+  },
+  {
+    "codice_istat": "050030",
+    "comune": "Riparbella",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 880,
+    "popolazione_femminile": 812,
+    "popolazione_totale": 1692
+  },
+  {
+    "codice_istat": "050031",
+    "comune": "San Giuliano Terme",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 15161,
+    "popolazione_femminile": 15706,
+    "popolazione_totale": 30867
+  },
+  {
+    "codice_istat": "050032",
+    "comune": "San Miniato",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 13594,
+    "popolazione_femminile": 14175,
+    "popolazione_totale": 27769
+  },
+  {
+    "codice_istat": "050033",
+    "comune": "Santa Croce sull'Arno",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 7692,
+    "popolazione_femminile": 7422,
+    "popolazione_totale": 15114
+  },
+  {
+    "codice_istat": "050034",
+    "comune": "Santa Luce",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 777,
+    "popolazione_femminile": 803,
+    "popolazione_totale": 1580
+  },
+  {
+    "codice_istat": "050035",
+    "comune": "Santa Maria a Monte",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 6696,
+    "popolazione_femminile": 6777,
+    "popolazione_totale": 13473
+  },
+  {
+    "codice_istat": "050036",
+    "comune": "Terricciola",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 2150,
+    "popolazione_femminile": 2223,
+    "popolazione_totale": 4373
+  },
+  {
+    "codice_istat": "050037",
+    "comune": "Vecchiano",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 5736,
+    "popolazione_femminile": 6086,
+    "popolazione_totale": 11822
+  },
+  {
+    "codice_istat": "050038",
+    "comune": "Vicopisano",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4159,
+    "popolazione_femminile": 4423,
+    "popolazione_totale": 8582
+  },
+  {
+    "codice_istat": "050039",
+    "comune": "Volterra",
+    "provincia": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "popolazione_maschile": 4585,
+    "popolazione_femminile": 4777,
+    "popolazione_totale": 9362
+  }
+]

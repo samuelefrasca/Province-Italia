@@ -1,0 +1,213 @@
+[
+  {
+    "codice_istat": "038001",
+    "comune": "Argenta",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 10558,
+    "popolazione_femminile": 10737,
+    "popolazione_totale": 21295
+  },
+  {
+    "codice_istat": "038003",
+    "comune": "Bondeno",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7090,
+    "popolazione_femminile": 7089,
+    "popolazione_totale": 14179
+  },
+  {
+    "codice_istat": "038004",
+    "comune": "Cento",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 17794,
+    "popolazione_femminile": 18042,
+    "popolazione_totale": 35836
+  },
+  {
+    "codice_istat": "038005",
+    "comune": "Codigoro",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5264,
+    "popolazione_femminile": 5668,
+    "popolazione_totale": 10932
+  },
+  {
+    "codice_istat": "038006",
+    "comune": "Comacchio",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 10844,
+    "popolazione_femminile": 11159,
+    "popolazione_totale": 22003
+  },
+  {
+    "codice_istat": "038007",
+    "comune": "Copparo",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7523,
+    "popolazione_femminile": 8134,
+    "popolazione_totale": 15657
+  },
+  {
+    "codice_istat": "038008",
+    "comune": "Ferrara",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 61868,
+    "popolazione_femminile": 67180,
+    "popolazione_totale": 129048,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "038027",
+    "comune": "Fiscaglia",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4235,
+    "popolazione_femminile": 4328,
+    "popolazione_totale": 8563
+  },
+  {
+    "codice_istat": "038025",
+    "comune": "Goro",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1608,
+    "popolazione_femminile": 1745,
+    "popolazione_totale": 3353
+  },
+  {
+    "codice_istat": "038010",
+    "comune": "Jolanda di Savoia",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1302,
+    "popolazione_femminile": 1293,
+    "popolazione_totale": 2595
+  },
+  {
+    "codice_istat": "038011",
+    "comune": "Lagosanto",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2247,
+    "popolazione_femminile": 2411,
+    "popolazione_totale": 4658
+  },
+  {
+    "codice_istat": "038012",
+    "comune": "Masi Torello",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1060,
+    "popolazione_femminile": 1181,
+    "popolazione_totale": 2241
+  },
+  {
+    "codice_istat": "038014",
+    "comune": "Mesola",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3082,
+    "popolazione_femminile": 3233,
+    "popolazione_totale": 6315
+  },
+  {
+    "codice_istat": "038017",
+    "comune": "Ostellato",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2792,
+    "popolazione_femminile": 2817,
+    "popolazione_totale": 5609
+  },
+  {
+    "codice_istat": "038018",
+    "comune": "Poggio Renatico",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4800,
+    "popolazione_femminile": 4920,
+    "popolazione_totale": 9720
+  },
+  {
+    "codice_istat": "038019",
+    "comune": "Portomaggiore",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6397,
+    "popolazione_femminile": 6036,
+    "popolazione_totale": 12433
+  },
+  {
+    "codice_istat": "038029",
+    "comune": "Riva del Po",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3662,
+    "popolazione_femminile": 3739,
+    "popolazione_totale": 7401
+  },
+  {
+    "codice_istat": "038028",
+    "comune": "Terre del Reno",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5176,
+    "popolazione_femminile": 5281,
+    "popolazione_totale": 10457
+  },
+  {
+    "codice_istat": "038030",
+    "comune": "Tresignana",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3368,
+    "popolazione_femminile": 3588,
+    "popolazione_totale": 6956
+  },
+  {
+    "codice_istat": "038022",
+    "comune": "Vigarano Mainarda",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3771,
+    "popolazione_femminile": 3866,
+    "popolazione_totale": 7637
+  },
+  {
+    "codice_istat": "038023",
+    "comune": "Voghiera",
+    "provincia": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1753,
+    "popolazione_femminile": 1841,
+    "popolazione_totale": 3594
+  }
+]

@@ -1,0 +1,3123 @@
+[
+  {
+    "codice_istat": "001001",
+    "comune": "Agliè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1259,
+    "popolazione_femminile": 1325,
+    "popolazione_totale": 2584
+  },
+  {
+    "codice_istat": "001002",
+    "comune": "Airasca",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1873,
+    "popolazione_femminile": 1825,
+    "popolazione_totale": 3698
+  },
+  {
+    "codice_istat": "001003",
+    "comune": "Ala di Stura",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 240,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 468
+  },
+  {
+    "codice_istat": "001004",
+    "comune": "Albiano d'Ivrea",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 791,
+    "popolazione_femminile": 842,
+    "popolazione_totale": 1633
+  },
+  {
+    "codice_istat": "001006",
+    "comune": "Almese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3034,
+    "popolazione_femminile": 3197,
+    "popolazione_totale": 6231
+  },
+  {
+    "codice_istat": "001007",
+    "comune": "Alpette",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 125,
+    "popolazione_femminile": 110,
+    "popolazione_totale": 235
+  },
+  {
+    "codice_istat": "001008",
+    "comune": "Alpignano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8238,
+    "popolazione_femminile": 8275,
+    "popolazione_totale": 16513
+  },
+  {
+    "codice_istat": "001009",
+    "comune": "Andezeno",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 995,
+    "popolazione_femminile": 984,
+    "popolazione_totale": 1979
+  },
+  {
+    "codice_istat": "001010",
+    "comune": "Andrate",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 252,
+    "popolazione_femminile": 216,
+    "popolazione_totale": 468
+  },
+  {
+    "codice_istat": "001011",
+    "comune": "Angrogna",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 421,
+    "popolazione_femminile": 373,
+    "popolazione_totale": 794
+  },
+  {
+    "codice_istat": "001012",
+    "comune": "Arignano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 559,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1076
+  },
+  {
+    "codice_istat": "001013",
+    "comune": "Avigliana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5896,
+    "popolazione_femminile": 6139,
+    "popolazione_totale": 12035
+  },
+  {
+    "codice_istat": "001014",
+    "comune": "Azeglio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 603,
+    "popolazione_femminile": 621,
+    "popolazione_totale": 1224
+  },
+  {
+    "codice_istat": "001015",
+    "comune": "Bairo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 412,
+    "popolazione_totale": 778
+  },
+  {
+    "codice_istat": "001016",
+    "comune": "Balangero",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1493,
+    "popolazione_femminile": 1602,
+    "popolazione_totale": 3095
+  },
+  {
+    "codice_istat": "001017",
+    "comune": "Baldissero Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 241,
+    "popolazione_femminile": 252,
+    "popolazione_totale": 493
+  },
+  {
+    "codice_istat": "001018",
+    "comune": "Baldissero Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1801,
+    "popolazione_femminile": 1891,
+    "popolazione_totale": 3692
+  },
+  {
+    "codice_istat": "001019",
+    "comune": "Balme",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 51,
+    "popolazione_femminile": 46,
+    "popolazione_totale": 97
+  },
+  {
+    "codice_istat": "001020",
+    "comune": "Banchette",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1494,
+    "popolazione_femminile": 1603,
+    "popolazione_totale": 3097
+  },
+  {
+    "codice_istat": "001021",
+    "comune": "Barbania",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 787,
+    "popolazione_femminile": 776,
+    "popolazione_totale": 1563
+  },
+  {
+    "codice_istat": "001022",
+    "comune": "Bardonecchia",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1435,
+    "popolazione_femminile": 1418,
+    "popolazione_totale": 2853
+  },
+  {
+    "codice_istat": "001023",
+    "comune": "Barone Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 264,
+    "popolazione_femminile": 261,
+    "popolazione_totale": 525
+  },
+  {
+    "codice_istat": "001024",
+    "comune": "Beinasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8334,
+    "popolazione_femminile": 8938,
+    "popolazione_totale": 17272
+  },
+  {
+    "codice_istat": "001025",
+    "comune": "Bibiana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1761,
+    "popolazione_femminile": 1601,
+    "popolazione_totale": 3362
+  },
+  {
+    "codice_istat": "001026",
+    "comune": "Bobbio Pellice",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 257,
+    "popolazione_femminile": 270,
+    "popolazione_totale": 527
+  },
+  {
+    "codice_istat": "001027",
+    "comune": "Bollengo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1057,
+    "popolazione_femminile": 1042,
+    "popolazione_totale": 2099
+  },
+  {
+    "codice_istat": "001028",
+    "comune": "Borgaro Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5586,
+    "popolazione_femminile": 5937,
+    "popolazione_totale": 11523
+  },
+  {
+    "codice_istat": "001029",
+    "comune": "Borgiallo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 301,
+    "popolazione_femminile": 286,
+    "popolazione_totale": 587
+  },
+  {
+    "codice_istat": "001030",
+    "comune": "Borgofranco d'Ivrea",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1644,
+    "popolazione_femminile": 1780,
+    "popolazione_totale": 3424
+  },
+  {
+    "codice_istat": "001031",
+    "comune": "Borgomasino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 374,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 770
+  },
+  {
+    "codice_istat": "001032",
+    "comune": "Borgone Susa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1150,
+    "popolazione_femminile": 1100,
+    "popolazione_totale": 2250
+  },
+  {
+    "codice_istat": "001033",
+    "comune": "Bosconero",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1499,
+    "popolazione_femminile": 1545,
+    "popolazione_totale": 3044
+  },
+  {
+    "codice_istat": "001034",
+    "comune": "Brandizzo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4274,
+    "popolazione_femminile": 4498,
+    "popolazione_totale": 8772
+  },
+  {
+    "codice_istat": "001035",
+    "comune": "Bricherasio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2303,
+    "popolazione_femminile": 2308,
+    "popolazione_totale": 4611
+  },
+  {
+    "codice_istat": "001036",
+    "comune": "Brosso",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 198,
+    "popolazione_totale": 387
+  },
+  {
+    "codice_istat": "001037",
+    "comune": "Brozolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 214,
+    "popolazione_femminile": 209,
+    "popolazione_totale": 423
+  },
+  {
+    "codice_istat": "001038",
+    "comune": "Bruino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4097,
+    "popolazione_femminile": 4267,
+    "popolazione_totale": 8364
+  },
+  {
+    "codice_istat": "001039",
+    "comune": "Brusasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 754,
+    "popolazione_femminile": 741,
+    "popolazione_totale": 1495
+  },
+  {
+    "codice_istat": "001040",
+    "comune": "Bruzolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 751,
+    "popolazione_femminile": 762,
+    "popolazione_totale": 1513
+  },
+  {
+    "codice_istat": "001041",
+    "comune": "Buriasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 635,
+    "popolazione_femminile": 654,
+    "popolazione_totale": 1289
+  },
+  {
+    "codice_istat": "001042",
+    "comune": "Burolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 520,
+    "popolazione_femminile": 575,
+    "popolazione_totale": 1095
+  },
+  {
+    "codice_istat": "001043",
+    "comune": "Busano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 807,
+    "popolazione_femminile": 771,
+    "popolazione_totale": 1578
+  },
+  {
+    "codice_istat": "001044",
+    "comune": "Bussoleno",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2811,
+    "popolazione_femminile": 2955,
+    "popolazione_totale": 5766
+  },
+  {
+    "codice_istat": "001045",
+    "comune": "Buttigliera Alta",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3074,
+    "popolazione_femminile": 3148,
+    "popolazione_totale": 6222
+  },
+  {
+    "codice_istat": "001046",
+    "comune": "Cafasse",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1688,
+    "popolazione_femminile": 1700,
+    "popolazione_totale": 3388
+  },
+  {
+    "codice_istat": "001047",
+    "comune": "Caluso",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3563,
+    "popolazione_femminile": 3775,
+    "popolazione_totale": 7338
+  },
+  {
+    "codice_istat": "001048",
+    "comune": "Cambiano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2848,
+    "popolazione_femminile": 3036,
+    "popolazione_totale": 5884
+  },
+  {
+    "codice_istat": "001049",
+    "comune": "Campiglione Fenile",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 658,
+    "popolazione_totale": 1297
+  },
+  {
+    "codice_istat": "001050",
+    "comune": "Candia Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 544,
+    "popolazione_femminile": 599,
+    "popolazione_totale": 1143
+  },
+  {
+    "codice_istat": "001051",
+    "comune": "Candiolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2779,
+    "popolazione_femminile": 2784,
+    "popolazione_totale": 5563
+  },
+  {
+    "codice_istat": "001052",
+    "comune": "Canischio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 136,
+    "popolazione_femminile": 133,
+    "popolazione_totale": 269
+  },
+  {
+    "codice_istat": "001053",
+    "comune": "Cantalupa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1268,
+    "popolazione_femminile": 1313,
+    "popolazione_totale": 2581
+  },
+  {
+    "codice_istat": "001054",
+    "comune": "Cantoira",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 356,
+    "popolazione_femminile": 289,
+    "popolazione_totale": 645
+  },
+  {
+    "codice_istat": "001055",
+    "comune": "Caprie",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1020,
+    "popolazione_femminile": 994,
+    "popolazione_totale": 2014
+  },
+  {
+    "codice_istat": "001056",
+    "comune": "Caravino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 435,
+    "popolazione_femminile": 456,
+    "popolazione_totale": 891
+  },
+  {
+    "codice_istat": "001057",
+    "comune": "Carema",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 344,
+    "popolazione_femminile": 353,
+    "popolazione_totale": 697
+  },
+  {
+    "codice_istat": "001058",
+    "comune": "Carignano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4600,
+    "popolazione_femminile": 4650,
+    "popolazione_totale": 9250
+  },
+  {
+    "codice_istat": "001059",
+    "comune": "Carmagnola",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 13749,
+    "popolazione_femminile": 14222,
+    "popolazione_totale": 27971
+  },
+  {
+    "codice_istat": "001060",
+    "comune": "Casalborgone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 902,
+    "popolazione_femminile": 963,
+    "popolazione_totale": 1865
+  },
+  {
+    "codice_istat": "001061",
+    "comune": "Cascinette d'Ivrea",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 716,
+    "popolazione_femminile": 787,
+    "popolazione_totale": 1503
+  },
+  {
+    "codice_istat": "001062",
+    "comune": "Caselette",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1513,
+    "popolazione_femminile": 1511,
+    "popolazione_totale": 3024
+  },
+  {
+    "codice_istat": "001063",
+    "comune": "Caselle Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 6806,
+    "popolazione_femminile": 6932,
+    "popolazione_totale": 13738
+  },
+  {
+    "codice_istat": "001064",
+    "comune": "Castagneto Po",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 895,
+    "popolazione_femminile": 853,
+    "popolazione_totale": 1748
+  },
+  {
+    "codice_istat": "001065",
+    "comune": "Castagnole Piemonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1104,
+    "popolazione_femminile": 1064,
+    "popolazione_totale": 2168
+  },
+  {
+    "codice_istat": "001066",
+    "comune": "Castellamonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4897,
+    "popolazione_femminile": 4942,
+    "popolazione_totale": 9839
+  },
+  {
+    "codice_istat": "001067",
+    "comune": "Castelnuovo Nigra",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 221,
+    "popolazione_femminile": 196,
+    "popolazione_totale": 417
+  },
+  {
+    "codice_istat": "001068",
+    "comune": "Castiglione Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3236,
+    "popolazione_femminile": 3283,
+    "popolazione_totale": 6519
+  },
+  {
+    "codice_istat": "001069",
+    "comune": "Cavagnolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1171,
+    "popolazione_femminile": 1186,
+    "popolazione_totale": 2357
+  },
+  {
+    "codice_istat": "001070",
+    "comune": "Cavour",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2688,
+    "popolazione_femminile": 2685,
+    "popolazione_totale": 5373
+  },
+  {
+    "codice_istat": "001071",
+    "comune": "Cercenasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 861,
+    "popolazione_femminile": 899,
+    "popolazione_totale": 1760
+  },
+  {
+    "codice_istat": "001072",
+    "comune": "Ceres",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 494,
+    "popolazione_femminile": 463,
+    "popolazione_totale": 957
+  },
+  {
+    "codice_istat": "001073",
+    "comune": "Ceresole Reale",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 78,
+    "popolazione_femminile": 61,
+    "popolazione_totale": 139
+  },
+  {
+    "codice_istat": "001074",
+    "comune": "Cesana Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 491,
+    "popolazione_femminile": 396,
+    "popolazione_totale": 887
+  },
+  {
+    "codice_istat": "001075",
+    "comune": "Chialamberto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 160,
+    "popolazione_femminile": 176,
+    "popolazione_totale": 336
+  },
+  {
+    "codice_istat": "001076",
+    "comune": "Chianocco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 742,
+    "popolazione_femminile": 752,
+    "popolazione_totale": 1494
+  },
+  {
+    "codice_istat": "001077",
+    "comune": "Chiaverano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 974,
+    "popolazione_femminile": 984,
+    "popolazione_totale": 1958
+  },
+  {
+    "codice_istat": "001078",
+    "comune": "Chieri",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 17273,
+    "popolazione_femminile": 18549,
+    "popolazione_totale": 35822
+  },
+  {
+    "codice_istat": "001079",
+    "comune": "Chiesanuova",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 108,
+    "popolazione_totale": 229
+  },
+  {
+    "codice_istat": "001080",
+    "comune": "Chiomonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 423,
+    "popolazione_totale": 838
+  },
+  {
+    "codice_istat": "001081",
+    "comune": "Chiusa di San Michele",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 785,
+    "popolazione_femminile": 739,
+    "popolazione_totale": 1524
+  },
+  {
+    "codice_istat": "001082",
+    "comune": "Chivasso",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 12576,
+    "popolazione_femminile": 13462,
+    "popolazione_totale": 26038
+  },
+  {
+    "codice_istat": "001083",
+    "comune": "Ciconio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 182,
+    "popolazione_femminile": 176,
+    "popolazione_totale": 358
+  },
+  {
+    "codice_istat": "001084",
+    "comune": "Cintano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 119,
+    "popolazione_femminile": 106,
+    "popolazione_totale": 225
+  },
+  {
+    "codice_istat": "001085",
+    "comune": "Cinzano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 177,
+    "popolazione_femminile": 163,
+    "popolazione_totale": 340
+  },
+  {
+    "codice_istat": "001086",
+    "comune": "Ciriè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8668,
+    "popolazione_femminile": 9415,
+    "popolazione_totale": 18083
+  },
+  {
+    "codice_istat": "001087",
+    "comune": "Claviere",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 100,
+    "popolazione_femminile": 99,
+    "popolazione_totale": 199
+  },
+  {
+    "codice_istat": "001088",
+    "comune": "Coassolo Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 739,
+    "popolazione_femminile": 721,
+    "popolazione_totale": 1460
+  },
+  {
+    "codice_istat": "001089",
+    "comune": "Coazze",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1681,
+    "popolazione_femminile": 1690,
+    "popolazione_totale": 3371
+  },
+  {
+    "codice_istat": "001090",
+    "comune": "Collegno",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 22720,
+    "popolazione_femminile": 24870,
+    "popolazione_totale": 47590
+  },
+  {
+    "codice_istat": "001091",
+    "comune": "Colleretto Castelnuovo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 186,
+    "popolazione_femminile": 168,
+    "popolazione_totale": 354
+  },
+  {
+    "codice_istat": "001092",
+    "comune": "Colleretto Giacosa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 286,
+    "popolazione_femminile": 290,
+    "popolazione_totale": 576
+  },
+  {
+    "codice_istat": "001093",
+    "comune": "Condove",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2143,
+    "popolazione_femminile": 2279,
+    "popolazione_totale": 4422
+  },
+  {
+    "codice_istat": "001094",
+    "comune": "Corio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1577,
+    "popolazione_femminile": 1529,
+    "popolazione_totale": 3106
+  },
+  {
+    "codice_istat": "001095",
+    "comune": "Cossano Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 208,
+    "popolazione_femminile": 202,
+    "popolazione_totale": 410
+  },
+  {
+    "codice_istat": "001096",
+    "comune": "Cuceglio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 462,
+    "popolazione_femminile": 455,
+    "popolazione_totale": 917
+  },
+  {
+    "codice_istat": "001097",
+    "comune": "Cumiana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3932,
+    "popolazione_femminile": 3882,
+    "popolazione_totale": 7814
+  },
+  {
+    "codice_istat": "001098",
+    "comune": "Cuorgnè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4728,
+    "popolazione_femminile": 4755,
+    "popolazione_totale": 9483
+  },
+  {
+    "codice_istat": "001099",
+    "comune": "Druento",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4383,
+    "popolazione_femminile": 4559,
+    "popolazione_totale": 8942
+  },
+  {
+    "codice_istat": "001100",
+    "comune": "Exilles",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 120,
+    "popolazione_totale": 241
+  },
+  {
+    "codice_istat": "001101",
+    "comune": "Favria",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2446,
+    "popolazione_femminile": 2516,
+    "popolazione_totale": 4962
+  },
+  {
+    "codice_istat": "001102",
+    "comune": "Feletto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1083,
+    "popolazione_femminile": 1068,
+    "popolazione_totale": 2151
+  },
+  {
+    "codice_istat": "001103",
+    "comune": "Fenestrelle",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 228,
+    "popolazione_totale": 466
+  },
+  {
+    "codice_istat": "001104",
+    "comune": "Fiano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1322,
+    "popolazione_femminile": 1316,
+    "popolazione_totale": 2638
+  },
+  {
+    "codice_istat": "001105",
+    "comune": "Fiorano Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 365,
+    "popolazione_femminile": 360,
+    "popolazione_totale": 725
+  },
+  {
+    "codice_istat": "001106",
+    "comune": "Foglizzo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1129,
+    "popolazione_femminile": 1149,
+    "popolazione_totale": 2278
+  },
+  {
+    "codice_istat": "001107",
+    "comune": "Forno Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1636,
+    "popolazione_femminile": 1516,
+    "popolazione_totale": 3152
+  },
+  {
+    "codice_istat": "001108",
+    "comune": "Frassinetto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 163,
+    "popolazione_femminile": 109,
+    "popolazione_totale": 272
+  },
+  {
+    "codice_istat": "001109",
+    "comune": "Front",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 804,
+    "popolazione_femminile": 786,
+    "popolazione_totale": 1590
+  },
+  {
+    "codice_istat": "001110",
+    "comune": "Frossasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1411,
+    "popolazione_femminile": 1435,
+    "popolazione_totale": 2846
+  },
+  {
+    "codice_istat": "001111",
+    "comune": "Garzigliana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 276,
+    "popolazione_femminile": 288,
+    "popolazione_totale": 564
+  },
+  {
+    "codice_istat": "001112",
+    "comune": "Gassino Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4448,
+    "popolazione_femminile": 4760,
+    "popolazione_totale": 9208
+  },
+  {
+    "codice_istat": "001113",
+    "comune": "Germagnano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 577,
+    "popolazione_femminile": 554,
+    "popolazione_totale": 1131
+  },
+  {
+    "codice_istat": "001114",
+    "comune": "Giaglione",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 288,
+    "popolazione_femminile": 297,
+    "popolazione_totale": 585
+  },
+  {
+    "codice_istat": "001115",
+    "comune": "Giaveno",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8050,
+    "popolazione_femminile": 8311,
+    "popolazione_totale": 16361
+  },
+  {
+    "codice_istat": "001116",
+    "comune": "Givoletto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2015,
+    "popolazione_femminile": 2045,
+    "popolazione_totale": 4060
+  },
+  {
+    "codice_istat": "001117",
+    "comune": "Gravere",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 355,
+    "popolazione_femminile": 329,
+    "popolazione_totale": 684
+  },
+  {
+    "codice_istat": "001118",
+    "comune": "Groscavallo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 99,
+    "popolazione_femminile": 84,
+    "popolazione_totale": 183
+  },
+  {
+    "codice_istat": "001119",
+    "comune": "Grosso",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 492,
+    "popolazione_femminile": 512,
+    "popolazione_totale": 1004
+  },
+  {
+    "codice_istat": "001120",
+    "comune": "Grugliasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 17502,
+    "popolazione_femminile": 18908,
+    "popolazione_totale": 36410
+  },
+  {
+    "codice_istat": "001121",
+    "comune": "Ingria",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 26,
+    "popolazione_femminile": 18,
+    "popolazione_totale": 44
+  },
+  {
+    "codice_istat": "001122",
+    "comune": "Inverso Pinasca",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 350,
+    "popolazione_femminile": 327,
+    "popolazione_totale": 677
+  },
+  {
+    "codice_istat": "001123",
+    "comune": "Isolabella",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 176,
+    "popolazione_femminile": 179,
+    "popolazione_totale": 355
+  },
+  {
+    "codice_istat": "001124",
+    "comune": "Issiglio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 219,
+    "popolazione_femminile": 215,
+    "popolazione_totale": 434
+  },
+  {
+    "codice_istat": "001125",
+    "comune": "Ivrea",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 10824,
+    "popolazione_femminile": 11720,
+    "popolazione_totale": 22544
+  },
+  {
+    "codice_istat": "001126",
+    "comune": "La Cassa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 872,
+    "popolazione_femminile": 847,
+    "popolazione_totale": 1719
+  },
+  {
+    "codice_istat": "001127",
+    "comune": "La Loggia",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4302,
+    "popolazione_femminile": 4371,
+    "popolazione_totale": 8673
+  },
+  {
+    "codice_istat": "001128",
+    "comune": "Lanzo Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2484,
+    "popolazione_femminile": 2554,
+    "popolazione_totale": 5038
+  },
+  {
+    "codice_istat": "001129",
+    "comune": "Lauriano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 662,
+    "popolazione_femminile": 694,
+    "popolazione_totale": 1356
+  },
+  {
+    "codice_istat": "001130",
+    "comune": "Leini",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8083,
+    "popolazione_femminile": 8256,
+    "popolazione_totale": 16339
+  },
+  {
+    "codice_istat": "001131",
+    "comune": "Lemie",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 89,
+    "popolazione_femminile": 64,
+    "popolazione_totale": 153
+  },
+  {
+    "codice_istat": "001132",
+    "comune": "Lessolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 845,
+    "popolazione_femminile": 903,
+    "popolazione_totale": 1748
+  },
+  {
+    "codice_istat": "001133",
+    "comune": "Levone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 244,
+    "popolazione_totale": 476
+  },
+  {
+    "codice_istat": "001134",
+    "comune": "Locana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 617,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1280
+  },
+  {
+    "codice_istat": "001135",
+    "comune": "Lombardore",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 877,
+    "popolazione_femminile": 858,
+    "popolazione_totale": 1735
+  },
+  {
+    "codice_istat": "001136",
+    "comune": "Lombriasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 565,
+    "popolazione_femminile": 525,
+    "popolazione_totale": 1090
+  },
+  {
+    "codice_istat": "001137",
+    "comune": "Loranzè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 626,
+    "popolazione_femminile": 578,
+    "popolazione_totale": 1204
+  },
+  {
+    "codice_istat": "001139",
+    "comune": "Luserna San Giovanni",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3480,
+    "popolazione_femminile": 3638,
+    "popolazione_totale": 7118
+  },
+  {
+    "codice_istat": "001140",
+    "comune": "Lusernetta",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 259,
+    "popolazione_femminile": 246,
+    "popolazione_totale": 505
+  },
+  {
+    "codice_istat": "001141",
+    "comune": "Lusigliè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 260,
+    "popolazione_femminile": 294,
+    "popolazione_totale": 554
+  },
+  {
+    "codice_istat": "001142",
+    "comune": "Macello",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 587,
+    "popolazione_femminile": 593,
+    "popolazione_totale": 1180
+  },
+  {
+    "codice_istat": "001143",
+    "comune": "Maglione",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 201,
+    "popolazione_femminile": 208,
+    "popolazione_totale": 409
+  },
+  {
+    "codice_istat": "001316",
+    "comune": "Mappano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3613,
+    "popolazione_femminile": 3667,
+    "popolazione_totale": 7280
+  },
+  {
+    "codice_istat": "001144",
+    "comune": "Marentino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 630,
+    "popolazione_totale": 1269
+  },
+  {
+    "codice_istat": "001145",
+    "comune": "Massello",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 34,
+    "popolazione_femminile": 22,
+    "popolazione_totale": 56
+  },
+  {
+    "codice_istat": "001146",
+    "comune": "Mathi",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1835,
+    "popolazione_femminile": 1839,
+    "popolazione_totale": 3674
+  },
+  {
+    "codice_istat": "001147",
+    "comune": "Mattie",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 346,
+    "popolazione_femminile": 333,
+    "popolazione_totale": 679
+  },
+  {
+    "codice_istat": "001148",
+    "comune": "Mazzè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2121,
+    "popolazione_femminile": 2177,
+    "popolazione_totale": 4298
+  },
+  {
+    "codice_istat": "001149",
+    "comune": "Meana di Susa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 415,
+    "popolazione_femminile": 372,
+    "popolazione_totale": 787
+  },
+  {
+    "codice_istat": "001150",
+    "comune": "Mercenasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 712,
+    "popolazione_femminile": 643,
+    "popolazione_totale": 1355
+  },
+  {
+    "codice_istat": "001152",
+    "comune": "Mezzenile",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 376,
+    "popolazione_femminile": 359,
+    "popolazione_totale": 735
+  },
+  {
+    "codice_istat": "001153",
+    "comune": "Mombello di Torino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 204,
+    "popolazione_femminile": 195,
+    "popolazione_totale": 399
+  },
+  {
+    "codice_istat": "001154",
+    "comune": "Mompantero",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 297,
+    "popolazione_femminile": 315,
+    "popolazione_totale": 612
+  },
+  {
+    "codice_istat": "001155",
+    "comune": "Monastero di Lanzo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 249,
+    "popolazione_femminile": 154,
+    "popolazione_totale": 403
+  },
+  {
+    "codice_istat": "001156",
+    "comune": "Moncalieri",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 26973,
+    "popolazione_femminile": 28469,
+    "popolazione_totale": 55442
+  },
+  {
+    "codice_istat": "001157",
+    "comune": "Moncenisio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 20,
+    "popolazione_femminile": 24,
+    "popolazione_totale": 44
+  },
+  {
+    "codice_istat": "001158",
+    "comune": "Montaldo Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 355,
+    "popolazione_femminile": 354,
+    "popolazione_totale": 709
+  },
+  {
+    "codice_istat": "001159",
+    "comune": "Montalenghe",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 481,
+    "popolazione_femminile": 485,
+    "popolazione_totale": 966
+  },
+  {
+    "codice_istat": "001160",
+    "comune": "Montalto Dora",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1654,
+    "popolazione_femminile": 1653,
+    "popolazione_totale": 3307
+  },
+  {
+    "codice_istat": "001161",
+    "comune": "Montanaro",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2433,
+    "popolazione_femminile": 2541,
+    "popolazione_totale": 4974
+  },
+  {
+    "codice_istat": "001162",
+    "comune": "Monteu da Po",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 431,
+    "popolazione_femminile": 393,
+    "popolazione_totale": 824
+  },
+  {
+    "codice_istat": "001163",
+    "comune": "Moriondo Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 416,
+    "popolazione_femminile": 407,
+    "popolazione_totale": 823
+  },
+  {
+    "codice_istat": "001164",
+    "comune": "Nichelino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 22047,
+    "popolazione_femminile": 23633,
+    "popolazione_totale": 45680
+  },
+  {
+    "codice_istat": "001165",
+    "comune": "Noasca",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 52,
+    "popolazione_femminile": 45,
+    "popolazione_totale": 97
+  },
+  {
+    "codice_istat": "001166",
+    "comune": "Nole",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3264,
+    "popolazione_femminile": 3396,
+    "popolazione_totale": 6660
+  },
+  {
+    "codice_istat": "001167",
+    "comune": "Nomaglio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 140,
+    "popolazione_femminile": 135,
+    "popolazione_totale": 275
+  },
+  {
+    "codice_istat": "001168",
+    "comune": "None",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 3765,
+    "popolazione_femminile": 3876,
+    "popolazione_totale": 7641
+  },
+  {
+    "codice_istat": "001169",
+    "comune": "Novalesa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 271,
+    "popolazione_femminile": 254,
+    "popolazione_totale": 525
+  },
+  {
+    "codice_istat": "001170",
+    "comune": "Oglianico",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 693,
+    "popolazione_femminile": 726,
+    "popolazione_totale": 1419
+  },
+  {
+    "codice_istat": "001171",
+    "comune": "Orbassano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 10970,
+    "popolazione_femminile": 11809,
+    "popolazione_totale": 22779
+  },
+  {
+    "codice_istat": "001172",
+    "comune": "Orio Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 366,
+    "popolazione_femminile": 364,
+    "popolazione_totale": 730
+  },
+  {
+    "codice_istat": "001173",
+    "comune": "Osasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 577,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1161
+  },
+  {
+    "codice_istat": "001174",
+    "comune": "Osasio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 466,
+    "popolazione_femminile": 430,
+    "popolazione_totale": 896
+  },
+  {
+    "codice_istat": "001175",
+    "comune": "Oulx",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1693,
+    "popolazione_femminile": 1602,
+    "popolazione_totale": 3295
+  },
+  {
+    "codice_istat": "001176",
+    "comune": "Ozegna",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 576,
+    "popolazione_femminile": 588,
+    "popolazione_totale": 1164
+  },
+  {
+    "codice_istat": "001177",
+    "comune": "Palazzo Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 408,
+    "popolazione_femminile": 426,
+    "popolazione_totale": 834
+  },
+  {
+    "codice_istat": "001178",
+    "comune": "Pancalieri",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 950,
+    "popolazione_femminile": 995,
+    "popolazione_totale": 1945
+  },
+  {
+    "codice_istat": "001179",
+    "comune": "Parella",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 181,
+    "popolazione_femminile": 213,
+    "popolazione_totale": 394
+  },
+  {
+    "codice_istat": "001180",
+    "comune": "Pavarolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 581,
+    "popolazione_femminile": 584,
+    "popolazione_totale": 1165
+  },
+  {
+    "codice_istat": "001181",
+    "comune": "Pavone Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1766,
+    "popolazione_femminile": 1862,
+    "popolazione_totale": 3628
+  },
+  {
+    "codice_istat": "001183",
+    "comune": "Pecetto Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1951,
+    "popolazione_femminile": 2056,
+    "popolazione_totale": 4007
+  },
+  {
+    "codice_istat": "001184",
+    "comune": "Perosa Argentina",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1481,
+    "popolazione_femminile": 1657,
+    "popolazione_totale": 3138
+  },
+  {
+    "codice_istat": "001185",
+    "comune": "Perosa Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 238,
+    "popolazione_femminile": 254,
+    "popolazione_totale": 492
+  },
+  {
+    "codice_istat": "001186",
+    "comune": "Perrero",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 298,
+    "popolazione_femminile": 249,
+    "popolazione_totale": 547
+  },
+  {
+    "codice_istat": "001187",
+    "comune": "Pertusio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 362,
+    "popolazione_femminile": 382,
+    "popolazione_totale": 744
+  },
+  {
+    "codice_istat": "001188",
+    "comune": "Pessinetto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 316,
+    "popolazione_femminile": 296,
+    "popolazione_totale": 612
+  },
+  {
+    "codice_istat": "001189",
+    "comune": "Pianezza",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 7616,
+    "popolazione_femminile": 8041,
+    "popolazione_totale": 15657
+  },
+  {
+    "codice_istat": "001190",
+    "comune": "Pinasca",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1337,
+    "popolazione_femminile": 1419,
+    "popolazione_totale": 2756
+  },
+  {
+    "codice_istat": "001191",
+    "comune": "Pinerolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 17023,
+    "popolazione_femminile": 18413,
+    "popolazione_totale": 35436
+  },
+  {
+    "codice_istat": "001192",
+    "comune": "Pino Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4002,
+    "popolazione_femminile": 4334,
+    "popolazione_totale": 8336
+  },
+  {
+    "codice_istat": "001193",
+    "comune": "Piobesi Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1839,
+    "popolazione_femminile": 1925,
+    "popolazione_totale": 3764
+  },
+  {
+    "codice_istat": "001194",
+    "comune": "Piossasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8717,
+    "popolazione_femminile": 9127,
+    "popolazione_totale": 17844
+  },
+  {
+    "codice_istat": "001195",
+    "comune": "Piscina",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1613,
+    "popolazione_femminile": 1675,
+    "popolazione_totale": 3288
+  },
+  {
+    "codice_istat": "001196",
+    "comune": "Piverone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 593,
+    "popolazione_femminile": 631,
+    "popolazione_totale": 1224
+  },
+  {
+    "codice_istat": "001197",
+    "comune": "Poirino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5080,
+    "popolazione_femminile": 5085,
+    "popolazione_totale": 10165
+  },
+  {
+    "codice_istat": "001198",
+    "comune": "Pomaretto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 426,
+    "popolazione_femminile": 509,
+    "popolazione_totale": 935
+  },
+  {
+    "codice_istat": "001199",
+    "comune": "Pont Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1449,
+    "popolazione_femminile": 1568,
+    "popolazione_totale": 3017
+  },
+  {
+    "codice_istat": "001200",
+    "comune": "Porte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 564,
+    "popolazione_femminile": 549,
+    "popolazione_totale": 1113
+  },
+  {
+    "codice_istat": "001201",
+    "comune": "Pragelato",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 372,
+    "popolazione_femminile": 322,
+    "popolazione_totale": 694
+  },
+  {
+    "codice_istat": "001202",
+    "comune": "Prali",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 133,
+    "popolazione_femminile": 118,
+    "popolazione_totale": 251
+  },
+  {
+    "codice_istat": "001203",
+    "comune": "Pralormo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 933,
+    "popolazione_femminile": 939,
+    "popolazione_totale": 1872
+  },
+  {
+    "codice_istat": "001204",
+    "comune": "Pramollo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 112,
+    "popolazione_femminile": 99,
+    "popolazione_totale": 211
+  },
+  {
+    "codice_istat": "001205",
+    "comune": "Prarostino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 623,
+    "popolazione_femminile": 615,
+    "popolazione_totale": 1238
+  },
+  {
+    "codice_istat": "001206",
+    "comune": "Prascorsano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 348,
+    "popolazione_femminile": 338,
+    "popolazione_totale": 686
+  },
+  {
+    "codice_istat": "001207",
+    "comune": "Pratiglione",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 212,
+    "popolazione_totale": 444
+  },
+  {
+    "codice_istat": "001208",
+    "comune": "Quagliuzzo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 178,
+    "popolazione_femminile": 155,
+    "popolazione_totale": 333
+  },
+  {
+    "codice_istat": "001209",
+    "comune": "Quassolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 159,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 329
+  },
+  {
+    "codice_istat": "001210",
+    "comune": "Quincinetto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 495,
+    "popolazione_femminile": 496,
+    "popolazione_totale": 991
+  },
+  {
+    "codice_istat": "001211",
+    "comune": "Reano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 870,
+    "popolazione_femminile": 909,
+    "popolazione_totale": 1779
+  },
+  {
+    "codice_istat": "001212",
+    "comune": "Ribordone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 27,
+    "popolazione_femminile": 16,
+    "popolazione_totale": 43
+  },
+  {
+    "codice_istat": "001215",
+    "comune": "Riva presso Chieri",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2349,
+    "popolazione_femminile": 2407,
+    "popolazione_totale": 4756
+  },
+  {
+    "codice_istat": "001213",
+    "comune": "Rivalba",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 598,
+    "popolazione_femminile": 537,
+    "popolazione_totale": 1135
+  },
+  {
+    "codice_istat": "001214",
+    "comune": "Rivalta di Torino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 9844,
+    "popolazione_femminile": 10175,
+    "popolazione_totale": 20019
+  },
+  {
+    "codice_istat": "001216",
+    "comune": "Rivara",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1199,
+    "popolazione_femminile": 1222,
+    "popolazione_totale": 2421
+  },
+  {
+    "codice_istat": "001217",
+    "comune": "Rivarolo Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 6048,
+    "popolazione_femminile": 6255,
+    "popolazione_totale": 12303
+  },
+  {
+    "codice_istat": "001218",
+    "comune": "Rivarossa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 783,
+    "popolazione_femminile": 767,
+    "popolazione_totale": 1550
+  },
+  {
+    "codice_istat": "001219",
+    "comune": "Rivoli",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 22366,
+    "popolazione_femminile": 24185,
+    "popolazione_totale": 46551
+  },
+  {
+    "codice_istat": "001220",
+    "comune": "Robassomero",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1476,
+    "popolazione_femminile": 1580,
+    "popolazione_totale": 3056
+  },
+  {
+    "codice_istat": "001221",
+    "comune": "Rocca Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 857,
+    "popolazione_femminile": 870,
+    "popolazione_totale": 1727
+  },
+  {
+    "codice_istat": "001222",
+    "comune": "Roletto",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 980,
+    "popolazione_femminile": 985,
+    "popolazione_totale": 1965
+  },
+  {
+    "codice_istat": "001223",
+    "comune": "Romano Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1341,
+    "popolazione_femminile": 1370,
+    "popolazione_totale": 2711
+  },
+  {
+    "codice_istat": "001224",
+    "comune": "Ronco Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 195,
+    "popolazione_femminile": 188,
+    "popolazione_totale": 383
+  },
+  {
+    "codice_istat": "001225",
+    "comune": "Rondissone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 997,
+    "popolazione_femminile": 930,
+    "popolazione_totale": 1927
+  },
+  {
+    "codice_istat": "001226",
+    "comune": "Rorà",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 121,
+    "popolazione_femminile": 95,
+    "popolazione_totale": 216
+  },
+  {
+    "codice_istat": "001228",
+    "comune": "Rosta",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2489,
+    "popolazione_femminile": 2585,
+    "popolazione_totale": 5074
+  },
+  {
+    "codice_istat": "001227",
+    "comune": "Roure",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 352,
+    "popolazione_femminile": 388,
+    "popolazione_totale": 740
+  },
+  {
+    "codice_istat": "001229",
+    "comune": "Rubiana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1363,
+    "popolazione_femminile": 1228,
+    "popolazione_totale": 2591
+  },
+  {
+    "codice_istat": "001230",
+    "comune": "Rueglio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 379,
+    "popolazione_femminile": 409,
+    "popolazione_totale": 788
+  },
+  {
+    "codice_istat": "001231",
+    "comune": "Salassa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 910,
+    "popolazione_femminile": 940,
+    "popolazione_totale": 1850
+  },
+  {
+    "codice_istat": "001232",
+    "comune": "Salbertrand",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 333,
+    "popolazione_femminile": 302,
+    "popolazione_totale": 635
+  },
+  {
+    "codice_istat": "001233",
+    "comune": "Salerano Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 232,
+    "popolazione_femminile": 239,
+    "popolazione_totale": 471
+  },
+  {
+    "codice_istat": "001234",
+    "comune": "Salza di Pinerolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 41,
+    "popolazione_femminile": 24,
+    "popolazione_totale": 65
+  },
+  {
+    "codice_istat": "001235",
+    "comune": "Samone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 765,
+    "popolazione_femminile": 773,
+    "popolazione_totale": 1538
+  },
+  {
+    "codice_istat": "001236",
+    "comune": "San Benigno Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2993,
+    "popolazione_femminile": 3057,
+    "popolazione_totale": 6050
+  },
+  {
+    "codice_istat": "001237",
+    "comune": "San Carlo Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1986,
+    "popolazione_femminile": 2043,
+    "popolazione_totale": 4029
+  },
+  {
+    "codice_istat": "001238",
+    "comune": "San Colombano Belmonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 189,
+    "popolazione_femminile": 170,
+    "popolazione_totale": 359
+  },
+  {
+    "codice_istat": "001239",
+    "comune": "San Didero",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 256,
+    "popolazione_femminile": 237,
+    "popolazione_totale": 493
+  },
+  {
+    "codice_istat": "001240",
+    "comune": "San Francesco al Campo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2380,
+    "popolazione_femminile": 2425,
+    "popolazione_totale": 4805
+  },
+  {
+    "codice_istat": "001242",
+    "comune": "San Germano Chisone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 844,
+    "popolazione_femminile": 845,
+    "popolazione_totale": 1689
+  },
+  {
+    "codice_istat": "001243",
+    "comune": "San Gillio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1608,
+    "popolazione_femminile": 1703,
+    "popolazione_totale": 3311
+  },
+  {
+    "codice_istat": "001244",
+    "comune": "San Giorgio Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1230,
+    "popolazione_femminile": 1254,
+    "popolazione_totale": 2484
+  },
+  {
+    "codice_istat": "001245",
+    "comune": "San Giorio di Susa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 482,
+    "popolazione_femminile": 469,
+    "popolazione_totale": 951
+  },
+  {
+    "codice_istat": "001246",
+    "comune": "San Giusto Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1623,
+    "popolazione_femminile": 1686,
+    "popolazione_totale": 3309
+  },
+  {
+    "codice_istat": "001247",
+    "comune": "San Martino Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 399,
+    "popolazione_femminile": 399,
+    "popolazione_totale": 798
+  },
+  {
+    "codice_istat": "001248",
+    "comune": "San Maurizio Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5065,
+    "popolazione_femminile": 5187,
+    "popolazione_totale": 10252
+  },
+  {
+    "codice_istat": "001249",
+    "comune": "San Mauro Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 8828,
+    "popolazione_femminile": 9439,
+    "popolazione_totale": 18267
+  },
+  {
+    "codice_istat": "001250",
+    "comune": "San Pietro Val Lemina",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 727,
+    "popolazione_femminile": 710,
+    "popolazione_totale": 1437
+  },
+  {
+    "codice_istat": "001251",
+    "comune": "San Ponso",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 114,
+    "popolazione_femminile": 116,
+    "popolazione_totale": 230
+  },
+  {
+    "codice_istat": "001252",
+    "comune": "San Raffaele Cimena",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1541,
+    "popolazione_femminile": 1587,
+    "popolazione_totale": 3128
+  },
+  {
+    "codice_istat": "001253",
+    "comune": "San Sebastiano da Po",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 931,
+    "popolazione_femminile": 922,
+    "popolazione_totale": 1853
+  },
+  {
+    "codice_istat": "001254",
+    "comune": "San Secondo di Pinerolo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1815,
+    "popolazione_femminile": 1823,
+    "popolazione_totale": 3638
+  },
+  {
+    "codice_istat": "001241",
+    "comune": "Sangano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1716,
+    "popolazione_femminile": 1908,
+    "popolazione_totale": 3624
+  },
+  {
+    "codice_istat": "001255",
+    "comune": "Sant'Ambrogio di Torino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2240,
+    "popolazione_femminile": 2261,
+    "popolazione_totale": 4501
+  },
+  {
+    "codice_istat": "001256",
+    "comune": "Sant'Antonino di Susa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1963,
+    "popolazione_femminile": 2110,
+    "popolazione_totale": 4073
+  },
+  {
+    "codice_istat": "001257",
+    "comune": "Santena",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5139,
+    "popolazione_femminile": 5234,
+    "popolazione_totale": 10373
+  },
+  {
+    "codice_istat": "001259",
+    "comune": "Sauze d'Oulx",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 532,
+    "popolazione_femminile": 486,
+    "popolazione_totale": 1018
+  },
+  {
+    "codice_istat": "001258",
+    "comune": "Sauze di Cesana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 125,
+    "popolazione_femminile": 102,
+    "popolazione_totale": 227
+  },
+  {
+    "codice_istat": "001260",
+    "comune": "Scalenghe",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1630,
+    "popolazione_femminile": 1569,
+    "popolazione_totale": 3199
+  },
+  {
+    "codice_istat": "001261",
+    "comune": "Scarmagno",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 390,
+    "popolazione_femminile": 395,
+    "popolazione_totale": 785
+  },
+  {
+    "codice_istat": "001262",
+    "comune": "Sciolze",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 718,
+    "popolazione_femminile": 706,
+    "popolazione_totale": 1424
+  },
+  {
+    "codice_istat": "001263",
+    "comune": "Sestriere",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 482,
+    "popolazione_femminile": 411,
+    "popolazione_totale": 893
+  },
+  {
+    "codice_istat": "001264",
+    "comune": "Settimo Rottaro",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 224,
+    "popolazione_femminile": 245,
+    "popolazione_totale": 469
+  },
+  {
+    "codice_istat": "001265",
+    "comune": "Settimo Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 22221,
+    "popolazione_femminile": 23345,
+    "popolazione_totale": 45566
+  },
+  {
+    "codice_istat": "001266",
+    "comune": "Settimo Vittone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 762,
+    "popolazione_femminile": 745,
+    "popolazione_totale": 1507
+  },
+  {
+    "codice_istat": "001267",
+    "comune": "Sparone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 442,
+    "popolazione_femminile": 461,
+    "popolazione_totale": 903
+  },
+  {
+    "codice_istat": "001268",
+    "comune": "Strambinello",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 116,
+    "popolazione_femminile": 120,
+    "popolazione_totale": 236
+  },
+  {
+    "codice_istat": "001269",
+    "comune": "Strambino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2932,
+    "popolazione_femminile": 3086,
+    "popolazione_totale": 6018
+  },
+  {
+    "codice_istat": "001270",
+    "comune": "Susa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2747,
+    "popolazione_femminile": 3029,
+    "popolazione_totale": 5776
+  },
+  {
+    "codice_istat": "001271",
+    "comune": "Tavagnasco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 362,
+    "popolazione_femminile": 385,
+    "popolazione_totale": 747
+  },
+  {
+    "codice_istat": "001272",
+    "comune": "Torino",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 414118,
+    "popolazione_femminile": 441536,
+    "popolazione_totale": 855654,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "001273",
+    "comune": "Torrazza Piemonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1462,
+    "popolazione_femminile": 1535,
+    "popolazione_totale": 2997
+  },
+  {
+    "codice_istat": "001274",
+    "comune": "Torre Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 279,
+    "popolazione_femminile": 318,
+    "popolazione_totale": 597
+  },
+  {
+    "codice_istat": "001275",
+    "comune": "Torre Pellice",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2200,
+    "popolazione_femminile": 2385,
+    "popolazione_totale": 4585
+  },
+  {
+    "codice_istat": "001276",
+    "comune": "Trana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1834,
+    "popolazione_femminile": 1910,
+    "popolazione_totale": 3744
+  },
+  {
+    "codice_istat": "001278",
+    "comune": "Traversella",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 152,
+    "popolazione_femminile": 157,
+    "popolazione_totale": 309
+  },
+  {
+    "codice_istat": "001279",
+    "comune": "Traves",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 267,
+    "popolazione_femminile": 238,
+    "popolazione_totale": 505
+  },
+  {
+    "codice_istat": "001280",
+    "comune": "Trofarello",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 5133,
+    "popolazione_femminile": 5368,
+    "popolazione_totale": 10501
+  },
+  {
+    "codice_istat": "001281",
+    "comune": "Usseaux",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 88,
+    "popolazione_femminile": 89,
+    "popolazione_totale": 177
+  },
+  {
+    "codice_istat": "001282",
+    "comune": "Usseglio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 97,
+    "popolazione_femminile": 82,
+    "popolazione_totale": 179
+  },
+  {
+    "codice_istat": "001283",
+    "comune": "Vaie",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 648,
+    "popolazione_femminile": 669,
+    "popolazione_totale": 1317
+  },
+  {
+    "codice_istat": "001284",
+    "comune": "Val della Torre",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2026,
+    "popolazione_femminile": 1947,
+    "popolazione_totale": 3973
+  },
+  {
+    "codice_istat": "001317",
+    "comune": "Val di Chy",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 639,
+    "popolazione_femminile": 586,
+    "popolazione_totale": 1225
+  },
+  {
+    "codice_istat": "001318",
+    "comune": "Valchiusa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 495,
+    "popolazione_femminile": 517,
+    "popolazione_totale": 1012
+  },
+  {
+    "codice_istat": "001285",
+    "comune": "Valgioie",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 552,
+    "popolazione_femminile": 431,
+    "popolazione_totale": 983
+  },
+  {
+    "codice_istat": "001286",
+    "comune": "Vallo Torinese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 393,
+    "popolazione_femminile": 391,
+    "popolazione_totale": 784
+  },
+  {
+    "codice_istat": "001287",
+    "comune": "Valperga",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1430,
+    "popolazione_femminile": 1547,
+    "popolazione_totale": 2977
+  },
+  {
+    "codice_istat": "001288",
+    "comune": "Valprato Soana",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 43,
+    "popolazione_femminile": 45,
+    "popolazione_totale": 88
+  },
+  {
+    "codice_istat": "001289",
+    "comune": "Varisella",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 418,
+    "popolazione_femminile": 410,
+    "popolazione_totale": 828
+  },
+  {
+    "codice_istat": "001290",
+    "comune": "Vauda Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 720,
+    "popolazione_femminile": 697,
+    "popolazione_totale": 1417
+  },
+  {
+    "codice_istat": "001292",
+    "comune": "Venaria Reale",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 15436,
+    "popolazione_femminile": 16450,
+    "popolazione_totale": 31886
+  },
+  {
+    "codice_istat": "001291",
+    "comune": "Venaus",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 430,
+    "popolazione_femminile": 413,
+    "popolazione_totale": 843
+  },
+  {
+    "codice_istat": "001293",
+    "comune": "Verolengo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2327,
+    "popolazione_femminile": 2461,
+    "popolazione_totale": 4788
+  },
+  {
+    "codice_istat": "001294",
+    "comune": "Verrua Savoia",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 690,
+    "popolazione_femminile": 663,
+    "popolazione_totale": 1353
+  },
+  {
+    "codice_istat": "001295",
+    "comune": "Vestignè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 376,
+    "popolazione_femminile": 376,
+    "popolazione_totale": 752
+  },
+  {
+    "codice_istat": "001296",
+    "comune": "Vialfrè",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 128,
+    "popolazione_femminile": 130,
+    "popolazione_totale": 258
+  },
+  {
+    "codice_istat": "001298",
+    "comune": "Vidracco",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 216,
+    "popolazione_femminile": 234,
+    "popolazione_totale": 450
+  },
+  {
+    "codice_istat": "001299",
+    "comune": "Vigone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2497,
+    "popolazione_femminile": 2549,
+    "popolazione_totale": 5046
+  },
+  {
+    "codice_istat": "001300",
+    "comune": "Villafranca Piemonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2298,
+    "popolazione_femminile": 2287,
+    "popolazione_totale": 4585
+  },
+  {
+    "codice_istat": "001301",
+    "comune": "Villanova Canavese",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 579,
+    "popolazione_femminile": 620,
+    "popolazione_totale": 1199
+  },
+  {
+    "codice_istat": "001303",
+    "comune": "Villar Dora",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1383,
+    "popolazione_femminile": 1410,
+    "popolazione_totale": 2793
+  },
+  {
+    "codice_istat": "001305",
+    "comune": "Villar Focchiardo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 953,
+    "popolazione_femminile": 990,
+    "popolazione_totale": 1943
+  },
+  {
+    "codice_istat": "001306",
+    "comune": "Villar Pellice",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 518,
+    "popolazione_femminile": 534,
+    "popolazione_totale": 1052
+  },
+  {
+    "codice_istat": "001307",
+    "comune": "Villar Perosa",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1923,
+    "popolazione_femminile": 1969,
+    "popolazione_totale": 3892
+  },
+  {
+    "codice_istat": "001302",
+    "comune": "Villarbasse",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 1717,
+    "popolazione_femminile": 1804,
+    "popolazione_totale": 3521
+  },
+  {
+    "codice_istat": "001304",
+    "comune": "Villareggia",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 494,
+    "popolazione_femminile": 500,
+    "popolazione_totale": 994
+  },
+  {
+    "codice_istat": "001308",
+    "comune": "Villastellone",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 2096,
+    "popolazione_femminile": 2190,
+    "popolazione_totale": 4286
+  },
+  {
+    "codice_istat": "001309",
+    "comune": "Vinovo",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 7493,
+    "popolazione_femminile": 7797,
+    "popolazione_totale": 15290
+  },
+  {
+    "codice_istat": "001310",
+    "comune": "Virle Piemonte",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 596,
+    "popolazione_femminile": 592,
+    "popolazione_totale": 1188
+  },
+  {
+    "codice_istat": "001311",
+    "comune": "Vische",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 599,
+    "popolazione_femminile": 607,
+    "popolazione_totale": 1206
+  },
+  {
+    "codice_istat": "001312",
+    "comune": "Vistrorio",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 256,
+    "popolazione_femminile": 270,
+    "popolazione_totale": 526
+  },
+  {
+    "codice_istat": "001313",
+    "comune": "Viù",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 539,
+    "popolazione_femminile": 536,
+    "popolazione_totale": 1075
+  },
+  {
+    "codice_istat": "001314",
+    "comune": "Volpiano",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 7435,
+    "popolazione_femminile": 7625,
+    "popolazione_totale": 15060
+  },
+  {
+    "codice_istat": "001315",
+    "comune": "Volvera",
+    "provincia": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "popolazione_maschile": 4179,
+    "popolazione_femminile": 4238,
+    "popolazione_totale": 8417
+  }
+]

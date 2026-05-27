@@ -1,0 +1,174 @@
+[
+  {
+    "codice_istat": "045001",
+    "comune": "Aulla",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 5344,
+    "popolazione_femminile": 5571,
+    "popolazione_totale": 10915
+  },
+  {
+    "codice_istat": "045002",
+    "comune": "Bagnone",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 833,
+    "popolazione_femminile": 853,
+    "popolazione_totale": 1686
+  },
+  {
+    "codice_istat": "045003",
+    "comune": "Carrara",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 29100,
+    "popolazione_femminile": 30623,
+    "popolazione_totale": 59723,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "045004",
+    "comune": "Casola in Lunigiana",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 438,
+    "popolazione_femminile": 463,
+    "popolazione_totale": 901
+  },
+  {
+    "codice_istat": "045005",
+    "comune": "Comano",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 316,
+    "popolazione_femminile": 320,
+    "popolazione_totale": 636
+  },
+  {
+    "codice_istat": "045006",
+    "comune": "Filattiera",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 1067,
+    "popolazione_femminile": 1080,
+    "popolazione_totale": 2147
+  },
+  {
+    "codice_istat": "045007",
+    "comune": "Fivizzano",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 3384,
+    "popolazione_femminile": 3502,
+    "popolazione_totale": 6886
+  },
+  {
+    "codice_istat": "045008",
+    "comune": "Fosdinovo",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 2255,
+    "popolazione_femminile": 2325,
+    "popolazione_totale": 4580
+  },
+  {
+    "codice_istat": "045009",
+    "comune": "Licciana Nardi",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 2336,
+    "popolazione_femminile": 2370,
+    "popolazione_totale": 4706
+  },
+  {
+    "codice_istat": "045010",
+    "comune": "Massa",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 31937,
+    "popolazione_femminile": 33610,
+    "popolazione_totale": 65547,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "045011",
+    "comune": "Montignoso",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 4884,
+    "popolazione_femminile": 5166,
+    "popolazione_totale": 10050
+  },
+  {
+    "codice_istat": "045012",
+    "comune": "Mulazzo",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 1140,
+    "popolazione_femminile": 1129,
+    "popolazione_totale": 2269
+  },
+  {
+    "codice_istat": "045013",
+    "comune": "Podenzana",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 1087,
+    "popolazione_femminile": 1066,
+    "popolazione_totale": 2153
+  },
+  {
+    "codice_istat": "045014",
+    "comune": "Pontremoli",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 3313,
+    "popolazione_femminile": 3554,
+    "popolazione_totale": 6867
+  },
+  {
+    "codice_istat": "045015",
+    "comune": "Tresana",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 947,
+    "popolazione_femminile": 933,
+    "popolazione_totale": 1880
+  },
+  {
+    "codice_istat": "045016",
+    "comune": "Villafranca in Lunigiana",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 2483,
+    "popolazione_femminile": 2318,
+    "popolazione_totale": 4801
+  },
+  {
+    "codice_istat": "045017",
+    "comune": "Zeri",
+    "provincia": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "popolazione_maschile": 445,
+    "popolazione_femminile": 445,
+    "popolazione_totale": 890
+  }
+]

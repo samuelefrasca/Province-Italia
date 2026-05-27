@@ -1,0 +1,183 @@
+[
+  {
+    "codice_istat": "039001",
+    "comune": "Alfonsine",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5749,
+    "popolazione_femminile": 5918,
+    "popolazione_totale": 11667
+  },
+  {
+    "codice_istat": "039002",
+    "comune": "Bagnacavallo",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 8165,
+    "popolazione_femminile": 8354,
+    "popolazione_totale": 16519
+  },
+  {
+    "codice_istat": "039003",
+    "comune": "Bagnara di Romagna",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1160,
+    "popolazione_femminile": 1157,
+    "popolazione_totale": 2317
+  },
+  {
+    "codice_istat": "039004",
+    "comune": "Brisighella",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3639,
+    "popolazione_femminile": 3542,
+    "popolazione_totale": 7181
+  },
+  {
+    "codice_istat": "039005",
+    "comune": "Casola Valsenio",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1337,
+    "popolazione_femminile": 1152,
+    "popolazione_totale": 2489
+  },
+  {
+    "codice_istat": "039006",
+    "comune": "Castel Bolognese",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4718,
+    "popolazione_femminile": 4766,
+    "popolazione_totale": 9484
+  },
+  {
+    "codice_istat": "039007",
+    "comune": "Cervia",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 14128,
+    "popolazione_femminile": 14947,
+    "popolazione_totale": 29075
+  },
+  {
+    "codice_istat": "039008",
+    "comune": "Conselice",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4861,
+    "popolazione_femminile": 4873,
+    "popolazione_totale": 9734
+  },
+  {
+    "codice_istat": "039009",
+    "comune": "Cotignola",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3628,
+    "popolazione_femminile": 3709,
+    "popolazione_totale": 7337
+  },
+  {
+    "codice_istat": "039010",
+    "comune": "Faenza",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 29109,
+    "popolazione_femminile": 29641,
+    "popolazione_totale": 58750
+  },
+  {
+    "codice_istat": "039011",
+    "comune": "Fusignano",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4121,
+    "popolazione_femminile": 4137,
+    "popolazione_totale": 8258
+  },
+  {
+    "codice_istat": "039012",
+    "comune": "Lugo",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 15715,
+    "popolazione_femminile": 16413,
+    "popolazione_totale": 32128
+  },
+  {
+    "codice_istat": "039013",
+    "comune": "Massa Lombarda",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5552,
+    "popolazione_femminile": 5376,
+    "popolazione_totale": 10928
+  },
+  {
+    "codice_istat": "039014",
+    "comune": "Ravenna",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 76630,
+    "popolazione_femminile": 79845,
+    "popolazione_totale": 156475,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "039015",
+    "comune": "Riolo Terme",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2966,
+    "popolazione_femminile": 2858,
+    "popolazione_totale": 5824
+  },
+  {
+    "codice_istat": "039016",
+    "comune": "Russi",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 6094,
+    "popolazione_femminile": 6188,
+    "popolazione_totale": 12282
+  },
+  {
+    "codice_istat": "039017",
+    "comune": "Sant'Agata sul Santerno",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1383,
+    "popolazione_femminile": 1451,
+    "popolazione_totale": 2834
+  },
+  {
+    "codice_istat": "039018",
+    "comune": "Solarolo",
+    "provincia": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2224,
+    "popolazione_femminile": 2237,
+    "popolazione_totale": 4461
+  }
+]

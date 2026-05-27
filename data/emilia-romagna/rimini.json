@@ -1,0 +1,273 @@
+[
+  {
+    "codice_istat": "099001",
+    "comune": "Bellaria-Igea Marina",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 9601,
+    "popolazione_femminile": 9961,
+    "popolazione_totale": 19562
+  },
+  {
+    "codice_istat": "099021",
+    "comune": "Casteldelci",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 172,
+    "popolazione_femminile": 177,
+    "popolazione_totale": 349
+  },
+  {
+    "codice_istat": "099002",
+    "comune": "Cattolica",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7816,
+    "popolazione_femminile": 8798,
+    "popolazione_totale": 16614
+  },
+  {
+    "codice_istat": "099003",
+    "comune": "Coriano",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5222,
+    "popolazione_femminile": 5265,
+    "popolazione_totale": 10487
+  },
+  {
+    "codice_istat": "099004",
+    "comune": "Gemmano",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 574,
+    "popolazione_femminile": 582,
+    "popolazione_totale": 1156
+  },
+  {
+    "codice_istat": "099022",
+    "comune": "Maiolo",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 400,
+    "popolazione_femminile": 383,
+    "popolazione_totale": 783
+  },
+  {
+    "codice_istat": "099005",
+    "comune": "Misano Adriatico",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 7020,
+    "popolazione_femminile": 7151,
+    "popolazione_totale": 14171
+  },
+  {
+    "codice_istat": "099006",
+    "comune": "Mondaino",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 687,
+    "popolazione_femminile": 670,
+    "popolazione_totale": 1357
+  },
+  {
+    "codice_istat": "099030",
+    "comune": "Montecopiolo",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 517,
+    "popolazione_femminile": 512,
+    "popolazione_totale": 1029
+  },
+  {
+    "codice_istat": "099008",
+    "comune": "Montefiore Conca",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1158,
+    "popolazione_femminile": 1154,
+    "popolazione_totale": 2312
+  },
+  {
+    "codice_istat": "099009",
+    "comune": "Montegridolfo",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 511,
+    "popolazione_femminile": 514,
+    "popolazione_totale": 1025
+  },
+  {
+    "codice_istat": "099029",
+    "comune": "Montescudo-Monte Colombo",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3534,
+    "popolazione_femminile": 3470,
+    "popolazione_totale": 7004
+  },
+  {
+    "codice_istat": "099011",
+    "comune": "Morciano di Romagna",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3547,
+    "popolazione_femminile": 3735,
+    "popolazione_totale": 7282
+  },
+  {
+    "codice_istat": "099023",
+    "comune": "Novafeltria",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 3516,
+    "popolazione_femminile": 3515,
+    "popolazione_totale": 7031
+  },
+  {
+    "codice_istat": "099024",
+    "comune": "Pennabilli",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1350,
+    "popolazione_femminile": 1342,
+    "popolazione_totale": 2692
+  },
+  {
+    "codice_istat": "099028",
+    "comune": "Poggio Torriana",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2576,
+    "popolazione_femminile": 2521,
+    "popolazione_totale": 5097
+  },
+  {
+    "codice_istat": "099013",
+    "comune": "Riccione",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 16224,
+    "popolazione_femminile": 18143,
+    "popolazione_totale": 34367
+  },
+  {
+    "codice_istat": "099014",
+    "comune": "Rimini",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 72814,
+    "popolazione_femminile": 77960,
+    "popolazione_totale": 150774,
+    "capoluogo": true
+  },
+  {
+    "codice_istat": "099015",
+    "comune": "Saludecio",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1645,
+    "popolazione_femminile": 1629,
+    "popolazione_totale": 3274
+  },
+  {
+    "codice_istat": "099016",
+    "comune": "San Clemente",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 2841,
+    "popolazione_femminile": 2908,
+    "popolazione_totale": 5749
+  },
+  {
+    "codice_istat": "099017",
+    "comune": "San Giovanni in Marignano",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 4635,
+    "popolazione_femminile": 4790,
+    "popolazione_totale": 9425
+  },
+  {
+    "codice_istat": "099025",
+    "comune": "San Leo",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 1486,
+    "popolazione_femminile": 1391,
+    "popolazione_totale": 2877
+  },
+  {
+    "codice_istat": "099026",
+    "comune": "Sant'Agata Feltria",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 982,
+    "popolazione_femminile": 975,
+    "popolazione_totale": 1957
+  },
+  {
+    "codice_istat": "099018",
+    "comune": "Santarcangelo di Romagna",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 10965,
+    "popolazione_femminile": 11401,
+    "popolazione_totale": 22366
+  },
+  {
+    "codice_istat": "099031",
+    "comune": "Sassofeltrio",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 667,
+    "popolazione_femminile": 712,
+    "popolazione_totale": 1379
+  },
+  {
+    "codice_istat": "099027",
+    "comune": "Talamello",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 521,
+    "popolazione_femminile": 560,
+    "popolazione_totale": 1081
+  },
+  {
+    "codice_istat": "099020",
+    "comune": "Verucchio",
+    "provincia": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "popolazione_maschile": 5076,
+    "popolazione_femminile": 4968,
+    "popolazione_totale": 10044
+  }
+]
