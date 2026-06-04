@@ -3,6 +3,7 @@
     {
       "nome": "Valle d'Aosta",
       "sigla": "AO",
+      "regione": "Valle d'Aosta",
       "abitanti": 122554,
       "capoluogo": true,
       "vda": true
@@ -12,31 +13,37 @@
     {
       "nome": "Alessandria",
       "sigla": "AL",
+      "regione": "Piemonte",
       "abitanti": 408063
     },
     {
       "nome": "Asti",
       "sigla": "AT",
+      "regione": "Piemonte",
       "abitanti": 207059
     },
     {
       "nome": "Biella",
       "sigla": "BI",
+      "regione": "Piemonte",
       "abitanti": 168223
     },
     {
       "nome": "Cuneo",
       "sigla": "CN",
+      "regione": "Piemonte",
       "abitanti": 582109
     },
     {
       "nome": "Novara",
       "sigla": "NO",
+      "regione": "Piemonte",
       "abitanti": 365930
     },
     {
       "nome": "Torino",
       "sigla": "TO",
+      "regione": "Piemonte",
       "abitanti": 2204779,
       "metropolitana": true,
       "capoluogo": true
@@ -44,11 +51,13 @@
     {
       "nome": "Verbano-Cusio-Ossola",
       "sigla": "VB",
+      "regione": "Piemonte",
       "abitanti": 152677
     },
     {
       "nome": "Vercelli",
       "sigla": "VC",
+      "regione": "Piemonte",
       "abitanti": 166166
     }
   ],
@@ -56,6 +65,7 @@
     {
       "nome": "Genova",
       "sigla": "GE",
+      "regione": "Liguria",
       "abitanti": 820691,
       "metropolitana": true,
       "capoluogo": true
@@ -63,16 +73,19 @@
     {
       "nome": "Imperia",
       "sigla": "IM",
+      "regione": "Liguria",
       "abitanti": 209848
     },
     {
       "nome": "La Spezia",
       "sigla": "SP",
+      "regione": "Liguria",
       "abitanti": 214539
     },
     {
       "nome": "Savona",
       "sigla": "SV",
+      "regione": "Liguria",
       "abitanti": 266910
     }
   ],
@@ -80,41 +93,49 @@
     {
       "nome": "Bergamo",
       "sigla": "BG",
+      "regione": "Lombardia",
       "abitanti": 1119233
     },
     {
       "nome": "Brescia",
       "sigla": "BS",
+      "regione": "Lombardia",
       "abitanti": 1271759
     },
     {
       "nome": "Como",
       "sigla": "CO",
+      "regione": "Lombardia",
       "abitanti": 598562
     },
     {
       "nome": "Cremona",
       "sigla": "CR",
+      "regione": "Lombardia",
       "abitanti": 355134
     },
     {
       "nome": "Lecco",
       "sigla": "LC",
+      "regione": "Lombardia",
       "abitanti": 334211
     },
     {
       "nome": "Lodi",
       "sigla": "LO",
+      "regione": "Lombardia",
       "abitanti": 231481
     },
     {
       "nome": "Mantova",
       "sigla": "MN",
+      "regione": "Lombardia",
       "abitanti": 408715
     },
     {
       "nome": "Milano",
       "sigla": "MI",
+      "regione": "Lombardia",
       "abitanti": 3253111,
       "metropolitana": true,
       "capoluogo": true
@@ -122,21 +143,25 @@
     {
       "nome": "Monza e Brianza",
       "sigla": "MB",
+      "regione": "Lombardia",
       "abitanti": 883396
     },
     {
       "nome": "Pavia",
       "sigla": "PV",
+      "regione": "Lombardia",
       "abitanti": 546023
     },
     {
       "nome": "Sondrio",
       "sigla": "SO",
+      "regione": "Lombardia",
       "abitanti": 179268
     },
     {
       "nome": "Varese",
       "sigla": "VA",
+      "regione": "Lombardia",
       "abitanti": 884801
     }
   ],
@@ -144,12 +169,14 @@
     {
       "nome": "Bolzano",
       "sigla": "BZ",
+      "regione": "Trentino-Alto Adige",
       "abitanti": 542134,
       "autonoma": true
     },
     {
       "nome": "Trento",
       "sigla": "TN",
+      "regione": "Trentino-Alto Adige",
       "abitanti": 548684,
       "autonoma": true,
       "capoluogo": true
@@ -159,26 +186,31 @@
     {
       "nome": "Belluno",
       "sigla": "BL",
+      "regione": "Veneto",
       "abitanti": 197265
     },
     {
       "nome": "Padova",
       "sigla": "PD",
+      "regione": "Veneto",
       "abitanti": 934540
     },
     {
       "nome": "Rovigo",
       "sigla": "RO",
+      "regione": "Veneto",
       "abitanti": 227183
     },
     {
       "nome": "Treviso",
       "sigla": "TV",
+      "regione": "Veneto",
       "abitanti": 878341
     },
     {
       "nome": "Venezia",
       "sigla": "VE",
+      "regione": "Veneto",
       "abitanti": 834077,
       "metropolitana": true,
       "capoluogo": true
@@ -186,11 +218,13 @@
     {
       "nome": "Verona",
       "sigla": "VR",
+      "regione": "Veneto",
       "abitanti": 930842
     },
     {
       "nome": "Vicenza",
       "sigla": "VI",
+      "regione": "Veneto",
       "abitanti": 855212
     }
   ],
@@ -198,18 +232,21 @@
     {
       "nome": "Gorizia",
       "sigla": "GO",
+      "regione": "Friuli-Venezia Giulia",
       "abitanti": 138717,
       "eddr": true
     },
     {
       "nome": "Pordenone",
       "sigla": "PN",
+      "regione": "Friuli-Venezia Giulia",
       "abitanti": 311114,
       "eddr": true
     },
     {
       "nome": "Trieste",
       "sigla": "TS",
+      "regione": "Friuli-Venezia Giulia",
       "abitanti": 227840,
       "eddr": true,
       "capoluogo": true
@@ -217,6 +254,7 @@
     {
       "nome": "Udine",
       "sigla": "UD",
+      "regione": "Friuli-Venezia Giulia",
       "abitanti": 515825,
       "eddr": true
     }
@@ -225,6 +263,7 @@
     {
       "nome": "Bologna",
       "sigla": "BO",
+      "regione": "Emilia-Romagna",
       "abitanti": 1024290,
       "metropolitana": true,
       "capoluogo": true
@@ -232,41 +271,49 @@
     {
       "nome": "Ferrara",
       "sigla": "FE",
+      "regione": "Emilia-Romagna",
       "abitanti": 340482
     },
     {
       "nome": "Forlì-Cesena",
       "sigla": "FC",
+      "regione": "Emilia-Romagna",
       "abitanti": 394337
     },
     {
       "nome": "Modena",
       "sigla": "MO",
+      "regione": "Emilia-Romagna",
       "abitanti": 711502
     },
     {
       "nome": "Parma",
       "sigla": "PR",
+      "regione": "Emilia-Romagna",
       "abitanti": 457509
     },
     {
       "nome": "Piacenza",
       "sigla": "PC",
+      "regione": "Emilia-Romagna",
       "abitanti": 287745
     },
     {
       "nome": "Ravenna",
       "sigla": "RA",
+      "regione": "Emilia-Romagna",
       "abitanti": 387743
     },
     {
       "nome": "Reggio Emilia",
       "sigla": "RE",
+      "regione": "Emilia-Romagna",
       "abitanti": 532157
     },
     {
       "nome": "Rimini",
       "sigla": "RN",
+      "regione": "Emilia-Romagna",
       "abitanti": 341244
     }
   ],
@@ -274,11 +321,13 @@
     {
       "nome": "Arezzo",
       "sigla": "AR",
+      "regione": "Toscana",
       "abitanti": 333269
     },
     {
       "nome": "Firenze",
       "sigla": "FI",
+      "regione": "Toscana",
       "abitanti": 988494,
       "metropolitana": true,
       "capoluogo": true
@@ -286,41 +335,49 @@
     {
       "nome": "Grosseto",
       "sigla": "GR",
+      "regione": "Toscana",
       "abitanti": 214863
     },
     {
       "nome": "Livorno",
       "sigla": "LI",
+      "regione": "Toscana",
       "abitanti": 324893
     },
     {
       "nome": "Lucca",
       "sigla": "LU",
+      "regione": "Toscana",
       "abitanti": 379957
     },
     {
       "nome": "Massa-Carrara",
       "sigla": "MS",
+      "regione": "Toscana",
       "abitanti": 186637
     },
     {
       "nome": "Pisa",
       "sigla": "PI",
+      "regione": "Toscana",
       "abitanti": 419588
     },
     {
       "nome": "Pistoia",
       "sigla": "PT",
+      "regione": "Toscana",
       "abitanti": 290867
     },
     {
       "nome": "Prato",
       "sigla": "PO",
+      "regione": "Toscana",
       "abitanti": 261152
     },
     {
       "nome": "Siena",
       "sigla": "SI",
+      "regione": "Toscana",
       "abitanti": 259502
     }
   ],
@@ -328,12 +385,14 @@
     {
       "nome": "Perugia",
       "sigla": "PG",
+      "regione": "Umbria",
       "abitanti": 635988,
       "capoluogo": true
     },
     {
       "nome": "Terni",
       "sigla": "TR",
+      "regione": "Umbria",
       "abitanti": 214639
     }
   ],
@@ -341,27 +400,32 @@
     {
       "nome": "Ancona",
       "sigla": "AN",
+      "regione": "Marche",
       "abitanti": 461613,
       "capoluogo": true
     },
     {
       "nome": "Ascoli Piceno",
       "sigla": "AP",
+      "regione": "Marche",
       "abitanti": 200202
     },
     {
       "nome": "Fermo",
       "sigla": "FM",
+      "regione": "Marche",
       "abitanti": 166772
     },
     {
       "nome": "Macerata",
       "sigla": "MC",
+      "regione": "Marche",
       "abitanti": 301689
     },
     {
       "nome": "Pesaro e Urbino",
       "sigla": "PU",
+      "regione": "Marche",
       "abitanti": 349556
     }
   ],
@@ -369,21 +433,25 @@
     {
       "nome": "Frosinone",
       "sigla": "FR",
+      "regione": "Lazio",
       "abitanti": 460266
     },
     {
       "nome": "Latina",
       "sigla": "LT",
+      "regione": "Lazio",
       "abitanti": 567130
     },
     {
       "nome": "Rieti",
       "sigla": "RI",
+      "regione": "Lazio",
       "abitanti": 149335
     },
     {
       "nome": "Roma",
       "sigla": "RM",
+      "regione": "Lazio",
       "abitanti": 4224901,
       "metropolitana": true,
       "capoluogo": true
@@ -391,6 +459,7 @@
     {
       "nome": "Viterbo",
       "sigla": "VT",
+      "regione": "Lazio",
       "abitanti": 307812
     }
   ],
@@ -398,22 +467,26 @@
     {
       "nome": "Chieti",
       "sigla": "CH",
+      "regione": "Abruzzo",
       "abitanti": 369059
     },
     {
       "nome": "L'Aquila",
       "sigla": "AQ",
+      "regione": "Abruzzo",
       "abitanti": 286765,
       "capoluogo": true
     },
     {
       "nome": "Pescara",
       "sigla": "PE",
+      "regione": "Abruzzo",
       "abitanti": 311563
     },
     {
       "nome": "Teramo",
       "sigla": "TE",
+      "regione": "Abruzzo",
       "abitanti": 299835
     }
   ],
@@ -421,12 +494,14 @@
     {
       "nome": "Campobasso",
       "sigla": "CB",
+      "regione": "Molise",
       "abitanti": 207723,
       "capoluogo": true
     },
     {
       "nome": "Isernia",
       "sigla": "IS",
+      "regione": "Molise",
       "abitanti": 78217
     }
   ],
@@ -434,21 +509,25 @@
     {
       "nome": "Avellino",
       "sigla": "AV",
+      "regione": "Campania",
       "abitanti": 393093
     },
     {
       "nome": "Benevento",
       "sigla": "BN",
+      "regione": "Campania",
       "abitanti": 257968
     },
     {
       "nome": "Caserta",
       "sigla": "CE",
+      "regione": "Campania",
       "abitanti": 909493
     },
     {
       "nome": "Napoli",
       "sigla": "NA",
+      "regione": "Campania",
       "abitanti": 2954847,
       "metropolitana": true,
       "capoluogo": true
@@ -456,6 +535,7 @@
     {
       "nome": "Salerno",
       "sigla": "SA",
+      "regione": "Campania",
       "abitanti": 1053302
     }
   ],
@@ -463,6 +543,7 @@
     {
       "nome": "Bari",
       "sigla": "BA",
+      "regione": "Puglia",
       "abitanti": 1218073,
       "metropolitana": true,
       "capoluogo": true
@@ -470,26 +551,31 @@
     {
       "nome": "Barletta-Andria-Trani",
       "sigla": "BT",
+      "regione": "Puglia",
       "abitanti": 375933
     },
     {
       "nome": "Brindisi",
       "sigla": "BR",
+      "regione": "Puglia",
       "abitanti": 373631
     },
     {
       "nome": "Foggia",
       "sigla": "FG",
+      "regione": "Puglia",
       "abitanti": 587785
     },
     {
       "nome": "Lecce",
       "sigla": "LE",
+      "regione": "Puglia",
       "abitanti": 761927
     },
     {
       "nome": "Taranto",
       "sigla": "TA",
+      "regione": "Puglia",
       "abitanti": 547928
     }
   ],
@@ -497,11 +583,13 @@
     {
       "nome": "Matera",
       "sigla": "MT",
+      "regione": "Basilicata",
       "abitanti": 187754
     },
     {
       "nome": "Potenza",
       "sigla": "PZ",
+      "regione": "Basilicata",
       "abitanti": 337527,
       "capoluogo": true
     }
@@ -510,28 +598,33 @@
     {
       "nome": "Catanzaro",
       "sigla": "CZ",
+      "regione": "Calabria",
       "abitanti": 338160,
       "capoluogo": true
     },
     {
       "nome": "Cosenza",
       "sigla": "CS",
+      "regione": "Calabria",
       "abitanti": 667134
     },
     {
       "nome": "Crotone",
       "sigla": "KR",
+      "regione": "Calabria",
       "abitanti": 161765
     },
     {
       "nome": "Reggio Calabria",
       "sigla": "RC",
+      "regione": "Calabria",
       "abitanti": 510590,
       "metropolitana": true
     },
     {
       "nome": "Vibo Valentia",
       "sigla": "VV",
+      "regione": "Calabria",
       "abitanti": 149922
     }
   ],
@@ -539,36 +632,42 @@
     {
       "nome": "Agrigento",
       "sigla": "AG",
+      "regione": "Sicilia",
       "abitanti": 407041,
       "lbc": true
     },
     {
       "nome": "Caltanissetta",
       "sigla": "CL",
+      "regione": "Sicilia",
       "abitanti": 243501,
       "lbc": true
     },
     {
       "nome": "Catania",
       "sigla": "CT",
+      "regione": "Sicilia",
       "abitanti": 1067550,
       "metropolitana": true
     },
     {
       "nome": "Enna",
       "sigla": "EN",
+      "regione": "Sicilia",
       "abitanti": 151525,
       "lbc": true
     },
     {
       "nome": "Messina",
       "sigla": "ME",
+      "regione": "Sicilia",
       "abitanti": 594074,
       "metropolitana": true
     },
     {
       "nome": "Palermo",
       "sigla": "PA",
+      "regione": "Sicilia",
       "abitanti": 1195307,
       "metropolitana": true,
       "capoluogo": true
@@ -576,18 +675,21 @@
     {
       "nome": "Ragusa",
       "sigla": "RG",
+      "regione": "Sicilia",
       "abitanti": 323144,
       "lbc": true
     },
     {
       "nome": "Siracusa",
       "sigla": "SR",
+      "regione": "Sicilia",
       "abitanti": 382450,
       "lbc": true
     },
     {
       "nome": "Trapani",
       "sigla": "TP",
+      "regione": "Sicilia",
       "abitanti": 410602,
       "lbc": true
     }
@@ -596,6 +698,7 @@
     {
       "nome": "Cagliari",
       "sigla": "CA",
+      "regione": "Sardegna",
       "abitanti": 534219,
       "metropolitana": true,
       "capoluogo": true
@@ -603,37 +706,44 @@
     {
       "nome": "Gallura Nord-Est Sardegna",
       "sigla": "OT",
+      "regione": "Sardegna",
       "abitanti": 159460
     },
     {
       "nome": "Medio Campidano",
       "sigla": "VS",
+      "regione": "Sardegna",
       "abitanti": 89155
     },
     {
       "nome": "Nuoro",
       "sigla": "NU",
+      "regione": "Sardegna",
       "abitanti": 142241
     },
     {
       "nome": "Ogliastra",
       "sigla": "OG",
+      "regione": "Sardegna",
       "abitanti": 53722
     },
     {
       "nome": "Oristano",
       "sigla": "OR",
+      "regione": "Sardegna",
       "abitanti": 146785
     },
     {
       "nome": "Sassari",
       "sigla": "SS",
+      "regione": "Sardegna",
       "abitanti": 311128,
       "metropolitana": true
     },
     {
       "nome": "Sulcis Iglesiente",
       "sigla": "SU",
+      "regione": "Sardegna",
       "abitanti": 117780
     }
   ]

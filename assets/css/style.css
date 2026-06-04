@@ -97,8 +97,8 @@ svg {
 }
 
 .tabella {
-    /* border: 1px solid black; */
     width: 100%;
+    border-collapse: collapse;
 }
 
 .title-legend {
@@ -108,17 +108,30 @@ svg {
 
 .hel {
     margin: 2px;
-    border: 1px solid black;
+    border: 1px solid #bbb;
+    border-right: 1px solid #eee;
     padding: 5px;
     background-color: #bbb;
     text-align: center;
 }
 
+.abitanti {
+    border-right: 1px solid #bbb;
+}
+
 .el {
     margin: 2px;
-    border: 1px solid black;
+    border: 1px solid #bbb;
     padding: 5px;
     background-color: #eee;
+}
+
+.fel {
+    margin: 2px;
+    border: 1px solid #bbb;
+    padding: 5px;
+    background-color: #bbb;
+    text-align: center;
 }
 
 .pointer {
@@ -225,5 +238,10 @@ footer {
     body {
         height: auto;
         overflow: auto;
+    }
+
+    .nav-invisibile {
+        position: absolute;
+        left: -9999px;
     }
 }

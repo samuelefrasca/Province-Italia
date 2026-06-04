@@ -22,7 +22,12 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
 
     // Crea i punti elenco per ogni provincia
     let table = elencoProvince.innerHTML;
-    table = `<tr><th class="index"></th><th class="hel pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel select-none">Sigla</th><th class="hel pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`;
+    if (nomeRegione == "Italia") {
+        table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla select-none">Sigla</th><th class="hel regione pointer select-none" onclick="ordinaPerRegione(flagRegione)">Regione <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`;
+    }
+    else {
+        table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla select-none">Sigla</th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`;
+    }
     let popolazioneTotale = 0;
     let index = 1; // indice
     for (let provincia of provinceTrovate) {
@@ -45,16 +50,31 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
         }
         // creazione tabella
         if (provincia.capoluogo) {
-            table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${provincia.nome} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td></tr>`;
+            if (nomeRegione == "Italia") {
+                table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${provincia.nome} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong><td class="el regione"><strong>${provincia.regione}</strong></td></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td></tr>`;
+            }
+            else {
+                table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${provincia.nome} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td></tr>`;
+            }
         }
         else {
-            table += `<tr><td class="el index">${index}</td><td class="el nome">${provincia.nome} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</td></tr>`;
+            if (nomeRegione == "Italia") {
+                table += `<tr><td class="el index">${index}</td><td class="el nome">${provincia.nome} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el regione">${provincia.regione}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</td></tr>`;
+            }
+            else {
+                table += `<tr><td class="el index">${index}</td><td class="el nome">${provincia.nome} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</td></tr>`;
+            }
         }
         // aggiornamento popolazione totale della regione e l'indice
         popolazioneTotale += provincia.abitanti;
         index++;
     }
-    table += `<tr><td class="index"></td><td class="hel nome"><strong>Popolazione totale</strong></td><td class="hel sigla"><strong></strong></td><td class="hel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`
+    if (nomeRegione == "Italia") {
+        table += `<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel sigla"><strong></strong></td><td class="fel regione"><strong></strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`
+    }
+    else {
+        table += `<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel sigla"><strong></strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`
+    }
     elencoProvince.innerHTML = table
 
     // Numero elementi trovati
@@ -90,6 +110,7 @@ fetch('data/province.json')
                 scritturaProvince(regioneCorrente, provinceCorrenti);
                 flagAlfabetico = true;
                 flagAbitanti = false;
+                flagRegione = false;
             });
         });
     });
@@ -114,4 +135,5 @@ function elencoCompleto() {
     scritturaProvince(italia, elencoTotale);
     flagAlfabetico = true;
     flagAbitanti = false;
+    flagRegione = false;
 }
