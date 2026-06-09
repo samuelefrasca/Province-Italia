@@ -72,9 +72,38 @@ function scritturaComuni(provincia, comuniProvincia, nomeRegione) {
     if (provincia == nomeRegione) {
         titoloProvincia.textContent = "Elenco completo dei comuni della regione " + provincia;
     }
+    // In questo punto trattiamo i casi particolari in cui il nome della provincia non si limita a "Provincia di"
     else if (provincia == "Roma") {
         titoloProvincia.textContent = "Città metropolitana di " + provincia + " Capitale";
     }
+    else if (provincia == "Monza e Brianza") {
+        titoloProvincia.textContent = "Provincia di Monza e della Brianza";
+    }
+    else if (provincia == "Bolzano") {
+        titoloProvincia.textContent = "Provincia autonoma di Bolzano - Alto Adige";
+    }
+    else if (provincia == "L'Aquila") {
+        titoloProvincia.textContent = "Provincia dell'Aquila";
+    }
+    else if (provincia == "La Spezia") {
+        titoloProvincia.textContent = "Provincia della Spezia";
+    }
+    else if (provincia == "Gallura Nord-Est Sardegna") {
+        titoloProvincia.textContent = "Provincia della Gallura Nord-Est Sardegna";
+    }
+    else if (provincia == "Medio Campidano") {
+        titoloProvincia.textContent = "Provincia del Medio Campidano";
+    }
+    else if (provincia == "Ogliastra") {
+        titoloProvincia.textContent = "Provincia dell'Ogliastra";
+    }
+    else if (provincia == "Sulcis Iglesiente") {
+        titoloProvincia.textContent = "Provincia del Sulcis Iglesiente";
+    }
+    else if (provincia == "Verbano-Cusio-Ossola") {
+        titoloProvincia.textContent = "Provincia del Verbano-Cusio-Ossola";
+    }
+    // Qui si distinguono i casi restanti, divisi nei vari enti regionali d'Italia
     else if (cittaMetropolitana) {
         titoloProvincia.textContent = "Città metropolitana di " + provincia;
     }
