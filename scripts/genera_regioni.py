@@ -30,10 +30,18 @@ TEMPLATE = """\
     <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
     <meta property="og:title" content="{NOME_REGIONE} | Elenco Comuni e Province d'Italia | Database Popolazione">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{BASE_URL}/regioni/{SLUG}.html">
-    <meta property="og:image" content="{BASE_URL}/assets/img/pi_icon.png">
+    <meta property="og:url" content="https://provinceitalia.it/regioni/{SLUG}">
+    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
-    <link rel="canonical" href="{BASE_URL}/regioni/{SLUG}.html">
+    <link rel="canonical" href="https://provinceitalia.it/regioni/{SLUG}">
+    <script>
+        if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {{
+            const path = window.location.pathname
+                .replace('/Province-Italia', '')
+                .replace(/\.html$/, '');
+            window.location.replace('https://provinceitalia.it' + path + window.location.search);
+        }}
+    </script>
 
     <link rel="icon" type="image/png" href="../assets/img/pi_icon.png">
     <link rel="stylesheet" href="../assets/css/style.css">
@@ -45,7 +53,7 @@ TEMPLATE = """\
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "{NOME_REGIONE} | Elenco Comuni e Province d'Italia | Database Popolazione",
-            "url": "{BASE_URL}/regioni/{SLUG}.html",
+            "url": "https://provinceitalia.it/regioni/{SLUG}",
             "description": "Elenco completo dei comuni e delle province {DELLA_REGIONE}. Dati demografici Istat aggiornati al 1° gennaio 2026.",
             "breadcrumb": {{
                 "@type": "BreadcrumbList",
@@ -53,12 +61,12 @@ TEMPLATE = """\
                     "@type": "ListItem",
                     "position": 1,
                     "name": "Home",
-                    "item": "{BASE_URL}/"
+                    "item": "https://provinceitalia.it/"
                 }},{{
                     "@type": "ListItem",
                     "position": 2,
                     "name": "{NOME_REGIONE}",
-                    "item": "{BASE_URL}/regioni/{SLUG}.html"
+                    "item": "https://provinceitalia.it/regioni/{SLUG}"
                 }}]
             }}
         }}

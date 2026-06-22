@@ -5,27 +5,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Informativa Privacy | Provinceitalia</title>
+    <title>Informativa Privacy | Elenco Comuni e Province d'Italia | Database Popolazione</title>
     <meta name="description"
-        content="Informativa privacy del sito Provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto." />
+        content="Informativa privacy del sito provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto.">
 
-    <meta property="og:site_name" content="Provinceitalia" />
-    <meta property="og:title" content="Informativa Privacy | Provinceitalia" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://provinceitalia.it/privacy" />
-    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png" />
+    <link rel="canonical" href="https://provinceitalia.it/privacy">
+    <script>
+        if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {
+            const path = window.location.pathname
+                .replace('/Province-Italia', '')
+                .replace(/\.html$/, '');
+            window.location.replace('https://provinceitalia.it' + path + window.location.search);
+        }
+    </script>
 
-    <link rel="icon" type="image/png" href="assets/img/pi_icon.png" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
+    <meta property="og:title" content="Informativa Privacy | Elenco Comuni e Province d'Italia | Database Popolazione">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://provinceitalia.it/privacy">
+    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
+
+    <link rel="icon" type="image/png" href="assets/img/pi_icon.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Informativa Privacy | Provinceitalia",
+            "name": "Informativa Privacy | Database Popolazione",
             "url": "https://provinceitalia.it/privacy",
-            "description": "Informativa privacy del sito Provinceitalia, con dettagli sulle fonti dati e le risorse esterne."
+            "description": "Informativa privacy del sito provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto."
         }
     </script>
 </head>
@@ -39,12 +49,7 @@
             <div class="header2">
                 <h1 class="title">Elenco Comuni e Province d'Italia</h1>
                 <div class="subtitle">
-                    <p class="text-subtitle"><a class="a_link" href="https://demo.istat.it/app/?i=POS&l=it"
-                            target="_blank">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</a></p>
-                    <p class="text-subtitle">In <b>grassetto</b> i capoluoghi di regione</p>
-                    <p class="text-subtitle"><a class="a_link button pointer select-none" href="index.html"><b>Torna
-                                alla
-                                home</b></a></p>
+                    <p class="text-subtitle"><a class="a_link button pointer select-none" href="index.html"><b>Torna alla home</b></a></p>
                 </div>
             </div>
             <div class="header3"></div>
@@ -81,29 +86,36 @@
                 </p>
                 <p>
                     Per maggiori informazioni, è possibile consultare le informative sulla privacy di
-                    <a href="https://www.cloudflare.com/it-it/privacypolicy/" style="color: var(--primary-color, #007bff);" target="_blank"
+                    <a href="https://www.cloudflare.com/it-it/privacypolicy/"
+                        style="color: var(--primary-color, #007bff);" target="_blank"
                         rel="noopener noreferrer">Cloudflare</a> e di
-                    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" style="color: var(--primary-color, #007bff);"
-                        target="_blank" rel="noopener noreferrer">GitHub</a>.
+                    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+                        style="color: var(--primary-color, #007bff);" target="_blank"
+                        rel="noopener noreferrer">GitHub</a>.
                 </p>
             </section>
 
             <section>
                 <h3>3. Dati utilizzati</h3>
                 <p>Le informazioni sul numero di abitanti, comuni e province provengono da dati demografici
-                    ufficiali <a href="https://demo.istat.it/app/?i=POS&l=it" style="color: var(--primary-color, #007bff);" target="_blank" rel="noopener noreferrer">ISTAT</a>,
+                    ufficiali <a href="https://demo.istat.it/app/?i=POS&l=it"
+                        style="color: var(--primary-color, #007bff);" target="_blank"
+                        rel="noopener noreferrer">ISTAT</a>,
                     in particolare dal bilancio demografico al 1° gennaio 2026.</p>
                 <p>Per quanto riguarda l’ordinamento amministrativo aggiornato delle province della Sardegna, sono state
-                    utilizzate anche informazioni tratte da <a href="https://demo.istat.it/app/?i=POS&l=it" style="color: var(--primary-color, #007bff);"
-                        target="_blank" rel="noopener noreferrer">Tuttitalia.it</a>.</p>
+                    utilizzate anche informazioni tratte da <a href="https://demo.istat.it/app/?i=POS&l=it"
+                        style="color: var(--primary-color, #007bff);" target="_blank"
+                        rel="noopener noreferrer">Tuttitalia.it</a>.</p>
             </section>
 
             <section>
                 <h3>4. Mappe e grafica</h3>
                 <p>Le mappe utilizzate per il sito sono basate su dati geografici e SVG creati a partire da risorse
                     esterne. La grafica e le mappe sono state elaborate con il supporto di <a
-                        href="https://simplemaps.com" style="color: var(--primary-color, #007bff);" target="_blank" rel="noopener noreferrer">Simplemaps</a> e <a href="http://www.inkscape.org"
-                        style="color: var(--primary-color, #007bff);" target="_blank" rel="noopener noreferrer">Inkscape</a>.</p>
+                        href="https://simplemaps.com" style="color: var(--primary-color, #007bff);" target="_blank"
+                        rel="noopener noreferrer">Simplemaps</a> e <a href="http://www.inkscape.org"
+                        style="color: var(--primary-color, #007bff);" target="_blank"
+                        rel="noopener noreferrer">Inkscape</a>.</p>
                 <p>Le regioni sono mostrate in formato SVG interattivo per consentire la selezione e la navigazione
                     verso le pagine delle singole province.</p>
             </section>
@@ -128,7 +140,8 @@
             <section>
                 <h3>7. Contatti</h3>
                 <p>Il titolare del trattamento dei dati è Samuele Frasca, contattabile per qualsiasi chiarimento
-                    all'indirizzo email: <a href="mailto:info@provinceitalia.it" style="color: var(--primary-color, #007bff);">info@provinceitalia.it</a>.
+                    all'indirizzo email: <a href="mailto:info@provinceitalia.it"
+                        style="color: var(--primary-color, #007bff);">info@provinceitalia.it</a>.
                 </p>
             </section>
         </div>

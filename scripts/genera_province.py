@@ -392,10 +392,18 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
     <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
     <meta property="og:title" content="{nome} | Elenco Comuni e Province d'Italia | Database Popolazione">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://samuelefrasca.github.io/Province-Italia/province/{slug}.html">
-    <meta property="og:image" content="https://samuelefrasca.github.io/Province-Italia/assets/img/pi_icon.png">
+    <meta property="og:url" content="https://provinceitalia.it/province/{slug}">
+    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
-    <link rel="canonical" href="https://samuelefrasca.github.io/Province-Italia/province/{slug}.html">
+    <link rel="canonical" href="https://provinceitalia.it/province/{slug}">
+    <script>
+        if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {{
+            const path = window.location.pathname
+                .replace('/Province-Italia', '')
+                .replace(/\.html$/, '');
+            window.location.replace('https://provinceitalia.it' + path + window.location.search);
+        }}
+    </script>
 
     <link rel="icon" type="image/png" href="../assets/img/pi_icon.png">
     <link rel="stylesheet" href="../assets/css/style.css">
@@ -407,7 +415,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "{nome} | Elenco Comuni e Province d'Italia | Database Popolazione",
-            "url": "https://samuelefrasca.github.io/Province-Italia/province/{slug}.html",
+            "url": "https://provinceitalia.it/province/{slug}",
             "description": "Elenco completo dei comuni della {titolo_ist}. Dati demografici Istat aggiornati al 1° gennaio 2026.",
             "breadcrumb": {{
                 "@type": "BreadcrumbList",
@@ -415,17 +423,17 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
                     "@type": "ListItem",
                     "position": 1,
                     "name": "Home",
-                    "item": "https://samuelefrasca.github.io/Province-Italia/"
+                    "item": "https://provinceitalia.it/"
                 }},{{
                     "@type": "ListItem",
                     "position": 2,
                     "name": "{regione}",
-                    "item": "https://samuelefrasca.github.io/Province-Italia/regioni/{slug_regione}.html"
+                    "item": "https://provinceitalia.it/regioni/{slug_regione}"
                 }},{{
                     "@type": "ListItem",
                     "position": 3,
                     "name": "{nome}",
-                    "item": "https://samuelefrasca.github.io/Province-Italia/province/{slug}.html"
+                    "item": "https://provinceitalia.it/province/{slug}"
                 }}]
             }}
         }}
