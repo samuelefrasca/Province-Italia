@@ -242,12 +242,29 @@ footer p {
 }
 
 @media (max-width: 768px) {
+
+    .header {
+        flex-direction: column;
+    }
+
+    .header1 .logo {
+        height: 120px;
+    }
+
+    .header3 {
+        display: none;
+    }
+
     main {
         flex-direction: column-reverse;
     }
 
-    .logo {
-        display: none;
+    .title {
+        font-size: 20pt;
+    }
+
+    .text-subtitle {
+        font-size: 10pt;
     }
 
     .pannello-info {
