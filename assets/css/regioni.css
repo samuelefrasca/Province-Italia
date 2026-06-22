@@ -12,3 +12,25 @@ path:hover {
     fill: #a83232;
     /* Colore più chiaro al passaggio del mouse */
 }
+
+/* Barra di ricerca comuni */
+.barra-ricerca {
+    width: calc(100% - 100px);
+    margin: 0px 0px 15px 50px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.3s;
+    box-sizing: border-box;
+}
+
+.barra-ricerca:focus {
+    border-color: #800000;
+}
+
+.barra-ricerca::placeholder {
+    color: #999;
+}

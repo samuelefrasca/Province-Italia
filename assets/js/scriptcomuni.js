@@ -1,4 +1,4 @@
-const titoloProvincia = document.getElementById('titolo-provincia');
+const titoloProvinciaDiv = document.getElementById('titolo-provincia-div');
 const elencoComuni = document.getElementById('elenco-comuni');
 const province = document.querySelectorAll('g[id]');
 const bottonecompleto = document.getElementById('bottone-completo');
@@ -70,54 +70,54 @@ function scritturaComuni(provincia, comuniProvincia, nomeRegione) {
     }
 
     if (provincia == nomeRegione) {
-        titoloProvincia.textContent = "Elenco completo dei comuni della regione " + provincia;
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Elenco completo dei comuni della regione ${provincia}</h2>`
     }
     // In questo punto trattiamo i casi particolari in cui il nome della provincia non si limita a "Provincia di"
     else if (provincia == "Roma") {
-        titoloProvincia.textContent = "Città metropolitana di " + provincia + " Capitale";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Città metropolitana di ${provincia} Capitale</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Monza e Brianza") {
-        titoloProvincia.textContent = "Provincia di Monza e della Brianza";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">PProvincia di Monza e della Brianza</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Bolzano") {
-        titoloProvincia.textContent = "Provincia autonoma di Bolzano - Alto Adige";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia autonoma di Bolzano - Alto Adige</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "L'Aquila") {
-        titoloProvincia.textContent = "Provincia dell'Aquila";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia della'Aquila</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "La Spezia") {
-        titoloProvincia.textContent = "Provincia della Spezia";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia della Spezia</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Gallura Nord-Est Sardegna") {
-        titoloProvincia.textContent = "Provincia della Gallura Nord-Est Sardegna";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia della Gallura Nord-Est Sardegna</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Medio Campidano") {
-        titoloProvincia.textContent = "Provincia del Medio Campidano";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia del Medio Campidano</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Ogliastra") {
-        titoloProvincia.textContent = "Provincia dell'Ogliastra";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia dell'Ogliastra</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Sulcis Iglesiente") {
-        titoloProvincia.textContent = "Provincia del Sulcis Iglesiente";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia del Sulcis Iglesiente</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     else if (provincia == "Verbano-Cusio-Ossola") {
-        titoloProvincia.textContent = "Provincia del Verbano-Cusio-Ossola";
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia del Verbano-Cusio-Ossola</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`
     }
     // Qui si distinguono i casi restanti, divisi nei vari enti regionali d'Italia
     else if (cittaMetropolitana) {
-        titoloProvincia.textContent = "Città metropolitana di " + provincia;
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Città metropolitana di ${provincia}</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`;
     }
     else if (nomeRegione == "Sicilia") {
-        titoloProvincia.textContent = "Libero consorzio comunale di " + provincia;
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Libero consorzio comunale di ${provincia}</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`;
     }
     else if (nomeRegione == "Friuli-Venezia Giulia") {
-        titoloProvincia.textContent = "Ente di decentramento regionale di " + provincia;
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Ente di decentramento regionale di ${provincia}</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`;
     }
     else if (nomeRegione == "Trentino-Alto Adige") {
-        titoloProvincia.textContent = "Provincia autonoma di " + provincia;
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia autonoma di ${provincia}</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`;
     }
     else {
-        titoloProvincia.textContent = "Provincia di " + provincia;
+        titoloProvinciaDiv.innerHTML = `<h2 class="titolo" id="titolo-provincia">Provincia di ${provincia}</h2><a id="estendi" href="../province/${provincia.toLowerCase().replaceAll(" ", "-").replaceAll("'", "-")}.html">Estendi</a>`;
     }
 
     // Crea i punti elenco per ogni provincia

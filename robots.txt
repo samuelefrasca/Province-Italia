@@ -1,1 +1,1 @@
-Sitemap: https://samuelefrasca.github.io/Province-Italia/sitemap.txt
+Sitemap: https://provinceitalia.it/sitemap.xml
