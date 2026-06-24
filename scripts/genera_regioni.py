@@ -267,7 +267,7 @@ TEMPLATE = """\
             </p>
             <p><a class="a_link" href="privacy.html">Privacy Policy</a></p>
             <p><a class="a_link" href="sitemap.xml">Mappa del sito</a></p>
-            <p><a class="a_link" href="mailto:info@unidirectory.it">Contattaci</a></p>
+            <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
         </div>
     </footer>
     <script> const nomeRegione = "{NOME_REGIONE}"; </script>
