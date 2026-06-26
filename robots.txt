@@ -1,1 +1,3 @@
+User-agent: *
+Allow: /
 Sitemap: https://provinceitalia.it/sitemap.xml
