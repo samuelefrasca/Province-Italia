@@ -509,6 +509,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
     <title>{nome} | Elenco Comuni e Province d'Italia | Database Popolazione</title>
     <meta name="description"
         content="Elenco completo dei comuni della {titolo_ist}. Dati demografici Istat aggiornati al 1° gennaio 2026.">
+    <meta name="robots" content="index,follow">
 
     <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
     <meta property="og:title" content="{nome} | Elenco Comuni e Province d'Italia | Database Popolazione">

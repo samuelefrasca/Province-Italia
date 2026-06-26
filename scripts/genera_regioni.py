@@ -26,6 +26,7 @@ TEMPLATE = """\
     <title>{NOME_REGIONE} | Elenco Comuni e Province d'Italia | Database Popolazione</title>
     <meta name="description"
         content="Elenco completo dei comuni e delle province {DELLA_REGIONE}. Dati demografici Istat aggiornati al 1° gennaio 2026.">
+    <meta name="robots" content="index,follow">
 
     <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
     <meta property="og:title" content="{NOME_REGIONE} | Elenco Comuni e Province d'Italia | Database Popolazione">
