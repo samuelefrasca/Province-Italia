@@ -85,8 +85,6 @@ TEMPLATE = """\
                 <div class="subtitle">
                     <p class="text-subtitle"><a class="a_link" href="https://demo.istat.it/app/?i=POS&l=it" target="_blank">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</a></p>
                     <p class="text-subtitle">In <b>grassetto</b> i capoluoghi di provincia</p>
-                    <p id="bottone-completo" class="text-subtitle button pointer select-none"><b>Premi qui per vedere
-                            l'elenco completo dei comuni</b></p>
                 </div>
             </div>
             <div class="header3"></div>
@@ -95,9 +93,10 @@ TEMPLATE = """\
     <main>
         <div class="pannello-info">
             <div class="titolo-div" id="titolo-provincia-div">
-                <h2 class="titolo" id="titolo-provincia">Clicca su una provincia</h2>
+                <h2 class="titolo" id="titolo-provincia">Elenco completo dei comuni</h2>
             </div>
             <h4 class="elementi-trovati" id="elementi-trovati"></h4>
+            <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
             <table class="tabella" id="elenco-comuni"></table>
         </div>
         {SVG}
@@ -274,6 +273,7 @@ TEMPLATE = """\
     <script> const nomeRegione = "{NOME_REGIONE}"; </script>
     <script src="../assets/js/scriptcomuni.js"></script>
     <script src="../assets/js/ordinamentocomuni.js"></script>
+    <script src="../assets/js/ricercacomuni.js"></script>
 </body>
 
 </html>"""

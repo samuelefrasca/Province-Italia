@@ -1,7 +1,6 @@
 const titoloProvinciaDiv = document.getElementById('titolo-provincia-div');
 const elencoComuni = document.getElementById('elenco-comuni');
 const province = document.querySelectorAll('g[id]');
-const bottonecompleto = document.getElementById('bottone-completo');
 const elementiTrovati = document.getElementById('elementi-trovati');
 
 // nomeRegione è il nome del file html preso in considerazione
@@ -24,23 +23,11 @@ function normalizzaNome(nome) {
         .replaceAll("'", "-");
 }
 
-bottonecompleto.addEventListener('click', () => {
-    elencoCompleto(nomeRegione, nomeRegioneHtml, nomeRegione);
-});
-
 province.forEach(provincia => {
     provincia.addEventListener('click', () => {
         const nomeProvincia = provincia.id;
         const nomeProvinciaHtml = normalizzaNome(nomeProvincia);
-        fetch('../data/' + nomeRegioneHtml + '/' + nomeProvinciaHtml + '.json')
-            .then(res => res.json())
-            .then(data => {
-                comuniProvincia = data;
-                provinciaCorrente = nomeProvincia;
-                scritturaComuni(nomeProvincia, comuniProvincia, nomeRegione);
-                flagAlfabetico = true;
-                flagAbitanti = false;
-            })
+        window.location.href = '../province/' + nomeProvinciaHtml + '.html';
     });
 });
 
@@ -183,11 +170,5 @@ function elencoCompleto(nomeRegione, nomeRegioneHtml) {
         });
 }
 
-// Se siamo in Valle d'Aosta, essendoci un solo elenco possibile, lo facciamo partire direttamente senza dover selezionare la provincia
-if (nomeRegione == "Valle d'Aosta") {
-    fetch("../data/valle-d-aosta/valle-d-aosta.json")
-        .then(res => res.json())
-        .then(data => {
-            scritturaComuni("Valle d'Aosta", data, "Valle d'Aosta");
-        })
-}
+// Carica automaticamente l'elenco completo dei comuni della regione
+elencoCompleto(nomeRegione, nomeRegioneHtml);

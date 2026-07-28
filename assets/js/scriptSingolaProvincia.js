@@ -57,8 +57,11 @@ function slugify(nome) {
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '')
         .toLowerCase()
+        .trim()
+        .replace(/[\'’]/g, '-')
         .replace(/\s+/g, '-')
-        .replace(/[^a-z0-9\-]/g, '');
+        .replace(/[^a-z0-9\-]/g, '')
+        .replace(/-+/g, '-');
 }
 
 function inizializzaNavigazioneMappa() {

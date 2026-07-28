@@ -4,6 +4,28 @@ const elementiTrovati = document.getElementById('elementi-trovati');
 const legendaProvince = document.getElementById('legenda');
 
 function scritturaProvince(nomeRegione, provinceTrovate) {
+    let barraRicerca = document.getElementById('barra-ricerca');
+    if (!barraRicerca) {
+        barraRicerca = document.createElement('input');
+        barraRicerca.type = 'text';
+        barraRicerca.id = 'barra-ricerca';
+        barraRicerca.className = 'barra-ricerca';
+        barraRicerca.placeholder = 'Cerca una provincia...';
+        elencoProvince.parentNode.insertBefore(barraRicerca, elencoProvince);
+
+        barraRicerca.addEventListener('keyup', function () {
+            const filtro = barraRicerca.value.toLowerCase();
+            if (filtro === '') {
+                scritturaProvince(regioneCorrente, provinceCorrenti);
+            } else {
+                const provinceFiltrate = provinceCorrenti.filter(provincia =>
+                    provincia.nome.toLowerCase().includes(filtro)
+                );
+                scritturaProvince(regioneCorrente, provinceFiltrate);
+            }
+        });
+    }
+
     elencoProvince.innerHTML = ''; // Svuota la lista vecchia
     legendaProvince.innerHTML = '';
     if (elencoProvince.innerHTML == '') {
@@ -111,6 +133,7 @@ fetch('data/province.json')
                 flagAlfabetico = true;
                 flagAbitanti = false;
                 flagRegione = false;
+                document.getElementById('barra-ricerca').value = '';
             });
         });
     });
@@ -136,4 +159,5 @@ function elencoCompleto() {
     flagAlfabetico = true;
     flagAbitanti = false;
     flagRegione = false;
+    document.getElementById('barra-ricerca').value = '';
 }
