@@ -44,6 +44,51 @@ function formattaNumero(n) {
     return n.toLocaleString('it-IT', { useGrouping: 'always' });
 }
 
+function slugifyTesto(valore) {
+    return String(valore)
+        .normalize('NFKD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/(^-|-$)/g, '');
+}
+
+function getSlugProvincia(nomeProvincia) {
+    return nomeProvincia ? slugifyTesto(nomeProvincia) : '';
+}
+
+function getSlugRegione(nomeRegione) {
+    if (!nomeRegione) {
+        return '';
+    }
+
+    const slugRegioni = {
+        'Abruzzo': 'abruzzo',
+        'Basilicata': 'basilicata',
+        'Calabria': 'calabria',
+        'Campania': 'campania',
+        'Emilia-Romagna': 'emilia-romagna',
+        'Friuli-Venezia Giulia': 'friuli-venezia-giulia',
+        'Lazio': 'lazio',
+        'Liguria': 'liguria',
+        'Lombardia': 'lombardia',
+        'Marche': 'marche',
+        'Molise': 'molise',
+        'Piemonte': 'piemonte',
+        'Puglia': 'puglia',
+        'Sardegna': 'sardegna',
+        'Sicilia': 'sicilia',
+        'Toscana': 'toscana',
+        'Trentino-Alto Adige': 'trentino-alto-adige',
+        'Umbria': 'umbria',
+        'Valle d\'Aosta': 'valle-d-aosta',
+        'Veneto': 'veneto'
+    };
+
+    return slugRegioni[nomeRegione] || slugifyTesto(nomeRegione);
+}
+
 function scriviTabella(comuni) {
     const tabella = document.getElementById('elenco-comuni');
     const elementiTrovati = document.getElementById('elementi-trovati');
@@ -63,11 +108,17 @@ function scriviTabella(comuni) {
         popolazioneTotale += c.popolazione_totale;
         const classi = getClassiRiga(c);
         const classiAttr = classi.length > 0 ? ' class="' + classi.join(' ') + '"' : '';
+        const provinciaHtml = c.provincia
+            ? '<a class="comunihref" href="/province/' + getSlugProvincia(c.provincia) + '.html">' + c.provincia + '</a>'
+            : '';
+        const regioneHtml = c.regione
+            ? '<a class="comunihref" href="/regioni/' + getSlugRegione(c.regione) + '.html">' + c.regione + '</a>'
+            : '';
         html += '<tr' + classiAttr + '>'
             + '<td class="el index' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + (i + 1) + '</td>'
             + '<td class="el nome' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + c.comune + '</td>'
-            + '<td class="el provincia' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + c.provincia + '</td>'
-            + '<td class="el regione' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + c.regione + '</td>'
+            + '<td class="el provincia' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + provinciaHtml + '</td>'
+            + '<td class="el regione' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + regioneHtml + '</td>'
             + '<td class="el abitanti' + (classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '') + '">' + pop + '</td>'
             + '</tr>';
     }
