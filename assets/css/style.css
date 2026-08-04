@@ -272,6 +272,15 @@ footer p {
     color: #999;
 }
 
+.comunihref {
+    color: black;
+    text-decoration: none;
+}
+
+.comunihref:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 768px) {
 
     .header {

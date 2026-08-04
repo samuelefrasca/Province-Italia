@@ -1,175 +1,183 @@
-<!DOCTYPE html>
-<html lang="it">
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+genera_comuni.py
+Genera il file comuni.html nella root del progetto.
+Legge tutti i file JSON dei comuni da data/<regione>/<provincia>.json
+e costruisce una tabella con colonne: Comune, Provincia, Regione, Popolazione.
+Il JavaScript di ordinamento e ricerca è in un file esterno:
+  assets/js/scriptElencoCompletoComuni.js
+"""
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+import json
+import os
+import re
+import unicodedata
 
-    <title>Informativa Privacy | Elenco Comuni e Province d'Italia | Database Popolazione</title>
-    <meta name="description"
-        content="Informativa privacy del sito provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto.">
-    <meta name="robots" content="index,follow">
+# ---------------------------------------------------------------------------
+# Mappa regione → slug cartella
+# ---------------------------------------------------------------------------
+REGIONE_SLUG = {
+    "Abruzzo":              "abruzzo",
+    "Basilicata":           "basilicata",
+    "Calabria":             "calabria",
+    "Campania":             "campania",
+    "Emilia-Romagna":       "emilia-romagna",
+    "Friuli-Venezia Giulia":"friuli-venezia-giulia",
+    "Lazio":                "lazio",
+    "Liguria":              "liguria",
+    "Lombardia":            "lombardia",
+    "Marche":               "marche",
+    "Molise":               "molise",
+    "Piemonte":             "piemonte",
+    "Puglia":               "puglia",
+    "Sardegna":             "sardegna",
+    "Sicilia":              "sicilia",
+    "Toscana":              "toscana",
+    "Trentino-Alto Adige":  "trentino-alto-adige",
+    "Umbria":               "umbria",
+    "Valle d'Aosta":        "valle-d-aosta",
+    "Veneto":               "veneto",
+}
 
-    <link rel="canonical" href="https://provinceitalia.it/privacy">
-    <script>
-        if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {
-            const path = window.location.pathname
-                .replace('/Province-Italia', '')
-                .replace(/\.html$/, '');
-            window.location.replace('https://provinceitalia.it' + path + window.location.search);
-        }
-    </script>
+REGIONE_CAPOLUOGHI = {
+    "Abruzzo": "L'Aquila",
+    "Basilicata": "Potenza",
+    "Calabria": "Catanzaro",
+    "Campania": "Napoli",
+    "Emilia-Romagna": "Bologna",
+    "Friuli-Venezia Giulia": "Trieste",
+    "Lazio": "Roma",
+    "Liguria": "Genova",
+    "Lombardia": "Milano",
+    "Marche": "Ancona",
+    "Molise": "Campobasso",
+    "Piemonte": "Torino",
+    "Puglia": "Bari",
+    "Sardegna": "Cagliari",
+    "Sicilia": "Palermo",
+    "Toscana": "Firenze",
+    "Trentino-Alto Adige": "Trento",
+    "Umbria": "Perugia",
+    "Valle d'Aosta": "Aosta",
+    "Veneto": "Venezia",
+}
 
-    <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
-    <meta property="og:title" content="Informativa Privacy | Elenco Comuni e Province d'Italia | Database Popolazione">
-    <meta property="og:description"
-        content="Informativa privacy del sito provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://provinceitalia.it/privacy">
-    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Informativa Privacy | Elenco Comuni e Province d'Italia | Database Popolazione">
-    <meta name="twitter:description"
-        content="Informativa privacy del sito provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto.">
-    <meta name="twitter:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
+def formatta_numero(n: int) -> str:
+    """Formatta un numero con il separatore delle migliaia italiano (punto)."""
+    return f"{n:,}".replace(",", ".")
 
-    <link rel="icon" type="image/png" href="assets/img/pi_icon.png">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "PrivacyPolicy",
-            "name": "Informativa Privacy | Database Popolazione",
-            "url": "https://provinceitalia.it/privacy",
-            "description": "Informativa privacy del sito provinceitalia. Fonti dati, mappe, icone e risorse esterne utilizzate per il progetto."
-        }
-    </script>
-</head>
+def get_classi_riga(c: dict) -> list[str]:
+    """Restituisce le classi CSS da applicare alla riga in base al ruolo del comune."""
+    classi = []
+    if c.get("capoluogo"):
+        classi.append("capoluogo-provincia")
+    if c.get("comune") and c.get("regione"):
+        if c["comune"] == REGIONE_CAPOLUOGHI.get(c["regione"], ""):
+            classi.append("capoluogo-regione")
+    return classi
 
-<body>
-    <header>
-        <div class="header container">
-            <div class="header1">
-                <a href="index.html"><img class="logo" src="assets/img/pi_image.png" alt="pi_image" height="220px"></a>
-            </div>
-            <div class="header2">
-                <h1 class="title">Elenco Comuni e Province d'Italia</h1>
-                <div class="subtitle">
-                    <p class="text-subtitle"><a class="a_link button pointer select-none" href="index.html"><b>Torna
-                                alla home</b></a></p>
-                </div>
-            </div>
-            <div class="header3"></div>
-        </div>
-    </header>
 
-    <main>
-        <div class="privacy-content">
-            <div class="titolo-div">
-                <h2 class="titolo">Informativa sul trattamento dei dati personali</h2>
-            </div>
+def carica_tutti_i_comuni() -> list[dict]:
+    """
+    Legge tutti i file JSON nelle sotto-cartelle di data/ e
+    restituisce una lista di dict con chiavi: comune, provincia, regione, popolazione_totale.
+    """
+    tutti = []
+    for regione, slug_regione in REGIONE_SLUG.items():
+        cartella = os.path.join("data", slug_regione)
+        if not os.path.isdir(cartella):
+            print(f"  ATTENZIONE: cartella mancante {cartella}")
+            continue
+        for nome_file in sorted(os.listdir(cartella)):
+            if not nome_file.endswith(".json"):
+                continue
+            percorso = os.path.join(cartella, nome_file)
+            with open(percorso, encoding="utf-8") as f:
+                comuni = json.load(f)
+            for c in comuni:
+                tutti.append({
+                    "comune": c["comune"],
+                    "provincia": c.get("provincia", ""),
+                    "regione": c.get("regione", regione),
+                    "popolazione_totale": c["popolazione_totale"],
+                    "capoluogo": c.get("capoluogo", False),
+                })
+    # Ordina alfabeticamente per nome comune
+    tutti.sort(key=lambda x: x["comune"].lower())
+    return tutti
 
-            <section>
-                <h3>1. Nessun tracciamento e nessun cookie di profilazione</h3>
-                <p>Questo sito web ha uno scopo puramente informativo. Non richiede alcuna registrazione, non permette
-                    la
-                    creazione di account, non raccoglie attivamente dati personali e non utilizza cookie di
-                    profilazione, di
-                    tracciamento o pubblicitari.</p>
-            </section>
 
-            <section>
-                <h3>2. Dati di navigazione e Hosting</h3>
-                <p>
-                    Il sito è ospitato sulle piattaforme Cloudflare Pages e GitHub Pages. I sistemi informatici preposti
-                    al
-                    funzionamento di questo sito acquisiscono, nel corso del loro normale esercizio, alcuni dati tecnici
-                    (come
-                    gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti). Questi dati vengono
-                    elaborati
-                    dai rispettivi provider esclusivamente per scopi tecnici, per garantire la sicurezza del sito,
-                    prevenire
-                    attacchi informatici e ottimizzare le prestazioni.
-                </p>
-                <p>
-                    Per maggiori informazioni, è possibile consultare le informative sulla privacy di
-                    <a href="https://www.cloudflare.com/it-it/privacypolicy/"
-                        style="color: var(--primary-color, #007bff);" target="_blank"
-                        rel="noopener noreferrer">Cloudflare</a> e di
-                    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
-                        style="color: var(--primary-color, #007bff);" target="_blank"
-                        rel="noopener noreferrer">GitHub</a>.
-                </p>
-            </section>
+def slugify_testo(valore: str) -> str:
+    """Converte un testo in uno slug adatto alle URL delle pagine del sito."""
+    testo = unicodedata.normalize("NFKD", valore)
+    testo = "".join(char for char in testo if not unicodedata.combining(char))
+    testo = testo.lower()
+    testo = re.sub(r"[^a-z0-9]+", "-", testo).strip("-")
+    return testo
 
-            <section>
-                <h3>3. Dati utilizzati</h3>
-                <p>Le informazioni sul numero di abitanti, comuni e province provengono da dati demografici
-                    ufficiali <a href="https://demo.istat.it/app/?i=POS&l=it"
-                        style="color: var(--primary-color, #007bff);" target="_blank"
-                        rel="noopener noreferrer">ISTAT</a>,
-                    in particolare dal bilancio demografico al 1° gennaio 2026.</p>
-                <p>Per quanto riguarda l’ordinamento amministrativo aggiornato delle province della Sardegna, sono state
-                    utilizzate anche informazioni tratte da <a href="https://www.tuttitalia.it"
-                        style="color: var(--primary-color, #007bff);" target="_blank"
-                        rel="noopener noreferrer">Tuttitalia.it</a>.</p>
-            </section>
 
-            <section>
-                <h3>4. Mappe e grafica</h3>
-                <p>Le mappe utilizzate per il sito sono basate su dati geografici e SVG creati a partire da risorse
-                    esterne. La grafica e le mappe sono state elaborate con il supporto di <a
-                        href="https://simplemaps.com" style="color: var(--primary-color, #007bff);" target="_blank"
-                        rel="noopener noreferrer">Simplemaps</a> e <a href="http://www.inkscape.org"
-                        style="color: var(--primary-color, #007bff);" target="_blank"
-                        rel="noopener noreferrer">Inkscape</a>.</p>
-                <p>Le regioni sono mostrate in formato SVG interattivo per consentire la selezione e la navigazione
-                    verso le pagine delle singole province.</p>
-            </section>
+def get_slug_provincia(nome_provincia: str) -> str:
+    """Restituisce lo slug della pagina della provincia."""
+    return slugify_testo(nome_provincia)
 
-            <section>
-                <h3>5. Risorse di terze parti</h3>
-                <p>Questo sito utilizza la libreria Font Awesome, caricata tramite il CDN cdnjs.cloudflare.com, per la
-                    visualizzazione delle icone. Il caricamento di questa risorsa comporta una connessione diretta del
-                    browser dell'utente ai server del CDN, che potrebbe acquisire dati tecnici come l'indirizzo IP. Non
-                    vengono installati cookie di profilazione tramite questo servizio.
-                    I caratteri tipografici (Google Fonts) sono invece scaricati e serviti localmente e non comportano
-                    alcuna connessione a server esterni.</p>
-            </section>
 
-            <section>
-                <h3>6. Diritti dell'interessato</h3>
-                <p>Sebbene questo sito non raccolga dati personali, gli utenti hanno comunque il diritto,
-                    ai sensi degli artt. 15-22 del Regolamento UE 2016/679 (GDPR), di richiedere
-                    informazioni, accesso, rettifica o cancellazione di eventuali dati che li riguardano.
-                    Per qualsiasi richiesta è possibile contattare il titolare all'indirizzo email indicato
-                    di seguito.</p>
-            </section>
+def genera_righe_tabella(comuni: list[dict]) -> str:
+    """Genera le righe HTML della tabella."""
+    righe = []
+    popolazione_totale = 0
 
-            <section>
-                <h3>7. Contatti e comunicazioni</h3>
-                <p>L'invio facoltativo, esplicito e volontario di posta elettronica all'indirizzo indicato su questo
-                    sito
-                    comporta la successiva acquisizione dell'indirizzo del mittente, necessario per rispondere alle
-                    richieste,
-                    nonché degli eventuali altri dati personali inseriti nella missiva.</p>
-            </section>
+    for i, c in enumerate(comuni, start=1):
+        pop = c["popolazione_totale"]
+        popolazione_totale += pop
+        pop_str = formatta_numero(pop)
 
-            <section>
-                <h3>8. Titolare del trattamento</h3>
-                <p>Il titolare del trattamento dei dati è Samuele Frasca, contattabile per qualsiasi chiarimento
-                    all'indirizzo email: <a href="mailto:info@provinceitalia.it"
-                        style="color: var(--primary-color, #007bff);">info@provinceitalia.it</a>.
-                </p>
-            </section>
+        classi = get_classi_riga(c)
+        classi_attr = " ".join(classi) if classi else ""
+        classe_cell = " capoluogo-provincia-cell" if "capoluogo-provincia" in classi else ""
 
-            <section>
-                <p><em>Ultimo aggiornamento: giugno 2026</em></p>
-            </section>
-        </div>
+        provincia = c["provincia"]
+        regione = c["regione"]
+        provincia_slug = get_slug_provincia(provincia) if provincia else ""
+        regione_slug = REGIONE_SLUG.get(regione, slugify_testo(regione)) if regione else ""
+
+        provincia_html = (
+            f'<a class="comunihref" href="/province/{provincia_slug}.html">{provincia}</a>' if provincia_slug else provincia
+        )
+        regione_html = (
+            f'<a class="comunihref" href="/regioni/{regione_slug}.html">{regione}</a>' if regione_slug else regione
+        )
+
+        righe.append(
+            f'                    <tr class="{classi_attr}">'
+            f'<td class="el index{classe_cell}">{i}</td>'
+            f'<td class="el nome{classe_cell}">{c["comune"]}</td>'
+            f'<td class="el provincia{classe_cell}">{provincia_html}</td>'
+            f'<td class="el regione{classe_cell}">{regione_html}</td>'
+            f'<td class="el abitanti{classe_cell}">{pop_str}</td>'
+            f'</tr>'
+        )
+
+    # Riga totale
+    righe.append(
+        f'                    <tr>'
+        f'<td class="index"></td>'
+        f'<td class="fel nome"><strong>Popolazione totale</strong></td>'
+        f'<td class="fel provincia"><strong></strong></td>'
+        f'<td class="fel regione"><strong></strong></td>'
+        f'<td class="fel abitanti"><strong>{formatta_numero(popolazione_totale)}</strong></td>'
+        f'</tr>'
+    )
+
+    return "\n".join(righe)
+
+
+# ---------------------------------------------------------------------------
+# Navigazione SEO (copiata dagli altri generatori)
+# ---------------------------------------------------------------------------
+NAV_INVISIBILE = """\
         <nav class="nav-invisibile">
             <h3>Pagine Principali</h3>
             <ul>
@@ -316,7 +324,125 @@
                 <li><a href="https://provinceitalia.it/province/vicenza">Vicenza</a></li>
                 <li><a href="https://provinceitalia.it/province/viterbo">Viterbo</a></li>
             </ul>
-        </nav>
+        </nav>"""
+
+
+def genera_html(comuni: list[dict]) -> str:
+    """Genera l'intero file comuni.html."""
+    num_comuni = len(comuni)
+    tabella_html = genera_righe_tabella(comuni)
+
+    # Serializziamo i dati dei comuni in JSON per il JavaScript
+    comuni_json = json.dumps(comuni, ensure_ascii=False)
+
+    html = f"""\
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Elenco completo dei comuni d'Italia | Database Popolazione</title>
+    <meta name="description"
+        content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
+    <meta name="robots" content="index,follow">
+
+    <link rel="canonical" href="https://provinceitalia.it/comuni">
+    <script>
+        if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {{
+            const path = window.location.pathname
+                .replace('/Province-Italia', '')
+                .replace(/\\.html$/, '');
+            window.location.replace('https://provinceitalia.it' + path + window.location.search);
+        }}
+    </script>
+
+    <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
+    <meta property="og:title" content="Elenco completo dei comuni d'Italia | Database Popolazione">
+    <meta property="og:description"
+        content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://provinceitalia.it/comuni">
+    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Elenco completo dei comuni d'Italia | Database Popolazione">
+    <meta name="twitter:description"
+        content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
+    <meta name="twitter:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
+
+    <link rel="icon" type="image/png" href="assets/img/pi_icon.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        tr.capoluogo-provincia td,
+        td.capoluogo-provincia-cell {{
+            font-weight: 700;
+        }}
+        tr.capoluogo-regione,
+        tr.capoluogo-regione td {{
+            background-color: #fff8c5 !important;
+        }}
+    </style>
+
+    <script type="application/ld+json">
+        {{
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Elenco completo dei comuni d'Italia | Database Popolazione",
+            "url": "https://provinceitalia.it/comuni",
+            "description": "Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026."
+        }}
+    </script>
+</head>
+
+<body>
+    <header>
+        <div class="header container">
+            <div class="header1">
+                <a href="index.html"><img class="logo" src="assets/img/pi_image.png" alt="pi_image" height="220px"></a>
+            </div>
+            <div class="header2">
+                <h1 class="title">Elenco completo dei comuni d'Italia</h1>
+                <div class="subtitle">
+                    <p class="text-subtitle"><a class="a_link" href="https://demo.istat.it/app/?i=POS&l=it"
+                            target="_blank">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</a></p>
+                    <p class="text-subtitle">In <b>grassetto</b> i capoluoghi di provincia, con sfondo giallo i capoluoghi di regione</p>
+                    <p class="text-subtitle"><a class="a_link button pointer select-none" href="index.html"><b>Torna
+                                alla home</b></a></p>
+                </div>
+            </div>
+            <div class="header3"></div>
+        </div>
+    </header>
+
+    <main>
+        <div class="pannello-info" style="width: 80%; margin-left: auto; margin-right: auto;">
+            <div class="titolo-div" id="titolo-provincia-div">
+                <h2 class="titolo" id="titolo-provincia">Elenco completo dei comuni d'Italia</h2>
+            </div>
+            <h4 class="elementi-trovati" id="elementi-trovati">{num_comuni} comuni</h4>
+            <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
+            <table class="tabella" id="elenco-comuni"
+                style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
+                <tbody>
+                    <tr>
+                        <th class="index"></th>
+                        <th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i
+                                class="fa-solid fa-sort"></i></th>
+                        <th class="hel provincia pointer select-none" onclick="ordinaPerProvincia(flagProvincia)">Provincia <i
+                                class="fa-solid fa-sort"></i></th>
+                        <th class="hel regione pointer select-none" onclick="ordinaPerRegione(flagRegione)">Regione <i
+                                class="fa-solid fa-sort"></i></th>
+                        <th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">
+                            Popolazione <i class="fa-solid fa-sort"></i></th>
+                    </tr>
+{tabella_html}
+                </tbody>
+            </table>
+        </div>
+{NAV_INVISIBILE}
     </main>
 
     <footer>
@@ -344,8 +470,27 @@
         </div>
     </footer>
 
-    <script src="assets/js/scriptprovince.js"></script>
-    <script src="assets/js/ordinamentoprovince.js"></script>
+    <script> const tuttiComuni = {comuni_json}; </script>
+    <script src="assets/js/scriptElencoCompletoComuni.js"></script>
 </body>
 
-</html>
+</html>"""
+    return html
+
+
+def main():
+    print("Caricamento comuni da data/...")
+    comuni = carica_tutti_i_comuni()
+    print(f"  Trovati {len(comuni)} comuni.")
+
+    html = genera_html(comuni)
+
+    out_path = "comuni.html"
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(html)
+
+    print(f"Generato: {out_path}")
+
+
+if __name__ == "__main__":
+    main()

@@ -181,6 +181,7 @@ NAV_REGIONI = """            <nav class="nav-invisibile">
     <ul>
         <li><a href="https://provinceitalia.it/">Home</a></li>
         <li><a href="https://provinceitalia.it/privacy">Privacy</a></li>
+        <li><a href="https://provinceitalia.it/comuni">Comuni</a></li>
     </ul>
 
     <h3>Elenco Regioni</h3>
