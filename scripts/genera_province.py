@@ -507,13 +507,13 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{nome} | Elenco Comuni e Province d'Italia | Database Popolazione</title>
+    <title>{nome} | ProvinceItalia | Province e Comuni d'Italia per Popolazione</title>
     <meta name="description"
         content="Elenco completo dei comuni della {titolo_ist}. Dati demografici Istat aggiornati al 1° gennaio 2026.">
     <meta name="robots" content="index,follow">
 
-    <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
-    <meta property="og:title" content="{nome} | Elenco Comuni e Province d'Italia | Database Popolazione">
+    <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
+    <meta property="og:title" content="{nome} | ProvinceItalia | Province e Comuni d'Italia per Popolazione">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://provinceitalia.it/province/{slug}">
     <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
@@ -537,7 +537,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
         {{
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "{nome} | Elenco Comuni e Province d'Italia | Database Popolazione",
+            "name": "{nome} | ProvinceItalia | Province e Comuni d'Italia per Popolazione",
             "url": "https://provinceitalia.it/province/{slug}",
             "description": "Elenco completo dei comuni della {titolo_ist}. Dati demografici Istat aggiornati al 1° gennaio 2026.",
             "breadcrumb": {{
@@ -598,7 +598,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
     </main>
     <footer>
         <div class="subfooter">
-            <p>&copy; 2026 -
+            <p>&copy; 2026 ProvinceItalia ·
                 <a class="a_link" href="https://samuelefrasca.github.io/" target="_blank"
                     rel="noopener noreferrer">Samuele Frasca</a>
             </p>
@@ -610,13 +610,14 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
             </p>
         </div>
         <div class="subfooter">
-            <p>Fonte mappe:
+            <p>Mappe:
                 <a href="https://simplemaps.com" class="a_link" target="_blank" rel="noopener noreferrer">Simplemaps</a>
                 &middot;
                 <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
             </p>
-            <p><a class="a_link" href="privacy.html">Privacy Policy</a></p>
-            <p><a class="a_link" href="sitemap.xml">Mappa del sito</a></p>
+            <p><a class="a_link" href="../about.html">About</a></p>
+            <p><a class="a_link" href="../privacy.html">Privacy Policy</a></p>
+            <p><a class="a_link" href="../sitemap.xml">Sitemap</a></p>
             <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
         </div>
     </footer>

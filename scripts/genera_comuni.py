@@ -343,7 +343,7 @@ def genera_html(comuni: list[dict]) -> str:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Elenco completo dei comuni d'Italia | Database Popolazione</title>
+    <title>Elenco completo dei comuni d'Italia | ProvinceItalia</title>
     <meta name="description"
         content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
     <meta name="robots" content="index,follow">
@@ -358,8 +358,8 @@ def genera_html(comuni: list[dict]) -> str:
         }}
     </script>
 
-    <meta property="og:site_name" content="Elenco Comuni e Province d'Italia | Database Popolazione">
-    <meta property="og:title" content="Elenco completo dei comuni d'Italia | Database Popolazione">
+    <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
+    <meta property="og:title" content="Elenco completo dei comuni d'Italia | ProvinceItalia">
     <meta property="og:description"
         content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
     <meta property="og:type" content="website">
@@ -367,7 +367,7 @@ def genera_html(comuni: list[dict]) -> str:
     <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Elenco completo dei comuni d'Italia | Database Popolazione">
+    <meta name="twitter:title" content="Elenco completo dei comuni d'Italia | ProvinceItalia">
     <meta name="twitter:description"
         content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
     <meta name="twitter:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
@@ -390,7 +390,7 @@ def genera_html(comuni: list[dict]) -> str:
         {{
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Elenco completo dei comuni d'Italia | Database Popolazione",
+            "name": "Elenco completo dei comuni d'Italia | ProvinceItalia",
             "url": "https://provinceitalia.it/comuni",
             "description": "Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026."
         }}
@@ -447,7 +447,7 @@ def genera_html(comuni: list[dict]) -> str:
 
     <footer>
         <div class="subfooter">
-            <p>&copy; 2026 -
+            <p>&copy; 2026 ProvinceItalia ·
                 <a class="a_link" href="https://samuelefrasca.github.io/" target="_blank"
                     rel="noopener noreferrer">Samuele Frasca</a>
             </p>
@@ -459,13 +459,14 @@ def genera_html(comuni: list[dict]) -> str:
             </p>
         </div>
         <div class="subfooter">
-            <p>Fonte mappe:
+            <p>Mappe:
                 <a href="https://simplemaps.com" class="a_link" target="_blank" rel="noopener noreferrer">Simplemaps</a>
                 &middot;
                 <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
             </p>
-            <p><a class="a_link" href="index.html">Torna alla home</a></p>
-            <p><a class="a_link" href="sitemap.xml">Mappa del sito</a></p>
+            <p><a class="a_link" href="about.html">About</a></p>
+            <p><a class="a_link" href="privacy.html">Privacy Policy</a></p>
+            <p><a class="a_link" href="sitemap.xml">Sitemap</a></p>
             <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
         </div>
     </footer>

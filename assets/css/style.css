@@ -328,4 +328,13 @@ footer p {
         position: absolute;
         left: -9999px;
     }
+
+    .subfooter {
+        flex-direction: column;
+        gap: 0px;
+    }
+
+    .subfooter p {
+        margin: 7px;
+    }
 }
