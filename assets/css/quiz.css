@@ -1,0 +1,109 @@
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.startelement {
+    display: block;
+    margin: 10px auto;
+}
+
+.quantedomandevuoi {
+    margin-top: 15px;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.range {
+    margin-top: 16px;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 12pt;
+    border: 1px solid black;
+}
+
+/* Per rendere sempre visibili le frecce dell'input numerico */
+#numeroQuiz::-webkit-inner-spin-button,
+#numeroQuiz::-webkit-outer-spin-button {
+    opacity: 1;
+}
+
+.startbutton {
+    margin-top: 16px;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: white;
+    border: 1px solid black;
+    transition: .2s;
+    font-size: 12pt;
+    cursor: pointer;
+}
+
+.startbutton:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
+    background-color: #eee;
+}
+
+/* Domande del quiz */
+
+.conteggiodomande {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.domanda {
+    margin: 10px 0px;
+}
+
+.opzione {
+    list-style: none;
+    padding: 20px;
+    max-width: 200px;
+    text-align: center;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    transition: .3s;
+}
+
+.opzione:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
+    background-color: #eee;
+}
+
+.esito {
+    text-align: center;
+}
+
+.continuabutton {
+    display: block;
+    margin: 10px auto 0;
+    padding: 5px 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 100px;
+    background-color: #fff;
+    font-size: 12pt;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.continuabutton:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .25);
+    background-color: #eee;
+}
+
+.giocofinito {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.esitofinale {
+    margin-top: 10px;
+    font-size: 16pt;
+}

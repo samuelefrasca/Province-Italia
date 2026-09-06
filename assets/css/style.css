@@ -5,6 +5,11 @@
     font-display: swap;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -13,8 +18,6 @@ body {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
-    margin: 0;
-    padding: 0;
     background-color: #eee;
     min-height: 100vh;
     display: flex;
@@ -53,6 +56,27 @@ header {
     text-align: center;
     color: #fff;
     margin: 12px;
+}
+
+.button {
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid #800000;
+    border-radius: 20px;
+    background-color: #fff;
+    color: #800000;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+.button:hover {
+    border: 1px solid #fff;
+    background-color: #800000;
+    color: white;
+}
+
+.quiz-button {
+    width: 70%;
 }
 
 path {
@@ -228,23 +252,6 @@ footer p {
     margin-right: 5px;
 }
 
-.button {
-    cursor: pointer;
-    display: inline-block;
-    border: 1px solid #800000;
-    border-radius: 20px;
-    background-color: #fff;
-    color: #800000;
-    padding: 10px;
-    transition: all 0.3s;
-}
-
-.button:hover {
-    border: 1px solid #fff;
-    background-color: #800000;
-    color: white;
-}
-
 .nav-invisibile {
     position: absolute;
     left: -9999px;
@@ -305,6 +312,11 @@ footer p {
 
     .text-subtitle {
         font-size: 10pt;
+    }
+
+    .button {
+        width: 80%;
+        margin: 6px 12px;
     }
 
     .pannello-info {
