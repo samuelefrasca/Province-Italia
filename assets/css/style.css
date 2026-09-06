@@ -58,23 +58,6 @@ header {
     margin: 12px;
 }
 
-.button {
-    cursor: pointer;
-    display: inline-block;
-    border: 1px solid #800000;
-    border-radius: 20px;
-    background-color: #fff;
-    color: #800000;
-    padding: 10px;
-    transition: all 0.3s;
-}
-
-.button:hover {
-    border: 1px solid #fff;
-    background-color: #800000;
-    color: white;
-}
-
 .quiz-button {
     width: 70%;
 }
@@ -250,6 +233,23 @@ footer p {
 .github-logo {
     height: 17px;
     margin-right: 5px;
+}
+
+.button {
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid #800000;
+    border-radius: 20px;
+    background-color: #fff;
+    color: #800000;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+.button:hover {
+    border: 1px solid #fff;
+    background-color: #800000;
+    color: white;
 }
 
 .nav-invisibile {
