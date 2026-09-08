@@ -3,6 +3,11 @@
     margin: 0 auto;
 }
 
+main {
+    flex: 0 0 auto;
+    text-align: center;
+}
+
 .startelement {
     display: block;
     margin: 10px auto;
@@ -54,6 +59,7 @@
 
 .domanda {
     margin: 10px 0px;
+    text-align: center;
 }
 
 .opzione {
