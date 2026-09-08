@@ -249,7 +249,17 @@ footer p {
 .button:hover {
     border: 1px solid #fff;
     background-color: #800000;
-    color: white;
+    color: #fff;
+}
+
+.header-button {
+    color: #800000;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.header-button:hover {
+    color: #fff;
 }
 
 .nav-invisibile {
