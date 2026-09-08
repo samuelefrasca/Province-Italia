@@ -4,8 +4,13 @@
 }
 
 main {
-    flex: 0 0 auto;
     text-align: center;
+}
+
+@media (max-width: 768px) {
+    main {
+        flex: 0 0 auto;
+    }
 }
 
 .startelement {
