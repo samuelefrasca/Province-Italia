@@ -253,6 +253,7 @@ footer p {
 }
 
 .header-button {
+    font-weight: bold;
     color: #800000;
     text-decoration: none;
     transition: all 0.3s;
