@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Indovina la Regione | Quiz ProvinceItalia</title>
+    <meta name="description"
+        content="Metti alla prova la tua conoscenza delle province italiane con il quiz di ProvinceItalia. Indovina in quale regione si trova ogni provincia.">
+    <meta name="robots" content="index,follow">
+
+    <link rel="canonical" href="https://quiz.provinceitalia.it/indovina-regione.html">
+    <script>
+        if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'quiz-province-italia.pages.dev') {
+            const path = window.location.pathname
+                .replace('/Province-Italia', '')
+                .replace(/\.html$/, '');
+            window.location.replace('https://provinceitalia.it' + path + window.location.search);
+        }
+
+        if (window.location.hostname === 'provinceitalia.it') {
+            if (window.location.pathname.startsWith('/quiz/')) {
+                window.location.replace('https://quiz.provinceitalia.it' + window.location.pathname.substring(5) + window.location.search);
+            }
+        }
+    </script>
+
+    <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
+    <meta property="og:title" content="Indovina la Regione | Quiz ProvinceItalia">
+    <meta property="og:description"
+        content="Metti alla prova la tua conoscenza delle province italiane. Indovina in quale regione si trova ogni provincia.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://quiz.provinceitalia.it/indovina-regione.html">
+    <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Indovina la Regione | Quiz ProvinceItalia">
+    <meta name="twitter:description"
+        content="Metti alla prova la tua conoscenza delle province italiane. Indovina in quale regione si trova ogni provincia.">
+    <meta name="twitter:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
+
+    <link rel="icon" type="image/png" href="https://provinceitalia.it/assets/img/pi_icon.png">
+    <link rel="stylesheet" href="https://provinceitalia.it/assets/css/style.css">
+    <link rel="stylesheet" href="https://provinceitalia.it/assets/css/quiz.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Indovina la Regione | Quiz ProvinceItalia",
+            "url": "https://quiz.provinceitalia.it/indovina-regione.html",
+            "description": "Quiz di ProvinceItalia sulle province italiane. Indovina in quale regione si trova ogni provincia."
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+        <div class="header">
+            <div class="header1">
+                <a href="javascript:location.reload()" title="Premi per ricaricare la pagina"><img class="logo"
+                        src="https://provinceitalia.it/assets/img/pi_image.png" alt="pi_image" height="220px"></a>
+            </div>
+            <div class="header2">
+                <h1 class="title">Quiz sulle province italiane</h1>
+                <div class="subtitle">
+                    <p class="text-subtitle">Indovina in quale regione si trova la provincia scelta</p>
+                    <p class="text-subtitle button pointer select-none"><a
+                            onclick="window.location.href='https://quiz.provinceitalia.it'"><b>← Torna all'elenco
+                                quiz</b></a></p>
+                </div>
+            </div>
+            <div class="header3"></div>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div id="start">
+                <label class="startelement quantedomandevuoi" for="numeroQuiz">Quante domande vuoi? (max 109)</label>
+                <input class="startelement range" type="number" id="numeroQuiz" min="1" max="109" value="10">
+                <button class="startelement startbutton" id="startbutton">Iniziamo</button>
+            </div>
+            <div id="game">
+            </div>
+        </div>
+    </main>
+    <script src="https://provinceitalia.it/assets/js/indovina-regione.js"></script>
+</body>
+<footer>
+    <div class="subfooter">
+        <p>&copy; 2026 ProvinceItalia ·
+            <a class="a_link" href="https://samuelefrasca.github.io/" target="_blank" rel="noopener noreferrer">Samuele
+                Frasca</a>
+        </p>
+        <p>
+            <a class="a_link github" href="https://github.com/samuelefrasca" target="_blank" rel="noopener noreferrer">
+                <img class="github-logo" src="https://provinceitalia.it/assets/img/GitHub_Invertocat_White.png"
+                    alt="github-logo">GitHub
+            </a>
+        </p>
+    </div>
+    <div class="subfooter">
+        <p>Mappe:
+            <a href="https://simplemaps.com" class="a_link" target="_blank" rel="noopener noreferrer">Simplemaps</a>
+            &middot;
+            <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
+        </p>
+        <p><a class="a_link" href="https://provinceitalia.it/about.html">About</a></p>
+        <p><a class="a_link" href="https://provinceitalia.it/privacy.html">Privacy Policy</a></p>
+        <p><a class="a_link" href="https://quiz.provinceitalia.it/sitemap.xml">Sitemap</a></p>
+        <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
+    </div>
+</footer>
+
+</html>

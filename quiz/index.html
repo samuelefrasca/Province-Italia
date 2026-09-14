@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Quiz sulle Province Italiane | ProvinceItalia</title>
+    <title>Quiz | ProvinceItalia</title>
     <meta name="description"
-        content="Metti alla prova la tua conoscenza delle province italiane con il quiz di ProvinceItalia. Indovina in quale regione si trova ogni provincia.">
+        content="Metti alla prova le tue conoscenze sulle province e regioni italiane con i quiz di ProvinceItalia. Scegli un quiz e inizia a giocare!">
     <meta name="robots" content="index,follow">
 
     <link rel="canonical" href="https://quiz.provinceitalia.it/">
@@ -30,90 +30,123 @@
     </script>
 
     <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
-    <meta property="og:title" content="Quiz sulle Province Italiane | ProvinceItalia">
+    <meta property="og:title" content="Quiz | ProvinceItalia">
     <meta property="og:description"
-        content="Metti alla prova la tua conoscenza delle province italiane. Indovina in quale regione si trova ogni provincia.">
+        content="Metti alla prova le tue conoscenze sulle province e regioni italiane con i quiz di ProvinceItalia.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://quiz.provinceitalia.it/">
     <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Quiz sulle Province Italiane | ProvinceItalia">
+    <meta name="twitter:title" content="Quiz | ProvinceItalia">
     <meta name="twitter:description"
-        content="Metti alla prova la tua conoscenza delle province italiane. Indovina in quale regione si trova ogni provincia.">
+        content="Metti alla prova le tue conoscenze sulle province e regioni italiane con i quiz di ProvinceItalia.">
     <meta name="twitter:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
     <link rel="icon" type="image/png" href="https://provinceitalia.it/assets/img/pi_icon.png">
     <link rel="stylesheet" href="https://provinceitalia.it/assets/css/style.css">
-    <link rel="stylesheet" href="https://provinceitalia.it/assets/css/quiz.css">
+    <link rel="stylesheet" href="https://provinceitalia.it/assets/css/quiz-index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Quiz sulle Province Italiane | ProvinceItalia",
+            "@type": "CollectionPage",
+            "name": "Quiz | ProvinceItalia",
             "url": "https://quiz.provinceitalia.it/",
-            "description": "Quiz di ProvinceItalia sulle province italiane. Indovina in quale regione si trova ogni provincia."
+            "description": "Elenco dei quiz di ProvinceItalia sulle province e regioni italiane."
         }
     </script>
+
 </head>
 
 <body>
     <header>
         <div class="header">
             <div class="header1">
-                <a href="javascript:location.reload()" title="Premi per ricaricare la pagina"><img class="logo" src="https://provinceitalia.it/assets/img/pi_image.png" alt="pi_image"
-                        height="220px"></a>
+                <a href="https://provinceitalia.it" title="Torna alla home di ProvinceItalia"><img class="logo"
+                        src="https://provinceitalia.it/assets/img/pi_image.png" alt="pi_image" height="220px"></a>
             </div>
             <div class="header2">
-                <h1 class="title">Quiz sulle province italiane</h1>
+                <h1 class="title">Quiz ProvinceItalia</h1>
                 <div class="subtitle">
-                    <p class="text-subtitle">Indovina in quale regione si trova la provincia scelta</p>
+                    <p class="text-subtitle">Metti alla prova le tue conoscenze sulle province italiane!</p>
                     <p class="text-subtitle button pointer select-none"><a
-                            onclick="window.location.href='https://provinceitalia.it'"><b>Premi qui per
-                                tornare alla home</b></a></p>
+                            onclick="window.location.href='https://provinceitalia.it'"><b>← Torna alla home</b></a></p>
                 </div>
             </div>
             <div class="header3"></div>
         </div>
     </header>
     <main>
-        <div class="container">
-            <div id="start">
-                <label class="startelement quantedomandevuoi" for="numeroQuiz">Quante domande vuoi? (max 109)</label>
-                <input class="startelement range" type="number" id="numeroQuiz" min="1" max="109" value="10">
-                <button class="startelement startbutton" id="startbutton">Iniziamo</button>
-            </div>
-            <div id="game">
+        <div class="quiz-hub">
+            <h2 class="quiz-hub-title">Scegli un quiz</h2>
+            <p class="quiz-hub-subtitle">Seleziona un gioco dall'elenco e mettiti alla prova</p>
+
+            <div class="quiz-grid">
+
+                <!-- Quiz 1: Indovina la Regione -->
+                <a class="quiz-card" href="indovina-regione.html">
+                    <div class="quiz-card-icon">
+                        <i class="fas fa-map-marked-alt"></i>
+                    </div>
+                    <span class="quiz-card-title">Indovina la Regione</span>
+                    <span class="quiz-card-desc">Ti viene mostrata una provincia: riesci a indovinare in quale regione
+                        si trova?</span>
+                    <span class="quiz-card-badge">Gioca ora</span>
+                </a>
+
+                <!-- Quiz 2: Indovina dalla Sigla -->
+                <a class="quiz-card" href="indovina-sigla.html">
+                    <div class="quiz-card-icon">
+                        <i class="fas fa-font"></i>
+                    </div>
+                    <span class="quiz-card-title">Indovina dalla Sigla</span>
+                    <span class="quiz-card-desc">Ti viene mostrata una sigla automobilistica: riesci a indovinare a
+                        quale provincia corrisponde?</span>
+                    <span class="quiz-card-badge">Gioca ora</span>
+                </a>
+
+                <!-- Quiz 3: L'Intruso Regionale -->
+                <a class="quiz-card" href="intruso-regionale.html">
+                    <div class="quiz-card-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <span class="quiz-card-title">L'Intruso Regionale</span>
+                    <span class="quiz-card-desc">Quale tra queste 4 province NON si trova nella regione indicata? Trova
+                        l'intruso!</span>
+                    <span class="quiz-card-badge">Gioca ora</span>
+                </a>
+
             </div>
         </div>
     </main>
-    <script src="https://provinceitalia.it/assets/js/quiz.js"></script>
-</body>
-<footer>
-    <div class="subfooter">
-        <p>&copy; 2026 ProvinceItalia ·
-            <a class="a_link" href="https://samuelefrasca.github.io/" target="_blank" rel="noopener noreferrer">Samuele
-                Frasca</a>
-        </p>
-        <p>
-            <a class="a_link github" href="https://github.com/samuelefrasca" target="_blank" rel="noopener noreferrer">
-                <img class="github-logo" src="https://provinceitalia.it/assets/img/GitHub_Invertocat_White.png" alt="github-logo">GitHub
-            </a>
-        </p>
-    </div>
-    <div class="subfooter">
-        <p>Mappe:
-            <a href="https://simplemaps.com" class="a_link" target="_blank" rel="noopener noreferrer">Simplemaps</a>
-            &middot;
-            <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
-        </p>
-        <p><a class="a_link" href="https://provinceitalia.it/about.html">About</a></p>
-        <p><a class="a_link" href="https://provinceitalia.it/privacy.html">Privacy Policy</a></p>
-        <p><a class="a_link" href="https://quiz.provinceitalia.it/sitemap.xml">Sitemap</a></p>
-        <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
-    </div>
-</footer>
+    <footer>
+        <div class="subfooter">
+            <p>&copy; 2026 ProvinceItalia ·
+                <a class="a_link" href="https://samuelefrasca.github.io/" target="_blank"
+                    rel="noopener noreferrer">Samuele
+                    Frasca</a>
+            </p>
+            <p>
+                <a class="a_link github" href="https://github.com/samuelefrasca" target="_blank"
+                    rel="noopener noreferrer">
+                    <img class="github-logo" src="https://provinceitalia.it/assets/img/GitHub_Invertocat_White.png"
+                        alt="github-logo">GitHub
+                </a>
+            </p>
+        </div>
+        <div class="subfooter">
+            <p>Mappe:
+                <a href="https://simplemaps.com" class="a_link" target="_blank" rel="noopener noreferrer">Simplemaps</a>
+                &middot;
+                <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
+            </p>
+            <p><a class="a_link" href="https://provinceitalia.it/about.html">About</a></p>
+            <p><a class="a_link" href="https://provinceitalia.it/privacy.html">Privacy Policy</a></p>
+            <p><a class="a_link" href="https://quiz.provinceitalia.it/sitemap.xml">Sitemap</a></p>
+            <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
+        </div>
+    </footer>
 
 </html>
