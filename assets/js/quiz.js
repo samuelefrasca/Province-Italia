@@ -7,7 +7,7 @@ let domandaCorrente = 0;
 let risposteCorrette = 0;
 
 document.getElementById("startbutton").addEventListener("click", () => {
-    
+
     // sull'input è prestabilito che i numeri siano interi (step=1 di default), tuttavia si possono inserire anche numeri non interi,
     // quindi utilizziamo Math.floor per sistemare:
     numeroDomande = Math.floor(Number(numeroQuiz.value));
@@ -210,12 +210,12 @@ function verificaRisposta(indexRegioneCorrente, indexOpzione) {
 
     // se la risposta è corretta:
     if (indexOpzione == indexRegioneCorrente) {
-        game.innerHTML += `<p class="esito">Risposta corretta!</p>`
+        game.innerHTML += `<p class="esito" style="color: green;">Risposta corretta!</p>`
         risposteCorrette++;
     }
     // se la risposta è errata
     else {
-        game.innerHTML += `<p class="esito">Risposta sbagliata!</p>`
+        game.innerHTML += `<p class="esito" style="color: red;">Risposta sbagliata!</p>`
     }
 
     game.innerHTML += `<button class="continuabutton" onclick="quiz()">Continua</button>`;
@@ -232,7 +232,7 @@ function quiz() {
     let provinciaCorrente = randomRemove(provinceDisponibili);
     let regioneCorrente = provinceRegioni[provinciaCorrente];
     let question = "";
-    question += `<p class="conteggiodomande">Domanda ${domandaCorrente}/${numeroDomande} - Risposte corrette ${risposteCorrette}/${numeroDomande}</p>`
+    question += `<p class="conteggiodomande">Domanda ${domandaCorrente}/${numeroDomande} - Risposte corrette ${risposteCorrette}/${domandaCorrente - 1}</p>`
     question += `<h2 class="domanda">In che regione si trova la provincia ${provinciaCorrente}?</h2>`;
     question += `<ul>${generaRisposte(regioneCorrente)}</ul>`;
     game.innerHTML = question;
