@@ -3,6 +3,7 @@ let game = document.getElementById("game");
 
 let numeroDomande;
 let provinceDisponibili
+let regioniDisponibili
 let domandaCorrente = 0;
 let risposteCorrette = 0;
 
@@ -80,7 +81,7 @@ function generaRisposte(provinceCorrenti) {
     for (let i = 0; i < 4; i++) {
         if (i == indexProvinciaErrata) {
             let intruso = randomRemove(copiaElencoProvince);
-            while (copiaProvinceCorrenti.includes(intruso)) {
+            while (provinceCorrenti.includes(intruso)) {
                 intruso = randomRemove(copiaElencoProvince);
             }
             opzioni.push(intruso);

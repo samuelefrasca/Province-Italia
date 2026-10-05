@@ -153,9 +153,9 @@ function generaRisposte(provinciaCorrente) {
             opzioni.push(provinciaCorrente);
         }
         else {
-            let provinciaRandom = province[random(110)];
+            let provinciaRandom = province[random(province.length) - 1];
             while (provinciaRandom == provinciaCorrente || opzioni.includes(provinciaRandom)) {
-                provinciaRandom = province[random(110)];
+                provinciaRandom = province[random(province.length) - 1];
             }
             opzioni.push(provinciaRandom);
         }

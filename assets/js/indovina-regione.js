@@ -168,6 +168,7 @@ function randomRemove(list) {
 
 function generaRisposte(regioneCorrente) {
     let copiaRegioni = [...regioni];
+    copiaRegioni.splice(copiaRegioni.indexOf(regioneCorrente), 1);
     let opzioni = [];
     let indexRegioneCorrente = random(4) - 1;
     for (let i = 0; i < 4; i++) {
