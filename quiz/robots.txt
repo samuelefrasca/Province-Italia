@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quiz.provinceitalia.it/sitemap.xml
