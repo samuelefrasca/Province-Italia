@@ -634,7 +634,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
                 </div>
             </div>
             <div class="header3">
-                <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="https://quiz.provinceitalia.it"><b>🎯 Gioca ai Quiz</b></a></p>
+                <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="https://quiz.provinceitalia.it"><b>Gioca ai Quiz</b></a></p>
             </div>
         </div>
     </header>
