@@ -1,9 +1,11 @@
+let flagRegione = false;
+
 // Funzioni di ordinamento
 function ordinaPerAbitantiDecrescente(provinceCorrenti) {
     let copiaProvince = [...provinceCorrenti];
     copiaProvince.sort((a, b) => {
         return a.abitanti - b.abitanti;
-    })
+    });
     scritturaProvince(regioneCorrente, copiaProvince);
 }
 
@@ -11,7 +13,7 @@ function ordinaPerAbitantiCrescente(provinceCorrenti) {
     let copiaProvince = [...provinceCorrenti];
     copiaProvince.sort((a, b) => {
         return b.abitanti - a.abitanti;
-    })
+    });
     scritturaProvince(regioneCorrente, copiaProvince);
 }
 
@@ -19,7 +21,7 @@ function ordinaPerRegioneCrescente(provinceCorrenti) {
     let copiaProvince = [...provinceCorrenti];
     copiaProvince.sort((a, b) => {
         return a.regione.localeCompare(b.regione);
-    })
+    });
     scritturaProvince(regioneCorrente, copiaProvince);
 }
 
@@ -27,7 +29,7 @@ function ordinaPerRegioneDecrescente(provinceCorrenti) {
     let copiaProvince = [...provinceCorrenti];
     copiaProvince.sort((a, b) => {
         return b.regione.localeCompare(a.regione);
-    })
+    });
     scritturaProvince(regioneCorrente, copiaProvince);
 }
 

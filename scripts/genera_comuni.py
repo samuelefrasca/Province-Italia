@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-genera_comuni.py
+genera_comuni.py (generato con Claude Sonnet 4 e Gemini Argon 4)
 Genera il file comuni.html nella root del progetto.
 Legge tutti i file JSON dei comuni da data/<regione>/<provincia>.json
 e costruisce una tabella con colonne: Comune, Provincia, Regione, Popolazione.
@@ -124,8 +124,8 @@ def get_slug_provincia(nome_provincia: str) -> str:
     return slugify_testo(nome_provincia)
 
 
-def genera_righe_tabella(comuni: list[dict]) -> str:
-    """Genera le righe HTML della tabella."""
+def genera_righe_tabella(comuni: list[dict]) -> tuple[str, int]:
+    """Genera le righe HTML della tabella e restituisce anche la popolazione totale."""
     righe = []
     popolazione_totale = 0
 
@@ -144,10 +144,10 @@ def genera_righe_tabella(comuni: list[dict]) -> str:
         regione_slug = REGIONE_SLUG.get(regione, slugify_testo(regione)) if regione else ""
 
         provincia_html = (
-            f'<a class="comunihref" href="/province/{provincia_slug}.html">{provincia}</a>' if provincia_slug else provincia
+            f'<a class="comunihref" href="/province/{provincia_slug}">{provincia}</a>' if provincia_slug else provincia
         )
         regione_html = (
-            f'<a class="comunihref" href="/regioni/{regione_slug}.html">{regione}</a>' if regione_slug else regione
+            f'<a class="comunihref" href="/regioni/{regione_slug}">{regione}</a>' if regione_slug else regione
         )
 
         righe.append(
@@ -171,7 +171,7 @@ def genera_righe_tabella(comuni: list[dict]) -> str:
         f'</tr>'
     )
 
-    return "\n".join(righe)
+    return "\n".join(righe), popolazione_totale
 
 
 # ---------------------------------------------------------------------------
@@ -248,8 +248,7 @@ NAV_INVISIBILE = """\
                 <li><a href="https://provinceitalia.it/province/foggia">Foggia</a></li>
                 <li><a href="https://provinceitalia.it/province/forli-cesena">Forlì-Cesena</a></li>
                 <li><a href="https://provinceitalia.it/province/frosinone">Frosinone</a></li>
-                <li><a href="https://provinceitalia.it/province/gallura-nord-est-sardegna">Gallura Nord-Est Sardegna</a>
-                </li>
+                <li><a href="https://provinceitalia.it/province/gallura-nord-est-sardegna">Gallura Nord-Est Sardegna</a></li>
                 <li><a href="https://provinceitalia.it/province/genova">Genova</a></li>
                 <li><a href="https://provinceitalia.it/province/gorizia">Gorizia</a></li>
                 <li><a href="https://provinceitalia.it/province/grosseto">Grosseto</a></li>
@@ -330,10 +329,19 @@ NAV_INVISIBILE = """\
 def genera_html(comuni: list[dict]) -> str:
     """Genera l'intero file comuni.html."""
     num_comuni = len(comuni)
-    tabella_html = genera_righe_tabella(comuni)
+    num_comuni_str = formatta_numero(num_comuni)
+    tabella_html, pop_totale = genera_righe_tabella(comuni)
+    pop_tot_str = formatta_numero(pop_totale)
 
-    # Serializziamo i dati dei comuni in JSON per il JavaScript
-    comuni_json = json.dumps(comuni, ensure_ascii=False)
+    # Serializziamo i dati dei comuni in JSON compatto per il JavaScript
+    comuni_json = json.dumps(comuni, ensure_ascii=False, separators=(",", ":"))
+
+    # Title e Description ottimizzati per il CTR su Google Search Console
+    seo_title = f"Tutti i {num_comuni_str} Comuni d'Italia: Elenco Completo per Popolazione | ProvinceItalia"
+    seo_desc = (
+        f"Elenco completo e classifica per popolazione di tutti i {num_comuni_str} comuni d'Italia "
+        f"({pop_tot_str} abitanti) suddivisi per provincia e regione. Dati Istat 2026."
+    )
 
     html = f"""\
 <!DOCTYPE html>
@@ -343,9 +351,9 @@ def genera_html(comuni: list[dict]) -> str:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Elenco completo dei comuni d'Italia | ProvinceItalia</title>
+    <title>{seo_title}</title>
     <meta name="description"
-        content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
+        content="{seo_desc}">
     <meta name="robots" content="index,follow">
 
     <link rel="canonical" href="https://provinceitalia.it/comuni">
@@ -359,17 +367,17 @@ def genera_html(comuni: list[dict]) -> str:
     </script>
 
     <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
-    <meta property="og:title" content="Elenco completo dei comuni d'Italia | ProvinceItalia">
+    <meta property="og:title" content="{seo_title}">
     <meta property="og:description"
-        content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
+        content="{seo_desc}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://provinceitalia.it/comuni">
     <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Elenco completo dei comuni d'Italia | ProvinceItalia">
+    <meta name="twitter:title" content="{seo_title}">
     <meta name="twitter:description"
-        content="Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026.">
+        content="{seo_desc}">
     <meta name="twitter:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
 
     <link rel="icon" type="image/png" href="assets/img/pi_icon.png">
@@ -390,9 +398,23 @@ def genera_html(comuni: list[dict]) -> str:
         {{
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Elenco completo dei comuni d'Italia | ProvinceItalia",
+            "name": "{seo_title}",
             "url": "https://provinceitalia.it/comuni",
-            "description": "Elenco completo di tutti i comuni d'Italia suddivisi per provincia e per regione. Dati demografici Istat aggiornati al 2026."
+            "description": "{seo_desc}",
+            "breadcrumb": {{
+                "@type": "BreadcrumbList",
+                "itemListElement": [{{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://provinceitalia.it/"
+                }},{{
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Comuni",
+                    "item": "https://provinceitalia.it/comuni"
+                }}]
+            }}
         }}
     </script>
 </head>
@@ -401,7 +423,7 @@ def genera_html(comuni: list[dict]) -> str:
     <header>
         <div class="header container">
             <div class="header1">
-                <a href="index.html"><img class="logo" src="assets/img/pi_image.png" alt="pi_image" height="220px"></a>
+                <a href="/"><img class="logo" src="assets/img/pi_image.png" alt="pi_image" height="220px"></a>
             </div>
             <div class="header2">
                 <h1 class="title">Elenco completo dei comuni d'Italia</h1>
@@ -409,7 +431,7 @@ def genera_html(comuni: list[dict]) -> str:
                     <p class="text-subtitle"><a class="a_link" href="https://demo.istat.it/app/?i=POS&l=it"
                             target="_blank">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</a></p>
                     <p class="text-subtitle">In <b>grassetto</b> i capoluoghi di provincia, con sfondo giallo i capoluoghi di regione</p>
-                    <p class="text-subtitle"><a class="a_link button pointer select-none" href="index.html"><b>Torna
+                    <p class="text-subtitle"><a class="a_link button pointer select-none" href="/"><b>← Torna
                                 alla home</b></a></p>
                 </div>
             </div>
@@ -464,15 +486,15 @@ def genera_html(comuni: list[dict]) -> str:
                 &middot;
                 <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
             </p>
-            <p><a class="a_link" href="about.html">About</a></p>
-            <p><a class="a_link" href="privacy.html">Privacy Policy</a></p>
-            <p><a class="a_link" href="sitemap.xml">Sitemap</a></p>
+            <p><a class="a_link" href="/about">About</a></p>
+            <p><a class="a_link" href="/privacy">Privacy Policy</a></p>
+            <p><a class="a_link" href="/sitemap.xml">Sitemap</a></p>
             <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
         </div>
     </footer>
 
     <script> const tuttiComuni = {comuni_json}; </script>
-    <script src="assets/js/scriptElencoCompletoComuni.js"></script>
+    <script src="assets/js/scriptcomuni.js"></script>
 </body>
 
 </html>"""
@@ -490,7 +512,8 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    print(f"Generato: {out_path}")
+    print(f"  ✓ {out_path}")
+    print("\nGenerato il file comuni.html nella root del progetto.")
 
 
 if __name__ == "__main__":

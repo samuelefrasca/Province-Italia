@@ -5,13 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Molise | ProvinceItalia | Province e Comuni d'Italia per Popolazione</title>
+    <title>Province del Molise: Elenco Completo e 136 Comuni per Popolazione | ProvinceItalia</title>
     <meta name="description"
-        content="Elenco completo dei comuni e delle province del Molise. Dati demografici Istat aggiornati al 1° gennaio 2026.">
+        content="Elenco completo delle 2 province e dei 136 comuni del Molise (285.940 abitanti totali). Classifica per popolazione, sigle e mappa interattiva Istat 2026.">
     <meta name="robots" content="index,follow">
 
     <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
-    <meta property="og:title" content="Molise | ProvinceItalia | Province e Comuni d'Italia per Popolazione">
+    <meta property="og:title" content="Province del Molise: Elenco Completo e 136 Comuni per Popolazione | ProvinceItalia">
+    <meta property="og:description" content="Elenco completo delle 2 province e dei 136 comuni del Molise (285.940 abitanti totali). Classifica per popolazione, sigle e mappa interattiva Istat 2026.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://provinceitalia.it/regioni/molise">
     <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
@@ -35,9 +36,9 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Molise | ProvinceItalia | Province e Comuni d'Italia per Popolazione",
+            "name": "Province del Molise: Elenco Completo e 136 Comuni per Popolazione | ProvinceItalia",
             "url": "https://provinceitalia.it/regioni/molise",
-            "description": "Elenco completo dei comuni e delle province del Molise. Dati demografici Istat aggiornati al 1° gennaio 2026.",
+            "description": "Elenco completo delle 2 province e dei 136 comuni del Molise (285.940 abitanti totali). Classifica per popolazione, sigle e mappa interattiva Istat 2026.",
             "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [{
@@ -70,7 +71,9 @@
                     <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="/"><b>← Torna alla home</b></a></p>
                 </div>
             </div>
-            <div class="header3"></div>
+            <div class="header3">
+                <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="https://quiz.provinceitalia.it"><b>Gioca ai Quiz</b></a></p>
+            </div>
         </div>
     </header>
     <main>
@@ -78,9 +81,150 @@
             <div class="titolo-div" id="titolo-provincia-div">
                 <h2 class="titolo" id="titolo-provincia">Elenco completo dei comuni</h2>
             </div>
-            <h4 class="elementi-trovati" id="elementi-trovati"></h4>
+            <h4 class="elementi-trovati" id="elementi-trovati">136 comuni</h4>
             <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
-            <table class="tabella" id="elenco-comuni"></table>
+            <table class="tabella" id="elenco-comuni" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
+                <tbody>
+                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel provincia pointer select-none" onclick="ordinaPerProvincia(flagProvincia)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla pointer select-none" onclick="ordinaPerSigla(flagSigla)">Sigla <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>
+<tr><td class="el index">1</td><td class="el nome">Acquaviva Collecroce</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">536</td></tr>
+<tr><td class="el index">2</td><td class="el nome">Acquaviva d'Isernia</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">346</td></tr>
+<tr><td class="el index">3</td><td class="el nome">Agnone</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">4.545</td></tr>
+<tr><td class="el index">4</td><td class="el nome">Bagnoli del Trigno</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">607</td></tr>
+<tr><td class="el index">5</td><td class="el nome">Baranello</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">2.424</td></tr>
+<tr><td class="el index">6</td><td class="el nome">Belmonte del Sannio</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">602</td></tr>
+<tr><td class="el index">7</td><td class="el nome">Bojano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">7.496</td></tr>
+<tr><td class="el index">8</td><td class="el nome">Bonefro</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.128</td></tr>
+<tr><td class="el index">9</td><td class="el nome">Busso</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.142</td></tr>
+<tr><td class="el index"><strong>10</strong></td><td class="el nome"><strong>Campobasso</strong></td><td class="el provincia"><strong><a class="comunihref" href="/province/campobasso">Campobasso</a></strong></td><td class="el sigla"><strong>CB</strong></td><td class="el abitanti"><strong>47.399</strong></td></tr>
+<tr><td class="el index">11</td><td class="el nome">Campochiaro</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">556</td></tr>
+<tr><td class="el index">12</td><td class="el nome">Campodipietra</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">2.403</td></tr>
+<tr><td class="el index">13</td><td class="el nome">Campolieto</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">793</td></tr>
+<tr><td class="el index">14</td><td class="el nome">Campomarino</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">7.974</td></tr>
+<tr><td class="el index">15</td><td class="el nome">Cantalupo nel Sannio</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">726</td></tr>
+<tr><td class="el index">16</td><td class="el nome">Capracotta</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">742</td></tr>
+<tr><td class="el index">17</td><td class="el nome">Carovilli</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.240</td></tr>
+<tr><td class="el index">18</td><td class="el nome">Carpinone</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">980</td></tr>
+<tr><td class="el index">19</td><td class="el nome">Casacalenda</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.824</td></tr>
+<tr><td class="el index">20</td><td class="el nome">Casalciprano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">424</td></tr>
+<tr><td class="el index">21</td><td class="el nome">Castel del Giudice</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">306</td></tr>
+<tr><td class="el index">22</td><td class="el nome">Castel San Vincenzo</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">418</td></tr>
+<tr><td class="el index">23</td><td class="el nome">Castelbottaccio</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">223</td></tr>
+<tr><td class="el index">24</td><td class="el nome">Castellino del Biferno</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">417</td></tr>
+<tr><td class="el index">25</td><td class="el nome">Castelmauro</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.075</td></tr>
+<tr><td class="el index">26</td><td class="el nome">Castelpetroso</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.496</td></tr>
+<tr><td class="el index">27</td><td class="el nome">Castelpizzuto</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">135</td></tr>
+<tr><td class="el index">28</td><td class="el nome">Castelverrino</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">87</td></tr>
+<tr><td class="el index">29</td><td class="el nome">Castropignano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">839</td></tr>
+<tr><td class="el index">30</td><td class="el nome">Cercemaggiore</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">3.529</td></tr>
+<tr><td class="el index">31</td><td class="el nome">Cercepiccola</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">660</td></tr>
+<tr><td class="el index">32</td><td class="el nome">Cerro al Volturno</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.103</td></tr>
+<tr><td class="el index">33</td><td class="el nome">Chiauci</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">189</td></tr>
+<tr><td class="el index">34</td><td class="el nome">Civitacampomarano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">277</td></tr>
+<tr><td class="el index">35</td><td class="el nome">Civitanova del Sannio</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">863</td></tr>
+<tr><td class="el index">36</td><td class="el nome">Colle d'Anchise</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">709</td></tr>
+<tr><td class="el index">37</td><td class="el nome">Colletorto</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.618</td></tr>
+<tr><td class="el index">38</td><td class="el nome">Colli a Volturno</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.253</td></tr>
+<tr><td class="el index">39</td><td class="el nome">Conca Casale</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">162</td></tr>
+<tr><td class="el index">40</td><td class="el nome">Duronia</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">378</td></tr>
+<tr><td class="el index">41</td><td class="el nome">Ferrazzano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">3.390</td></tr>
+<tr><td class="el index">42</td><td class="el nome">Filignano</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">564</td></tr>
+<tr><td class="el index">43</td><td class="el nome">Forlì del Sannio</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">627</td></tr>
+<tr><td class="el index">44</td><td class="el nome">Fornelli</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.778</td></tr>
+<tr><td class="el index">45</td><td class="el nome">Fossalto</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.099</td></tr>
+<tr><td class="el index">46</td><td class="el nome">Frosolone</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">2.721</td></tr>
+<tr><td class="el index">47</td><td class="el nome">Gambatesa</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.233</td></tr>
+<tr><td class="el index">48</td><td class="el nome">Gildone</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">707</td></tr>
+<tr><td class="el index">49</td><td class="el nome">Guardialfiera</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">942</td></tr>
+<tr><td class="el index">50</td><td class="el nome">Guardiaregia</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">659</td></tr>
+<tr><td class="el index">51</td><td class="el nome">Guglionesi</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">4.874</td></tr>
+<tr><td class="el index"><strong>52</strong></td><td class="el nome"><strong>Isernia</strong></td><td class="el provincia"><strong><a class="comunihref" href="/province/isernia">Isernia</a></strong></td><td class="el sigla"><strong>IS</strong></td><td class="el abitanti"><strong>20.491</strong></td></tr>
+<tr><td class="el index">53</td><td class="el nome">Jelsi</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.530</td></tr>
+<tr><td class="el index">54</td><td class="el nome">Larino</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">6.257</td></tr>
+<tr><td class="el index">55</td><td class="el nome">Limosano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">661</td></tr>
+<tr><td class="el index">56</td><td class="el nome">Longano</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">618</td></tr>
+<tr><td class="el index">57</td><td class="el nome">Lucito</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">616</td></tr>
+<tr><td class="el index">58</td><td class="el nome">Lupara</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">391</td></tr>
+<tr><td class="el index">59</td><td class="el nome">Macchia d'Isernia</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.020</td></tr>
+<tr><td class="el index">60</td><td class="el nome">Macchia Valfortore</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">439</td></tr>
+<tr><td class="el index">61</td><td class="el nome">Macchiagodena</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.655</td></tr>
+<tr><td class="el index">62</td><td class="el nome">Mafalda</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.074</td></tr>
+<tr><td class="el index">63</td><td class="el nome">Matrice</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.019</td></tr>
+<tr><td class="el index">64</td><td class="el nome">Mirabello Sannitico</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">2.034</td></tr>
+<tr><td class="el index">65</td><td class="el nome">Miranda</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">913</td></tr>
+<tr><td class="el index">66</td><td class="el nome">Molise</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">144</td></tr>
+<tr><td class="el index">67</td><td class="el nome">Monacilioni</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">439</td></tr>
+<tr><td class="el index">68</td><td class="el nome">Montagano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">951</td></tr>
+<tr><td class="el index">69</td><td class="el nome">Montaquila</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">2.218</td></tr>
+<tr><td class="el index">70</td><td class="el nome">Montecilfone</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.220</td></tr>
+<tr><td class="el index">71</td><td class="el nome">Montefalcone nel Sannio</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.313</td></tr>
+<tr><td class="el index">72</td><td class="el nome">Montelongo</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">276</td></tr>
+<tr><td class="el index">73</td><td class="el nome">Montemitro</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">282</td></tr>
+<tr><td class="el index">74</td><td class="el nome">Montenero di Bisaccia</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">6.186</td></tr>
+<tr><td class="el index">75</td><td class="el nome">Montenero Val Cocchiara</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">464</td></tr>
+<tr><td class="el index">76</td><td class="el nome">Monteroduni</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">2.121</td></tr>
+<tr><td class="el index">77</td><td class="el nome">Montorio nei Frentani</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">342</td></tr>
+<tr><td class="el index">78</td><td class="el nome">Morrone del Sannio</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">505</td></tr>
+<tr><td class="el index">79</td><td class="el nome">Oratino</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.678</td></tr>
+<tr><td class="el index">80</td><td class="el nome">Palata</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.455</td></tr>
+<tr><td class="el index">81</td><td class="el nome">Pesche</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.437</td></tr>
+<tr><td class="el index">82</td><td class="el nome">Pescolanciano</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">780</td></tr>
+<tr><td class="el index">83</td><td class="el nome">Pescopennataro</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">225</td></tr>
+<tr><td class="el index">84</td><td class="el nome">Petacciato</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">3.553</td></tr>
+<tr><td class="el index">85</td><td class="el nome">Petrella Tifernina</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">990</td></tr>
+<tr><td class="el index">86</td><td class="el nome">Pettoranello del Molise</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">451</td></tr>
+<tr><td class="el index">87</td><td class="el nome">Pietrabbondante</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">559</td></tr>
+<tr><td class="el index">88</td><td class="el nome">Pietracatella</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.192</td></tr>
+<tr><td class="el index">89</td><td class="el nome">Pietracupa</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">181</td></tr>
+<tr><td class="el index">90</td><td class="el nome">Pizzone</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">287</td></tr>
+<tr><td class="el index">91</td><td class="el nome">Poggio Sannita</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">513</td></tr>
+<tr><td class="el index">92</td><td class="el nome">Portocannone</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">2.323</td></tr>
+<tr><td class="el index">93</td><td class="el nome">Pozzilli</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">2.163</td></tr>
+<tr><td class="el index">94</td><td class="el nome">Provvidenti</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">97</td></tr>
+<tr><td class="el index">95</td><td class="el nome">Riccia</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">4.646</td></tr>
+<tr><td class="el index">96</td><td class="el nome">Rionero Sannitico</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">941</td></tr>
+<tr><td class="el index">97</td><td class="el nome">Ripabottoni</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">410</td></tr>
+<tr><td class="el index">98</td><td class="el nome">Ripalimosani</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">2.970</td></tr>
+<tr><td class="el index">99</td><td class="el nome">Roccamandolfi</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">803</td></tr>
+<tr><td class="el index">100</td><td class="el nome">Roccasicura</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">460</td></tr>
+<tr><td class="el index">101</td><td class="el nome">Roccavivara</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">567</td></tr>
+<tr><td class="el index">102</td><td class="el nome">Rocchetta a Volturno</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.066</td></tr>
+<tr><td class="el index">103</td><td class="el nome">Rotello</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.123</td></tr>
+<tr><td class="el index">104</td><td class="el nome">Salcito</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">639</td></tr>
+<tr><td class="el index">105</td><td class="el nome">San Biase</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">117</td></tr>
+<tr><td class="el index">106</td><td class="el nome">San Felice del Molise</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">525</td></tr>
+<tr><td class="el index">107</td><td class="el nome">San Giacomo degli Schiavoni</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.375</td></tr>
+<tr><td class="el index">108</td><td class="el nome">San Giovanni in Galdo</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">495</td></tr>
+<tr><td class="el index">109</td><td class="el nome">San Giuliano del Sannio</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">956</td></tr>
+<tr><td class="el index">110</td><td class="el nome">San Giuliano di Puglia</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">957</td></tr>
+<tr><td class="el index">111</td><td class="el nome">San Martino in Pensilis</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">4.365</td></tr>
+<tr><td class="el index">112</td><td class="el nome">San Massimo</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">825</td></tr>
+<tr><td class="el index">113</td><td class="el nome">San Pietro Avellana</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">390</td></tr>
+<tr><td class="el index">114</td><td class="el nome">San Polo Matese</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">487</td></tr>
+<tr><td class="el index">115</td><td class="el nome">Sant'Agapito</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">1.333</td></tr>
+<tr><td class="el index">116</td><td class="el nome">Sant'Angelo del Pesco</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">300</td></tr>
+<tr><td class="el index">117</td><td class="el nome">Sant'Angelo Limosano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">298</td></tr>
+<tr><td class="el index">118</td><td class="el nome">Sant'Elena Sannita</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">298</td></tr>
+<tr><td class="el index">119</td><td class="el nome">Sant'Elia a Pianisi</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.480</td></tr>
+<tr><td class="el index">120</td><td class="el nome">Santa Croce di Magliano</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">3.820</td></tr>
+<tr><td class="el index">121</td><td class="el nome">Santa Maria del Molise</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">645</td></tr>
+<tr><td class="el index">122</td><td class="el nome">Scapoli</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">559</td></tr>
+<tr><td class="el index">123</td><td class="el nome">Sepino</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.815</td></tr>
+<tr><td class="el index">124</td><td class="el nome">Sessano del Molise</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">664</td></tr>
+<tr><td class="el index">125</td><td class="el nome">Sesto Campano</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">2.134</td></tr>
+<tr><td class="el index">126</td><td class="el nome">Spinete</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.128</td></tr>
+<tr><td class="el index">127</td><td class="el nome">Tavenna</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">545</td></tr>
+<tr><td class="el index">128</td><td class="el nome">Termoli</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">31.754</td></tr>
+<tr><td class="el index">129</td><td class="el nome">Torella del Sannio</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">676</td></tr>
+<tr><td class="el index">130</td><td class="el nome">Toro</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">1.209</td></tr>
+<tr><td class="el index">131</td><td class="el nome">Trivento</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">4.298</td></tr>
+<tr><td class="el index">132</td><td class="el nome">Tufara</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">748</td></tr>
+<tr><td class="el index">133</td><td class="el nome">Ururi</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">2.321</td></tr>
+<tr><td class="el index">134</td><td class="el nome">Vastogirardi</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">574</td></tr>
+<tr><td class="el index">135</td><td class="el nome">Venafro</td><td class="el provincia"><a class="comunihref" href="/province/isernia">Isernia</a></td><td class="el sigla">IS</td><td class="el abitanti">10.645</td></tr>
+<tr><td class="el index">136</td><td class="el nome">Vinchiaturo</td><td class="el provincia"><a class="comunihref" href="/province/campobasso">Campobasso</a></td><td class="el sigla">CB</td><td class="el abitanti">3.298</td></tr>
+<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel provincia"></td><td class="fel sigla"></td><td class="fel abitanti"><strong>285.940</strong></td></tr>
+                </tbody>
+            </table>
         </div>
         <svg aria-hidden="true" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0"
             viewBox="0 0 7200 5600" id="svg2" style="display:inline">
@@ -266,16 +410,16 @@
                 &middot;
                 <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
             </p>
-            <p><a class="a_link" href="../about.html">About</a></p>
-            <p><a class="a_link" href="../privacy.html">Privacy Policy</a></p>
+            <p><a class="a_link" href="../about">About</a></p>
+            <p><a class="a_link" href="../privacy">Privacy Policy</a></p>
             <p><a class="a_link" href="../sitemap.xml">Sitemap</a></p>
             <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
         </div>
     </footer>
     <script> const nomeRegione = "Molise"; </script>
-    <script src="../assets/js/scriptcomuni.js"></script>
-    <script src="../assets/js/ordinamentocomuni.js"></script>
-    <script src="../assets/js/ricercacomuni.js"></script>
+    <script src="../assets/js/scriptregioni.js"></script>
+    <script src="../assets/js/ordinamentoregioniprovince.js"></script>
+    <script src="../assets/js/ricercaregioniprovince.js"></script>
 </body>
 
 </html>

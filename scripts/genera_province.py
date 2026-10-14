@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-genera_province.py
+genera_province.py (generato con Claude Sonnet 4 e Gemini Argon 4)
 Genera un file HTML per ognuna delle 110 province italiane dentro la cartella province/.
 L'SVG viene copiato dal file svg/<regione>.svg (dalla riga 4 in poi),
 e alla provincia di riferimento viene aggiunto un fill chiaro per evidenziarla.
@@ -172,6 +172,33 @@ REGIONE_SLUG = {
     "Umbria":               "umbria",
     "Valle d'Aosta":        "valle-d-aosta",
     "Veneto":               "veneto",
+}
+
+# Dizionario di fallback per le sigle automobilistiche (usato se non presente nel JSON)
+SIGLE_FALLBACK = {
+    "Agrigento": "AG", "Alessandria": "AL", "Ancona": "AN", "Arezzo": "AR", "Ascoli Piceno": "AP",
+    "Asti": "AT", "Avellino": "AV", "Bari": "BA", "Barletta-Andria-Trani": "BT", "Belluno": "BL",
+    "Benevento": "BN", "Bergamo": "BG", "Biella": "BI", "Bologna": "BO", "Bolzano": "BZ",
+    "Brescia": "BS", "Brindisi": "BR", "Cagliari": "CA", "Caltanissetta": "CL", "Campobasso": "CB",
+    "Caserta": "CE", "Catania": "CT", "Catanzaro": "CZ", "Chieti": "CH", "Como": "CO",
+    "Cosenza": "CS", "Cremona": "CR", "Crotone": "KR", "Cuneo": "CN", "Enna": "EN",
+    "Fermo": "FM", "Ferrara": "FE", "Firenze": "FI", "Foggia": "FG", "Forlì-Cesena": "FC",
+    "Frosinone": "FR", "Gallura Nord-Est Sardegna": "OT", "Genova": "GE", "Gorizia": "GO",
+    "Grosseto": "GR", "Imperia": "IM", "Isernia": "IS", "L'Aquila": "AQ", "La Spezia": "SP",
+    "Latina": "LT", "Lecce": "LE", "Lecco": "LC", "Livorno": "LI", "Lodi": "LO", "Lucca": "LU",
+    "Macerata": "MC", "Mantova": "MN", "Massa-Carrara": "MS", "Matera": "MT", "Medio Campidano": "VS",
+    "Messina": "ME", "Milano": "MI", "Modena": "MO", "Monza e Brianza": "MB", "Napoli": "NA",
+    "Novara": "NO", "Nuoro": "NU", "Ogliastra": "OG", "Oristano": "OR", "Padova": "PD",
+    "Palermo": "PA", "Parma": "PR", "Pavia": "PV", "Perugia": "PG", "Pesaro e Urbino": "PU",
+    "Pescara": "PE", "Piacenza": "PC", "Pisa": "PI", "Pistoia": "PT", "Pordenone": "PN",
+    "Potenza": "PZ", "Prato": "PO", "Ragusa": "RG", "Ravenna": "RA", "Reggio Calabria": "RC",
+    "Reggio Emilia": "RE", "Rieti": "RI", "Rimini": "RN", "Roma": "RM", "Rovigo": "RO",
+    "Salerno": "SA", "Sassari": "SS", "Savona": "SV", "Siena": "SI", "Siracusa": "SR",
+    "Sondrio": "SO", "Sulcis Iglesiente": "CI", "Taranto": "TA", "Teramo": "TE", "Terni": "TR",
+    "Torino": "TO", "Trapani": "TP", "Trento": "TN", "Treviso": "TV", "Trieste": "TS",
+    "Udine": "UD", "Valle d'Aosta": "AO", "Varese": "VA", "Venezia": "VE",
+    "Verbano-Cusio-Ossola": "VB", "Vercelli": "VC", "Verona": "VR", "Vibo Valentia": "VV",
+    "Vicenza": "VI", "Viterbo": "VT"
 }
 
 COLORE_EVIDENZIATO = "#a83232"  # più chiaro di #821f1f, più scuro di #a83232 (hover)
@@ -423,6 +450,21 @@ def titolo_provincia(nome: str, regione: str) -> str:
     return f"Provincia di {nome}"
 
 
+def nome_seo_provincia(nome: str) -> str:
+    """Restituisce 'Provincia di...' pensato per le ricerche reali degli utenti su Google."""
+    if nome == "Valle d'Aosta":
+        return "Valle d'Aosta"
+    if nome in ("L'Aquila", "Ogliastra"):
+        return f"Provincia dell'{nome}"
+    if nome == "La Spezia":
+        return "Provincia della Spezia"
+    if nome in ("Medio Campidano", "Sulcis Iglesiente", "Verbano-Cusio-Ossola"):
+        return f"Provincia del {nome}"
+    if nome == "Gallura Nord-Est Sardegna":
+        return "Provincia della Gallura"
+    return f"Provincia di {nome}"
+
+
 def slugify(nome: str) -> str:
     """Converte un testo in uno slug ASCII sicuro per file e URL."""
     normalized = unicodedata.normalize('NFKD', nome)
@@ -448,10 +490,10 @@ def formatta_numero(n: int) -> str:
     return f"{n:,}".replace(",", ".")
 
 
-def genera_tabella_comuni(comuni: list) -> str:
-    """Genera l'HTML della tabella dei comuni (senza colonne Provincia e Sigla)."""
+def genera_tabella_comuni(comuni: list) -> tuple[str, int]:
+    """Genera l'HTML della tabella dei comuni (senza colonne Provincia e Sigla) e restituisce la popolazione totale."""
     if not comuni:
-        return ""
+        return "", 0
 
     righe = []
     righe.append('<tr>'
@@ -487,18 +529,31 @@ def genera_tabella_comuni(comuni: list) -> str:
                  f'<td class="fel abitanti"><strong>{formatta_numero(popolazione_totale)}</strong></td>'
                  f'</tr>')
 
-    return "\n".join(righe)
+    return "\n".join(righe), popolazione_totale
 
 
 def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -> str:
     slug_regione = REGIONE_SLUG[regione]
     svg_evidenziato = evidenzia_provincia(svg_raw, id_svg)
     titolo_ist = titolo_provincia(nome, regione)
+    titolo_seo_breve = nome_seo_provincia(nome)
 
     # Leggi i comuni dal JSON e genera la tabella
     comuni = leggi_comuni(regione, nome)
-    tabella_html = genera_tabella_comuni(comuni)
+    tabella_html, pop_totale = genera_tabella_comuni(comuni)
     num_comuni = len(comuni)
+    pop_tot_str = formatta_numero(pop_totale)
+
+    # Estrae la sigla dal JSON (se presente) o usa il dizionario di fallback
+    sigla = (comuni[0].get("sigla") if comuni and "sigla" in comuni[0] else None) or SIGLE_FALLBACK.get(nome, "")
+    sigla_parentesi = f" ({sigla})" if sigla else ""
+
+    # Title e Description ottimizzati per massimizzare il CTR su Google Search Console
+    seo_title = f"{titolo_seo_breve}{sigla_parentesi}: Tutti i {num_comuni} Comuni per Popolazione | ProvinceItalia"
+    seo_desc = (
+        f"Elenco completo e classifica per popolazione dei {num_comuni} comuni della {titolo_ist}{sigla_parentesi} "
+        f"({pop_tot_str} abitanti totali). Dati Istat 2026 e mappa interattiva."
+    )
 
     html = f"""<!DOCTYPE html>
 <html lang="it">
@@ -507,13 +562,14 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{nome} | ProvinceItalia | Province e Comuni d'Italia per Popolazione</title>
+    <title>{seo_title}</title>
     <meta name="description"
-        content="Elenco completo dei comuni della {titolo_ist}. Dati demografici Istat aggiornati al 1° gennaio 2026.">
+        content="{seo_desc}">
     <meta name="robots" content="index,follow">
 
-    <meta property="og:site_name" content="ProvinceItalia | Province e Comuni d'Italia per Popolazione">
-    <meta property="og:title" content="{nome} | ProvinceItalia | Province e Comuni d'Italia per Popolazione">
+    <meta property="og:site_name" content="ProvinceItalia">
+    <meta property="og:title" content="{seo_title}">
+    <meta property="og:description" content="{seo_desc}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://provinceitalia.it/province/{slug}">
     <meta property="og:image" content="https://provinceitalia.it/assets/img/pi_icon.png">
@@ -537,9 +593,9 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
         {{
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "{nome} | ProvinceItalia | Province e Comuni d'Italia per Popolazione",
+            "name": "{seo_title}",
             "url": "https://provinceitalia.it/province/{slug}",
-            "description": "Elenco completo dei comuni della {titolo_ist}. Dati demografici Istat aggiornati al 1° gennaio 2026.",
+            "description": "{seo_desc}",
             "breadcrumb": {{
                 "@type": "BreadcrumbList",
                 "itemListElement": [{{
@@ -567,25 +623,27 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
     <header>
         <div class="header container">
             <div class="header1">
-                <a href="../"><img class="logo" src="../assets/img/pi_image.png" alt="pi_image" height="220px"></a>
+                <a href="../"><img class="logo" src="../assets/img/pi_image.png" alt="Logo ProvinceItalia" height="220px"></a>
             </div>
             <div class="header2">
-                <h1 class="title">{titolo_ist}</h1>
+                <h1 class="title">{titolo_ist}{sigla_parentesi}</h1>
                 <div class="subtitle">
-                    <p class="text-subtitle"><a class="a_link" href="https://demo.istat.it/app/?i=POS&l=it" target="_blank">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</a></p>
-                    <p class="text-subtitle">In <b>grassetto</b> il capoluogo di provincia</p>
-                    <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="../regioni/{slug_regione}.html"><b>← Torna alla regione {regione}</b></a></p>
+                    <p class="text-subtitle"><a class="a_link" href="https://demo.istat.it/app/?i=POS&l=it" target="_blank" rel="noopener noreferrer">Dati aggiornati al bilancio demografico Istat del 1° gennaio 2026</a></p>
+                    <p class="text-subtitle">In <b>grassetto</b> il capoluogo · Sigla: <b>{sigla}</b></p>
+                    <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="../regioni/{slug_regione}"><b>← Torna alla regione {regione}</b></a></p>
                 </div>
             </div>
-            <div class="header3"></div>
+            <div class="header3">
+                <p class="text-subtitle"><a class="a_link text-subtitle button pointer select-none" href="https://quiz.provinceitalia.it"><b>🎯 Gioca ai Quiz</b></a></p>
+            </div>
         </div>
     </header>
     <main>
         <div class="pannello-info">
             <div class="titolo-div" id="titolo-provincia-div">
-                <h2 class="titolo" id="titolo-provincia">{titolo_ist}</h2>
+                <h2 class="titolo" id="titolo-provincia">Elenco Comuni - {titolo_ist}</h2>
             </div>
-            <h4 class="elementi-trovati" id="elementi-trovati">{num_comuni} comuni</h4>
+            <h4 class="elementi-trovati" id="elementi-trovati">{num_comuni} comuni · {pop_tot_str} abitanti</h4>
             <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
             <table class="tabella" id="elenco-comuni" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
                 <tbody>
@@ -615,8 +673,8 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
                 &middot;
                 <a class="a_link" href="http://www.inkscape.org" target="_blank" rel="noopener noreferrer">Inkscape</a>
             </p>
-            <p><a class="a_link" href="../about.html">About</a></p>
-            <p><a class="a_link" href="../privacy.html">Privacy Policy</a></p>
+            <p><a class="a_link" href="../about">About</a></p>
+            <p><a class="a_link" href="../privacy">Privacy Policy</a></p>
             <p><a class="a_link" href="../sitemap.xml">Sitemap</a></p>
             <p><a class="a_link" href="mailto:info@provinceitalia.it">Contattaci</a></p>
         </div>
@@ -631,9 +689,9 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
         let flagAlfabetico = true;
         let flagAbitanti = false;
     </script>
-    <script src="../assets/js/scriptSingolaProvincia.js"></script>
-    <script src="../assets/js/ordinamentocomuni.js"></script>
-    <script src="../assets/js/ricercacomuni.js"></script>
+    <script src="../assets/js/scriptprovince.js"></script>
+    <script src="../assets/js/ordinamentoregioniprovince.js"></script>
+    <script src="../assets/js/ricercaregioniprovince.js"></script>
 </body>
 
 </html>"""

@@ -1,8 +1,8 @@
 // Barra di ricerca comuni
 const barraRicerca = document.getElementById('barra-ricerca');
 
-barraRicerca.addEventListener('keyup', function () {
-    const filtro = barraRicerca.value.toLowerCase();
+barraRicerca.addEventListener('input', function () {
+    const filtro = barraRicerca.value.trim().toLowerCase();
     if (filtro === '') {
         // Nessun filtro: mostra tutti i comuni
         scritturaComuni(provinciaCorrente, comuniProvincia, nomeRegione);
