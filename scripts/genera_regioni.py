@@ -390,7 +390,7 @@ def genera_html(nome_regione: str, slug: str, svg_content: str) -> str:
     <script>
         if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {{
             const path = window.location.pathname
-                .replace('/Province-Italia', '')
+                .replace('/provinceitalia', '')
                 .replace(/\.html$/, '');
             window.location.replace('https://provinceitalia.it' + path + window.location.search);
         }}
