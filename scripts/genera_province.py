@@ -661,7 +661,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
                     rel="noopener noreferrer">Samuele Frasca</a>
             </p>
             <p>
-                <a class="a_link github" href="https://github.com/samuelefrasca" target="_blank"
+                <a class="a_link github" href="https://github.com/samuelefrasca/provinceitalia" target="_blank"
                     rel="noopener noreferrer">
                     <i class="fa-brands fa-github"></i> GitHub
                 </a>
